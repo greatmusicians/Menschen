@@ -460,11 +460,6 @@ AUSNAHME: vielen Dank!
 https://www.germanskills.com/post/viel-viele-vielen
 </A></div>
 
-`````
-
-
-`````
-
 # L10
 
 <div class="Wort"><W1>das</W1><W2>Lokal</W2><W3>-e</W3><W4>饭馆;酒馆</W4><Notiz></Notiz></div>
@@ -472,348 +467,442 @@ https://www.germanskills.com/post/viel-viele-vielen
 <div class="Wort"><W1>die</W1><W2>Schüssel</W2><W3>-n</W3><W4>碗</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Glas</W2><W3>Gläser</W3><W4>玻璃杯</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Tasse</W2><W3>-n</W3><W4>杯（有耳柄，常配有碟子的）</W4><Notiz>eine Tasse Kaffee 一小杯，einen Kaffee 一大杯</Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kanne</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Teller</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Besteck</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Gabel</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Löffel</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Messer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Salz</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Pfeffer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Essig</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Öl</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Zucker</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Serviette</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Kanne</W2><W3>-n</W3><W4>壶</W4><Notiz>[`kanə]</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Teller</W2><W3>gleich</W3><W4>碟子，盘子</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Besteck</W2><W3>-e</W3><W4>餐具（尤指刀，叉，勺）</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Gabel</W2><W3>-n</W3><W4>餐叉</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Löffel</W2><W3>gleich</W3><W4>餐勺</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Messer</W2><W3>gleich</W3><W4>餐刀</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Salz</W2><W3>nur im Singular</W3><W4>盐</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Pfeffer</W2><W3>wird nur im Singular verwendet</W3><W4>胡椒</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Essig</W2><W3>Essige · wird meist im Singular verwendet</W3><W4>醋</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Öl</W2><W3>-e</W3><W4>食用油</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Zucker</W2><W3>wird nur im Singular verwendet</W3><W4>糖</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Serviette</W2><W3>-n</W3><W4>餐巾</W4><Notiz>铺在大腿上的</Notiz></div>
+<div class="Wort"><W1>reklamieren</W1><W2>reklamiert</W2><W3>hat reklamiert</W3><W4>指责，抱怨，投诉</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Püree</W2><W3>-s</W3><W4>糊，泥</W4><Notiz>Kartoffelpüree</Notiz></div>
+
+<div class="QSA"><Q>牛排的熟度</Q><S></S><A>
+Garstufe 熟度 （gar 烧熟的，die Stufe 等级，阶段）
+
+durch，全熟，从里到外durch全都熟了
+medium，不完全煎熟的
+
+要把熟度放在名词后面
+ein Steak medium bestellen
+</A></div>
 
 # L11
 
-<div class="Wort"><W1>der</W1><W2>Briefumschlag</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Briefpapier</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Postkarte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Notizblock</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Geschenkpapier</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Geldbörse</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Portemonnaie</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Aktentasche</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Handtasche</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Rucksack</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Briefumschlag</W2><W3>-schläge</W3><W4>信封</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Briefpapier</W2><W3>-e</W3><W4>信纸</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Postkarte</W2><W3>-n</W3><W4>明信片</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Notizblock</W2><W3>-blocks/-blöcke</W3><W4>便条簿</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Geschenkpapier</W2><W3>-e</W3><W4>礼品(包装)纸</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Geldbörse</W2><W3>-n</W3><W4>钱包</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Portemonnaie</W2><W3>-s</W3><W4>钱包</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Geldbeutel</W2><W3>gleich</W3><W4>钱包</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Aktentasche</W2><W3>-n</W3><W4>公文包</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Handtasche</W2><W3>-n</W3><W4>手提包</W4><Notiz>
+eine Handtasche tragen</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Rucksack</W2><W3>Rucksäcke</W3><W4>(双肩)背包</W4><Notiz>
+einen Rucksack tragen</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Spalte</W2><W3>-n</W3><W4>栏</W4><Notiz>
+linke Spalte, rechte Spalte, 左边一栏，右边一栏</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Gebrauchsgegenstand</W2><W3>-stände</W3><W4>日用品</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>herstellen</W1><W2>stellt her</W2><W3>hat hergestellt</W3><W4>制造，生产</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sinnvoll</W1><W2>有意义的，有用的</W2><W3></W3><W4></W4><Notiz>
+近义词：nützlich 反义词：sinnlos</Notiz></div>
+<div class="Wort"><W1>sinnlos</W1><W2>没有意义的，没用的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
 # L12
 
-<div class="Wort"><W1>das</W1><W2>Obst</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Gemüse</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Wurst</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Fleisch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Fisch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Getreide</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Limonade</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Mineralwasser</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>überraschen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>erschrecken</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Obst</W2><W3>wird nur im Singular verwendet</W3><W4>水果</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Gemüse</W2><W3>gleich</W3><W4>蔬菜</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Wurst</W2><W3>Würste</W3><W4>香肠</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Fleisch</W2><W3>wird nur im Singular verwendet</W3><W4>肉</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Fisch</W2><W3>-e</W3><W4>鱼</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Getreide</W2><W3></W3><W4>谷物，粮食</W4><Notiz>
+das Getreideprodukt 谷物制品(如麦片、粗粉等)</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Limonade</W2><W3>-n</W3><W4>柠檬水</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Mineralwasser</W2><W3>gleich</W3><W4>气泡水</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>überraschen</W1><W2>überrascht</W2><W3>hat überrascht</W3><W4>使...感到意外，使...惊讶</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>erschrecken</W1><W2>erschreckt</W2><W3>hat erschreckt</W3><W4>使...惊恐，使...害怕</W4><Notiz></Notiz></div>
 
 # L13
 
-<div class="Wort"><W1>Vokabelkärtchen schreiben</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Nachtichten hören</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Filme anschauen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Wörter übersetzen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Lieder mitsingen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Sätze aufschreiben</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Fehler korrigieren</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Wörter wiederholen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Zeitschriften lesen</W1><W2></W2><W3></W3><W4></W4><Notiz>Zeitschriften：一周或一月才更新一次，Zeitung：每日更新</Notiz></div>
-<div class="Wort"><W1>viel sprechen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Bilder zeichnen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Sätze nachsprechen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Grammatikaufgaben lösen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Vokabelkärtchen schreiben</W1><W2>写词汇卡</W2><W3></W3><W4></W4><Notiz>
+das Kärtchen 小卡片</Notiz></div>
+<div class="Wort"><W1>Nachrichten hören</W1><W2>听新闻节目</W2><W3></W3><W4></W4><Notiz>
+Nachrichten, Sg.:message, Pl.:news, 单数和复数含义不同</Notiz></div>
+<div class="Wort"><W1>Filme anschauen</W1><W2>看电影</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Wörter übersetzen</W1><W2>翻译单词</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Lieder mitsingen</W1><W2>(一起)唱歌</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Sätze aufschreiben</W1><W2>写下句子</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Fehler korrigieren</W1><W2>改错</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Wörter wiederholen</W1><W2>复习单词</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Zeitschriften lesen</W1><W2>阅读杂志</W2><W3></W3><W4></W4><Notiz>
+Zeitschriften：一周或一月才更新一次，Zeitung：每日更新</Notiz></div>
+<div class="Wort"><W1>viel sprechen</W1><W2>多说</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Bilder zeichnen</W1><W2>画图</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Sätze nachsprechen</W1><W2>跟读句子</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Grammatikaufgaben lösen</W1><W2>做语法作业</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+
+<div class="QSA"><Q>als vs. wenn</Q><S></S><A>
+func als/wenn() {
+    if ( Ist es früher passiert? ) == Nein {
+        return „wenn“
+    }
+    switch ( Wie oft ist es passiert? ) {
+        case "einmal":
+            return „als“
+        case "häufig, oft":
+            return „wenn“
+    }
+}
+
+1，过去发生的；2，只发生了一次。只有同时满足这两个条件，才用 als
+</A></div>
 
 # L14
 
-<div class="Wort"><W1>die</W1><W2>Post</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Päckchen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Paket</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Absender</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Adresse</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Empfänger</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>unterschreiben</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Unterschrift</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Briefumschlag</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Schalter</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Briefkasten</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Postkarte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Brief</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>packen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Karton</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Post</W2><W3>-en</W3><W4>邮局；邮件</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Päckchen</W2><W3>gleich</W3><W4>小包裹,小邮包</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Paket</W2><W3>-e</W3><W4>包裹,邮包</W4><Notiz>Beton bitte „ke“!</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Absender</W2><W3>gleich</W3><W4>寄件人，发货人</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Adresse</W2><W3>-n</W3><W4>地址</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Empfänger</W2><W3>gleich</W3><W4>收件人</W4><Notiz>Beton bitte „fäng“!</Notiz></div>
+<div class="Wort"><W1>unterschreiben</W1><W2>unterschreibt</W2><W3>	hat unterschrieben</W3><W4>签字，署名</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Unterschrift</W2><W3>-en</W3><W4>署名，签名</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Schalter</W2><W3></W3><W4>(营业或服务的)窗口；开关</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Briefkasten</W2><W3>Briefkästen</W3><W4>邮箱，信箱；读者来信栏</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Brief</W2><W3>-e</W3><W4>信，信件</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>packen</W1><W2>packt</W2><W3>hat gepackt</W3><W4>打包；把……装入</W4><Notiz>
+Kleidung in den Koffer packen 衣服装进箱子里
+packen=den Koffer packen,zusamnenpacken
+einpacken=ein Geschenk einpacken</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Karton</W2><W3>-s</W3><W4>纸箱</W4><Notiz>[kar`tɔŋ]</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Schal</W2><W3>-s/-e</W3><W4>围巾</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Stofftier</W2><W3>-e</W3><W4>毛茸茸的玩具动物</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Nuss</W2><W3>Nüsse</W3><W4>坚果</W4><Notiz></Notiz></div>
 
 # L15
 
-<div class="Wort"><W1>der</W1><W2>Krimi</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Zuschauer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Zuhörer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Mediathek</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Darsteller</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>DVD</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Regisseur</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Fernbedienung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Sendung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Rundfunk</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>krimi</W2><W3>-s</W3><W4>侦探小说、影片、剧</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Zuschauer</W2><W3>gleich</W3><W4>观众，观看者</W4><Notiz>
+Das Publikum sind alle Zuschauer zusammen.
+Der Zuschauer ist eine einzelne Person.</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Zuhörer</W2><W3>gleich</W3><W4>听众，收听者</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Mediathek</W2><W3>-en</W3><W4>媒体库</W4><Notiz>Beton bitte „the“!</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Darsteller</W2><W3>gleich</W3><W4>演员，扮演者</W4><Notiz>
+Hauptdarsteller 主要演员
+Nebendarsteller 配角演员
+Darsteller强调是角色扮演者，Schauspieler是泛称</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>DVD</W2><W3>-s</W3><W4>DVD</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Regisseur</W2><W3>-e</W3><W4>导演</W4><Notiz>[reʒi`sø:ɐ]</Notiz></div>
+<div class="Wort"><W1>die Fernbedienung</W1><W2>电视遥控器</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Sendung</W1><W2>节目</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Rundfunk</W2><W3>wird nur im Singular verwendet</W3><W4>广播电台</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Sender</W2><W3></W3><W4>电视台</W4><Notiz>
+Der Sender macht Sendungen.</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Programm</W2><W3>-e</W3><W4>广播(或电视)节目</W4><Notiz>
+[proˈgram]
+das Programm sind alle Sendungen eines TV Senders.
+Das Programm is a TV channel. Die Sendung is a TV program.</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Spielfilm</W2><W3>-e</W3><W4>故事片</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>durchschnittlich</W1><W2>平均的,一般的,通常的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das ARD</W1><W2>德国电视一台</W2><W3></W3><W4></W4><Notiz>[a:·εr`de:]</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Folge</W2><W3>-n</W3><W4>一集,一节;插曲</W4><Notiz>
+der Fall, die Fälle = die Episode, -n = die Folge, -n</Notiz></div>
+<div class="Wort"><W1>die Abwechslung</W1><W2>消遣</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Abkürzung</W1><W2>缩写</W2><W3></W3><W4></W4><Notiz>
+„etc.“ ist die Abkürzung von „et cetera“.</Notiz></div>
+
+<div class="QSA"><Q>Verben mit Dativ und Akkusativ</Q><S></S><A>
+kaufen, schenken, geben, empfehlen, schicken, nehmen, 
+leihen, bringen, erzählen, zeigen, holen, schreiben</A></div>
+
+<div class="QSA"><Q>Stellung der Objekte im Satz: Dativ & Akkusativ</Q>
+<S>Verben mit Dativ und Akkusativ</S><A>
+1, Wenn in einem Satz zwei Objekte stehen, steht das Dativobjekt vor dem Akkusativobjekt.
+2, Wenn ein Objekt durch ein Pronomen ersetzt wird, steht das Pronomen vor dem Substantiv.
+3, Werden beide Objekte durch ein Pronomen ersetzt, steht das Akkusativobjekt vor dem Dativobjekt.
+
+顶替，替补
+j.n/Akk. durch j.n/Akk. ersetzen
+einen alten Fernseher durch einen neuen ersetzen 用新电视换旧电视
+
+das Substantiv [`zupstanti:f] 名词
+</A></div>
 
 # L16
 
 <div class="Wort"><W1>das</W1><W2>Einzelzimmer</W2><W3>gleich</W3><W4>单人间</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Doppelzimmer</W2><W3>gleich</W3><W4>双人间</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Nichtraucherzimmer</W2><W3>gleich</W3><W4>无烟房间</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Sauna</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Schwimmbad</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Frühstücksraum</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Bar</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Rezeption</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Konferenzraum</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Fitnessraum</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Restaurant</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Parkplatz</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Kiosk</W2><W3></W3><W4>售货亭</W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Sauna</W2><W3>Saunas/Saunen</W3><W4>桑拿，桑拿浴室</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Schwimmbad</W2><W3>-bäder</W3><W4>游泳池</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Frühstücksraum</W2><W3>-räume</W3><W4>早餐室</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Bar</W2><W3>-s</W3><W4>酒吧，酒吧柜台</W4><Notiz>
+酒吧柜台
+an der Bar sitzen, etw. trinken; sich an der Bar treffen; ein Drink an der Bar; hinter der Bar stehen
+夜里营业的酒吧店
+in einer Bar sitzen; durch die Bars ziehen (穿过酒吧行进)
+</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Rezeption</W2><W3>-en</W3><W4>前台，服务处</W4><Notiz>
+Rezeption = Empfang</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Konferenzraum</W2><W3>-räume</W3><W4>会议室</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Fitnessraum</W2><W3>-räume</W3><W4>健身房</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Restaurant</W2><W3>-s</W3><W4>餐厅</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Parkplatz</W2><W3>-plätze</W3><W4>停车场</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Kiosk</W2><W3>-e</W3><W4>售货亭</W4><Notiz></Notiz></div>
 
 # L17
 
-<div class="Wort"><W1>die</W1><W2>Abfahrt</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Ankunft</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Reifenpanne</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Tankstelle</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>tanken</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kfz-Werkstatt</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>Reifen wechseln</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Motor</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Autobahn</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Fähre</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Schiff</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Wagen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Motorrad</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Abfahrt</W2><W3>-en</W3><W4>出发</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Ankunft</W2><W3>Ankünfte · wird meist im Singular verwendet</W3><W4>到达</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Reifenpanne</W2><W3>-n</W3><W4>爆胎</W4><Notiz>
+die Panne 故障，损坏</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Tankstelle</W2><W3>-n</W3><W4>加油站</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>tanken</W1><W2>tankt</W2><W3>hat getankt</W3><W4>加油</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Benzin</W2><W3>Benzine · wird selten im Plural verwendet</W3><W4>汽油</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Diesel</W2><W3>gleich</W3><W4>柴油</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Motorroller</W2><W3>gleich</W3><W4>小型摩托车，轻便摩托车</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Hubschrauber</W2><W3>gleich</W3><W4>直升机</W4><Notiz>
+der Helikopter [heliˈkɔptɐ] = der Hubschrauber [ˈhuːpʃʀaʊ̯bɐ]</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Wohnwagen</W2><W3>gleich</W3><W4>房车</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Kfz-Werkstatt</W2><W3>-stätten</W3><W4>汽车修理车间(厂)</W4><Notiz>
+Kfz = Kraftfahrzeug 机动车
+Autos sind Kraftfahrzeuge. 小汽车属于机动车。</Notiz></div>
+<div class="Wort"><W1>Reifen wechseln</W1><W2>更换(汽车)轮胎</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Motor</W2><W3>-en</W3><W4>发动机</W4><Notiz>[ˈmoːtoːɐ̯] · [moˈtoːɐ̯]</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Autobahn</W2><W3>-en</W3><W4>高速公路</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Fähre</W2><W3>-n</W3><W4>渡船，渡轮</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Schiff</W2><W3>-e</W3><W4>船，轮船</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Wagen</W2><W3>gleich</W3><W4>(统称)汽车</W4><Notiz>
+Volkswagen 大众汽车</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Motorrad</W2><W3>-räder</W3><W4>摩托车</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>schmutzig</W1><W2>肮脏的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>plötzlich</W1><W2>突然的，意外的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Kaugummi</W2><W3>-s</W3><W4>口香糖</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich entspannen</W1><W2>entspannt</W2><W3>hat entspannt</W3><W4>休息，放松</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich ausruhen</W1><W2>ruht aus</W2><W3>hat ausgeruht</W3><W4>休息，休养</W4><Notiz></Notiz></div>
 
 # L18
 
-<div class="Wort"><W1>das</W1><W2>Hoch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Tief</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Temperatur</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>trocken</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>feucht</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Niederschlag</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Frost</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kälte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Hitze</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Wärme</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Eis</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Schauer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Hagel</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Hoch</W2><W3>-s</W3><W4>高(气)压区</W4><Notiz>
+Das Hoch bringt schönes Wetter.
+das Hochdruckgebiet = das Hoch, die Hochdruckgebiete = die Hochs</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Tief</W2><W3>-s</W3><W4>低(气)压区</W4><Notiz>
+Das Tief bringt schlechtes Wetter.
+das Tiefdruckgebiet = das Tief, die Tiefdruckgebiete = die Tiefs
+低气压可以产生大量的上升气流，在上升的过程中温度降低水汽凝结形成降水
+在低压区内，气流由四周流向中心，使中心空气密度加大，引起空气不断抬升，中心区附近常常形成阴雨天气，而在高压区内，中心气流则向四面扩散，高空气流下来补充，形成下沉气流，水汽不易凝结，所以多晴天，因此低气压带多为下雨，而高气压带多为晴天。</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Temperatur</W2><W3>-en</W3><W4>温度</W4><Notiz>[tεmpəra`tu:ɐ]</Notiz></div>
+<div class="Wort"><W1>trocken</W1><W2>干燥的，干旱的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>feucht</W1><W2>潮湿的，湿润的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Niederschlag</W2><W3>-läge</W3><W4>降水(量)</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Frost</W2><W3>Fröste</W3><W4>严寒，霜冻，冰冻</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Kälte</W2><W3>wird nur im Singular verwendet</W3><W4>寒冷</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Hitze</W2><W3>wird nur im Singular verwendet</W3><W4>炎热</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Wärme</W2><W3>wird nur im Singular verwendet</W3><W4>温暖</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Eis</W2><W3>wird nur im Singular verwendet</W3><W4>冰，冰冻甜食</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Schauer</W2><W3>gleich</W3><W4>阵雨</W4><Notiz>
+örtliche, gewittrige, vereinzelte Schauer 局部阵雨，雷阵雨，零星阵雨</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Hagel</W2><W3>wird nur im Singular verwendet</W3><W4>冰雹</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>vor allem</W1><W2>adv. 主要是，特别是；首先</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>etc.</W1><W2>et cetera</W2><W3></W3><W4></W4><Notiz>[etˈʦeteʀa]2
+et cetera = und so weiter = etc. = usw.</Notiz></div>
+
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>sich freuen</Q><A>
+sich freuen auf Akk. 为(将要发生的事)感到高兴、愉快
+sich freuen über Akk. 为(现在或过去发生的事)感到高兴、愉快
+sich freuen an Dat. 为(现在发生的事)感到高兴、愉快（侧重指感官上的快乐和愉悦）
+sich freuen für jn. 为某人感到高兴、快乐
+
+Die Mann freut sich über die Kälte.
+Die meisten Menschen freuen sich auf einen heißen Tee.
+</A></div>
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>sprechen</Q><A>
+sprechen mit jm. über Akk. = sich unterhalten mit jm. über Akk.
+</A></div>
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>Lust haben</Q><A>
+Lust haben auf Akk.
+Lust haben zu Inf. (Inf. = Infinitiv)
+</A></div>
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>sich interessieren</Q><A>
+sich interessieren für Akk.
+</A></div>
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>zufrieden sein</Q><A>
+zufrieden sein mit Dat.
+</A></div>
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>träumen</Q><A>
+träumen von Dat.
+</A></div>
+<div class="QSA"><S>Verben mit Präpositionen</S><Q>sich ärgern</Q><A>
+sich ärgern über Akk.
+</A></div>
 
 # L19
 
-<div class="Wort"><W1>die</W1><W2>Lesung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Vernissage</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Poetry Slam</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Konzert</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Puppentheater</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Ballett</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Oper</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Musical</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Zirkus</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Stadtspaziergang</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Fotoworkshop</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Vortrag</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Lesung</W2><W3>-en</W3><W4>阅读；(作品)朗诵会</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Vernissage</W2><W3>-n</W3><W4>艺术展览会开幕式</W4><Notiz>[vεrni`sa:ʒə]</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Poetry Slam/Poetry-Slam/Poetryslam</W2><W3>Poetry-Slams/Poetryslams</W3><W4>诗歌朗诵会</W4><Notiz>[ˈpɔʊətriˌslæm] 就是英语发音
+查了DWDS，似乎Poetry-Slam的写法更多
+自由诗歌朗诵。一种形式自由的诗歌表演形式。朗诵者去舞台上朗诵自己创作的作品，下面的观众中随机抽出评委打分。作品风格不限，题材不限。</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Konzert</W2><W3>-e</W3><W4>音乐会，演奏会；协奏曲</W4><Notiz>Beton bitte „ze“!</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Puppentheater</W2><W3>gleich</W3><W4>木偶戏</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Ballett</W2><W3>-e</W3><W4>芭蕾舞</W4><Notiz>Beton bitte „lle“!</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Oper</W2><W3>-n</W3><W4>歌剧，歌剧院</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Musical</W2><W3>-s</W3><W4>音乐剧</W4><Notiz>[`mju:zikl] 就是英语发音
+音乐剧，是一种现代的舞台综合艺术形式，以叙事为主的戏剧表演结合优美通俗的人声歌唱和多样化的舞蹈形体动作，同时融合服饰、布景、灯光等舞台艺术的辅助形成整体舞台效果。构成音乐剧最重要的三大要素是戏剧、音乐和舞蹈。</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Zirkus</W2><W3>Zirkusse</W3><W4>马戏团，马戏团演出</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Stadtspaziergang</W2><W3>-gänge</W3><W4>城市漫步，城市步行</W4><Notiz>
+der Spaziergang 散步</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Fotoworkshop</W2><W3>-s</W3><W4>摄影工作坊</W4><Notiz>就是英语发音</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Vortrag</W2><W3>Vorträge</W3><W4>演讲，学术报告</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>überzeugen</W1><W2>überzeugt</W2><W3>hat überzeugt</W3><W4>劝告，说服</W4><Notiz>Beton bitte „zeu“!</Notiz></div>
+<div class="Wort"><W1>ausverkauft</W1><W2>售完的，卖光的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
 # L20
 
-<div class="Wort"><W1>der</W1><W2>Comic</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Roman</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>krimi</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Zeitung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Zeitschrift</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Gedicht</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Märchen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Sachbuch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Ratgeber</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Hörbuch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Kinderbuch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Bilderbuch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Comic</W2><W3>-s</W3><W4>漫画</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Roman</W2><W3>-e</W3><W4>(长篇)小说</W4><Notiz>Beton bitte „man“!</Notiz></div>
+<div class="Wort"><W1>die Zeitung</W1><W2>报纸</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Zeitschrift</W2><W3>-en</W3><W4>杂志</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Magazin</W2><W3>-en</W3><W4>杂志</W4><Notiz>Beton bitte „zin“!</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Gedicht</W2><W3>-e</W3><W4>诗歌</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Märchen</W2><W3>gleich</W3><W4>童话</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Sachbuch</W2><W3>-bücher</W3><W4>纪实文学；专业书籍</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Ratgeber</W2><W3>gleich</W3><W4>建议者，顾问</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Hörbuch</W2><W3>-bücher</W3><W4>有声书</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Kinderbuch</W2><W3>-bücher</W3><W4>儿童读物</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Bilderbuch</W2><W3>-bücher</W3><W4>(儿童)画图册</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>unterwegs</W1><W2>adv. 途中，路上</W2><W3></W3><W4></W4><Notiz>
+Sie liest unterwegs in der U-Bahn.</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Figur</W2><W3>-en</W3><W4>(重要)人物，(文学作品中的)人物</W4><Notiz>Figurin, Hauptfigur</Notiz></div>
+<div class="Wort"><W1>verändern</W1><W2>verändert</W2><W3>hat verändert</W3><W4>(人作主语)更改</W4><Notiz>
+sich verändern (物作主语)变化</Notiz></div>
 
 # L21
 
-<div class="Wort"><W1>die</W1><W2>EC-Karte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Ausweis</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Bargeld</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Führerschein</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Gesundheitskarte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kundenkarte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Telefonkarte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kreditkarte</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>EC-Karte</W2><W3>-n</W3><W4>借记卡</W4><Notiz>
+欧洲支票程序(Eurochequeverfahren)始于1969年5月1日，终于2001年12月31日。现在所称的EC卡(EC-Karte)已经不是欧洲支票卡(Euro Cheque-Karte)，而是电子现金卡(elektronic cashing card)的缩写。</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Kreditkarte</W2><W3>-n</W3><W4>信用卡</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Ausweis</W2><W3>-e</W3><W4>证件，证明</W4><Notiz>
+der Personalausweis 身份证</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Bargeld</W2><W3>Bargelder · wird selten im Plural verwendet</W3><W4>现金</W4><Notiz>bar 现金的</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Münze</W2><W3>-n</W3><W4>硬币</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Geldschein</W2><W3>-e</W3><W4>纸币</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Führerschein</W2><W3>-e</W3><W4>驾照</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Gesundheitskarte</W2><W3>-n</W3><W4>健康卡/医保卡</W4><Notiz>
+公立保险：gesetzliche Krankenversicherung, GKV
+私立保险：private Krankenversicherung, PKV
+医疗保险公司：Krankenkasse
+健康卡/医保卡：Gesundheitskarte
+医疗保险法：Krankenversicherungsgesetz
+das Gesetz 法律，条例；规则，定律</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Kundenkarte</W2><W3>-n</W3><W4>会员卡，顾客联络卡</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Telefonkarte</W2><W3>-n</W3><W4>电话卡</W4><Notiz>
+使用Telefonkarte可以使用公共电话亭Telefonzelle打电话，已经很少用了。
+die SIM-Karte [zɪm] 手机里用的芯片卡</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Einbruch</W2><W3>Einbrüche</W3><W4>入室盗窃</W4><Notiz>不仅包括入室盗窃，还有破门行窃，包括车门、保险柜门，因为前缀ein，它强调的是有“进入”这个动作，而不管进入的是房间还是汽车</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Autounfall</W2><W3>-fälle</W3><W4>汽车交通事故</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Feuerwehr</W2><W3>-en</W3><W4>消防队</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>absperren</W1><W2>sperrt ab</W2><W3>hat abgesperrt</W3><W4>关上，锁上</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sperren</W1><W2>sperrt</W2><W3>hat gesperrt</W3><W4>封锁，冻结</W4><Notiz></Notiz></div>
 
 # L22
 
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich anmelden</W1><W2>meldet an</W2><W3>hat angemeldet</W3><W4>报名，登记</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Anmeldung</W1><W2>报名，登记</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>anklicken</W1><W2>klickt an</W2><W3>hat angeklickt</W3><W4>用鼠标点击</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich einloggen</W1><W2></W2><W3></W3><W4>登录</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich ausloggen</W1><W2></W2><W3></W3><W4>登出</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Benutzername</W2><W3>-n</W3><W4>用户名</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Passwort</W2><W3>-e</W3><W4>密码</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Buchstabe</W2><W3>-n</W3><W4>字母</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Zahl</W2><W3>-en</W3><W4>数字</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Sonderzeichen</W2><W3>gleich</W3><W4>特殊符号</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>etwas ausfüllen</W1><W2>füllt aus</W2><W3>hat ausgefüllt</W3><W4>填写，填满</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>tippen</W1><W2>tippt</W2><W3>hat getippt</W3><W4>(键盘，打字机)打字</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>etwas ausdrucken</W1><W2>druckt aus</W2><W3>hat ausgedruckt</W3><W4>打印</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich lohnen</W1><W2>有价值的，有帮助的</W2><W3></W3><W4></W4><Notiz>sich lohnen = hilfreich sein</Notiz></div>
+<div class="Wort"><W1>umweltfreutlich</W1><W2>有利于环保的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>preiswert</W1><W2>价廉物美的，价格便宜的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>außerhalb</W1><W2>adv 在城外，在市郊</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Auskunft</W2><W3>Auskünfte</W3><W4>问讯处；(询问后得到的)答复，(打听到的)情况</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Verbindung</W1><W2>连接，联系；引申为交通路线的换乘站</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>herunterladen</W1><W2>lädt herunter</W2><W3>hat heruntergeladen</W3><W4>下载</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>zuletzt</W1><W2>最后</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>eingeben</W1><W2>gibt ein</W2><W3>hat eingegeben</W3><W4>(电脑)输入</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>eigen</W1><W2>自己的，个人的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Kündigung</W1><W2>解雇通知</W2><W3></W3><W4></W4><Notiz>
+Er hat letzte Woche seine Kündigung bekommen.</Notiz></div>
 
 # L23
 
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Schule</W2><W3>-n</W3><W4>学校</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Note</W2><W3>-n</W3><W4>评分，分数</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sehr gut</W1><W2>1分，90%</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>gut</W1><W2>2分，80%</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>befriedigend</W1><W2>3分，70%</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ausreichend</W1><W2>4分，60%</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>bestanden</W1><W2>1-4分</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>mangelhaft</W1><W2>5分</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ungnügend</W1><W2>6分</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>durchgefallen</W1><W2>5-6分</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Zeugnis</W2><W3>-se</W3><W4>成绩单，证书</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>mündliche Prüfung</W1><W2>口语考试</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>schriftlicht Prüfung</W1><W2>书面考试（听力，阅读，写作）</W2><W3></W3><W4></W4><Notiz>schriftlicht Prüfung: Lesen, Hören, Schreiben</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Schulabschluss</W2><W3>Schulabschlüsse</W3><W4>中学学历</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Ausbildung</W2><W3>-en</W3><W4>职业培训</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Lehre</W2><W3>-n</W3><W4>规范；教训；职业培训</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Studium</W2><W3>Studien</W3><W4>大学学习</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Universität</W2><W3>-en</W3><W4>综合性大学</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Semester</W2><W3>gleich</W3><W4>学期</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Lebenslauf</W2><W3>-läufe</W3><W4>简历，履历</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Bewerbung</W2><W3>-en</W3><W4>申请；申请书</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>empfehlenswert</W1><W2>值得推荐的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sehenswert</W1><W2>值得一看的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>genug</W1><W2>足够的，受够了的</W2><W3></W3><W4></W4><Notiz>Ich habe wirklich genug. 受够了！</Notiz></div>
+<div class="Wort"><W1>zurzeit</W1><W2>现在，目前</W2><W3></W3><W4></W4><Notiz>
+zurzeit = im Moment = jetzt = heutzutage = momentan
+momentan 暂时，目前，眼下</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Betriebsklima</W2><W3></W3><W4>企业内部的气氛</W4><Notiz>
+das Betriebsklima = die Stimmung = die Atmosphäre</Notiz></div>
+<div class="Wort"><W1>Relativpronomen</W1><W2>关系代词</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Relativsatz</W1><W2>关系从句</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
 # L24
 
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Zoll</W2><W3>Zöl·le</W3><W4>关税，海关</W4><Notiz>das Zollamt 海关</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Steuer</W2><W3>-n</W3><W4>税</W4><Notiz>das Steueramt 税务局</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Grenze</W2><W3>-n</W3><W4>国界，边界</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Konsulat</W2><W3>-e</W3><W4>领事馆；[史](罗马共和国的)执政官执政任期</W4><Notiz>Beton bitte „la“!</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Botschaft</W2><W3>-en</W3><W4>大使馆；通知，公告</W4><Notiz>[`bo:tʃaft]</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Visum</W2><W3>Visa/Visen</W3><W4>签证</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Impfung</W2><W3></W3><W4>接种疫苗</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Pass</W2><W3>Pässe</W3><W4>护照</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Abflug</W2><W3>Abflüge</W3><W4>起飞</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Ankunft</W2><W3>Ankünfte · wird meist im Singular verwendet</W3><W4>到达</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Anschluss</W2><W3>Anschlüsse</W3><W4>中转</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>gültig</W1><W2>有效的，未过期的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>verlängern</W1><W2>verlängert</W2><W3>hat verlängert</W3><W4>延长，延期</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>vermissen</W1><W2>vermisst</W2><W3>hat vermisst</W3><W4>惦记，挂念</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Erlebnis</W2><W3>-se</W3><W4>经历，大事</W4><Notiz>
+Jede Geburt war ein tolles Erlebnis.</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Verspätung</W2><W3></W3><W4></W4><Notiz>
+Der Bus kommt nur einmal in der Stunde und hatte oft Verspätung.</Notiz></div>
+
+<div class="QSA"><S>常用过去式的动词，dritte Person Singular</S><Q>
+muss, kann, soll, will, darf, mag, ist, hat
+sieht, kommt, gibt, findet, sagt
+macht, kocht, 	singt, essen, trinken, gehen</Q><A>
+musste, konnte, sollte, wollte, durfte, mochte, war, hatte
+sah, kam, gab, fand, sagte
+machte, kochte, sang, ass, trank, ging
+
+1，Präteritum在口语中很少用，但是在新闻报道等书面语中常用，因为Präteritum比Perfekt简短
+2，es gibt的过去时是es gab，不使用Perfekt
+</A></div>

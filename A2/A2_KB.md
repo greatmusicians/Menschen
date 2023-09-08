@@ -53,6 +53,26 @@ sonst 否则,不然就
 Opa: Na gut. Also passt auf: Onkel Willi war nicht sehr fleißig. Er hat nicht gern gearbeitet. Er ist lieber mit den Mädchen tanzen gegangen. Einmal war sein Vater sehr krank. Er konnte nicht in die Bäckerei gehen und backen. Also hat er Onkel Willi darum gebeten. Aber Onkel Willi ist zu spät aus dem Bett gekommen. Keiner hat Brezeln gebacken. Niemand hatte Brötchen zum Frühstück. Die Bäckerei hatte den ganzen Tag geschlossen. Sein Vater war sehr wütend. Sie haben gestritten. Großvater hat gerufen: „Nie machst du, was ich sage. Geh doch dahin, wo der Pfeffer wächst“. Und wisst ihr, was dann passiert ist? Am nächsten Tag hat Onkel Willi sich ein Motorrad gekauft und ist dorthin gefahren, wo der Pfeffer wächst. Nach Indien! Er war schon verrückt, mein Onkel Willi!
 `````
 
+`````
+Also hat er Onkel Willi darum gebeten.
+为此他请求Onkel Willi帮忙。
+
+jn. um Akk. bitten 为了某事请求某人
+um <表示目的>为，为了
+darum adv. 在此周围。为此。对此。
+`````
+
+`````
+Die Bäckerei hatte den ganzen Tag geschlossen.
+过去完成时
+
+wütend 恼怒的
+verrückt 疯的，精神失常的
+
+奇怪的是，wächst发音为/ks/，nächsten的发音是/çs/，不知道为什么。
+DWDS上，nächstens的发音是/çs/，但是wächsern的发音是/ks/
+`````
+
 # 06_Lektion_2_2.mp3
 <audio controls loop src="A2.1_KB/06_Lektion_2_2.mp3"></audio>
 
@@ -76,6 +96,19 @@ Stefan: Wenn ich in eine Wohnung einziehe, stelle ich zuerst das Sofa in das Woh
 Jasmin: Wenn ich in eine Wohnung einziehe, renoviere ich erst alles. Wohnzimmer, Küche und Bad müssen besonders ordentlich sein. Denn dort sitzen auch mal Gäste. Auch unter dem Sofa muss es sauber sein. Auf dem Sofa liegen ein paar hübsche Kissen. Das Fernsehgerät verstecke ich im Schrank. An der Wand hängen Bilder und auf der Kommode stehen Blumen. Ich möchte, dass alles sauber und ordentlich aussieht. Hauptsache, die Gäste fühlen sich in meiner Wohnung wohl.
 `````
 
+`````
+das Fernsehgerät = der Fernseher
+egal [e`ga:l] 一样的，同样的；随便的，无所谓的
+
+Hauptsache ich fühle mich in meiner Wohnung wohl.
+die Hauptsache 主要事项，要点。此处可翻译为：重要的是……
+wohl 好的，愉快的
+这个句子语法上有问题，动词不在第2位了。我认为需要在Hauptsache后面加上逗号，如同2里面的最后一句。
+
+das Kissen (Pl. gleich) 软垫，靠背垫子，枕头
+verstecken 隐藏
+`````
+
 # 08_Lektion_3_2.mp3
 <audio controls loop src="A2.1_KB/08_Lektion_3_2.mp3"></audio>
 
@@ -88,6 +121,16 @@ c
 St. Gallenerin: Grüezi mitenand im Schweizer Kanton St. Gallen. … Der Kanton und sein Hauptort, die Stadt St. Gallen, liegen in der Nordostschweiz.
 d
 Berlinerin: Guten Tag und willkommen in Berlin. … Berlin ist eines der deutschen Bundesländer … und zugleich die Hauptstadt von Deutschland. …
+`````
+
+`````
+Mecklenburg-Vorpommern 梅克伦堡－前波莫瑞(州)<德国>
+herrlich 壮丽的,富丽堂皇的;精彩的,极好的
+Tirol [ti`ro:l] 蒂罗尔(州)<奥地利>
+
+zugleich [tsu`glaiç] 同时，同样
+Ich kann nicht zugleich essen und sprechen. 我不能同时吃饭和说话。
+Er ist Dichter und Maler zugleich. 他既是诗人同样也是画家。
 `````
 
 # 09_Modul_1_Ausklang.mp3
@@ -113,7 +156,7 @@ Ich hatte sogar eine Gartenzwergfrau
 und war nicht so schrecklich allein.
 
 Im Keller ist es dunkel, im Keller ist es kalt.
-Hier gibt es viele Sachen, die meisten sind sehr alt.
+Hier liegen viele Sachen, die meisten sind sehr alt.
 Gartenzwergin Berta liegt in dem Puppenhaus.
 Wer hat sie denn dort hingelegt? Das sieht ja komisch aus!
 Hat berta selbst 'ne Meinung zu ihrer Situation?
@@ -129,12 +172,40 @@ Ich hatte sogar eine Gartenzwergmann
 und war nicht so schrecklich allein.
 `````
 
+`````
+der Gartenzwerg 点缀在花园中的陶俑，搜了图片，都还挺好看的
+das Schneewittchen (童话中的)白雪公主
+Ich liebe das Märchen von Schneewittchen und den sieben Zwergen.
+我喜欢白雪公主与七个小矮人的童话。
+
+der Himmel 不知道为什么，完全听不出来
+fein 精美的，极好的
+allein [a`lain] 但是唱出来的，似乎重音在a上
+`````
+
+`````
+hinlegen vs. legen
+
+legen是有方向的，隐含的就是平放。如果是竖着放的，就用stellen。
+但hinlegen是没有方向的，就是放在那，别人不知道它是怎么放的。
+
+歌词中说Gartenzwergin被摆放的很komisch，然后用了hinlegen，可能就是摆放的方式很搞笑吧，并不是规规矩矩放着的。
+
+参考：https://german.stackexchange.com/questions/70431/difference-between-legen-and-hinlegen
+`````
+
 # 10_Lektion_4_1.mp3
 <audio controls loop src="A2.1_KB/10_Lektion_4_1.mp3"></audio>
 
 `````
 Otto: Die sind lustig! … Das kann doch keiner lesen! … WAS steht da? … Hase? … Nase? … Aach, Käse soll das heißen! … Einen Käse will er, … einen, was … einen wilden Käse? … Quatsch! … mild steht da … Einen milden Käse! … Tzz, diese Schrift! …
 Supermarkt-Lautsprecherstimme: Sie suchen ein stilles Mineralwasser? … Probieren Sie doch mal „Pur-A-Quell“. … Heute im Sonderangebot: Nehmen Sie drei Flaschen mit und bezahlen Sie nur für zwei! … „Pur-A-Quell“ … direkt aus der Natur!
+`````
+
+`````
+stilles Mineralwasser
+
+德国矿泉水分为三种：klassisch，含有许多碳酸；medium，含有较少的碳酸；以及still，完全不含碳酸。klassisch喝起来好像在喝没有甜味的可乐，喝不惯的话会感觉有些奇怪，但如果运动后或者很口渴的时候，就会觉得klassich很爽；medium的碳酸含量不多，喝起来只有一点点碳酸的感觉，不像klassisch的气泡那么强烈。
 `````
 
 # 11_Lektion_4_4_1.mp3
@@ -163,8 +234,8 @@ Otto: Keine Ahnung! … Ähmm … Wissen Sie was? … Ich nehme einfach zwei von
 <audio controls loop src="A2.1_KB/13_Lektion_4_4_3.mp3"></audio>
 
 `````
-Wurstfachverkäuferin: Hallo! … Was darf es sein? Ich hätte gern einen mageren
-Otto: Schinken.
+Wurstfachverkäuferin: Hallo! … Was darf es sein?
+Otto: Ich hätte gern einen mageren Schinken.
 Wurstfachverkäuferin: Gern. … Soll‘s ein roher Schinken sein … oder ein gekochter Schinken? …
 Otto: Ähm …
 Wurstfachverkäuferin: Hier, sehen Sie mal: Die sind heute beide im Angebot.
@@ -192,6 +263,11 @@ Bruno: Leider hat er keine guten Nerven …
 `````
 
 `````
+die Angabe, -n, 报告，说明，陈述
+die Liste, -n, 表，目录，一览表，清单
+sich(D) j-n/etw.(A) ansehen 细看，检查
+Spaß machen => kleines Späßchen machen 开小玩笑，小恶作剧
+etwa 也许；难道
 der Nerv, -en, 心境，精神状态
 `````
 
@@ -211,6 +287,51 @@ Reiseführer: Entschuldigen Sie bitte? Haben Sie die Führung im Internet gebuch
 Oma: Ja, ich. Aber meine Enkelin will nicht...
 Tochter: Doch! Natürlich will ich. Ich habe sogar große Lust auf eine Führung! Ich hab mich schon informiert: Das ist eine der größten Kathedralen im UNESCO-Baustil und 1884 Meter hoch...
 Reiseführer: (lacht) Naja, nicht ganz...
+`````
+
+`````
+die Kathedralen, -n, 主教教堂，大教堂
+gotisch 哥特式的
+der Baustil 建筑风格
+die UNESCO, [u`nεsko], 联合国教科文组织
+das Erbe （集合名词）遗产
+UNESCO-Weltkulturerbe 联合国教科文组织世界文化遗产
+`````
+
+`````
+Lasst uns reingehen!
+
+If I say „lass uns“ I am asking you (singular) to let both of us do something.
+
+If I say „lasst uns“, I am asking two or more yous (y‘all) to let all of us do something.
+
+If I say „lassen wir“… I can only do that if I want us to do something to a third person. „Lassen wir ihn in Ruhe!“ = Let‘s leave him alone.
+
+„Lassen wir das Auto stehen und gehen zu Fuß.“ = Let‘s leave the car here and go on foot.
+
+参考：https://www.reddit.com/r/German/comments/xzg633/lass_uns_reingehen/
+`````
+
+`````
+Gerhard Richter，格哈德·里希特，电影《无主之作》的人物原型，还有一部纪录片：格哈德·里希特的画作 Gerhard Richter Painting (2011)
+
+2007年，格哈德·里希特（Gerhard Richter）为科隆大教堂设计了玻璃彩窗。
+
+据说，著名作曲家罗伯特舒曼，首次见到科隆大教堂时被它恢宏的气势所震撼，于是有感而发，创作了《莱茵交响曲》。
+`````
+
+`````
+das Römisch-Germanische Museum，位于科隆的罗马-日耳曼博物馆是一座考古博物馆，于1974年首次开放。这里收藏了大量罗马文物。博物馆位于一处罗马时期别墅的遗址上，部分遗迹被保存下来并受到保护。
+
+奥古斯都的姐姐屋大维娅和安东尼的女儿小安东尼娅，嫁给提比略的弟弟杜路苏斯，生下日耳曼尼库斯、克劳狄乌斯。
+
+所以，日耳曼尼库斯有奥古斯都家族的血脉，被奥古斯都指定为提比略之后的皇位继承人。奥古斯都的女儿尤利娅与阿格里帕的女儿大阿格里皮娜，嫁给日耳曼尼库斯，生下卡利古拉、小阿格里皮娜。
+
+所以卡利古拉是奥古斯都、提比略之后按血统来说最合适的继承人。卡利古拉死后，克劳狄乌斯血统最正，成为皇帝。小阿格里皮娜嫁给克劳狄乌斯，儿子尼禄顺势成为克劳狄乌斯养子，成为尤利乌斯-克劳狄乌斯王朝最后一位皇帝。
+
+科隆，古罗马时期莱茵河防线最大的军事基地。阿格里帕是将科隆作为罗马军队冬营地的第一位将军。当地的乌比人虽然是日耳曼人的分支，但长期与罗马保持友好关系。公元15年，日耳曼尼库斯正在指挥日耳曼战役，将家眷安顿在此地，因此，小阿格里皮娜在科隆出生。
+
+所以，科隆与小阿格里皮娜的外祖父、父亲很有渊源，又是自己的出生地，所以，在成为克劳狄乌斯妻子后，下令让退伍军人移居科隆，将科隆升级为殖民城市，并且以自己的名字命名，称作Colonia Claudia Ara Agrippinensium，意为小阿格里皮娜的科隆。
 `````
 
 # 17_Lektion_6_5_1.mp3
