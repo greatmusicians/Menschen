@@ -5,19 +5,82 @@
 Amelie: Bine, schenkst du Franzi Orangensaft ein? Ich mach’ solange den Sekt auf … So, hat dann jeder? Gut ... Also meine Lieben: Ihr wundert euch sicher, warum ich gerade euch eingeladen habe. Ihr kennt euch ja noch nicht mal ... Aber ich fahr’ ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien-Entscheidung geholfen haben. Da wart ihr alle in den letzten Monaten besonders wichtig für mich ...
 `````
 
+`````
+der Sekt 气泡酒。香槟。香槟是一种特殊的气泡酒。
+sich wundern über jn./Akk. 感到惊奇
+Bulgarien [bul`ga:riən] 保加利亚
+Entscheidung 决定
+besondere adj. 独特的，特别的
+besonders adv. <在形容词之前>特别,极其,非常
+`````
+
 # 1-03_Lektion_1_4b_4c.mp3
 <audio controls loop src="B1.1_KB/1-03_Lektion_1_4b_4c.mp3"></audio>
 
 `````
-Amelie: ... Aber ich fahr’ ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien-Entscheidung geholfen haben. Da wart ihr alle in den letzten Monaten besonders wichtig für mich ...
-Diese Hübsche hier neben mir heißt Franziska. Sie ist die Tochter von meinem Nachbarn und ich habe ihr drei Jahre lang Latein-Nachhilfe gegeben. Aber nicht nur du hast von mir gelernt, liebe Franzi, auch ich habe von dir gelernt. Als ich dir von der römischen Siedlung erzählt habe, die man in Bulgarien gefunden hat, hast du gleich gerufen: „Cool, da musst du hin!“ Du hast also auch mir Nachhilfe gegeben – Nachhilfe in Mut und Abenteuerlust. Wenn ich wiederkomme, bist du schon ziemlich erwachsen. Aber keine Sorge: Du bist so eine Kluge. Auch ohne meine Nachhilfe wirst du deinen Weg schon machen. Dann zu dir, liebe Sabine: Wer sie noch nicht kennt: Sabine ist meine Mitbewohnerin und man kann sich keine bessere wünschen. Denn Sabine ist die Ordentlichste, die ich kenne. Sogar unsere Gewürze in der Küche hat sie alphabetisch geordnet. Sabine ist immer vernünftig, also genau das Gegenteil von mir. Wer mich kennt, weiß ja, dass ich nicht so wahnsinnig vernünftig bin.
+Amelie: ... Aber ich fahr’ ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien-Entscheidung geholfen haben. Da wart ihr alle in den letzten Monaten besonders wichtig für mich ... Diese Hübsche hier neben mir heißt Franziska. Sie ist die Tochter von meinem Nachbarn und ich habe ihr drei Jahre lang Latein-Nachhilfe gegeben. Aber nicht nur du hast von mir gelernt, liebe Franzi, auch ich habe von dir gelernt. Als ich dir von der römischen Siedlung erzählt habe, die man in Bulgarien gefunden hat, hast du gleich gerufen: „Cool, da musst du hin!“ Du hast also auch mir Nachhilfe gegeben – Nachhilfe in Mut und Abenteuerlust. Wenn ich wiederkomme, bist du schon ziemlich erwachsen. Aber keine Sorge: Du bist so eine Kluge. Auch ohne meine Nachhilfe wirst du deinen Weg schon machen. Dann zu dir, liebe Sabine: Wer sie noch nicht kennt: Sabine ist meine Mitbewohnerin und man kann sich keine bessere wünschen. Denn Sabine ist die Ordentlichste, die ich kenne. Sogar unsere Gewürze in der Küche hat sie alphabetisch geordnet. Sabine ist immer vernünftig, also genau das Gegenteil von mir. Wer mich kennt, weiß ja, dass ich nicht so wahnsinnig vernünftig bin.
 Sabine: Gar nicht!
 Amelie: Sabine hat mir geholfen, die Unterlagen für meine Bewerbung fertig zu machen. Schließlich war alles so perfekt, dass ich mich leicht gegen meinen Konkurrenten durchsetzen konnte. So mussten sie mir das Stipendium einfach geben. Danke dafür!
 Sabine: Bitte, bitte!
-Amelie: Nun zu meiner lieben Omi! Sie ist selbst Archäologin und hat den Männern schon früh gezeigt, was Frauen so alles können. Bereits als junges Mädchen ist sie mit einem Kollegen in den Libanon gereist. Dieser Kollege wurde dann später mein Opa. Die Erinnerungen von meinen Großeltern waren immer so spannend, dass ich mich entschloss, dass ich selbst Archäologin werden wollte.
-Liebe Omi, du bist mein größtes Vorbild. Bleib so, wie du bist. Voller Lebensfreude und Humor. Ich hoffe, ich werde einmal wie du. Danke auch, dass du mich immer großzügig unterstützt hast und mir auch jetzt die Reise finanzierst. Ich hoffe, ich enttäusche dich nicht.
-Und, zu guter Letzt: mein ebenso strenger, wie sympathischer Professor. Er hat mich für das Stipendium vorgeschlagen. So kritisch er auch sein kann, er hat mich immer unterstützt und war immer fair. Ich habe großen Respekt vor seinem Vertrauen zu mir. Danke für alles! Ich werd Euch so vermissen. Ihr seid einfach die Besten!
+Amelie: Nun zu meiner lieben Omi! Sie ist selbst Archäologin und hat den Männern schon früh gezeigt, was Frauen so alles können. Bereits als junges Mädchen ist sie mit einem Kollegen in den Libanon gereist. Dieser Kollege wurde dann später mein Opa. Die Erinnerungen von meinen Großeltern waren immer so spannend, dass ich mich entschloss, dass ich selbst Archäologin werden wollte. Liebe Omi, du bist mein größtes Vorbild. Bleib so, wie du bist. Voller Lebensfreude und Humor. Ich hoffe, ich werde einmal wie du. Danke auch, dass du mich immer großzügig unterstützt hast und mir auch jetzt die Reise finanzierst. Ich hoffe, ich enttäusche dich nicht. Und, zu guter Letzt: mein ebenso strenger, wie sympathischer Professor. Er hat mich für das Stipendium vorgeschlagen. So kritisch er auch sein kann, er hat mich immer unterstützt und war immer fair. Ich habe großen Respekt vor seinem Vertrauen zu mir. Danke für alles! Ich werd Euch so vermissen. Ihr seid einfach die Besten!
 Alle: Auf dich, Amelie!
+`````
+
+`````
+das 拉丁语 拉丁语
+die Nachhilfe 补习,辅导
+Siedlung 定居点，居民点，住宅区
+erzählen jm. von + Dat. 向某人讲解某物，告知某人某事
+der Mut 勇气，胆量，信心
+die Abenteuerlust 冒险欲，冒险精神
+das Abenteuer 冒险，奇遇
+erwachsen 成年的，长大的
+das Gewürz, -e, 调味品，调料
+alphabetisch 按字母顺序的
+die Unterlage 证明材料，(书面)资料
+schließlich 终于，最后，终究
+der Konkurrent  [kɔnku`rεnt] 竞争者，对手
+durchsetzen [`durçzεtsn] 达到,贯彻,实施2
+der Archäologe [arçεo`lo:gə] 考古学家
+die Archäologin 考古学家
+Omi = Oma
+bereits adv. 已经
+sich entschließen 决定，做出决定 Präteritum: entschloss
+das Vorbild 样板，榜样
+die Lebensfreude 生活乐趣
+der Humor [hu`mo:ɐ] 幽默
+unterstützen [untɐ`ʃtytsn] 支持，援助，支援；资助
+finanzieren 向...提供资金，为...负担费用
+enttäuschen [εnt`tɔyʃn] 使失望，令人失望
+zu guter Letzt = am Ende = zum Schluss = abschließend = schließlich
+ebenso (Partikel 小品词) 同样，一样
+jn. für etw.(A) vorschlagen 提议，推荐
+der Respekt 尊敬，尊重
+das Vertrauen 相信，信任
+Respekt haben vor Dat. = respektieren 尊敬，尊重
+
+德语的werden类似英语里的will，可表示将来。德语里的will是wollen，相当于英语里的want。
+
+Wer sie noch nicht kennt, lernt sie hier kennen!
+If you don't know her yet, get to know her here!
+
+Wer mich kennt, weiß ja, dass ich nicht so wahnsinnig vernünftig bin.
+Anyone who knows me knows that I'm not terribly sensible.
+
+Ich hätte mir keine bessere wünschen können.
+I couldn't have asked for anything better.
+
+Man kann sich keine bessere wünschen.
+You couldn't ask for a better one.
+
+Schließlich war alles so perfekt, dass ich mich leicht gegen meinen Konkurrenten durchsetzen konnte.
+In the end everything was so perfect that I was able to easily beat my competitor.
+`````
+
+`````
+sich entschließen, sich entscheiden, beschließen
+
+they are all the same when used as "deciding". However, in some instances, one word sounds more natural than the other. "entscheiden" is usually used to decide between two or more options. "beschliessen" is usually preferred to express a decision of two or more people: "wir haben beschlossen" Finally, "entschliessen" is very similar in usage as "beschliessen". If "entschliessen" is used as adjective, e. g. "er ist entschlossen" it means his mind is firmly set on a certain idea, and unlikely to change. "entscheiden" can also be used as adjective "das ging entschieden zu weit" meaning "without a doubt"
 `````
 
 # 1-04_Lektion_1_7.mp3

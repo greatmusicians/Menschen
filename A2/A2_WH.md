@@ -324,7 +324,10 @@ Wir spielen das Basketball mit dem Basketball.</Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Tischtennis</W2><W3>wird nur im Singular verwendet</W3><W4>乒乓球</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Eishockey</W2><W3>wird nur im Singular verwendet</W3><W4>冰球</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Aqua-Fitness</W2><W3>wird nur im Singular verwendet</W3><W4>水上健身</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Rudern</W2><W3>???</W3><W4>划船</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Rudern</W2><W3>???</W3><W4>划船</W4><Notiz>
+rudern, rudert, hat/ist gerudert
+mit Hilfsverb ‘hat’: ???
+mit Hilfsverb ‘ist’: ???</Notiz></div>
 <div class="Wort"><W1>vereinbaren</W1><W2>vereinbart</W2><W3>hat vereinbart</W3><W4>约定</W4><Notiz>vereinbaren = ausmachen</Notiz></div>
 <div class="Wort"><W1>flexibel</W1><W2>灵活的</W2><W3></W3><W4></W4><Notiz>[flε`ksi:bl]</Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Vorschlag</W2><W3>Vorschläge</W3><W4>建议，提议</W4><Notiz>als unverbindliche Empfehlung</Notiz></div>
@@ -827,7 +830,8 @@ die SIM-Karte [zɪm] 手机里用的芯片卡</Notiz></div>
 <div class="Wort"><W1>etwas ausfüllen</W1><W2>füllt aus</W2><W3>hat ausgefüllt</W3><W4>填写，填满</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>tippen</W1><W2>tippt</W2><W3>hat getippt</W3><W4>(键盘，打字机)打字</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>etwas ausdrucken</W1><W2>druckt aus</W2><W3>hat ausgedruckt</W3><W4>打印</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>sich lohnen</W1><W2>有价值的，有帮助的</W2><W3></W3><W4></W4><Notiz>sich lohnen = hilfreich sein</Notiz></div>
+<div class="Wort"><W1>sich lohnen</W1><W2>有价值的，有帮助的</W2><W3></W3><W4></W4><Notiz>sich lohnen = hilfreich sein
+Das lohnt sich bestimmt.</Notiz></div>
 <div class="Wort"><W1>umweltfreutlich</W1><W2>有利于环保的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>preiswert</W1><W2>价廉物美的，价格便宜的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>außerhalb</W1><W2>adv 在城外，在市郊</W2><W3></W3><W4></W4><Notiz></Notiz></div>
