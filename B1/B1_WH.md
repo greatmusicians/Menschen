@@ -1,24 +1,29 @@
 # L1
-<div class="Wort"><W1>vernünftig</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>großzügig</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>fair</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>intelligent</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>klug</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>frech</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>kreativ</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>sparsam</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>realistisch</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>hübsch</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>aufmerksam</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>mutig</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>nervös</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>kritisch</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>treu</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>ernst</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>ordentlich</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>streng</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>vernünftig</W1><W2>理智的，理性的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>großzügig</W1><W2>慷慨大方的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>fair</W1><W2>公平的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>intelligent</W1><W2>聪明的</W2><W3></W3><W4></W4><Notiz>Beton bitte „gent“!</Notiz></div>
+<div class="Wort"><W1>klug</W1><W2>聪明的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>frech</W1><W2>没礼貌的，放肆的，调皮捣蛋的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>kreativ</W1><W2>有创意的</W2><W3></W3><W4></W4><Notiz>Beton bitte „tiv“!</Notiz></div>
+<div class="Wort"><W1>sparsam</W1><W2>节俭的，节省的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>realistisch</W1><W2>切合实际的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>hübsch</W1><W2>漂亮的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>aufmerksam</W1><W2>体贴的，周到的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>mutig</W1><W2>勇敢的，大胆的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>nervös</W1><W2>紧张不安的，烦躁的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>kritisch</W1><W2>批判(性)的，评论性的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>treu</W1><W2>忠诚的，可靠的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ernst</W1><W2>严肃的，稳重的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ordentlich</W1><W2>井井有条的，整洁的；正派的，正直的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>streng</W1><W2>严格的，严厉的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>beeinflussen</W1><W2>beeinflusst</W2><W3>hat beeinflusst</W3><W4>对...起影响</W4><Notiz>Musik kann unsere Gefühle beeinflussen. 音乐可以影响我们的心情。
+das Gefühl, -e, 感受，感情，心情</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+
+<div class="QSA"><Q></Q><S></S><A>
+Zu den bestimmten Artikeln gehören auch die Artikelwörter: „diese“, „jede“, „welche“,
+„solche“ und „alle“.</A></div>
 
 # L2
 <div class="Wort"><W1>die</W1><W2>Überstunde</W2><W3></W3><W4></W4><Notiz></Notiz></div>
