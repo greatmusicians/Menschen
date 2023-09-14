@@ -27,7 +27,7 @@ Zu den bestimmten Artikeln gehören auch die Artikelwörter: „diese“, „jed
 
 # L2
 <div class="Wort"><W1>die</W1><W2>Überstunde</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Gehalt</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Gehalt</W2><W3>Gehälter</W3><W4>工资，薪水</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>brutto</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>netto</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Steuer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -38,12 +38,29 @@ Zu den bestimmten Artikeln gehören auch die Artikelwörter: „diese“, „jed
 <div class="Wort"><W1>die</W1><W2>Vollzeit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der/die</W1><W2>Auszubildende</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Tagesablauf</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Erinnerung</W1><W2>记忆，回忆</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>enttäuschend</W1><W2>disappointing，令人失望的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Jubiläum</W2><W3>Jubiläen</W3><W4>周年纪念日</W4><Notiz>
+[jubi`lε:um]
+das 150-jährige Jubiläum der Firma feiern
+庆祝公司150年纪念</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Erzieher</W2><W3>gleich</W3><W4>教育者，教养员</W4><Notiz>不是教知识的老师，而是品德老师，针对的是幼儿园和青少年</Notiz></div>
+<div class="Wort"><W1>die Leistung</W1><W2>成就，成绩，成果</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Verantwortung</W1><W2>责任，responsibility</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich beschäftigen</W1><W2>beschäftigt</W2><W3>hat beschäftigt</W3><W4>从事于,忙于</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>erledigen</W1><W2>erledigt</W2><W3>hat erledigt</W3><W4>做完，完成</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>übernehmen</W1><W2>übernimmt</W2><W3>hat übernommen</W3><W4>承担，接受，overtaken</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Gelegenheit</W2><W3>-en</W3><W4>机会，机遇，opportunity</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Held</W2><W3>-en</W3><W4>英雄，hero</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich entschließen</W1><W2>entschließt</W2><W3>hat entschlossen</W3><W4>做决定</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>erwarten</W1><W2>erwartet</W2><W3>hat erwartet</W3><W4>期待，期望</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>führen</W1><W2>führt</W2><W3>hat geführt</W3><W4>带领，引导</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>überlegen</W1><W2>überlegt</W2><W3>hat überlegt</W3><W4>考虑，思索</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich vorstellen</W1><W2>想象，设想</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>zurechtkommen</W1><W2>kommt zurecht</W2><W3>ist zurechtgekommen</W3><W4>能做，能胜任</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>gering</W1><W2>少量的，不足的</W2><W3></W3><W4></W4><Notiz>gering=wenig
+Beton bitte „ring“!</Notiz></div>
+<div class="Wort"><W1>merkwürdig</W1><W2>奇怪的</W2><W3></W3><W4></W4><Notiz>merkwürdig=seltsam</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
