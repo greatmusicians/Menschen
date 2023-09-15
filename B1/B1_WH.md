@@ -61,11 +61,10 @@ das 150-jährige Jubiläum der Firma feiern
 <div class="Wort"><W1>gering</W1><W2>少量的，不足的</W2><W3></W3><W4></W4><Notiz>gering=wenig
 Beton bitte „ring“!</Notiz></div>
 <div class="Wort"><W1>merkwürdig</W1><W2>奇怪的</W2><W3></W3><W4></W4><Notiz>merkwürdig=seltsam</Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-
+<div class="Wort"><W1>zuverlässig</W1><W2>可信赖的，可靠的</W2><W3></W3><W4></W4><Notiz>Beton bitte „zu“!</Notiz></div>
 
 # L3
+<div class="Wort"><W1>die</W1><W2>Leidenschaft</W2><W3>-en</W3><W4>热爱，热情，爱好</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Makler</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Apartment</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Hausmeister</W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -82,6 +81,17 @@ Beton bitte „ring“!</Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Einfamilienhaus</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Reihenhaus</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Wohnblock</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>

@@ -92,6 +92,11 @@ Studentin 2: Seine Vorlesung gestern war nicht so spannend. Er spricht wahnsinni
 Student: Was? Ich fand es gar nicht langweilig. Er hat ziemlich viel Humor. Das hat mir gut gefallen.
 `````
 
+`````
+erleben 遇到，见过，亲眼见到
+der Humor, [hu`mo:ɐ], 幽默
+`````
+
 # 1-05_Lektion_2_1.mp3
 <audio controls loop src="B1.1_KB/1-05_Lektion_2_1.mp3"></audio>
 
@@ -117,6 +122,16 @@ Journalistin: Ich will ja nicht neugierig sein, aber diese elegante Dame hier, i
 Herr Hauser: Ja, also das ist eine ganz besondere Geschichte! Die erzähle ich Ihnen gleich!
 `````
 
+`````
+abnehmen 取下，脱下
+jn an Akk. erinnern 提醒jn别忘记Akk.
+versammelt 聚集的，聚在一起的
+neugierig 好奇的
+
+jemandem ans Herz gewachsen sein = man mag etwas sehr stark
+Seine Kinder sind ihm sehr ans Herz gewachsen.
+`````
+
 # 1-07_Lektion_3_3c.mp3
 <audio controls loop src="B1.1_KB/1-07_Lektion_3_3c.mp3"></audio>
 
@@ -124,11 +139,54 @@ Herr Hauser: Ja, also das ist eine ganz besondere Geschichte! Die erzähle ich I
 Sprecher: Ich möchte die Menschen glücklich machen. – Ein Besuch bei Herbert Hauser, Makler aus Leidenschaft. Er lebt in Oberursel, einem kleinen Ort im Taunus in der Nähe von Frankfurt. Sein großes Arbeitszimmer hat viele Fenster, durch die man ins Grüne blickt. An den Wänden hängen Fotos in allen Größen, die unterschiedliche Häuser und ihre Bewohner zeigen. Herbert Hauser kennt sie alle. Er ist der Mann, der den Traum vom passenden Heim wahr werden lässt – und das schon seit über 40 Jahren. „Ich wollte schon immer andere Menschen glücklich machen“, erzählt er uns, als wir ihn besuchen. „Ihnen das richtige Haus oder die passende Wohnung vermitteln, das ist für mich mehr als ein Beruf. Es ist meine Leidenschaft!“ Wer kann das heute noch sagen? Zusammen mit Herbert Hauser werfen wir einen Blick auf die Fotos in seinem Arbeitszimmer. Er stellt uns vier Kunden vor, denen er bei der schwierigen Wohnungssuche half.
 `````
 
+`````
+der Taunus 陶努斯(山区)<德国>
+blicken 看，望
+die Größe, -n, 大小，尺寸
+unterschiedlich 不同的
+der Bewohner, gleich, 居民，住户
+jn. glücklich machen = make sb. happy = 让某人快乐
+vermitteln 把...介绍给，帮助获得
+werfen 投，抛，扔
+einen Blick werfen auf/durch + Akk. = gucken, schauen, sehen
+`````
+
+`````
+Sein großes Arbeitszimmer hat viele Fenster, durch die man ins Grüne blickt.
+His large study has many windows through which you can look out onto the countryside.
+他的大书房有很多窗户，透过窗户可以看到乡村景色。
+
+Er ist der Mann, der den Traum vom passenden Heim wahr werden lässt.
+He is the man who makes the dream of a suitable home come true.
+passend 合适的，适当的
+das Heim 家，英语home
+wahr 真的，真实的
+`````
+
+`````
+anders vs. verschieden vs. unterschiedlich
+
+anders = different from/to/than
+Sie trägt eine andere Hose als ich.
+Sie hat eine andere Meinung als ich.
+Europäischer Fußball ist anders als amerikanischer Fußball.
+Die Party war anders als ich sie mir vorgestellt habe.
+
+verschieden = various
+unterschiedlich = different
+
+https://www.youtube.com/watch?v=ydv1opKLApM
+`````
+
 # 1-08_Lektion_3_3c_A.mp3
 <audio controls loop src="B1.1_KB/1-08_Lektion_3_3c_A.mp3"></audio>
 
 `````
 Herr Hauser: Schauen Sie sich dieses Foto an, das hier war mein allererster Kunde in den 70er-Jahren: ein Frankfurter Student. Er suchte ein 1-Zimmer-Apartment mit kleinem Balkon. Zu dieser Zeit herrschte extremer Wohnungsmangel für Studenten. Wir fanden nur Wohnungen, die zu weit entfernt waren von der Universität. Oder Wohngemeinschaften. Doch Joachim wollte unbedingt seine eigenen vier Wände haben. Nach langer Suche fanden wir einen leeren Zirkuswagen auf dem Grundstück einer alten Dame. Sie machte damals einen klugen Tausch: Joachim zog in den Zirkuswagen und erledigte dafür Hausmeister-Tätigkeiten für die Besitzerin. Nach dem Tod der alten Dame erbte er das Haus und das Grundstück und lebt heute noch dort. Ab und zu fahre ich ihn besuchen und dann trinken wir eine Tasse Tee in seinem Wagen.
+`````
+
+`````
+eigen <表示归属>自己的，自身的，个人的
 `````
 
 # 1-09_Lektion_3_3c_B.mp3

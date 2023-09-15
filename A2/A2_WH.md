@@ -717,35 +717,6 @@ das Tiefdruckgebiet = das Tief, die Tiefdruckgebiete = die Tiefs
 <div class="Wort"><W1>etc.</W1><W2>et cetera</W2><W3></W3><W4></W4><Notiz>[etˈʦeteʀa]2
 et cetera = und so weiter = etc. = usw.</Notiz></div>
 
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>sich freuen</Q><A>
-sich freuen auf Akk. 为(将要发生的事)感到高兴、愉快
-sich freuen über Akk. 为(现在或过去发生的事)感到高兴、愉快
-sich freuen an Dat. 为(现在发生的事)感到高兴、愉快（侧重指感官上的快乐和愉悦）
-sich freuen für jn. 为某人感到高兴、快乐
-
-Die Mann freut sich über die Kälte.
-Die meisten Menschen freuen sich auf einen heißen Tee.
-</A></div>
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>sprechen</Q><A>
-sprechen mit jm. über Akk. = sich unterhalten mit jm. über Akk.
-</A></div>
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>Lust haben</Q><A>
-Lust haben auf Akk.
-Lust haben zu Inf. (Inf. = Infinitiv)
-</A></div>
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>sich interessieren</Q><A>
-sich interessieren für Akk.
-</A></div>
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>zufrieden sein</Q><A>
-zufrieden sein mit Dat.
-</A></div>
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>träumen</Q><A>
-träumen von Dat.
-</A></div>
-<div class="QSA"><S>Verben mit Präpositionen</S><Q>sich ärgern</Q><A>
-sich ärgern über Akk.
-</A></div>
-
 # L19
 
 <div class="Wort"><W1>die</W1><W2>Lesung</W2><W3>-en</W3><W4>阅读；(作品)朗诵会</W4><Notiz></Notiz></div>

@@ -27,26 +27,19 @@ Moderator: Na, dann war das Praktikum ja auf jeden Fall eine gute Idee! Vielen D
 # 12_Lektion_4,_Hoeren,_2_1.mp3
 <audio controls loop src="B1.1_AB/12_Lektion_4,_Hoeren,_2_1.mp3"></audio>
 
-Ansage 1
 `````
-Jens:
-Hallo, Annika. Hier spricht Jens. Sag mal, dich kann man ja gar nicht erreichen. Gestern Abend war bei dir zu Hause die ganze Zeit besetzt und jetzt bist du nicht da. Ruf mich doch
+Ansage 1
+Jens: Hallo, Annika. Hier spricht Jens. Sag mal, dich kann man ja gar nicht erreichen. Gestern Abend war bei dir zu Hause die ganze Zeit besetzt und jetzt bist du nicht da. Ruf mich doch
 mal an. Ich bin im Büro. Du weißt ja, meine Durchwahl ist die 18.
 Bandansage: Wenn Sie direkt mit dem Absender der Nachricht verbunden werden wollen, wählen Sie die Eins. Zum Speichern der Nachricht wählen Sie die Zwei. Wenn Sie die Nachricht noch einmal hören möchten, drücken Sie die Drei. Zum Löschen drücken Sie die Vier.
-`````
 
 Ansage 2
-`````
 Bandansage: Herzlich Willkommen beim Service-Team der JB-Bank. Unser Telefonservice ist im Moment nicht erreichbar. Wir sind von Montag bis Freitag von 8.00 bis 20.00 Uhr für Sie da. Wenn Sie Ihre Kreditkarte oder EC-Karte verloren haben, wählen Sie bitte die Notfall-Rufnummer 116 116. Unsere Geschäftsstellen sind Montag bis Freitag von 8.45 bis 12.30 Uhr und von 13.30 bis 16.00 Uhr und donnerstags bis 18.00 Uhr geöffnet. Sie können uns auch eine E-Mail an kontakt@JB-Bank schreiben. Mehr Informationen finden Sie auch auf unserer Homepage im Internet unter www.jb-bank.de.
-`````
 
 Ansage 3
-`````
 Bandansage: Guten Tag. Sie sind mit dem Anschluss von Praxis Dr. Schüttler verbunden. Leider rufen Sie außerhalb der Sprechzeiten an. Sie können uns von Montag bis Freitag von 9.00 bis 12.00 Uhr erreichen. Am Montagnachmittag haben wir von 15.00 bis 19.00 Uhr geöffnet und am Dienstag und Donnerstag von 15.00 bis 17.00 Uhr. Am Mittwochnachmittag haben wir geschlossen. Ab nächsten Montag sind wir zwei Wochen in Urlaub. In dringenden Notfällen wenden Sie sich bitte an den ärztlichen Notdienst unter der Nummer 116 117.
-`````
 
 Ansage 4
-`````
 Bandansage: Herzlich willkommen beim Abonnenten-Service des B&O-Verlags. Bitte wählen Sie eine Nummer, damit ich Sie mit dem zuständigen Mitarbeiter verbinden kann. Wenn Sie eine Zeitschrift aus unserem Programm abonnieren möchten, drücken Sie bitte die Eins. Bei Fragen zur Kündigung drücken Sie bitte die Zwei. Bei Reklamationen drücken Sie bitte die Drei. Für alle anderen Fragen wählen Sie die Vier.
 Anrufer: Aha, also die Zwei drücken.
 Bandansage: Schade, dass Sie Ihr Zeitschriften-Abonnement kündigen möchten. Eine Kündigung kann nicht telefonisch erfolgen. Bitte beachten Sie auch, dass Sie Ihr Abo sechs Wochen vor Laufzeitende kündigen müssen. Senden Sie uns Ihr Kündigungsschreiben per Post oder E-Mail. Vergessen Sie nicht, Ihre Kundennummer anzugeben. Unsere Adresse ist Bromstraße 17, 60643 Frankfurt.
