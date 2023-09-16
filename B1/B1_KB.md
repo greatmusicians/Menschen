@@ -107,6 +107,12 @@ Praktikant: Okay. Dann los ... Uuuund ...
 Alle: Auf einem Baum ein Kuckuck – Sim sa la bim bam ba sa la du sa la dim – auf einem Baum ein Kuckuck saß. Da kam ein junger Jäger – Sim sa la bim bam ba sa la du sa la dim – Da kam ein junger Jägersmann.
 `````
 
+`````
+der Kuckuck 布谷鸟，杜鹃
+der Jäger 猎人
+der Jägersmann 猎人
+`````
+
 # 1-06_Lektion_3_2.mp3
 <audio controls loop src="B1.1_KB/1-06_Lektion_3_2.mp3"></audio>
 
@@ -187,6 +193,29 @@ Herr Hauser: Schauen Sie sich dieses Foto an, das hier war mein allererster Kund
 
 `````
 eigen <表示归属>自己的，自身的，个人的
+allererst 第一，首先
+in den 70er-Jahren: 70年代
+Die 1970er-Jahre umfassen die Zeit von Anfang 1970 bis Ende 1979.
+herrschen 存在着，充满着
+extrem [εks`tre:m] 极端的，极度的，极限的
+der Wohnungsmangel 住房不足
+der Mangel 缺乏，缺少，不足，不够
+weit entfernt von Dat. sein:
+1) = to be a long way from sth.
+2) = to be a far cry from sth. = to be completely different from sth.
+eigene vier Wände = die eigene Wohnung = das eigene Haus
+die Suche 寻找，搜寻
+der Zirkuswagen 袖珍小屋，一种木制房车，跟马戏团没啥关系
+damals adv. 当时，那时
+der Tausch 交换
+die Besitzerin 老板娘，女业主，女所有人
+der Besitzer, gleich, 拥有者，占有者，所有人
+erledigen 办好，做完，完成
+der Hausmeister 宿管，房屋管理员
+die Tätigkeit 工作，活动
+erben 继承
+jn. besuchen fahren/gehen/kommen 去拜访，来拜访
+gehen/kommen/fahren + 动词: 去做什么，来做什么
 `````
 
 # 1-09_Lektion_3_3c_B.mp3
@@ -196,6 +225,19 @@ eigen <表示归属>自己的，自身的，个人的
 Herr Hauser: Das hier, das ist die Familie Souza Fontes aus Brasilien. Als sie aus ihrem Heimatland hier ankamen, fanden sie nur eine enge Wohnung in der Innenstadt. Aber den Souza Fontes fehlte schnell vor allem eines: ein Ort, an den sie Freunde und Verwandte zu jeder Jahreszeit zum Grillen einladen können. Sie suchten also ein Zuhause mit Garten oder Hof. Die Kosten durften nicht zu hoch sein. In einem Vorort fand ich eine schöne Wohnung, die direkten Zugang zu einem großen Garten hatte. Die Wohnungseinweihung war ein spektakuläres Garten- und Grillfest, bei dem es fantastisches Essen gab und ich mich sehr amüsiert habe.
 `````
 
+`````
+fehlen (物作主语)缺少，短缺，缺乏
+etwas fehlt jm.
+das Zuhause 家，住处
+der Hof 院子，庭院
+die Kosten, nur Pl., 支出，费用
+der Zugang, 入口，通道
+die Wohnungseinweihung 乔迁之喜，新房落成典礼
+spektakulär [ʃpεktaku`lε:ɐ] 引起轰动的，惊人的
+fantastisch 精彩的，非常棒的
+sich amüsieren 很开心，很高兴
+`````
+
 # 1-10_Lektion_3_3c_C.mp3
 <audio controls loop src="B1.1_KB/1-10_Lektion_3_3c_C.mp3"></audio>
 
@@ -203,11 +245,58 @@ Herr Hauser: Das hier, das ist die Familie Souza Fontes aus Brasilien. Als sie a
 Herr Hauser: Und hier, auf diesem Foto: Das sind die Ettenhubers, die unbedingt auf einen alten Bauernhof ziehen wollten. Ich fand schließlich einen mit über 200 m² Wohnfläche und einem großen Grundstück für sie. Die früheren Besitzer zogen zu ihren Kindern und so übernahmen die Ettenhubers auch gleich die ganze Einrichtung: Vom alten Auto über den Mülleimer bis zur Klobürste war alles inklusive. Das Schmuckstück des Hauses war und ist der schöne Ofen, an dem ich erst kürzlich wieder bei einem Stück Kuchen mit der Familie saß.
 `````
 
+`````
+der Bauernhof 农场，农庄，农舍
+schließlich adv. 最后，终于
+die Wohnfläche 居住面积
+früher 以前的，从前的
+übernehmen 接管，接收，overtaken
+die Einrichtung 设备，设施；陈设，家具
+die Bürste 刷子，毛刷
+das Klo 厕所
+die Klobürste 马桶刷
+inklusive, Präp., [inklu`zi:və], ...被包括在内
+der Ofen 炉子
+der Kamin [ka`mi:n] 缝隙；烟囱；壁炉
+erst adv. 才
+kürzlich adv. 最近，不久前
+wieder adv. 又，再，重新
+sitzen, Präteritum: saß
+`````
+
+`````
+das Schmuckstück des Hauses
+
+Schmuckstück，首饰，这里应该是指房子在装修、设计上的一些特别的亮点
+
+Ein Schmuckstück des Hauses kann zum Beispiel, ein großer Balkon sein oder ein besonders verzierter Raum. Es ist etwas besonderes was das Haus oder Wohnung ausmacht.
+`````
+
+`````
+erst adv. 才
+1）表示事情刚刚才发生
+2）表示时间还早
+3）表示事情发生的比期待的晚
+`````
+
 # 1-11_Lektion_3_3c_D.mp3
 <audio controls loop src="B1.1_KB/1-11_Lektion_3_3c_D.mp3"></audio>
 
 `````
 Herr Hauser: Am schönsten war die Begegnung mit dieser Dame, die Sie vorhin ansprachen: Sie war eine sehr anspruchsvolle Kundin, die nur in der besten Lage suchte. Ein Apartment mit Dachterrasse und Lift in der Innenstadt von Frankfurt, das war ihr Wunsch. Ich habe der Dame viele Objekte gezeigt, aber mit allen war sie unzufrieden – nur mit mir nicht: Seit 36 Jahren bin ich glücklich mit Erika verheiratet. Hier sehen Sie sie in unserem Ferienquartier am Bodensee! So, nun kennen Sie die schönsten Geschichten meines Berufslebens!
+`````
+
+`````
+Begegnung 会面，相遇
+vorhin adv. 刚刚，不久以前
+der Anspruch 要求(对……要求高，对……严格要求)
+anspruchslos (人)知足的，不苛求的；(书)平庸的，平淡的
+anspruchsvoll 要求高的，讲究的；高水平的，高档次的，高品味的
+die Lage 位置，地段，环境，情况，处境，形势......
+die Dachterrasse 屋顶平台，屋顶露台
+die Ferien, nur Pl., 度假，休假
+das Quartier [kvar`ti:ɐ] 宿营地
+Ferienquartier 度假宿营地
 `````
 
 # 1-12_Modul_1_1_2.mp3
