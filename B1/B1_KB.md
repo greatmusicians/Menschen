@@ -229,7 +229,7 @@ Herr Hauser: Das hier, das ist die Familie Souza Fontes aus Brasilien. Als sie a
 fehlen (物作主语)缺少，短缺，缺乏
 etwas fehlt jm.
 das Zuhause 家，住处
-der Hof 院子，庭院
+der Hof 院内庭院，天井
 die Kosten, nur Pl., 支出，费用
 der Zugang, 入口，通道
 die Wohnungseinweihung 乔迁之喜，新房落成典礼
@@ -306,7 +306,14 @@ Ferienquartier 度假宿营地
 <audio controls loop src="B1.1_KB/1-13_Lektion_4_1b.mp3"></audio>
 
 `````
-Frau Appeldorn: Na, Pfiﬃ, jetzt gehen wir mal zum Briefkasten. Heute ist sicher mein neues Rätselheft in der Post. Na, dann wollen wir mal. Ach, immer diese Werbung und Rechnungen … Da haben wir es ja! Na, das ist doch wohl … jetzt haben die mir doch schon wieder dieses Auto & Lkw geschickt! Was soll ich denn damit? Pfiﬃ, da rufen wir jetzt sofort an!
+Frau Appeldorn: Na, Pfiffi, jetzt gehen wir mal zum Briefkasten. Heute ist sicher mein neues Rätselheft in der Post. Na, dann wollen wir mal. Ach, immer diese Werbung und Rechnungen … Da haben wir es ja! Na, das ist doch wohl … jetzt haben die mir doch schon wieder dieses Auto & Lkw geschickt! Was soll ich denn damit? Pfiffi, da rufen wir jetzt sofort an!
+`````
+
+`````
+das Rätsel 谜语
+
+Was soll ich denn damit?
+What am I supposed to do with that?
 `````
 
 # 1-14_Lektion_4_3.mp3
@@ -330,8 +337,31 @@ Herr Wiegand: Wie heißt denn die Zeitschrift, bitte?
 Frau Appeldorn: Auto & Lkw heißt sie.
 Herr Wiegand: Oh, das tut mir leid, da sind Sie hier leider falsch! Wir sind der Kundenservice für die Kinderzeitschriften. Aber das ist kein Problem, bleiben Sie bitte am Apparat, ich stelle Sie zu meinem Kollegen durch.
 Warteschleifen-Ansage: Einen Augenblick bitte, wir sind gleich für Sie da! … Einen Augenblick bitte …
-Frau Appeldorn: Ganz ruhig bleiben, Pfiﬃ, ganz ruhig!
+Frau Appeldorn: Ganz ruhig bleiben, Pfiffi, ganz ruhig!
 Herr Wiegand: Hören Sie, Frau Appeldorn, es tut mir sehr leid, aber der Kollege aus der Abteilung Motor und Technik ist gerade zu Tisch! Können Sie bitte später noch einmal anrufen? Ich gebe Ihnen die Durchwahl: Das ist die 040 …
+`````
+
+`````
+das Abocenter 订阅中心
+das Abonnement [abɔnəˈmɛŋ] (frz.), -s = das Abo, -s 预定，订阅
+verbunden adj. verbinden 接通(电话)
+partizipiales Adjektiv [paʁtiʦiˈpi̯aːl] [语]分词形容词
+drücken 挤，压，按
+drucken 印，印刷
+die Reklamation [reklama`tsio:n] 抱怨，指责，索赔
+obwohl 虽然，即使
+ärgerlich 生气的，令人生气的，人或者事物作主语都行
+durchstellen 电话转接
+`````
+
+`````
+die Durchwahl 直播号码，分机号
+就是不用通过转接，直接就能联系上对应的人(分机)。没有直播号码，就只能首先拨打总机，一步一步选、询问，最后转接到对应的人(分机)那里
+
+使用介词durch，就很形象。穿过总机直接联系上你想要找的那个人。
+不知道为什么用Wahl？这个词跟电话有关系吗？
+
+Eine Durchwahl bildet den Abschluss einer Rufnummer und dient dem Anrufer dazu, direkt mit dem gewünschten Ansprechpartner verbunden zu werden, ohne vorher z.B. mit einer zentralen Annahmestelle wie z.B. der Rezeption telefonieren zu müssen.
 `````
 
 # 1-15_Lektion_4_5a.mp3

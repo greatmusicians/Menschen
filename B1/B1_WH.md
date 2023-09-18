@@ -26,18 +26,20 @@ Zu den bestimmten Artikeln gehören auch die Artikelwörter: „diese“, „jed
 „solche“ und „alle“.</A></div>
 
 # L2
-<div class="Wort"><W1>die</W1><W2>Überstunde</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Überstunde</W2><W3>-n</W3><W4>加班</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Gehalt</W2><W3>Gehälter</W3><W4>工资，薪水</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>brutto</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>netto</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Steuer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Chefin</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Leiterin</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Teambesprechung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Teilzeit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Vollzeit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der/die</W1><W2>Auszubildende</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Tagesablauf</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>brutto</W1><W2>毛(重)，毛(收入)</W2><W3></W3><W4></W4><Notiz>
+Er verdient monatlich 1000 Mark brutto.</Notiz></div>
+<div class="Wort"><W1>netto</W1><W2>净(重)，净(收入)</W2><W3></W3><W4></W4><Notiz>
+Die Ware wiegt netto fünf Kilo.</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Steuer</W2><W3>-n</W3><W4>税，赋税</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Chefin</W2><W3>-nen</W3><W4>女领导</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Leiterin</W2><W3>-nen</W3><W4>女领导人，女负责人，女主管人</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Teambesprechung</W2><W3>-en</W3><W4>团队会议</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Teilzeit</W2><W3>-en</W3><W4>兼职</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Vollzeit</W2><W3>wird selten im Plural verwendet</W3><W4>全职</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der/die</W1><W2>Auszubildende</W2><W3>-n</W3><W4>培训班学员</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Tagesablauf</W2><W3>-läufe</W3><W4>日程</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die Erinnerung</W1><W2>记忆，回忆</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>enttäuschend</W1><W2>disappointing，令人失望的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Jubiläum</W2><W3>Jubiläen</W3><W4>周年纪念日</W4><Notiz>
@@ -65,55 +67,70 @@ Beton bitte „ring“!</Notiz></div>
 
 # L3
 <div class="Wort"><W1>die</W1><W2>Leidenschaft</W2><W3>-en</W3><W4>热爱，热情，爱好</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Makler</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Apartment</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Hausmeister</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Innenstadt</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Vorort</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>(Innen-)Hof</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Ofen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Lift</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Wohnfläche</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Wand</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Balkon</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Dachterrasse</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Grundstück</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Einfamilienhaus</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Reihenhaus</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Wohnblock</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Makler</W2><W3>gleich</W3><W4>经纪人，中介</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Apartment</W2><W3>-s</W3><W4>小的公寓房间</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Hausmeister</W2><W3>gleich</W3><W4>宿管，房屋管理员</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Innenstadt</W2><W3>-städte</W3><W4>市中心</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Vorort</W2><W3>-e</W3><W4>郊区</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>(Innen-)Hof</W2><W3>Höfe</W3><W4>院内庭院，天井</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Ofen</W2><W3>Öfen</W3><W4>炉子</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Lift</W2><W3>-e</W3><W4>电梯</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Wohnfläche</W2><W3>-n</W3><W4>居住面积</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Wand</W2><W3>Wände</W3><W4>墙</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Balkon</W2><W3>-s</W3><W4>阳台</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Dachterrasse</W2><W3>-n</W3><W4>屋顶平台，屋顶露台</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Grundstück</W2><W3>-e</W3><W4>地皮，地产</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Einfamilienhaus</W2><W3>-häuser</W3><W4>独宅，单栋住宅</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Reihenhaus</W2><W3>-häuser</W3><W4>联排别墅</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Wohnblock</W2><W3>Wohnblocks/Wohnblöcke</W3><W4>住宅(街)区</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Statistik</W2><W3>-en</W3><W4>统计，统计学</W4><Notiz>Beton bitte „tis“!</Notiz></div>
+<div class="Wort"><W1>knapp</W1><W2>短缺的；紧的；大约，接近(但少于)</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>stammen</W1><W2>stammt</W2><W3>hat gestammt</W3><W4>出身于，出生于；来自</W4><Notiz></Notiz></div>
 
+<div class="QSA"><Q>统计学的表达</Q><S></S><A>
+ein Fünftel: 20%
+ein Viertel: 25%
+ein Drittel: 33%
+die Hälfte: 50%
+jeder Zweite: 50%
+zwei Drittel: 66%
+drei Viertel: 75%
+
+gut zwei Drittel: 68%，多一些
+knapp die Hälfte: 46%，少一些
+etwa ein Viertel: 24%，应该是多一些、少一些都行
+mehr als die Hälfte: 58%
+
+
+关于单数还是复数
+Singular: die Hälfte, ein Fünftel, ein Viertel, ein Drittel, 1%
+Plural: zwei Drittel
+为什么呢？
+die Hälfte von allen Deutschen，虽然实质上是很多人，但是von allen Deutschen在语法上是Genitiv，是修饰成分。主语还是die Hälfte，而die Hälfte是单数。
+同理，ein Fünftel der Menschen中的der Menschen是Genitiv，是修饰成分。主语还是ein Fünftel。既然是一个Fünftel，自然是单数。
+
+关于六分之一
+习惯上不会这么说，而是说成百分数
+
+关于0%
+习惯上不会说null Prozent，而是说nichts
+</A></div>
 
 # L4
-<div class="Wort"><W1>der</W1><W2>Absender</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Anrede</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Betreff</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Empfänger</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Grußformel</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Ort</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Datum</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Unterschrift</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Absender</W2><W3>gleich</W3><W4>寄件人，发货人</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Anrede</W2><W3>-n</W3><W4>称呼，称谓</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Betreff</W2><W3>-e</W3><W4>关于，事由，案由</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Empfänger</W2><W3>gleich</W3><W4>收件人，接收人</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Grußformel</W2><W3>-n</W3><W4>习惯问候用语</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Ort</W2><W3>-e</W3><W4>地点，地方</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Datum</W2><W3>Daten</W3><W4>日期</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Unterschrift</W2><W3>-en</W3><W4>署名，签名</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Verlag</W2><W3>-e</W3><W4>出版商</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>kündigen</W1><W2>kündigt</W2><W3>hat gekündigt</W3><W4>宣布...到期，声明...废除，通知解除</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>durchstellen</W1><W2>电话转接</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>zuständig</W1><W2>应负责的，主管的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>erreichen</W1><W2>erreicht</W2><W3>hat erreicht</W3><W4>（电话）与...联系上</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Auskunft</W2><W3>Auskünfte</W3><W4>回复，答复</W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
