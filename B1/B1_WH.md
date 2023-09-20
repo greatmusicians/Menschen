@@ -19,9 +19,8 @@
 <div class="Wort"><W1>streng</W1><W2>严格的，严厉的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>beeinflussen</W1><W2>beeinflusst</W2><W3>hat beeinflusst</W3><W4>对...起影响</W4><Notiz>Musik kann unsere Gefühle beeinflussen. 音乐可以影响我们的心情。
 das Gefühl, -e, 感受，感情，心情</Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
-<div class="QSA"><Q></Q><S></S><A>
+<div class="QSA"><Q>diese, jede, welche, solche, alle: bestimmt? unbestimmt?</Q><S></S><A>
 Zu den bestimmten Artikeln gehören auch die Artikelwörter: „diese“, „jede“, „welche“,
 „solche“ und „alle“.</A></div>
 
@@ -119,7 +118,7 @@ die Hälfte von allen Deutschen，虽然实质上是很多人，但是von allen 
 # L4
 <div class="Wort"><W1>der</W1><W2>Absender</W2><W3>gleich</W3><W4>寄件人，发货人</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Anrede</W2><W3>-n</W3><W4>称呼，称谓</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Betreff</W2><W3>-e</W3><W4>关于，事由，案由</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Betreff</W2><W3>-e</W3><W4>关于，事由，案由</W4><Notiz>信件的Betreff中不能使用动词</Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Empfänger</W2><W3>gleich</W3><W4>收件人，接收人</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Grußformel</W2><W3>-n</W3><W4>习惯问候用语</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Ort</W2><W3>-e</W3><W4>地点，地方</W4><Notiz></Notiz></div>
@@ -131,11 +130,21 @@ die Hälfte von allen Deutschen，虽然实质上是很多人，但是von allen 
 <div class="Wort"><W1>zuständig</W1><W2>应负责的，主管的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>erreichen</W1><W2>erreicht</W2><W3>hat erreicht</W3><W4>（电话）与...联系上</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Auskunft</W2><W3>Auskünfte</W3><W4>回复，答复</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Reklamation</W1><W2>sich beschweren</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>Sitzung</W1><W2>Besprechung, Konferenz</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Qualität</W2><W3>-en</W3><W4>Gesamtheit der Eigenschaften eines Produkts</W4><Notiz>die Eigenschaft: 品质，特性</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Verlag</W2><W3>-e</W3><W4>出版社</W4><Notiz>Beton bitte „lag“!</Notiz></div>
+<div class="Wort"><W1>auffordern</W1><W2>fordert auf</W2><W3>hat aufgefordert</W3><W4>要求,敦促</W4><Notiz>Ich möchte Sie auffordern, dass Sie mir ab sofort ...</Notiz></div>
+<div class="Wort"><W1>bestätigen</W1><W2>bestätigt</W2><W3>hat bestätigt</W3><W4>证实，证明</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>enttäuschen</W1><W2>enttäuscht</W2><W3>hat enttäuscht</W3><W4>使失望</W4><Notiz>
+Ihr Service hat mich sehr enttäuscht.</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+
 
 
 # L5
