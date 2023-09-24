@@ -12,7 +12,7 @@
 <div class="Wort"><W1>aufmerksam</W1><W2>体贴的，周到的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>mutig</W1><W2>勇敢的，大胆的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>nervös</W1><W2>紧张不安的，烦躁的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>kritisch</W1><W2>批判(性)的，评论性的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>kritisch</W1><W2>批判(性)的，评论性的，挑剔的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>treu</W1><W2>忠诚的，可靠的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>ernst</W1><W2>严肃的，稳重的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>ordentlich</W1><W2>井井有条的，整洁的；正派的，正直的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -50,7 +50,7 @@ das 150-jährige Jubiläum der Firma feiern
 <div class="Wort"><W1>die Verantwortung</W1><W2>责任，responsibility</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>sich beschäftigen</W1><W2>beschäftigt</W2><W3>hat beschäftigt</W3><W4>从事于,忙于</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>erledigen</W1><W2>erledigt</W2><W3>hat erledigt</W3><W4>做完，完成</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>übernehmen</W1><W2>übernimmt</W2><W3>hat übernommen</W3><W4>承担，接受，overtaken</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>übernehmen</W1><W2>übernimmt</W2><W3>hat übernommen</W3><W4>承担，接受，overtaken</W4><Notiz>Verantwortung übernehmen</Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Gelegenheit</W2><W3>-en</W3><W4>机会，机遇，opportunity</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Held</W2><W3>-en</W3><W4>英雄，hero</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>sich entschließen</W1><W2>entschließt</W2><W3>hat entschlossen</W3><W4>做决定</W4><Notiz></Notiz></div>
@@ -138,14 +138,6 @@ die Hälfte von allen Deutschen，虽然实质上是很多人，但是von allen 
 <div class="Wort"><W1>bestätigen</W1><W2>bestätigt</W2><W3>hat bestätigt</W3><W4>证实，证明</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>enttäuschen</W1><W2>enttäuscht</W2><W3>hat enttäuscht</W3><W4>使失望</W4><Notiz>
 Ihr Service hat mich sehr enttäuscht.</Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-
-
 
 # L5
 <div class="Wort"><W1>der</W1><W2>Roboter</W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -160,6 +152,8 @@ Ihr Service hat mich sehr enttäuscht.</Notiz></div>
 <div class="Wort"><W1>der</W1><W2>Monitor</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Tastatur</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Maus</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>aufhören</W1><W2>hört auf</W2><W3>hat aufgehört</W3><W4>停止，终止</W4><Notiz>
+Der Regen wird sicher bald aufhören.</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -167,26 +161,88 @@ Ihr Service hat mich sehr enttäuscht.</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+
+<div class="QSA"><Q>去山里度假怎么表达？</Q><S></S><A>
+Ich werde im November in die Berge Urlaub fahren. (wohin)
+Ich werde im November in den Bergen Urlaub machen. (wo)
+</A></div>
 
 
 # L6
-<div class="Wort"><W1>die</W1><W2>Begrüßung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Gastgeschenk</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>einen Platz anbieten</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Aperitif</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Vorspeise</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Hauptspeise</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Nachspeise</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Nachtisch</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Dessert</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Abschied</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Dank</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Begrüßung</W2><W3>-en</W3><W4>欢迎，问候</W4><Notiz>
+Zur Begrüßung küsste Eva ihm auf die Wangen. 出于问候伊娃亲吻了的脸颊。</Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Gastgeschenk</W2><W3>-e</W3><W4>Geschenk für den Gastgeber</W4><Notiz>
+der Gastgeber (邀请客人的)主人，东道主</Notiz></div>
+<div class="Wort"><W1>einen Platz anbieten</W1><W2>请客人入座</W2><W3></W3><W4></W4><Notiz>
+Darf ich Ihnen einen Platz anbieten? 您请坐。</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Aperitif</W2><W3>-s</W3><W4>[法](饭前饮用的)开胃酒</W4><Notiz>Beton bitte „tif“!</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Vorspeise</W2><W3>-n</W3><W4>前餐，餐前小吃</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Hauptspeise</W2><W3>-n</W3><W4>主菜</W4><Notiz>较为隆重的德国正餐是一道前菜(开胃菜或汤品)、一道主菜(Hauptspeise,主菜、主食加上一些配菜)和一到两道饭后菜(Nachspeise,沙拉或甜点)。</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Nachspeise</W2><W3>-n</W3><W4>饭后甜点，餐后甜品</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Nachtisch</W2><W3>-e</W3><W4>饭后甜点，餐后甜品</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Dessert</W2><W3>-s</W3><W4>饭后甜点，餐后甜品</W4><Notiz>[dε`se:ɐ]</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Abschied</W2><W3>-e</W3><W4>离别，告别</W4><Notiz>Beton bitte „Ab“!</Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Dank</W2><W3>wird nur im Singular verwendet</W3><W4>感谢</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Freundschaft</W2><W3>-en</W3><W4>友谊，友情</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Gastfreundschaft</W2><W3>-en</W3><W4>热情款待</W4><Notiz>
+Wir dankten ihm für seine Gastfreundschaft. 我们感谢他的热情款。</Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Kantine</W2><W3>-n</W3><W4>公共食堂</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Reihenfolge</W2><W3>-n</W3><W4>顺序，次序</W4><Notiz>
+die Reihenfolge einhalten 遵守秩序</Notiz></div>
+<div class="Wort"><W1>die Unterhaltung</W1><W2>谈话，聊天</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Verständnis</W2><W3>-e</W3><W4>理解，领会，了解</W4><Notiz>
+Ich habe für Musik kein Verständnis. 我不懂音乐。</Notiz></div>
+<div class="Wort"><W1>ablehnen</W1><W2>lehnt ab</W2><W3>hat abgelehnt</W3><W4>谢绝，不接受</W4><Notiz>Beton bitte „ab“!
+Was ist der Unterschied zwischen "ablehnen" und "absagen"?
+Absagen tut man einen Termin und ablehnen tut man etwas, was einem angeboten wird z.B. Essen, Geld.
+Er muss das Geld ablehnen.
+Er muss den Termin absagen.
+</Notiz></div>
+<div class="Wort"><W1>begrüßen</W1><W2>begrüßt</W2><W3>hat begrüßt</W3><W4>欢迎，向...问候</W4><Notiz>
+Sie begrüßen die ausländischen Gäste mit herzlichem Beifall. 他们热烈鼓掌欢迎外宾。
+der Beifall 鼓掌，欢呼</Notiz></div>
+<div class="Wort"><W1>bestimmen</W1><W2>bestimmt</W2><W3>hat bestimmt</W3><W4>决定，指定，确定</W4><Notiz>
+Ich weiß nicht. Das bestimmt der Gastgeber. 我不知道，这需要由主人决定。</Notiz></div>
+<div class="Wort"><W1>erfüllen</W1><W2>erfüllt</W2><W3>hat erfüllt</W3><W4>将...充满；满足；履行</W4><Notiz>
+die Pflicht erfüllen 履行义务</Notiz></div>
+<div class="Wort"><W1>geschehen</W1><W2>geschieht</W2><W3>ist geschehen</W3><W4>发生</W4><Notiz>
+Es wird dir nichts geschehen. 你放心，不会出什么事。
+Was ist geschehen? 出了什么事儿？</Notiz></div>
+<div class="Wort"><W1>riechen</W1><W2>riecht</W2><W3>hat gerochen</W3><W4>闻，嗅到</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>verbringen</W1><W2>verbringt</W2><W3>hat verbracht</W3><W4>度过</W4><Notiz>
+einen Sonntagvormittag im Bett verbringen 在床上度过星期天的上午
+einen freien Tag am Meer verbringen 在海边度过闲暇的一天</Notiz></div>
+<div class="Wort"><W1>sich verhalten</W1><W2>sich verhält</W2><W3>hat sich verhalten</W3><W4>表现，behave oneself</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>verlassen</W1><W2>verlässt</W2><W3>hat verlassen</W3><W4>离开；抛弃</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>etw. dabei haben</W1><W2>携带</W2><W3></W3><W4></W4><Notiz>
+etw. dabei haben = to have something with</Notiz></div>
+<div class="Wort"><W1>es eilig haben</W1><W2>急着有事，时间紧</W2><W3></W3><W4></W4><Notiz>
+Er hat es eilig. 他急得很。
+Hast du es eilig? (这事情)你急吗？
+</Notiz></div>
+<div class="Wort"><W1>außen</W1><W2>adv. 在外面，外边</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>innen</W1><W2>adv. 在内部，在里面</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>vorher</W1><W2>adv. 以前，事先</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>nachher</W1><W2>adv. 以后，后来，此后</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Erkältung</W1><W2>着凉，感冒</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Vorstellung</W1><W2>演出；介绍</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Vorstellungsgespräch</W1><W2>面试</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Zeichen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>beachten</W1><W2>beachtet</W2><W3>hat beachtet</W3><W4>注意，遵守</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>beleidigen</W1><W2>beleidigt</W2><W3>hat beleidigt</W3><W4>侮辱，冒犯</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>beobachten</W1><W2>beobachtet</W2><W3>hat beobachtet</W3><W4>观察，注视</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich informieren</W1><W2>了解，探听</W2><W3></W3><W4></W4><Notiz>
+sich über etw.(A) informieren 打听某事</Notiz></div>
+<div class="Wort"><W1>betrunken</W1><W2>喝醉酒的</W2><W3></W3><W4></W4><Notiz>
+nüchtern 未醉的，清醒的；冷静的，理智的</Notiz></div>
+<div class="Wort"><W1>senkrecht</W1><W2>垂直的，竖立的</W2><W3></W3><W4></W4><Notiz>[`zεŋkrεçt]</Notiz></div>
+<div class="Wort"><W1>sinnlos</W1><W2>无意义的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>tatsächlich</W1><W2>事实上的，真实的，实际的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>daher</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>falls</W1><W2>在……情况下，如果，假如，一旦</W2><W3></W3><W4></W4><Notiz>
+Ich werde, falls nötig, selbst kommen. 必要时我会亲自来的。</Notiz></div>
+<div class="Wort"><W1>mehrer-</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>solch-</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
