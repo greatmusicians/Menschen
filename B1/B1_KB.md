@@ -574,6 +574,10 @@ Daniel: Also das nächste Mal würde ich auf keinen Fall mehr auf meine Freundin
 Roman: Ja, sieht ganz so aus! Aber da kann man wohl nichts mehr machen. Ich kann Dir nur mit auf den Weg geben: Alles im Leben hat einen Sinn. Wer weiß, was die Wohnung für Nachteile hat? Vielleicht einen schrecklichen Nachbarn? Ich danke Dir jedenfalls für deinen Anruf.
 `````
 
+`````
+neulich 不久前，最近
+`````
+
 # 1-34_Lektion_10_3_2.mp3
 <audio controls loop src="B1.1_KB/1-34_Lektion_10_3_2.mp3"></audio>
 
