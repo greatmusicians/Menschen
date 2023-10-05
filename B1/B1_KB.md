@@ -576,6 +576,17 @@ Roman: Ja, sieht ganz so aus! Aber da kann man wohl nichts mehr machen. Ich kann
 
 `````
 neulich 不久前，最近
+
+
+`````
+
+`````
+应该是有口音
+
+听力文本上是：Lass uns noch ein paar anschauen. 
+但是听起来总是：ein andere anschauen
+
+besichtigt 听起来像是发的ich的音，而不是ik。
 `````
 
 # 1-34_Lektion_10_3_2.mp3
@@ -586,10 +597,19 @@ Roman: So, und wen haben wir denn jetzt in der Leitung?
 Lisa: Hallo, hier ist Lisa.
 Roman: Hallo, Lisa. Was willst Du uns erzählen?
 Lisa: Also, mein Vater hat seinen fünfzigsten Geburtstag gefeiert und ich hab’ eine Rede vorbereitet. Drei Tage lang hab’ ich dran geschrieben und als es dann soweit war, war ich so nervös und hab’ mich nicht getraut. Hätte ich es doch wenigstens probiert! Mein Vater hätte sich sicher gefreut. Aber mich hat einfach der Mut verlassen.
-Roman: Oh, das ist wirklich schade! Das war bestimmt sehr ärgerlich, aber vielleicht klappt es ja ein andermal?
-Dein Vater feiert ja sicher noch öfter Geburtstag. Und dann bist Du gut vorbereitet!
+Roman: Oh, das ist wirklich schade! Das war bestimmt sehr ärgerlich, aber vielleicht klappt es ja ein andermal? Dein Vater feiert ja sicher noch öfter Geburtstag. Und dann bist Du gut vorbereitet!
 Lisa: Ja, das stimmt. Danke.
 Roman: Danke Dir für Deinen Anruf.
+`````
+
+`````
+Leitung 导线，线路，电话线
+dran = daran 在上面，在之上
+soweit [zo`vait] 到那个时候
+sich trauen (+ zu + Infinitiv) 敢于
+Du traust dich ja doch nicht! 你真的没有胆量！
+wenigstens 至少，起码
+andermal adv. 下一次，下一回
 `````
 
 # 1-35_Lektion_10_3_3.mp3
@@ -611,6 +631,29 @@ Annette: Ja, in letzter Minute. Aber ich sah aus! Pitschnass und meine Frisur wa
 Roman: Oh je. Das ist ja wirklich mehr als dumm gelaufen! Danke, Annette, für Deinen Anruf.
 `````
 
+`````
+weit und breit 到处，四周
+Ich sehe weit und breit keine Alternative. 我没看到任何选择。
+das Häuschen [ˈhɔɪ̯sçən] = das Haus
+unterstellen (下雨时到避雨处)躲避，藏身
+scheinen -> Präteritum: schien
+fürchterlich = furchtbar 可怕的，糟糕的，非常的
+nass 湿的，湿透的
+die Unterwäsche 内衣
+Das Schlimme ist, dass... 糟糕的是……
+Trauzeuge, Trauzeugin 证婚人
+pitschnass 湿透的，湿淋淋的
+die Frisur [fri`zu:ɐ] 发型
+ruinieren 毁坏，损坏，使破产
+erwischen 赶上，搭上
+den Bus in letzter Sekunde noch erwischen 最后一秒钟赶上了公交车
+`````
+
+`````
+Klingt ja erst mal nicht besonders schlimm.
+Doesn't sound particularly bad at first.
+`````
+
 # 1-36_Lektion_10_3_4.mp3
 <audio controls loop src="B1.1_KB/1-36_Lektion_10_3_4.mp3"></audio>
 
@@ -628,6 +671,61 @@ Iris: Doch! Sie hat ihn zufällig im Winter auf einer Party getroffen. Sie haben
 Roman: Und? Wie hast Du reagiert?
 Iris: Erst bin ich total erschrocken. Aber im Gespräch mit den beiden hab’ ich schnell bemerkt, dass der Mann richtig doof ist. Er hat nur dummes Zeug geredet. Und an den habe ich ein Jahr lang gedacht! Das hätte ich mir echt sparen können!
 Roman: Tja, wie das Leben so spielt. Danke, Iris, für Deinen Anruf! Und das will ich auch euch, liebe Zuhörer, mit auf den Weg geben: Ärgert Euch nicht zu lange über eine Situation, die dumm gelaufen ist oder eine verpasste Gelegenheit. Man weiß schließlich nie, ob es nicht sogar besser ist, wie es ist. Und nun wieder etwas Musik.
+`````
+
+`````
+plötzlich 突然的，意外的
+wegsehen [vɛk] 把目光移开，掉转目光
+der Weg [veːk], weg [vɛk]
+absolut [apzo`lu:t] 绝对的，完全的
+überlegen 考虑，思索
+schüchtern 胆怯的，畏缩的，羞怯的，腼腆的
+seitdem [zait`de:m] 从那时起
+vergehen (时间)过去，流逝
+zufällig 偶然的，意外的
+erschrecken 惊慌，吃惊，害怕
+erschrocken (过去分词形式)吃惊的
+bemerken 发觉，注意到，观察到
+doof 蠢的，傻的；单调的，无聊的
+dumm 愚蠢的，无聊的
+das Zeug 废话，胡说八道
+dummes Zeug reden 胡说，胡扯，信口开河，夸夸其谈
+verpassen 错过，耽误
+die Gelegenheit 时机，机会
+
+mit einer Bekannten
+为什么是Bekannten呢？这是Adjektive als Nomen的语法，参见B1.1 Lektion 1
+`````
+
+`````
+Das hätte ich mir echt sparen können!
+
+I really could have avoid this.
+
+It a colloquial way of saying that the person saying this realised that what they have done wasn't necesary to archive something.
+colloquial 口语的
+
+https://de.hinative.com/questions/16823481
+`````
+
+`````
+jm. etw. mit auf den Weg geben 给某东西带着路上吃/用 
+
+上面是字面意思，有的时候会引申为：人生路漫漫，给一点忠告，以后可能用得上。长者的一个名场面中说“告诉你们一点人生经验”就可以用这个来翻译。
+
+一定要注意mit在这里是副词，mit副词的用法困住过很多人。
+
+剧中是父亲对女儿要说人生大道理了。
+
+肖深刻的九叔：德语台词 | “好”的反义词是“为你好”
+`````
+
+`````
+Man weiß schließlich nie, ob es nicht sogar besser ist, wie es ist.
+
+You never know eventually whether things might even be better the way they are.
+
+https://hinative.com/questions/16816170
 `````
 
 # 1-37_Lektion_10_6a_6b.mp3
