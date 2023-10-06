@@ -327,7 +327,20 @@ Ich werde, falls nötig, selbst kommen. 必要时我会亲自来的。</Notiz></
 <div class="Wort"><W1>der Motor startet nicht</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>den Pullover zu heiß waschen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>im Stau stehen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>geblitzt werden</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>geblitzt werden</W1><W2>被摄像头抓住开车违章</W2><W3></W3><W4></W4><Notiz>
+Ein Fahrer wurde geblitzt – mit dem Handy am Ohr.
+A driver was caught with a cell phone to his ear.</Notiz></div>
+<div class="Wort"><W1>zufällig</W1><W2>偶然的，意外的</W2><W3></W3><W4></W4><Notiz>Beton bitte „zu“!</Notiz></div>
+<div class="Wort"><W1>zuverlässig</W1><W2>可信赖的，可靠的</W2><W3></W3><W4></W4><Notiz>Beton bitte „zu“!</Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -340,6 +353,16 @@ Ich werde, falls nötig, selbst kommen. 必要时我会亲自来的。</Notiz></
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
+
+<div class="QSA"><Q>Was ist der Unterschied zwischen Warum und Wieso und Weshalb?</Q><S></S><A>
+They all mean "why" and can be used interchangeably, but "weshalb" is actually more formal und would mainly be used in written language.
+
+Fun fact: The saying "Wieso, weshalb, warum? Wer nicht fragt, bleibt dumm!" is very famous in Germany because it is a part of the intro song from German Sesame Street.
+
+Sesame Street，芝麻街，美国儿童教育电视节目。
+
+Sesamstraße (Sesamstraße in German, literally translates to Sesame Street) is the German co-production of Sesame Street. 
+</A></div>
 
 # L11
 <div class="Wort"><W1>durchschlafen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
