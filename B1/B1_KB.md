@@ -386,11 +386,48 @@ Carola: Das stimmt! … Aber weißt du, was der Chef gesagt hat: Ende des Jahres
 Gisela: Das kann ich mir kaum vorstellen!
 `````
 
+`````
+der Lieferschein 发货单
+von selbst = by itself / by themselves
+die Zauberei [tsaubə`rai] 魔法，魔术
+Speicher 存储器，一般是硬盘
+Arbeitsspeicher 内存，RAM，random access memory
+das Kilobyte KB
+`````
+
+`````
+Der Hauptunterschied zwischen Arbeitsspeicher und Speicher besteht darin, dass im Arbeitsspeicher die Daten kurzzeitig für den sofortigen Zugriff gespeichert werden. Die unmittelbaren Rechenvorgänge eines Computers werden über einen kurzfristigen Datenzugriff ausgeführt – Laden von Anwendungen, Surfen im Web oder Bearbeiten einer Tabellenkalkulation. Arbeitsspeicher ist flüchtiger Speicher, d. h. wenn Sie den Computer ausschalten, verschwinden die Daten.
+
+Speicher (entweder eine Festplatte oder eine Solid State Drive) speichert Daten langfristig für den permanenten Zugriff. Das ist die Komponente, die auf Ihre Dateien, Anwendungen und Ihr Betriebssystem zugreift und diese speichert. Das Speicherlaufwerk ist nichtflüchtig, d. h. die Daten bleiben gespeichert, auch wenn Sie den Computer ausschalten.
+
+Arbeitsspeicher und Speicher arbeiten zusammen mit dem Prozessor (CPU) Ihres Computers, um auf Daten zuzugreifen und diese zu verarbeiten.
+
+https://www.crucial.de/articles/about-memory/what-is-the-difference-between-memory-and-storage
+`````
+
+`````
+der Prozessor [pro`tsεso:ɐ] 处理器
+Chipsatz 芯片组
+Grafikkarte 显卡
+Arbeitsspeicher 内存
+die Solid State Drive = die SSD 固态硬盘
+das Betriebssystem 操作系统
+die Hauptplatine 主板
+das Mainboard 同英语发音，主板
+die Hardware 同英语发音，硬件
+`````
+
 # 1-17_Lektion_5_7_1.mp3
 <audio controls loop src="B1.1_KB/1-17_Lektion_5_7_1.mp3"></audio>
 
 `````
 Lukas: In meinem Studium benutze ich jetzt schon ein virtuelles Klassenzimmer oder Chats und Blogs zur Zusammenarbeit mit anderen. In den nächsten Jahrzehnten werden Zeit und Raum für die Kommunikation noch unwichtiger werden. In 20 Jahren werden Studenten sich in eine virtuelle Universität einloggen und überall und jederzeit mit dem ganzen System arbeiten können. Und das geht vermutlich alles ohne Maus und Tastatur.
+`````
+
+`````
+das Jahrzehnt [ja:ɐ`tse:nt] 十年
+In den nächsten Jahrzehnten = In the next decades
+jederzeit adv. 随时，无论何时
 `````
 
 # 1-18_Lektion_5_7_2.mp3
@@ -400,11 +437,71 @@ Lukas: In meinem Studium benutze ich jetzt schon ein virtuelles Klassenzimmer od
 Verena: Unser Unternehmen möchte, dass die Abteilungen besser zusammenarbeiten: So werden wir schon in den nächsten fünf bis zehn Jahren immer weniger feste Arbeitsplätze haben. Die Firma wird Kommunikationsinseln einrichten, wo sich Kollegen und Kunden als Teams treffen. Wie wird es dort aussehen? Es wird Wandflächen für Skizzen und Ideen geben und Service-Roboter werden technische Hilfe bereitstellen und Getränke servieren. Und in 20 Jahren? Vermutlich wird jeder Mitarbeiter bei der Einstellung eine Datenbrille mit allen Informationen bekommen.
 `````
 
+`````
+die Kommunikationsinseln 看google图片，就是那种小隔间，中间有个桌子，几个人可以坐在里面围成一圈讨论
+die insel 岛屿
+einrichten 建立，布置，安排，使可能
+die Skizze [`skitsə] 草图，草稿
+bereitstellen 准备提供
+
+Es wird Wandflächen für Skizzen und Ideen geben
+There will be wall space for sketches and ideas
+`````
+
 # 1-19_Lektion_5_7_3.mp3
 <audio controls loop src="B1.1_KB/1-19_Lektion_5_7_3.mp3"></audio>
 
 `````
 Paulo: Also, ich weiß auch nicht. Noch mehr Technologie in unserem Leben halte ich für unmöglich. Und ich will das auch gar nicht! Die Menschen sind doch jetzt schon mit vielen elektronischen Entwicklungen überfordert. Wenn es so weitergeht, werden wir schon bald eine Rückbewegung erleben. Ich glaube, wir werden die 24-Stunden-Erreichbarkeit zurücknehmen und Medienpausen einplanen. Der Mensch ist schließlich kein Computer! Was ich mir allerdings für mich gut vorstellen kann: Mein Büro wird papierlos sein. Allein schon aus ökologischen Gründen!
+`````
+
+`````
+j-n/sich/etw. für etw. halten 认为，把...视为，把...看作
+Entwicklung 发展；设计，开发
+überfordern 对……提出过分要求，苛求
+Rückbewegung = backward motion
+erleben 遇到，遭到；经历过，见过
+
+zurücknehmen 取回，拿回；撤回，收回
+Beim Schach darf man einen Zug nicht zurücknehmen. 下棋时落子无悔。
+
+allerdings
+① <强调肯定的语气>当然，自然
+② <表示有所保留地承认>固然，诚然，虽然
+③ <表示限制，转折>但是，不过，然而
+
+根据上下文，allerdings 表示的是转折
+
+ökologisch 生态的，生态学的
+der Grund, Gründe, 原因，理由；基础，根本
+
+Allein schon aus ökologischen Gründen!
+For ecological reasons alone!
+仅出于生态原因！
+`````
+
+`````
+Ich glaube, wir werden die 24-Stunden-Erreichbarkeit zurücknehmen und Medienpausen einplanen.
+
+I think we will reduce the 24-hour availability and plan for media breaks.
+
+24-Stunden-Erreichbarkeit 24小时提供服务
+zurücknehmen 这里应该是减少的意思，就是不再24小时开机
+
+
+Digital Detox 数码排毒；数字戒毒期；数位排毒；数字戒毒
+指人们关上电脑和放下自己的行动装置，放下职位和身份，投入大自然的怀抱。
+
+Digital Detox – warum Medienpausen gut tun können
+
+Der englische Ausdruck "Digital Detox" bedeutet übersetzt "Digitale Entgiftung". Gemeint ist damit eine Art "Entgiftung" von Smartphone und Bildschirmen. Denn eine Pause von Medien kann gut tun!
+
+der Ausdruck 词，术语，说法
+Entgiftung 解毒，消毒
+
+与此对应的德语词，就是Medienpausen
+
+einplanen 把……计划在内；把……纳入计划
 `````
 
 # 1-20_Lektion_6_2.mp3
@@ -418,6 +515,25 @@ Herr Müller: Aber ja. Kommen Sie! Wir würden uns freuen.
 Frau Müller: Schatz! Lass doch. Wenn er nicht will. Er war ja erst neulich bei uns … Wir wollen Sie wirklich nicht drängen.
 Herr Müller: Wir drängen Sie doch nicht?
 Herr Geiger: Nein! Na gut, ich komme! Vielen Dank für die Einladung.
+`````
+
+`````
+drängen 催促，催逼
+`````
+
+`````
+Kommen Sie doch noch zum Essen zu uns mit, Herr Geiger!
+Come and have dinner with us, Mr. Geiger!
+最后的mit，应该是mitkommen，一起来
+
+Ich bin mir nicht sicher, ob das Sinn macht.
+I'm not sure if that makes sense.
+
+Lass doch.
+Don't bother!
+算了吧。不用麻烦了。别费心了。别白费劲了。
+
+erst neulich = just recently
 `````
 
 # 1-21_Lektion_6_4.mp3
@@ -445,7 +561,7 @@ Herr Müller: Ja, meine Frau macht einen fantastischen Rinder-Braten! Sie sind d
 Herr Geiger: Doch. Ich bin Vegetarier. Also, falls Sie auch was ohne Fleisch hätten?
 Frau Müller: Gibt es noch andere Nahrungsmittel, gegen die Sie vielleicht allergisch sind?
 Herr Geiger: Nur Weizen. Was gibt es denn?
-Frau Müller: Nudeln. Aber falls Sie lieber möchten ... ich kann ich Ihnen auch eine Kartoffel kochen.
+Frau Müller: Nudeln. Aber falls Sie lieber möchten ... ich kann Ihnen auch eine Kartoffel kochen.
 Herr Geiger: Das kann ich auf gar keinen Fall annehmen.
 Frau Müller: Ach, das macht jetzt auch keine Umstände mehr.
 …
@@ -456,6 +572,46 @@ Frau Müller: Nein, das kenne ich eigentlich nicht. Mit dem Gewicht habe ich kei
 Herr Geiger: Aber zu einem Kaffee würde ich nicht nein sagen. Aber bitte ohne ...
 Frau Müller: ... Milch! Sie haben sicher eine Laktose-Intoleranz?
 Herr Geiger: Ja!? Woher wussten Sie das?
+`````
+
+`````
+erfreut 感到高兴的
+meinerseits adv. 从我这方面来说
+
+- Sehr erfreut. 我非常高兴！
+- Ganz meinerseits! 我也很高兴！
+
+stören 干扰，打扰，妨碍
+wegsperren 关起来
+der Weizen 小麦
+annehmen 收下，接受
+der Umstand 情况，情形；麻烦
+
+Wenn es Ihnen nicht viele Umstände macht, dann komme ich gern.
+要是不给您添麻烦的话，我很愿意来。
+
+das Pfund 磅，这里引申为重量、体重
+`````
+
+`````
+Würde es Ihnen etwas ausmachen, ...
+Would you mind ...
+
+Würde es Ihnen etwas ausmachen, das Fenster zu öffnen?
+Would you mind opening the window?
+`````
+
+`````
+seit langem
+Alternative Schreibung: seit Langem
+Grammatik: Mehrwortausdruck
+Bedeutung: seit langer Zeit, in gegensätzlicher Bedeutung zu seit kurzem
+
+Die Frage, ob seit langem oder seit Langem richtig ist, lässt sich ganz leicht beantworten.
+Beide Schreibweisen sind richtig.
+
+Ich habe schon seit langem / seit Langem Heimweh.
+Wir haben uns seit langem / seit Langem nicht gesehen.
 `````
 
 # 1-22_Modul_2_1.mp3
@@ -495,26 +651,125 @@ Mädchen: Uff, zum Glück.
 Vater: Schade. Also ich finde, Fische haben so etwas Beruhigendes! Vielleicht wäre so ein Aquarium ja was für mein Büro!
 `````
 
-# 1-25_Lektion_7_5a.mp3
-<audio controls loop src="B1.1_KB/1-25_Lektion_7_5a.mp3"></audio>
+`````
+sich umschauen = take a look around，四处看看
+sich informieren 了解，探听
+niedlich 娇小玲珑的，俊俏的，可爱的
+die Gesellschaft 社会；社交圈子；社交聚会
+ideal [ide`a:l] 理想的，完美的
+benötigen = brauchen 需要
+das Gehege [gə`he:gə] = der Käfig 笼子
+der Unterschlupf 译为英语shelter，应该是指带顶的笼子，而不是露天的笼子
+Beschäftigung 工作，活动；雇用；研究，学习
+Beschäftigungsmöglichkeit 这里应该是指活动空间，估计是让小动物做运动的设施，比如能让仓鼠快速跑步的跑轮
+berücksichtigen 考虑到，注意到
+mehrere 好些，几个，若干
+die Menge 数量；大量，大批
+ernsthaft 认真的，严肃的
+hohe Preise = high prices 搜不到hohe这个单词，只能搜到hohe Preise的用法，不知道为什么
+ausreden 劝阻，劝止
+die Pflicht 义务，职责，责任
+vollständig 完整的
+aufklären 向...说明，解释
+j-n über etw.(A) aufklären 向...说明，解释
+eine Entscheidung treffen 做决定
+sich(Dat.) etw. überlegen 思考，思虑
+öde = langweilig
+die Pflege 护理，照顾，照管
+beruhigend 镇静的，有镇静作用的，能抚慰的
+das Aquarium [a`kva:rium] 海洋馆，水族馆，水族箱，鱼缸（jede Größe各种大小）
+`````
 
 `````
-Mitarbeiterin: Wenn Sie es richtig machen wollen, dann benötigen Sie ein Gehege von circa drei bis vier Quadratmetern mit Unterschlupf, Futter- und Wassernäpfen und mit Beschäftigungsmöglichkeiten.
-Vater: Drei bis vier Quadratmeter! Das ist aber viel!
-Mitarbeiterin: Ja, das stimmt. Und Sie müssen auch noch berücksichtigen, dass kein Kaninchen immer nur im Gehege sitzen möchte, egal, wie groß es ist. Ich würde Ihnen also empfehlen, die Kaninchen mehrere Stunden am Tag frei in der Wohnung laufen zu lassen.
-Vater: Ach, du meine Güte: Ich sehe schon, da kommt eine Menge Arbeit auf uns zu! Ich selbst habe überhaupt keine Zeit, das alles zu übernehmen!
-Mitarbeiterin: Ja, das ist ein guter Punkt … Könnt ihr zwei euch denn vorstellen, mindestens einmal pro Woche das Kaninchengehege sauber zu machen?
-Junge: Klar!
-Mädchen: Ja, klar!
-Mitarbeiterin: Und habt ihr ernsthaft Lust, jeden Tag mehrmals die Kaninchen zu füttern? Denkt daran, es kann sein, dass ihr manchmal lieber den ganzen Tag mit Freunden draußen sein wollt … Vergessen Sie nicht: Auch bei hohen Gemüsepreisen im Winter benötigen die Tiere täglich frisches Futter und natürlich Heu. Dazu kommen noch
-Kosten für den Tierarzt und so weiter. Verstehen Sie: Ich möchte Ihnen und den Kindern den Wunsch nach einem Haustier nicht ausreden. Es ist unsere Pflicht, Sie vollständig aufzuklären. Schließlich wollen wir alle nicht, dass die Tiere dann doch wieder zu uns zurückkommen. Ich rate Ihnen, noch einmal über alles nachzudenken.
-Vater: Tja, da haben Sie recht. Es ist wirklich nicht leicht, so schnell eine Entscheidung zu treffen. Kinder, das müssen wir uns zu Hause noch gut überlegen. Da gibt es wirklich einiges zu beachten … Sagen Sie, haben Sie auch etwas … Einfaches? Wie wär’s zum Beispiel mit, ähm, Fischen?
-Mädchen: Wie langweilig, Papa.
-Junge: Oh! Fische, voll öde!
-Mitarbeiterin: Nein, zurzeit haben wir keine Fische in Pflege. Tut mir leid!
-Junge: Puh, Glück gehabt!
-Mädchen: Uff, zum Glück.
-Vater: Schade. Also ich finde, Fische haben so etwas Beruhigendes! Vielleicht wäre so ein Aquarium ja was für mein Büro!
+infrage [in`fra:gə] = in Frage
+
+infrage/in Frage搭配不同的动词有不同的含义：
+1）etw. kommt infrage/in Frage 某事可行，可以考虑
+2）etw. infrage/in Frage stellen 对……表示怀疑
+`````
+
+`````
+Ach, du meine Güte!
+Oh my God!
+
+der Ausruf 惊呼
+unangenehm `un·an·ge·nehm 令人不快的
+Interjektion [语]感叹词
+synonym [zyno`ny:m] 同义的
+
+Ach, du meine Güte!
+Synonym zu: 
+Ach, du dicker Vater!
+Ach, du dickes Ei!
+Ach, du grüne Neune!
+Ach, du liebe Zeit!
+Ach, du lieber Himmel!
+Heiliger Bimbam!
+`````
+
+`````
+Ich sehe schon, da kommt eine Menge Arbeit auf uns zu!
+I can see that we have a lot of work to do!
+
+zukommen 走近，接近；面临，摆在...面前
+etw. kommt auf jmdn./etw. zu
+
+Er kam mit schnellen Schritten auf mich zu. 他快步朝我走来。
+Das Gewitter kommt gerade auf uns zu. 雷雨正在向我们袭来。
+
+der Schritt 脚步，步伐；步骤
+`````
+
+`````
+ernst vs. ernsthaft vs. ernstlich
+
+Ein ernster Mensch lacht nicht.
+Es gibt ernste Menschen und heitere Menschen.
+ernst 严肃的，稳重的
+heiter 开朗的，轻松愉快的
+ernst 和 heiter 是反义词
+
+
+ernst 似乎偏向于形容一个人的内在性格
+ernsthaft 似乎偏向于形容认真地做某件事
+ernstlich 似乎等同于ernsthaft
+
+但区别并不简单如此，详见：
+https://german.stackexchange.com/questions/8613/sehr-ernsthaft-vs-sehr-ernst
+`````
+
+`````
+固定搭配
+
+einen Vortrag halten (比如在课堂上)作报告
+eine Entscheidung treffen 做决定
+die Verantwortung tragen 承担责任
+einen hohen Ruf genieen 享有很高的声誉
+den Horizont erweitern 开阔视野
+auf die Toilette gehen 去上厕所
+
+阳性
+der Iran 伊朗
+der Irak 伊拉克
+der Vatikan 梵蒂冈
+der Jemen 也门
+der Tschad 乍得
+
+阴性
+die Mongolei 蒙古
+die Schweiz 瑞士
+die Slowakei 斯洛伐克
+die Ukraine 乌克兰
+die Türkei 土耳其
+
+复数
+die USA 美国
+die Bahamas 巴哈马群岛
+die Farer 法罗群岛
+die Niederlande 荷兰
+die Philippinen 菲律宾
+
+https://baijiahao.baidu.com/s?id=1731968109063435674
 `````
 
 # 1-26_Lektion_7_7b.mp3
@@ -529,6 +784,14 @@ Verkäufer: Sie sollten auch noch berücksichtigen, dass die Jacke nicht zu schw
 Kundin: Ja, Sie haben recht. Das wäre gut.
 Verkäufer: Dann würde ich Ihnen eine von diesen Jacken empfehlen. Die sind wasserdicht, atmungsaktiv und leicht. Welche Farbe wünschen Sie?
 Kundin: Ich würde die rote Jacke gern einmal anprobieren.
+`````
+
+`````
+die Regenjacke 防水冲锋衣，雨衣
+wasserdicht 防水的
+schwitzen 出汗
+berücksichtigen 考虑到，注意到
+atmungsaktiv 透气的，透气良好的
 `````
 
 # 1-28_Lektion_9_1b.mp3
