@@ -127,6 +127,26 @@ In diesem einzigartigen, achteckigen Café können Sie bayerische Spezialitäten
 Ich schlage vor, wir starten nun sofort mit unserer Führung. Möchte noch jemand etwas an der Garderobe abgeben?
 `````
 
+`````
+wirken 从事于，工作，活动
+Leben und Wirken = life and work
+schräg 怪异的，怪诞不经的，不合常规的
+Komiker 滑稽演员，喜剧演员
+der Wortwitz 文字游戏
+entstehen -> Präteritum： entstand
+entstehen 发生，出现，形成，兴起
+zahlreich 很多的，数目多的
+humorvoll 幽默的
+der Sketch [skεtʃ] [英]滑稽短剧
+`````
+
+`````
+Valentin Karlstadt Musäum
+为纪念巴伐利亚民谣歌手Karl Valentin而建的博物馆，展品主要和这位歌手相关。
+
+慕尼黑周末大雪，见了许久未见的朋友，逛了幽默中透着暗黑甚至恐怖的Valentin-Karlstadt-Musäum，整体还是充满了戏剧艺术的设计感，各种装置道具都很有趣，楼顶的咖啡馆适合边聊天边赏雪。
+`````
+
 # Lektion_17_Hoeren_1b.mp3
 <audio controls loop src="B1.2_AB/Lektion_17_Hoeren_1b.mp3"></audio>
 
