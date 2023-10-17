@@ -434,22 +434,12 @@ Sesamstraße (Sesamstraße in German, literally translates to Sesame Street) is 
 
 
 # L14
-<div class="Wort"><W1>die</W1><W2>Kultur</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kunst</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>das</W1><W2>Multimedia</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Fotografie</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Beruf</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Wirtschaft</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Gesellschaft</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Politik</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Sprache</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>interkulturelle Bildung</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Gesundheit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Ernährung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Körper</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Bewegung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Heim</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Garten</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -457,27 +447,27 @@ Sesamstraße (Sesamstraße in German, literally translates to Sesame Street) is 
 
 
 # L15
-<div class="Wort"><W1>das</W1><W2>Handy</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kleidung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die</W1><W2>Geste</W2><W3>-n</W3><W4>姿态;手势</W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Gesichtausdruck</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Lächeln</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Blickkontakt</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Sitzhaltung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Essen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Getränk</W2><W3>-e</W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Begrüßung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Unpünktlichkeit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Rauchen</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Flirten</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Frage</W2><W3>-n</W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der</W1><W2>Gesichtausdruck</W2><W3>-ausdrücke</W3><W4>面部表情</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Lächeln</W1><W2>微笑</W2><W3></W3><W4></W4><Notiz>lächeln 微笑</Notiz></div>
+<div class="Wort"><W1>der Blickkontakt</W1><W2>眼神交流</W2><W3></W3><W4></W4><Notiz>
+Wir hatten mal Blickkontakt, aber ich traute mich nicht, sie anzusprechen.</Notiz></div>
+<div class="Wort"><W1>die Sitzhaltung</W1><W2>坐姿</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Begrüßung</W1><W2>欢迎，问候</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Unpünktlichkeit</W1><W2>不守时间，不准时</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Flirten</W1><W2>调情，眉来眼去</W2><W3></W3><W4></W4><Notiz>flirten 调情，眉来眼去</Notiz></div>
+<div class="Wort"><W1>der Buchhalter</W1><W2>会计</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Fähigkeit</W1><W2>能力，才能</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Anforderung</W1><W2>要求</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
+<div class="QSA"><Q>machen Ihnen nichts aus</Q><S></S><A>
+能轻松应对，对你来说不算啥
+
+Stresssituationen und die Notwendigkeit, zu organisieren machen Ihnen nichts aus.
+</A></div>
 
 # L16
 <div class="Wort"><W1>der</W1><W2>Streit</W2><W3></W3><W4></W4><Notiz></Notiz></div>

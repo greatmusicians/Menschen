@@ -138,6 +138,11 @@ entstehen 发生，出现，形成，兴起
 zahlreich 很多的，数目多的
 humorvoll 幽默的
 der Sketch [skεtʃ] [英]滑稽短剧
+Dauerausstellung 长期展览
+universal [univεr`za:l] 全部的，普遍的，无所不包的
+das Genie, Genies, 天才，天赋
+der Akrobat [akro`ba:t] 杂技演员
+der Filmemacher = der Regisseur
 `````
 
 `````
@@ -145,6 +150,32 @@ Valentin Karlstadt Musäum
 为纪念巴伐利亚民谣歌手Karl Valentin而建的博物馆，展品主要和这位歌手相关。
 
 慕尼黑周末大雪，见了许久未见的朋友，逛了幽默中透着暗黑甚至恐怖的Valentin-Karlstadt-Musäum，整体还是充满了戏剧艺术的设计感，各种装置道具都很有趣，楼顶的咖啡馆适合边聊天边赏雪。
+`````
+
+`````
+sich ansehen
+
+Sie müssen sich ansehen, was ich in diesem Fall hier habe.
+You need to look at what I have here in this case.
+
+Wir wollen, dass Sie es sich ansehen. We want you to look.
+We want you to check it out.
+Sie sollten es sich ansehen. You should take a look.
+You should check it out.
+
+check it out = 来看看
+切克闹是一个网络词语，原为英音：Check it out! 意为：我要开始了，你们可要认真听哦
+`````
+
+`````
+um nur einige zu nennen = 仅举几例
+
+Es bedeutet, dass du nur ein paar von den Dingen sagst, die möglich sind.
+https://de.hinative.com/questions/7126692
+
+网上还能搜到类似的：
+um nur einige Beispiele zu nennen
+um nur einige Namen zu nennen
 `````
 
 # Lektion_17_Hoeren_1b.mp3
