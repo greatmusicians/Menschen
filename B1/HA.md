@@ -1,4 +1,4 @@
-Tipps für China
+# Tipps für China
 
 Immer ist es besser, ein Gastgeschenk dabei zu haben!
 
@@ -14,17 +14,30 @@ Haben Sie Angst um die Stäbchen? Keine Angst! Es gibt normalerweise Löffel in 
 
 Hoffentlich haben Sie eine gut Reise nach China!
 
+# mündliche Aufgabe
+Es ist Ihr erster Arbeitstag in einer deutschen Firma. Sie lernen Ihre Kollegin / Ihren Kollegen kennen. Stellen Sie sich vor und erzählen Sie über sich.
+
+Nennen Sie Informationen zu den folgenden Punkten:
+1. Heimat 🗸
+2. Wohnsituation (jetzt) 🗸
+3. Familie 🗸
+4. Studium 🗸
+5. Berufserfahrung
+6. Sprachkenntnisse 🗸
+7. Auslandserfahrungen 🗸
+8. Hobbys 🗸
 
 
+Hallo, ich bin Yanan Lu. Und Lu ist mein Familienname.
 
+Ich komme aus einem kleinen Dorf in Provinz Hebei, in China. Hebei ist in China genauso wie Land Brandenburg in Deutschland. Unsere Hauptstadt Peking liegt auch mitten in Hebei, und Hebei liegt auch in Nordostchina. Sie fahren von Peking 200 km nach Süden, dann ist mein Zuhause da. Aber vielleicht können Sie Ihnen nicht vorstellen, dass es keinen Berg in meinem Heimat gibt. Nur bis ich 20 Jahre alt war, habe ich zum ersten Mal die realen Berge gesehen.
 
+Meine Eltern haben ein Haus auf dem Land. Als Kinder sind meine kleine Schwester und ich in diesem Haus aufgewachsen. Dann bin ich nach Peking gegangen. In Peking habe ich Computer Technologie an der Uni studiert. Danach habe ich für fast 8 Jahre in Tibet gearbeitet. 
 
+Am Anfang liebe ich nicht meine Fachrichtung. Ich wollte lieber mit Menschen als Maschinen zusammen arbeiten. 
 
-Menschen fühlen sich zufrieden, wenn das Gespräch lang dauert. 
-Menschen werden zufrieden sein, wenn sie andere Leute lehren können.
+Jetzt wohne ich in einer WG, mit 3 Mitbewohnern. Die Miete hier ist wirklich hoch. Das ist mein erstes Mal im Ausland arbeiten und leben. Und zu dieser Zeit kann ich noch keine bessere Wohnung finden.
 
-Ablehnen Sie nicht, wenn der Gastgeber Ihren Kindern etwas gibt!
+Ich spreche Chinesisch, Deutsch und Englisch. Ich kann Englisch nicht so gut sprechen. Aber es macht mir nichts aus, englische Fachtexte zu lesen und zu verstehen. Deutsch habe ich in Goethe-Institut gut gelernt. Hoffentlich können Sie korrigieren, wenn ich Probleme in Aussprach habe. 
 
-
-
-
+In meiner Freizeit höre ich gern klassische Musik, sehe ich gern Filme und Serien. Außerdem lese ich auch gern Bücher über Geschichte, Jura, Kultur usw.. Ich bin ziemlich neugierig auf die Geschichte von dem Römisches Reich, Europa und den USA. 
