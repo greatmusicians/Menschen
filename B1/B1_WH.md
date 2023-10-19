@@ -470,50 +470,124 @@ Stresssituationen und die Notwendigkeit, zu organisieren machen Ihnen nichts aus
 </A></div>
 
 # L16
-<div class="Wort"><W1>der</W1><W2>Streit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Streit</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>sich streiten</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Kuss</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>sich küssen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Lüge</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Kuss</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich küssen</W1><W2></W2><W3>hat sich geküsst</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Lüge</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>lügen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>sich verlieben</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>heiraten</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>sich trennen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Beziehung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Freundschaft</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Ehe</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kindheit</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Jugend</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Alter</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Generation</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich trennen</W1><W2></W2><W3>hat sich getrennt</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Beziehung</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Freundschaft</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Ehe</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Kindheit</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Jugend</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Alter</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Generation</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>aufwachsen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Erziehung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Erziehung</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>erziehen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Ehe</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Konflikt</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Krieg</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Ratschlag</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Träne</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich aufregen</W1><W2></W2><W3>hat sich aufgeregt</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>aufgeregt sein</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ausgehen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>entschlossen sein</W1><W2></W2><W3>ist entschlossen gewesen</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich gewöhnen an</W1><W2></W2><W3>hat sich gewöhnt</W3><W4></W4><Notiz>
+sich gewöhnen an Akk.
+die Kinder an Sauberkeit, Ordnung gewöhnen
+Ich habe mich von klein auf daran gewöhnt, früh aufzustehen. 从小</Notiz></div>
+<div class="Wort"><W1>aufwärts gehen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>gewöhnlich</W1><W2></W2><W3></W3><W4></W4><Notiz>ungewöhnlich</Notiz></div>
+<div class="Wort"><W1>verantwortlich sein</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>hingehen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Ernte</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Gegensatz</W1><W2>对立面</W2><W3></W3><W4></W4><Notiz>
+im Gegensatz zu j-m/etw. 不同于，与...相反</Notiz></div>
+<div class="Wort"><W1>das Klavier</W1><W2></W2><W3></W3><W4></W4><Notiz>[klaˈviːɐ̯]</Notiz></div>
+<div class="Wort"><W1>die Kosmetik</W1><W2>化妆，化妆用品</W2><W3></W3><W4></W4><Notiz>[kɔs`me:tik]</Notiz></div>
+<div class="Wort"><W1>die Mitternacht</W1><W2>半夜，夜里12点以后</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Schminke</W1><W2>化妆品</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich schminken</W1><W2></W2><W3>hat sich geschminkt</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Wert</W1><W2>价值，价格</W2><W3></W3><W4></W4><Notiz>
+Wert legen auf 重视</Notiz></div>
+<div class="Wort"><W1>wochentags</W1><W2>工作日，周一到周五</W2><W3></W3><W4></W4><Notiz>A/CH: auch: unter der Woche</Notiz></div>
 
+<div class="QSA"><Q>Gegensatz vs. Gegenteil</Q><S></S><A>
+Gegensatz bedeutet: Unterschied, Widerspruch, Verschiedenheit.
+
+Engl: in contrast to
+
+"Deine Worte stehen im Gegensatz zu deinen Taten."
+"Im Gegensatz zu dir halte ich meine Versprechen ein."
+
+Gegenteil:
+Es bedeutet das genau Umgekehrte, Entgegengesetzte.
+
+Engl: the opposite of
+
+"Das Gegenteil von Liebe ist nicht Hass, sondern Gleichgültigkeit".
+"Das Gegenteil von schwarz ist weiß."
+"Groß ist das Gegenteil von klein und dick das Gegenteil von dünn."
+</A></div>
 
 # L17
-<div class="Wort"><W1>die</W1><W2>Galerie</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Ausstellung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>ausstellen</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Maler</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Künstler</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>das</W1><W2>Stillleben</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Landschaft</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Hügel</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Mauer</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Kunstakademie</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Farbe</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>farbig</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Form</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Zeichnung</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>die</W1><W2>Skizze</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Pinsel</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>der</W1><W2>Bleistift</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Galerie</W1><W2>画廊</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ausstellen</W1><W2>陈列，展览</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Stillleben</W1><W2>静物(写生，画)</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Hügel</W1><W2>丘陵，小山</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Kunstakademie</W1><W2>艺术学院</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>farbig</W1><W2>彩色的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Form</W1><W2>形式，形状</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Zeichnung</W1><W2>素描画</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Skizze</W1><W2>(绘画)速写；草图，提纲</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Pinsel</W1><W2>毛笔，画笔，毛刷</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Anerkennung</W1><W2>承认，肯定，赞扬</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>anerkennen</W1><W2></W2><W3>hat anerkannt</W3><W4>承认，赞同</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Einfluss</W1><W2>影响</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Medien</W1><W2>Pl. 媒体</W2><W3></W3><W4></W4><Notiz>Medium</Notiz></div>
+<div class="Wort"><W1>die Zerstörung</W1><W2>破坏，毁灭</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>zerstören</W1><W2></W2><W3>hat zerstört</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>entstehen</W1><W2></W2><W3>ist entstanden</W3><W4>出现，产生，形成</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>gründen</W1><W2></W2><W3>hat geründet</W3><W4>成立，建立；基于，根据</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>retten</W1><W2></W2><W3>hat gerettet</W3><W4>拯救，挽救</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>unterrichten</W1><W2>授课，讲课</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Antrag</W1><W2>申请，提议</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Heiratsantrag</W1><W2>求婚</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Feind</W1><W2>敌人，反对者</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>feindlich</W1><W2>敌对的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Liebling</W1><W2>Schatz，爱称，亲爱的，宝贝</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Recht</W1><W2>法，权利，权力，天理，公正，正当</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Menschenrecht</W1><W2>人权</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Vorurteil</W1><W2>成见，偏见</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich einsetzen für</W1><W2></W2><W3>hat sich eingesetzt</W3><W4>致力于，为...说话</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>kämpfen</W1><W2></W2><W3>hat gekämpft</W3><W4>斗争，奋斗</W4><Notiz>
+für, gegen j-n / etw. kämpfen = sich für, gegen j-n / etw. einsetzen
+kämpfen gegen
+für die Gleichberechtigung der Frau, gegen den Rassismus kämpfen
+为妇女平等，反对种族主义而斗争
+der Rassismus [ra`sismus] 种族主义</Notiz></div>
+<div class="Wort"><W1>gleichberechtigt</W1><W2>权利平等的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>wild</W1><W2>原始的，野蛮的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>öfter</W1><W2>经常，常常</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Blitz</W1><W2>闪电</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Diebstahl</W1><W2>偷窃行为</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Donner</W1><W2>雷声</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Droge</W1><W2>毒品</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Überschrift</W1><W2>标题</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>verhaften</W1><W2></W2><W3>hat verhaftet</W3><W4>拘捕，逮捕</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>überrascht sein von</W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
 # L18
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
