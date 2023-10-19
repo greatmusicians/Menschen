@@ -552,7 +552,7 @@ Engl: the opposite of
 <div class="Wort"><W1>der Einfluss</W1><W2>影响</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>die Medien</W1><W2>Pl. 媒体</W2><W3></W3><W4></W4><Notiz>Medium</Notiz></div>
 <div class="Wort"><W1>die Zerstörung</W1><W2>破坏，毁灭</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1>zerstören</W1><W2></W2><W3>hat zerstört</W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>zerstören</W1><W2></W2><W3>hat zerstört</W3><W4>破坏，毁灭</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>entstehen</W1><W2></W2><W3>ist entstanden</W3><W4>出现，产生，形成</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>gründen</W1><W2></W2><W3>hat geründet</W3><W4>成立，建立；基于，根据</W4><Notiz></Notiz></div>
 <div class="Wort"><W1>retten</W1><W2></W2><W3>hat gerettet</W3><W4>拯救，挽救</W4><Notiz></Notiz></div>
