@@ -4,7 +4,7 @@ Sie fahren von Peking 200 km nach Süden, dann ist mein Zuhause da. Vielleicht k
 
 Meine Eltern haben ein Haus auf dem Land. Als Kinder sind meine kleine Schwester und ich in diesem Haus aufgewachsen. Dann bin ich nach Peking gegangen. In Peking habe ich Computer Technologie an der Uni studiert. Danach habe ich fast 8 Jahre lang in Tibet gearbeitet. 
 
-Am Anfang liebe ich nicht meine Fachrichtung. Ich wollte nämlich lieber mit Menschen als Maschinen zusammen arbeiten. Aber nach ein paar Jahren hat mir dieser Beruf schon gut gefallen, als ich mehre Erfahrungen in der Arbeit gewonnen habe. Jetzt möchte ich weiter und lange als IT-Ingenieur Karriere machen. 
+Am Anfang liebe ich nicht meine Fachrichtung. Ich wollte nämlich lieber mit Menschen als Maschinen zusammen arbeiten. Aber nach ein paar Jahren hat mir dieser Beruf gut gefallen, als ich mehre Erfahrungen in der Arbeit gewonnen habe. Jetzt möchte ich weiter und lange als IT-Ingenieur Karriere machen. 
 
 Vor Kurzem habe ich eine WG am Stadtrand gefunden. Dann habe ich jetzt drei Mitbewohner, die sowohl aus der Türkei als auch Indien und Spanien kommen. Und nicht nur die Miete hier ist wirklich hoch, sondern auch das Taxi, das Restaurant und das Buch. Das ist mein erstes Mal im Ausland arbeiten und leben. Deshalb kann ich mich bis jetzt an die Stituation noch nicht so gut gewöhnen. 
 
