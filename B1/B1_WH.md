@@ -590,12 +590,12 @@ der Rassismus [ra`sismus] 种族主义</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
 # L18
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das</W1><W2>Versprechen</W2><W3>gleich</W3><W4>诺言</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>umsetzen</W1><W2>setzt um</W2><W3>hat umgesetzt</W3><W4>移走；使转化；把…付诸实施</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Einheit</W1><W2>(国家，民族)统一</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>ehemalig</W1><W2>从前的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>blühend</W1><W2>(鲜花)盛开的；繁荣的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>gering</W1><W2>wenig</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
@@ -611,6 +611,12 @@ der Rassismus [ra`sismus] 种族主义</Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
+<div class="QSA"><Q>Es geht um die Frage, ob/warum/was/wie ...</Q><S></S><A>
+It is about the question of ... 
+对此涉及的问题是。。。</A></div>
+<div class="QSA"><Q>Die Reportage geht der Frage nach, welche/ob ...</Q><S></S><A>
+nachgehen 跟随，跟踪；调查，探究，追查
+该报告调查了...</A></div>
 
 # L19
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
