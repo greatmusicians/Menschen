@@ -4,10 +4,10 @@ Sie fahren von Peking 200 km nach Süden, dann ist mein Zuhause da. Vielleicht k
 
 Meine Eltern haben ein Haus auf dem Land. Dort sind meine kleine Schwester und ich als Kinder aufgewachsen. Dann bin ich nach Peking gegangen. In Peking habe ich Computer Technologie an der Uni studiert. Danach habe ich fast 8 Jahre lang in Tibet gearbeitet. 
 
-Am Anfang hatte ich wenig Lust auf meine Fachrichtung. Ich wollte nämlich lieber mit Menschen als Maschinen zusammen arbeiten. Aber nach ein paar Jahren hat mir dieser Beruf gut gefallen, als ich mehre Erfahrungen in der Arbeit gewonnen habe. Jetzt möchte ich weiter und lange als IT-Ingenieur Karriere machen. 
+Am Anfang hatte ich wenig Lust auf meine Fachrichtung. Ich wollte nämlich lieber mit Menschen als Maschinen zusammen arbeiten. Aber nach ein paar Jahren hat mir dieser Beruf noch einmal gut gefallen, als ich mehre Erfahrungen in der Arbeit gewonnen habe. Jetzt möchte ich weiter und lange als IT-Ingenieur Karriere machen. 
 
 Vor Kurzem habe ich eine WG am Stadtrand gefunden. Dann habe ich jetzt drei Mitbewohner, die sowohl aus der Türkei als auch Indien und Spanien kommen. Und nicht nur ist die Miete hier wirklich hoch, sondern auch das Taxi, das Restaurant und das Buch. Das ist mein erstes Mal im Ausland arbeiten und leben. Deshalb kann ich mich bis jetzt an die Stituation noch nicht so gut gewöhnen. 
 
-Ich spreche Deutsch, Englisch und natürlich Chinesisch. Leider kann ich Englisch nicht so gut hören und sprechen. Aber es macht mir nichts aus, die englische Fachtexte zu lesen und zu verstehen. Deutsch habe ich in Goethe-Institut neu gelernt. Hoffentlich können Sie mir helfen, wenn ich Probleme in der Kommunikation habe. 
+Ich spreche Deutsch, Englisch und natürlich Chinesisch. Leider kann ich Englisch nicht so gut hören und sprechen. Aber es macht mir nichts aus, die englische Fachtexte zu lesen und zu verstehen. Deutsch habe ich letzten Jahr in Goethe-Institut neu gelernt. Hoffentlich können Sie mir helfen, wenn ich Probleme in der Kommunikation habe. 
 
-In meiner Freizeit höre ich gern klassische Musik, und mache ich gern Sport z.B. Badminton und Frisbee. Außerdem lese ich noch gern Bücher über Geschichte, Jura, Kultur usw.. Ich bin ziemlich neugierig auf die Geschichte von dem altrömische Reich, Europa und den USA. 
+In meiner Freizeit höre ich gern klassische Musik, und mache ich gern Sport z.B. Badminton und Frisbee. Außerdem lese ich auch gern Bücher über Geschichte, Jura, Kultur usw.. Ich bin ziemlich neugierig auf die Geschichte von dem altrömische Reich, Europa und den USA. 
