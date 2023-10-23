@@ -596,20 +596,53 @@ der Rassismus [ra`sismus] 种族主义</Notiz></div>
 <div class="Wort"><W1>ehemalig</W1><W2>从前的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>blühend</W1><W2>(鲜花)盛开的；繁荣的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 <div class="Wort"><W1>gering</W1><W2>wenig</W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
-<div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich engagieren</W1><W2>sich engagiert</W2><W3>hat sich engagiert</W3><W4>致力于</W4><Notiz>
+[ãga`ʒi:rən] 法语词 ã发音类似拼音ang
+
+sich (für jn-etw.) engagieren
+Sie hat sich sehr für die Rechte von Kindern engagiert.
+她致力于儿童权利运动。</Notiz></div>
+<div class="Wort"><W1>pessimistisch</W1><W2>悲观的</W2><W3></W3><W4></W4><Notiz>Beton bitte „mi“!</Notiz></div>
+<div class="Wort"><W1>optimistisch</W1><W2>乐观的</W2><W3></W3><W4></W4><Notiz>Beton bitte „mi“!</Notiz></div>
+<div class="Wort"><W1>die Bürgerinitiative</W1><W2>居民自发组织</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Bunderskanzler</W1><W2>联邦总理</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Demokratie</W1><W2>民主政体，民主国家</W2><W3></W3><W4></W4><Notiz>Beton bitte „tie“!</Notiz></div>
+<div class="Wort"><W1>die Demostration</W1><W2>示威游行</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Energie</W1><W2>能源，能量</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Forschung</W1><W2>研究</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Frieden</W1><W2>和平</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die</W1><W2>Gebühr</W2><W3>-en</W3><W4>费用</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Kraftwerk</W1><W2>发电站</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Minister</W1><W2>部长</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Opposition</W1><W2>反对党，在野党</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>das Parlament</W1><W2>议会，国会</W2><W3></W3><W4></W4><Notiz>Beton bitte „ment“!</Notiz></div>
+<div class="Wort"><W1>der Protest</W1><W2>抗议</W2><W3></W3><W4></W4><Notiz>Beton bitte „test“!</Notiz></div>
+<div class="Wort"><W1>die Regierung</W1><W2>政府，内阁</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Skandal</W1><W2>丑闻</W2><W3></W3><W4></W4><Notiz>Beton bitte „dal“!
+Sprich bitte „s“ wie in „Glas“ aus!</Notiz></div>
+<div class="Wort"><W1>der Vertreter</W1><W2>代表</W2><W3></W3><W4></W4><Notiz>Beton bitte „tre“!</Notiz></div>
+<div class="Wort"><W1>das Volk</W1><W2>人民</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Wahl</W1><W2>选举</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>einführen</W1><W2>führt ein</W2><W3>hat eingeführt</W3><W4>引导</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>handeln</W1><W2>handelt</W2><W3>hat gehandelt</W3><W4>行动，采取行动</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>sich (an)nähern</W1><W2>(an)nähert</W2><W3>hat (an)genähert</W3><W4>靠近，近似于</W4><Notiz></Notiz></div>
+<div class="Wort"><W1>regieren</W1><W2>统治，管理，执政</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>verhindern</W1><W2>阻碍，防止</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>demokratisch</W1><W2>民主的</W2><W3></W3><W4></W4><Notiz>Beton bitte „kratisch“!</Notiz></div>
+<div class="Wort"><W1>populär</W1><W2>流行的</W2><W3></W3><W4></W4><Notiz>Beton bitte „lär“!</Notiz></div>
+<div class="Wort"><W1>die Biologie</W1><W2>生物学</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Geschwindigkeit</W1><W2>速度</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Beschränkung</W1><W2>限制</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>der Rentner</W1><W2>退休人员</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Rente</W1><W2>退休；退休金</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>die Reportage</W1><W2>报道</W2><W3></W3><W4></W4><Notiz>Beton bitte „tage“!
+Sprich bitte „ge“ wie in „Garage“ aus!</Notiz></div>
+<div class="Wort"><W1>die Ware</W1><W2>货物，商品</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>aufheben</W1><W2>废除</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>betragen</W1><W2>高达</W2><W3></W3><W4></W4><Notiz>这个单词的意思需要看DWDS才能明白</Notiz></div>
+<div class="Wort"><W1>unterscheiden</W1><W2>unterscheidet</W2><W3>hat unterschieden</W3><W4>区分，区别</W4><Notiz>Beton bitte „schei“!</Notiz></div>
+<div class="Wort"><W1>zunehmen</W1><W2>增加</W2><W3></W3><W4></W4><Notiz></Notiz></div>
+<div class="Wort"><W1>still</W1><W2>静的；静止的；隐蔽的</W2><W3></W3><W4></W4><Notiz></Notiz></div>
 
 <div class="QSA"><Q>Es geht um die Frage, ob/warum/was/wie ...</Q><S></S><A>
 It is about the question of ... 
@@ -617,6 +650,29 @@ It is about the question of ...
 <div class="QSA"><Q>Die Reportage geht der Frage nach, welche/ob ...</Q><S></S><A>
 nachgehen 跟随，跟踪；调查，探究，追查
 该报告调查了...</A></div>
+
+<div class="QSA"><Q>关于 Jugendliche</Q><S></S><A>
+这是 Adjektive als Nomen 的语法，所以，用法如下：
+der Jugendliche
+die Jugendliche
+
+ein Jugendlicher
+eine Jugendliche
+
+Plural, definiter Artikel: Jugendlichen
+Plural, null Artikel: Jugendliche(Nom. Akk.) Jugendlichen(Dat.)
+
+Jugendlichen bis zu 18 Jahren ist der Zutritt verboten. (Plural, null Artikel, Dat.)
+十八岁以下青年禁止入内。(der Zutritt 是主语)
+
+Die Jugendlichen wollen nicht nur arbeiten, sondern auch das Leben genießen.
+</A></div>
+
+<div class="QSA"><Q>Wert legen auf etw.(A)</Q><S></S><A>
+Wert legen auf etw.(A) 重视
+
+Ich lege sowohl auf Umweltschutz als auch auf gute Bildungspolitik Wert.
+</A></div>
 
 # L19
 <div class="Wort"><W1></W1><W2></W2><W3></W3><W4></W4><Notiz></Notiz></div>
