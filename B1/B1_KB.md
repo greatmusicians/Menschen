@@ -1006,6 +1006,15 @@ Simon: Hätte ich den Lottoschein doch nur gleich am Morgen abgegeben!
 Roman: Ja, wirklich dumm gelaufen! Aber da kann man wohl nichts mehr machen. Vielleicht kommen die Zahlen ja noch ein anderes Mal.
 `````
 
+`````
+Gute Sätze:
+Nicht zu glauben!
+Ja, das war total blöd!
+Das verstehe ich.
+Ja, wirklich dumm gelaufen!
+Aber da kann man wohl nichts mehr machen.
+`````
+
 # 1-42_Lektion_12_7b.mp3
 <audio controls loop src="B1.1_KB/1-42_Lektion_12_7b.mp3"></audio>
 
@@ -1021,6 +1030,22 @@ Expertin: Klar, das Wetter ist auch immer ein gutes Thema oder auch der Stau im 
 Moderator: Kann man mit einem Gespräch über Kollegen, Kunden und Vorgesetzte nicht auch Gemeinsamkeit schaffen?
 Expertin: Ja, aber damit wäre ich sehr vorsichtig. Denn Klatsch und Tratsch sind natürlich nicht erlaubt.
 Moderator: Liebe Hörerinnen und Hörer, haben Sie Fragen an unsere Business-Trainerin Frau Perlstein? Dann rufen Sie uns an. Doch zunächst einmal Musik.
+`````
+
+`````
+die Reihe 系列，顺序
+der Smalltalk, -s, Alternative Schreibung Small Talk, 闲聊
+die Plauderei 闲聊
+der Alltag (除节假日)平日，工作日；平淡的日常生活
+`````
+
+`````
+Nicht jedem liegt die Plauderei ohne Inhalt, aber zum Berufsalltag gehört sie einfach dazu.
+
+Not everyone enjoys chatting without content, but it's just part of everyday working life.
+
+Das liegt nicht jedem. 
+etw. liegt jmdm. 理解为etwas适合某人，某人对etwas感兴趣(喜欢，爱好)
 `````
 
 # 1-43_Modul_4_1.mp3
