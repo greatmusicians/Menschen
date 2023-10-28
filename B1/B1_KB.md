@@ -1033,10 +1033,33 @@ Moderator: Liebe Hörerinnen und Hörer, haben Sie Fragen an unsere Business-Tra
 `````
 
 `````
-die Reihe 系列，顺序
+die Reihe 系列，顺序。这里的含义应该是一个叫做 Beruf und Karriere 的系列节目
+Karriere [kaˈrjeːrə]
+
 der Smalltalk, -s, Alternative Schreibung Small Talk, 闲聊
 die Plauderei 闲聊
+根据后文：die Plauderei ohne Inhalt = der Smalltalk, Small Talk
+
 der Alltag (除节假日)平日，工作日；平淡的日常生活
+der/die Vorgesetzte 上级领导
+angenehm 愉快的，适度的
+schaffen 创造，使实现
+die Trainerin 音频里听到的像是ai发/e/音，DWDS上查到发/ɛ/音也可以
+der Todesfall: Tod eines Menschen in einer Gemeinschaft, besonders innerhalb der Familie
+
+was ist mit ... = what about ... ?
+geeignet 合适的，适宜的
+in erster Linie = an erster Stelle; vor allem
+unverfänglich 不使人为难的
+zitieren 引用，援引
+der Berufsverkehr 上下班高峰时间的交通
+banal 乏味的
+Vielen ist das zu banal, ... 对很多人来说这太乏味了，viele 应该是Dativ
+
+Gemeinsamkeit 共同点，共同利益
+alltäglich 日常的
+zurückgreifen 追溯；利用
+Klatsch und Tratsch = gossip，八卦
 `````
 
 `````
@@ -1070,6 +1093,14 @@ Dame: Ach so! Danke für den Hinweis! Das werde ich ändern. Wissen Sie schon, w
 Frau: Ja. Ich nehme den frischen Rechtsanwalt. Klingt lecker!
 `````
 
+`````
+Worauf hast du Appetit? 你想吃什么?
+tatsächlich [`ta:tzεçliç] 真的，确实，事实上，真实的
+verzeihen 宽恕，原谅
+Verzeihen Sie bitte! 打扰了！劳驾！
+wahrscheinlich [va:ɐ`ʃainliç] 可能的，大概的
+`````
+
 # 2-02_Lektion_13_3a.mp3
 <audio controls loop src="B1.2_KB/2-02_Lektion_13_3a.mp3"></audio>
 
@@ -1077,11 +1108,42 @@ Frau: Ja. Ich nehme den frischen Rechtsanwalt. Klingt lecker!
 Radiomoderator: Hallo und herzlich willkommen. Hier ist Roland vom Uni-Radio. Das hat sicher jeder schon mal erlebt: ein Missverständnis, das mit Sprache zu tun hat. Peinlich, wenn es passiert, aber hinterher oft ein Grund zum Lachen. Heute Vormittag habe ich Deutschlerner an einer Sprachenschule befragt und sie gebeten, mir ihre Geschichte zu erzählen.
 `````
 
+`````
+Das hat sicher jeder schon mal erlebt: = Everyone has probably experienced this before:
+
+mit etwas zu tun haben = 与...有关联
+mit etwas nichts zu tun haben = 与...没有任何关系
+
+peinlich 尴尬的，难堪的，不愉快的
+`````
+
 # 2-03_Lektion_13_3b_3c_1.mp3
 <audio controls loop src="B1.2_KB/2-03_Lektion_13_3b_3c_1.mp3"></audio>
 
 `````
 Jennifer: Hi, mein Name ist Jennifer und ich komme aus Portland, Oregon. Folgendes habe ich erlebt: Als ich nach Deutschland gezogen bin, hat mich mein Chef zum Essen eingeladen. Aber ausgerechnet am Nachmittag der Einladung hat mich meine Mutter angerufen und mir erzählt, dass mein Onkel gestorben ist. Ich war sehr, sehr traurig. Darum habe ich bei meinem Chef angerufen und das Essen kurzfristig abgesagt. Mein Chef hat sich gewundert und gefragt: „Aber warum denn?“ Deshalb habe ich es ihm erklärt: „Ich habe heute einfach keine Lust zum Feiern, denn ich bin so blau.“ Mein Chef war ganz entsetzt und hat gesagt: „Können Sie das wiederholen? Ich glaube, ich habe Sie nicht richtig verstanden.“ Deswegen habe ich noch mal gesagt: „Bitte entschuldigen Sie, aber ich kann nicht kommen, weil ich so blau bin.“ „Wie bitte!?“, hat mein Chef gerufen. „Jetzt schon? Sie trinken mitten am Nachmittag Alkohol?“ Da habe ich gemerkt, dass ich einen Fehler gemacht habe. In meiner Sprache bedeutet „blau sein“ nämlich „traurig sein“ und nicht „betrunken sein“. Aus diesem Grund gab es ein Missverständnis. Deshalb habe ich ganz schnell korrigiert: „Entschuldigung. Ich meine nicht, dass ich getrunken habe. Ich bin traurig, weil mein Onkel gestorben ist.“ Dann hat mich mein Chef verstanden. Das war so peinlich! Aber später haben wir noch oft über dieses Missverständnis gelacht!
+`````
+
+`````
+ausgerechnet (表示出乎意料、不恰当的时间、难以相信)偏巧，偏偏，恰好
+traurig 悲伤的，难过的
+kurzfristig 临时的，短期的；快速的，果断的
+`````
+
+`````
+(参见 Menschen B1.2 L13 Redemittel)
+Folgendes habe ich erlebt:
+Als ich ..., ist mir Folgendes passiert:
+我曾经有这样的经历
+
+Es gilt Folgendes: Rauchen ist verboten
+以下规定适用： 禁止吸烟
+
+Ich kann Ihnen Folgendes mitteilen
+我可以告知您如下的情况
+
+Im Folgenden erfährst du folgende interessante Dinge über China.
+接下来你就体会到很多关于中国有趣的东西，Folgende名词表示接下来的东西
 `````
 
 # 2-04_Lektion_13_3b_3c_2.mp3
