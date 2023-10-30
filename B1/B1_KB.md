@@ -1128,6 +1128,8 @@ Jennifer: Hi, mein Name ist Jennifer und ich komme aus Portland, Oregon. Folgend
 ausgerechnet (表示出乎意料、不恰当的时间、难以相信)偏巧，偏偏，恰好
 traurig 悲伤的，难过的
 kurzfristig 临时的，短期的；快速的，果断的
+entsetzt 吃惊的，惊慌的
+betrunken 喝醉了酒的（反义词： nüchtern 未醉的，清醒的）
 `````
 
 `````
@@ -1153,6 +1155,12 @@ Im Folgenden erfährst du folgende interessante Dinge über China.
 Julie: Hallo, mein Name ist Julie. Ich komme aus Frankreich, wohne aber seit sieben Jahren in Deutschland, weil mein Mann Deutscher ist. Ich gebe Trommelkurse in Schulen. Damit die Lehrer sich ein Bild von mir machen können, habe ich eine Homepage. Dort veröffentliche ich auch gern Erfahrungsberichte. Deswegen bitte ich die Lehrer, ein paar Sätze über mich zu schreiben, wenn ihnen der Kurs gefallen hat. Einmal, ich war noch nicht lange in Deutschland, schrieb eine Lehrerin: „Julie brachte viel Engagement und große „Bega-bung“ mit.“ „Bega-bung?“ habe ich gedacht und nicht verstanden. Deshalb bin ich zu ihr gegangen und habe gesagt: „Verzeihen Sie. Meinten Sie mit „Bega-bung“ meine Trommel? Die heißt aber nicht Begabung, sondern Bongo.“ Doch wegen meiner falschen Betonung hat mich die Lehrerin auch nicht verstanden. Aus diesem Grund hat sie den Text noch einmal gelesen. Sie hat gelacht, denn jetzt hat sie verstanden, was ich meine. „Nein“, hat sie gesagt und besonders deutlich betont: „Das heißt nicht „Bega-bung“. Das heißt „Begabung“. Begabung bedeutet, dass Sie eine sehr gute Musikerin sind.“
 `````
 
+`````
+Veröffentlichen 发表，出版
+Erfahrungsbericht 经验报道
+Engagement [ãgaʒə`mã:] 法语，责任心
+`````
+
 # 2-05_Lektion_13_3b_3c_3.mp3
 <audio controls loop src="B1.2_KB/2-05_Lektion_13_3b_3c_3.mp3"></audio>
 
@@ -1160,11 +1168,115 @@ Julie: Hallo, mein Name ist Julie. Ich komme aus Frankreich, wohne aber seit sie
 Leyla: Guten Tag, mein Name ist Leyla. Ich erzähle heute von meinem Missverständnis. Also passt auf: Ich war einmal in München zu Besuch. Ich war ganz allein und wusste nicht, was ich in der Stadt ansehen sollte. Deshalb bin ich in ein Café gegangen und habe ein Mädchen, das neben mir am Tisch saß, gefragt: „Entschuldige. Ich kenne mich hier nicht aus, ich bin ganz alleine in der Stadt. Hast du vielleicht einen „Typ“ für mich?“ Das Mädchen hat mich angesehen und angefangen zu kichern. Sie hat auf den Kellner gedeutet und gesagt: „Der vielleicht?“ Ich habe gedacht, ich soll den Kellner fragen. Deswegen habe ich den Kellner gerufen und wiederholt: „Ich möchte gern etwas unternehmen. Haben Sie einen „Typ“ für mich?“ Augenblicklich ist der Keller ganz rot geworden. Aber ich habe nicht verstanden, warum. Darum habe ich gesagt. „Ein schöner Platz oder ein Museum oder so was.“ Da haben die beiden mich verstanden. „Ah!“, hat der Kellner gelacht. „Du willst einen „Tipp“! Keinen „Typ“.“ Als ich meinen Fehler verstanden habe, bin ich total rot geworden. Der Kellner hat mir vorgeschlagen, das „Valentin-Museum“ am Isartor zu besuchen. Das war ein guter Tipp. Karl Valentin war ein deutscher Komiker. In dem Museum gab es noch mehr Missverständnisse und Sprachspiele.
 `````
 
+`````
+erzählen jmdm. über + etw.(A) = erzählen jmdm. von + etw.(D) 向某人讲解某物
+wissen => Präteritum: wusste
+sitzen => Präteritum: saß
+sich auskennen 熟悉，精通
+sich in dieser Stadt auskennen 熟悉这个城市
+kichern 偷笑(google图片，是那种半捂嘴的笑)
+auf jmdn./etw.(A) deuten 用手指向；预示
+
+unternehmen 着手，从事，做
+Was sollen wir heute unternehmen? 我们今天做什么？
+Ich möchte gern etwas unternehmen. = I would like to do something.
+
+augenblicklich 一瞬间，即刻，马上
+rot werden = erröten 脸红
+Komiker 滑稽演员
+
+`````
+
+`````
+zu Besuch
+
+Ich war einmal in München zu Besuch.
+
+Wenn Leute zu Besuch kommen, macht er Kaffee und Snacks.
+
+Vielen Dank, dass wir bei euch zu Besuch sein können.
+
+bei jemandem zu Besuch sein = be on a visit to someone = 拜访某人
+zu Besuch kommen = come for a visit
+`````
+
+`````
+allein vs. alleine
+
+Allein ist die standardsprachliche Alternative. Verwenden Sie alleine also nur in der Umgangssprache.
+
+Beide Formen sind richtig. Die standardsprachliche Form ist allein, in der Umgangssprache sagt man auch alleine.
+
+standard [`ʃtandart] 德语发音，英语含义
+
+https://deutschlernerblog.de/allein-oder-alleine/
+`````
+
+`````
+Isator 伊萨门
+
+慕尼黑的景点主要集中在卡尔门(Karlstor)、伊萨门(Isator)、森德林门(Sendlinger tor)、及奥登广场(Odeonsplatz)之间这一片不大的区城内
+
+伊萨尔门，位于慕尼黑的伊萨尔门广场（Isartorplatz），是中世纪城墙东侧的城门，靠近伊萨尔河，因而得名。
+
+卡尔门，坐落于慕尼黑的卡尔广场，是慕尼黑老城西侧的城门，将老城与路德维希郊区分开。卡尔门是路易四世建立的，作为防御工事的西城门，是进入慕尼黑历史中心的重要通道。如今的卡尔门已经不复往日的作用了，城门已没有了木门，留下三个石门框，进入城门后是条步行街，商店餐厅鳞次栉比，是购物散步的好去处。
+
+森德林门，慕尼黑现存的三座城门之一，砖石结构的拱门被爬山虎、藤萝悄悄地掩映在城市的建筑物当中，一不留神就可能错过。从这里进入了由城墙限定的慕尼黑老城区。
+`````
+
 # 2-06_Lektion_13_3b_3c_4.mp3
 <audio controls loop src="B1.2_KB/2-06_Lektion_13_3b_3c_4.mp3"></audio>
 
 `````
 Phuong: Hi, ich bin Phuong. Ich war einmal bei einem Schüleraustausch in Deutschland. An einem Sonntag war sehr schönes Wetter. Daher wollte meine Gast-Familie einen Ausflug machen. Der Vater meines Austauschpartners hat gefragt: „Wollen wir in den Zoo?“ Und ich habe gerufen: „Au ja! Das ist eine gute Idee.“ Denn ich gehe sehr gern in den Zoo. Nur meine Gast-Mutter wollte nicht, wegen der langen Schlange vor dem Zoo. Als ich das gehört habe, bin ich sehr erschrocken. Als Kind bin ich nämlich einmal von einer Schlange gebissen worden. Deshalb habe ich große Angst vor Reptilien. Plötzlich wollte ich auch nicht mehr in den Zoo und habe gesagt: „Ich finde das doch nicht so gut.“ Mein Gast-Vater hat gefragt: „Bedeutet das, dass du lieber zu Hause bleiben willst?“ Er hat sich sehr gewundert. Darum habe ich die Geschichte von dem Schlangenbiss erzählt. Da haben alle gelacht und das Missverständnis aufgeklärt. Seither weiß ich, dass mit „Schlange“ die wartenden Leute vor der Kasse gemeint sind.
+`````
+
+`````
+Schüleraustausch 交换学生(不是指交换生这个人，而是交换学生这种行为、活动)
+
+erschrecken 惊慌，吃惊，害怕
+关于变位，DWDS上有两种含义，分别对应两种变位：
+1，einen Schreck bekommen
+erschrecken, erschrickt, erschrak, ist/hat erschrocken
+2，jmdn. in Schrecken versetzen
+erschrecken, erschreckt, erschreckte, hat erschreckt
+
+das Reptil, die Reptilien, 重音在ti上, 爬行动物
+`````
+
+`````
+Als Kind bin ich nämlich einmal von einer Schlange gebissen worden. 被蛇咬了
+
+Ich bin beklaut worden. 我被抢了
+
+Das Fenster wird (vom Mann) geöffnet worden sein.
+
+德语有两种类型的被动态，分别为过程被动态(Vorgangspassiv)和状态被动态(Zustandspassiv)。
+过程的被动句由助词werden和一个动词的过去分词（Partizip II）组成。
+状态的被动句由助词sein和一个动词的过去分词（Partizip II）组成。
+
+参见 Easy Deutsch Grammatik：
+Vorgangspassiv in allen Zeitformen
+Präsens         „werden“ + Partizip Perfekt
+Präteritum      „wurden“ + Partizip Perfekt
+perfekt         „sein“ + Partizip Perfekt + worden
+Plusquamperfekt „waren“ + Partizip Perfekt + worden
+Futur 1         „werden“ + Partizip Perfekt + werden
+Futur 2(selten) „sein“ + Partizip Perfekt + worden + sein
+`````
+
+`````
+seither vs. seitdem
+
+Seither wird nur benutzt, wenn klar ist worüber man spricht.
+"Letztes Jahr war ich in Österreich. Ich bin seither nicht mehr im Ausland gewesen." (Man kann auch 'seitdem' sagen)
+
+Seitdem kann benutzt werden um zu erklären, um zu erklären worüber man spricht
+"Seitdem ich in Österreich war, will ich unbedingt wieder dahin" (Man kann nicht 'seither' sagen)
+
+Man sagt aber grundsätzlich fast immer seitdem, seither wird nur sehr selten benutzt.
+
+https://de.hinative.com/questions/13407038
 `````
 
 # 2-07_Lektion_14_1b.mp3
@@ -1183,6 +1295,84 @@ Gruppe: Puuhh!
 Jutta: Super! Ich danke euch!
 `````
 
+`````
+die Kletterwand 攀登墙
+aufeinander, adv., [auf·ai`nandɐ], 互相
+verlassen 离开，离弃
+sich verlassen 指望，信赖，信任
+sich auf j-n/etw(A) verlassen
+
+als Erstes = zuerst = first, first of all = 首先，第一个
+"zum Ersten" 不是很常用，"zum ersten Mal" ist aber gebräuchlich(常用的，常见的，习惯的).
+der/das Podest, [po`dεst], 小平台
+
+einer oder eine von euch 你们中的一个男生或女生
+rückwärts 向后，vorwärts 向前，aufwärts 向上，abwärts 向下
+
+fallenlassen 物理上的掉落，引申为放弃
+Er hat das Notebook(=Laptop) auf den Boden fallenlassen. 物理上的掉落
+Er hat seinen Plan und Anspruch fallengelassen. 引申为放弃(aufgeben)
+但是结合后文分开写的 fallen lassen，可知不是 fallenlassen，就是 lassen + Infinitiv。
+Lass mich gehen! 让我走吧!
+
+sich(Akk.) vorstellen 自我介绍，自我推荐
+versuchen 企图，尝试
+auf diese Weise 以这种方式
+in gewisser Weise 从某种意义上说
+auffangen 接住，接收，扶住，截住，截获
+
+Gutes Gelingen! = Viel Erfolg! = 祝成功
+`````
+
+`````
+rübergehen, umgangssprachlich
+
+rüber-
+另一边，across
+
+Affix (in Zusammensetzungen mit Verben)
+das Affix, [ˈafɪks] [aˈfɪks], [语]词缀
+Zusammensetzung [语]复合词
+
+umgangssprachlich 白话的，口语的
+
+Synonym zu hinüber-, herüber-
+rüber = hinüber + herüber
+`````
+
+`````
+probieren vs. ausprobieren
+
+Probieren can be used as tasting a food or a drink for the first time, and as just trying something out in general.
+
+Ausprobieren can only be used as trying to do something or trying something new out, and indicates that you‘re doing something for the first time.
+
+Ich möchte unbedingt meine neue Kamera ausprobieren.
+
+https://hinative.com/questions/5212067
+`````
+
+`````
+probieren vs. versuchen
+
+Versuchen ist etwas gehobener, probieren informeller.
+
+Probieren bezieht sich eher auf Dinge(事物), versuchen eher auf Handlungen(行为):
+eher adv. 更可能，更确切地说
+sich auf jmdn./etw. beziehen 与...有关，涉及...
+
+Allerdings : Speisen kann man nur probieren, nicht versuchen.
+allerdings adv. <强调肯定的语气>当然；<表示限制，转折>然而；<表示有所保留地承认>虽然
+
+Eine Speise kannst du probieren.
+
+Ein Kleidungsstück kannst du (an-)probieren aber nicht versuchen.
+
+Du kannst versuchen, ein Ziel zu erreichen.
+
+https://hinative.com/questions/14819448
+`````
+
 # 2-08_Lektion_15_ab.mp3
 <audio controls loop src="B1.2_KB/2-08_Lektion_15_ab.mp3"></audio>
 
@@ -1197,6 +1387,39 @@ Frau 1: Hallo Pepe! Ja, gut dass du anrufst, Moment, ich geh mal raus.
 Julian: Wo war ich stehengeblieben? Gut, also: Ich denke, ich bin sehr gut geeignet, als Fremdsprachenkorrespondent …
 Jens: Ach, Herr Bode, wären Sie bitte so freundlich und reichen mir den Toast herüber!
 Julian: Wisst ihr was? Ich glaube nicht, dass ich diese Frage heute noch einmal am Stück beantworten darf. Ich muss jetzt los. Schwieriger als hier mit euch kann das Bewerbungsgespräch auch nicht werden!
+`````
+
+`````
+nennen 列举，说出
+nennen Sie mir drei Gründe 请给我列举三个理由
+
+zunächst einmal = zunächst
+einmal 是可选的，可加可不加。而且，zunächst einmal 是一体的，只占一个 Position，不影响动词第二位。
+
+der Herd 炉灶
+anbrennen 煮糊了，烧糊了
+
+noch mal von vorne = nochmal von vorne = again from the beginning
+
+wie ich schon sagen wollte = like I wanted to say
+
+einjährig 一年的
+der Aufenthalt 停留，逗留
+
+Ja, gut dass du anrufst, Moment, ich geh mal raus.
+等一下，我出去一下
+
+stehenbleiben 站住，停住
+reichen 把...递给
+der Toast [to:st] 烤面包片
+
+Wären Sie bitte so freundlich und reichen mir den Toast herüber!
+Would you please be so kind as to pass me the toast!
+
+am Stück = at a time = 一次，每次；同时；一下子；在某时；依次，逐一
+
+Schwieriger als hier mit euch kann das Bewerbungsgespräch auch nicht werden!
+The interview couldn't be more difficult than here with you!
 `````
 
 # 2-09_Lektion_15_7a.mp3
@@ -1233,6 +1456,28 @@ Julian Bode: Hm, ich denke da an ein Monatsgehalt von ungefähr 2000 Euro.
 Herr Dr. Stürmer: Gut, Herr Bode, ich denke, ich konnte heute einen recht guten Eindruck von Ihnen bekommen. Wir melden uns dann in ein paar Tagen bei Ihnen. Vielen Dank, dass Sie hier waren.
 Julian Bode: Ja, herzlichen Dank auch an Sie, Herr Dr. Stürmer. Auf Wiedersehen!
 Herr Dr. Stürmer: Auf Wiedersehen, Herr Bode, einen schönen Tag noch!
+`````
+
+`````
+an etw.(D) Interesse haben 对某事感兴趣
+Ich bin interessiert an dir.
+Ich interessiere mich für dich.
+Ich habe Interesse an dir.
+
+von Anfang an 从一开始就
+von morgen an = ab morgen (Menschen A2.1 L6)
+需要注意，只能是 von Anfang an，不能使用 vom，一种解释是，Anfang 是 Abstraktum，所以不加冠词。
+
+
+`````
+
+`````
+Mir war damals schon klar, dass ich später unbedingt mit Menschen auf der ganzen Welt zu tun haben wollte.
+
+It was already clear to me back then that I really wanted to work with people all over the world when I grew up.
+
+Mir war schon klar, dass ...
+还不明白这种语法，为什么没有主语呢？
 `````
 
 # 2-10_Lektion_15_7b_1.mp3

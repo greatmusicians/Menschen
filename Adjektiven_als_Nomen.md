@@ -83,9 +83,7 @@ https://www.italki.com/de/post/discussion-224964
 既然是 Abstrakta，自然既可以加冠词，也可以不加冠词：das Folgende 和 Folgendes 都对。可能就是更简洁，才用 Folgendes 吧。
 
 # Im Folgenden 是怎么回事儿？
-Im Folgenden 的 -n 是 n-Deklination 吗？阳性名词弱变化，不是只有阳性名词才要变化吗？怎么会从 das Folgende 变成 dem Folgenden 呢？
-
-或者类似 der/das Basketball，表示篮球运动是das，表示具体地一个球用der？
+definiter Artikel, Dativ, 后面不管是什么 Genus 的名词，都是 -en 词尾。所以，变成 in dem Folgenden 是没有疑议的。
 
 # Funktion der substantivierten Adjektive
 `````
@@ -108,3 +106,53 @@ Abstrakte Nomen, die aus Adjektiven gebildet werden, verwenden immer die neutral
 | das Alte         | wenig Altes          | alt         |
 | das Gute         | viel Gutes           | gut         |
 
+# als Erstes
+`````
+als Erstes = first
+
+在这个例子里，Erstes 前面也是没有冠词的，也是用的中性，跟前面的 Folgendes 一样。
+
+Das Wort ‚Erstes‘ im Ausdruck ‚als Erstes‘ wird großgeschrieben, wenn kein Substantiv folgt, weil ‚Erstes‘ dann in substantivierter Form vorliegt. 
+
+Das Wort ‚erstes‘ wird kleingeschrieben, wenn ein Substantiv folgt, weil es dann ein normales Adjektiv ist.
+
+https://www.scribbr.de/gross-und-kleinschreibung/als-erstes/
+`````
+
+`````
+Als Erstes besprechen wir, wann die Veranstaltung in diesem Jahr stattfinden soll. 
+
+Am Morgen schreibt Sabine als Erstes eine Liste mit den wichtigsten Aufgaben für den Tag.
+
+Wenn du ein Möbelstück aufbaust, solltest du als Erstes überprüfen, ob alle Teile vorhanden sind.
+
+
+Bei seinem Frühjahrsputz reinigt Michael als erstes Zimmer das Wohnzimmer. 
+Jede Woche kauft sich Max ein Rätselheft und löst als erstes Rätsel das Sudoku. 
+Als erstes Beispiel möchte ich folgenden Vorfall anführen: …
+
+https://www.scribbr.de/gross-und-kleinschreibung/als-erstes/
+`````
+
+# die anderen 是个特例
+`````
+groß oder klein?
+In einigen Fällen ist beides möglich, in vielen Fällen ist aber nur die Kleinschreibung richtig.
+
+Wir empfehlen euch daher immer die Kleinschreibung: andere
+`````
+
+`````
+Substantivierung von andere
+
+Auch wenn andere die formalen Merkmale eines Nomens hat, schreiben wir es klein. Bei einer Substantivierung ist zwar auch die Großschreibung möglich, wenn wir betonen wollen, dass es sich um ein Nomen handelt, aber ihr bleibt am besten bei der Kleinschreibung, denn die ist auf jeden Fall korrekt.
+
+In der Regel heißt es: Die Zahladjektive viel, wenig, (der, die, das) eine, (der, die, das) andere mit ihren Deklinations- und Steigerungsformen werden kleingeschrieben, obwohl sie formale Merkmale einer Substantivierung aufweisen. Sie können aber großgeschrieben werden, wenn man ihren substantivischen Charakter hervorheben will.
+
+das Merkmal 标志，特征
+Steigerung [语] =Komparation
+aufweisen 显示，表明，指出，指明
+hervorheben 强调，突出（重音在vor上）
+`````
+
+参考 https://deutschlernerblog.de/die-anderen-oder-die-anderen-gross-oder-klein-erklaerung-und-beispiele/
