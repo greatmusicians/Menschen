@@ -1468,7 +1468,13 @@ von Anfang an 从一开始就
 von morgen an = ab morgen (Menschen A2.1 L6)
 需要注意，只能是 von Anfang an，不能使用 vom，一种解释是，Anfang 是 Abstraktum，所以不加冠词。
 
-
+Computerspiele entwickeln 开发游戏
+Verhandlung 协商，谈判
+Dolmetscher 口译员
+der Auftrag 订单；任务
+koordinieren 协调，配合
+betreuen 照顾，照管
+sich weiterentwickeln 继续发展
 `````
 
 `````
@@ -1478,6 +1484,53 @@ It was already clear to me back then that I really wanted to work with people al
 
 Mir war schon klar, dass ...
 还不明白这种语法，为什么没有主语呢？
+`````
+
+`````
+Das hört sich doch nach einem Traumjob an.
+
+Das hört sich doch nach einem guten Plan an, oder?
+Das hört sich doch nach einem tollen Urlaubserlebnis an, oder?
+
+为什么使用 nach + Dat.？不知道。
+
+
+Das ist super!
+  1) Der Sprecher empfindet etwas als „super“.
+  2) empfinden 感觉到，意识到
+
+Das klingt super!
+  1) Der Sprecher hat etwas gehört und darauf beruht sein Urteil.
+  2) beruhen 以...为根据，以...为基础
+  3) Urteil 评价，评论，判断
+
+Das hört sich doch super an.
+  1) Allerdings enthält die Aussage den Abtönungspartikel „doch“.
+  2) allerdings <强调肯定的语气>当然；<表示有所保留地承认>虽然；<表示限制，转折>然而
+  3) Je nach Kontext kann sich die Bedeutung von „doch“ ändern.
+  4) je nach 视…情况而定，根据…情况
+  5) ZB kann „doch“ implizieren,
+    - dass der Sprecher denkt, der Andere findet es nicht so super
+    - dass der Sprecher seine Aussage abschwächt, weil er sich nicht ganz sicher ist, ob es tatsächlich super ist
+  6) abschwächen 减弱，减轻 
+
+https://hinative.com/questions/20163787
+`````
+
+`````
+Das möchte ich jetzt zum Anlass nehmen, etwas Neues zu machen und mich weiterzuentwickeln.
+
+I want to take this as an opportunity to do something new and develop myself further.
+
+der Anlass 动机，理由；机会，时机，时刻
+
+sich weiterentwickeln 继续发展
+In welche Richtung soll ich mich denn weiterentwickeln? 我应该往哪个方向继续(自我)发展？
+Wann ist der beste Zeitpunkt, sich weiterzuentwickeln? 什么时候是自我发展的最好时机？
+Man soll sich schritt für Schritt weiterentwickeln.
+Schritt für Schritt 一步一步
+
+https://de.hinative.com/questions/742297
 `````
 
 # 2-10_Lektion_15_7b_1.mp3
