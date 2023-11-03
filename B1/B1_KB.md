@@ -1445,8 +1445,7 @@ Julian Bode: Ja, gern. Also, ich erledige meine Aufgaben sehr zuverlässig, auch
 Herr Dr. Stürmer: Was würden Sie denn als Ihre Schwächen bezeichnen?
 Julian Bode: Manchmal bin ich recht ungeduldig und möchte alles gleichzeitig erledigen.
 Herr Dr. Stürmer: Ja, das kenne ich auch zu gut. Bitte nennen Sie mir doch abschließend die Gründe, warum wir genau Sie einstellen sollten.
-Julian Bode: Hm … Also, ich erfülle alle Voraussetzungen für die Stelle und habe außerdem noch Berufserfahrung im Ausland.
-Ich arbeite selbstständig und finde auch in Problemsituationen flexible Lösungen. Dabei fällt es mir leicht, auf andere Menschen zuzugehen.
+Julian Bode: Hm … Also, ich erfülle alle Voraussetzungen für die Stelle und habe außerdem noch Berufserfahrung im Ausland. Ich arbeite selbstständig und finde auch in Problemsituationen flexible Lösungen. Dabei fällt es mir leicht, auf andere Menschen zuzugehen.
 Herr Dr. Stürmer: Danke, Herr Bode! Haben Sie denn noch eine Frage an mich?
 Julian Bode: Ja, und zwar interessiert mich noch, wie groß das Team ist, in dem ich arbeiten würde.
 Herr Dr. Stürmer: Zurzeit arbeiten fünf Mitarbeiter in diesem Team, zwei Frauen und drei Männer. Jeder von ihnen hat einen anderen Schwerpunkt. Und Sie, Herr Bode, würden zunächst die Projekte für Nordamerika betreuen.
@@ -1475,6 +1474,41 @@ der Auftrag 订单；任务
 koordinieren 协调，配合
 betreuen 照顾，照管
 sich weiterentwickeln 继续发展
+
+Neuorientierung 新方向
+reizen 激起，引起
+einsetzen 投入
+nennen 列举，说出
+
+der Zeitdruck 时间压力，时间紧迫
+sich auf j-n/etw(A) verlassen 指望，信赖，信任
+der Zusammenhang, Zusammenhänge, (行为，现象等内在的）相互关系，相互联系
+kommunizieren 交流，交往，交际
+etw.(N) gilt für j-n/etw.(A) 适用于
+bezeichnen = beschreiben 说明，描述
+recht adj. 右边；richtig；非常
+ungeduldig 不耐烦的，急躁的，impatient
+abschließend 最后的
+einstellen 雇用
+
+erfüllen 将...充满；履行；满足
+Voraussetzung 前提，必要条件
+selbstständig 独立自主的
+
+Dabei fällt es mir leicht, auf andere Menschen zuzugehen.
+It's easy for me to approach other people.
+我很容易接近其他人（性格好，平易近人）。
+
+und zwar [固定搭配] 也就是说；更确切的说
+zurzeit = im Moment, jetzt = 现在，目前
+zunächst 首先；目前，暂时
+betreuen 照顾，照管
+Einstiegsgehalt 开始的工资
+der Einstieg 上车；开始，进入
+das Gehalt 工资，薪水
+
+der Eindruck 印象
+Ich habe guten Eindruck von ihm. 我对他印象很好。
 `````
 
 `````
@@ -1533,60 +1567,56 @@ Schritt für Schritt 一步一步
 https://de.hinative.com/questions/742297
 `````
 
-# 2-10_Lektion_15_7b_1.mp3
-<audio controls loop src="B1.2_KB/2-10_Lektion_15_7b_1.mp3"></audio>
-
 `````
-Herr Dr. Stürmer: Guten Tag, Herr Bode, schön, dass Sie da sind.
-Julian Bode: Guten Tag, Herr Dr. Stürmer, danke für die Einladung zum Gespräch. Ich freue mich, hier zu sein.
-Herr Dr. Stürmer: Setzen Sie sich doch! Möchten Sie etwas trinken?
-Julian Bode: Oh, ja, sehr gern ein Wasser, wenn es möglich ist.
-Herr Dr. Stürmer: Kein Problem, hier bitte schön!
-Julian Bode: Vielen Dank!
-Herr Dr. Stürmer: So, Herr Bode, Ihre Bewerbungsunterlagen haben uns richtig gut gefallen. Und wir haben Sie eingeladen, um Sie noch ein bisschen besser kennenzulernen. Erzählen Sie doch bitte etwas über sich. Woher kommt denn Ihr Interesse an Fremdsprachen?
-Julian Bode: Also, ich bin ja zweisprachig aufgewachsen. Meine Mutter ist Spanierin und hat von Anfang an Spanisch mit mir gesprochen. Während meiner Kindergartenzeit haben wir sogar zwei Jahre in Barcelona gelebt. Später dann, als wir wieder in Deutschland waren, ist meine Familie oft ins Ausland gereist. So habe ich mich schon sehr früh für andere Länder und Kulturen interessiert. Mir war damals schon klar, dass ich später unbedingt mit Menschen auf der ganzen Welt zu tun haben wollte …
-Herr Dr. Stürmer: Das hat ja auch gleich geklappt. Die Firma, für die Sie nach der Ausbildung gearbeitet haben, hat Sie ja direkt nach Kanada geschickt. Was haben Sie dort gemacht?
-`````
+Unterschied: sehen, schauen, ansehen, anschauen, sich(D.) anschauen
 
-# 2-11_Lektion_15_7b_2.mp3
-<audio controls loop src="B1.2_KB/2-11_Lektion_15_7b_2.mp3"></audio>
+The addition of "an" makes it more like to watch or to look at. Like if you just look at the tv you use schauen/sehen but if you watch a show on tv you use anschauen/ansehen.
 
-`````
-Herr Dr. Stürmer: Das hat ja auch gleich geklappt. Die Firma, für die Sie nach der Ausbildung gearbeitet haben, hat Sie ja direkt nach Kanada geschickt. Was haben Sie dort gemacht?
-Julian Bode: Unsere Firma hat Computerspiele entwickelt. Ich war bei den Verhandlungen mit dem kanadischen Kunden als Dolmetscher dabei und habe dann für dieses Projekt alle Übersetzungsaufträge koordiniert und betreut.
-Herr Dr. Stürmer: Das hört sich doch nach einem Traumjob an, warum bleiben Sie denn nicht bei dieser Firma?
-Julian Bode: Ja, das Kanada-Projekt ist leider zu Ende. Das möchte ich jetzt zum Anlass nehmen, etwas Neues zu machen und mich weiterzuentwickeln.
-Herr Dr. Stürmer: Und warum haben Sie sich gerade unser Unternehmen für eine Neuorientierung ausgesucht, Herr Bode?
-Julian Bode: Ich habe mir Ihr Unternehmen im Internet angeschaut und gesehen, dass Sie in die ganze Welt exportieren und auch Kontakte in die ganze Welt haben. Mich reizt eine Aufgabe in so einem großen Unternehmen, weil ich dort viele Möglichkeiten habe und meine Sprachkenntnisse voll einsetzen kann.
-Herr Dr. Stürmer: Verstehe!
-`````
+sehen and schauen can be used mostly synonymously. However, there is an exception: "ich kann es sehen" would be correct but not "ich kann es schauen".
 
-# 2-12_Lektion_15_7b_3.mp3
-<audio controls loop src="B1.2_KB/2-12_Lektion_15_7b_3.mp3"></audio>
+ansehen vs. anschauen
+They both technically mean the same but there's a certain difference in nuance. You'd use anschauen usually if you're looking at something, ansehen if you're watching a show. But you can use both interchangeably, everyone would understand.
 
-`````
-Herr Dr. Stürmer: Verstehe! Was können Sie mir noch über sich erzählen? Können Sie mir zum Beispiel noch drei persönliche Stärken nennen?
-Julian Bode: Ja, gern. Also, ich erledige meine Aufgaben sehr zuverlässig, auch unter Zeitdruck kann man sich auf mich verlassen. Ich kann Zusammenhänge sehr schnell verstehen. Außerdem kann ich sehr gut mit Menschen aus anderen Kulturen kommunizieren und arbeiten. Und das alles gilt natürlich auch für die Arbeit im Team.
-Herr Dr. Stürmer: Was würden Sie denn als Ihre Schwächen bezeichnen?
-Julian Bode: Manchmal bin ich recht ungeduldig und möchte alles gleichzeitig erledigen.
-Herr Dr. Stürmer: Ja, das kenne ich auch zu gut.
+Sehen would be to see, look;
+Schauen would be to see, look as well;
+Ansehen would be to look at something or to watch something;
+Anschauen would be to take a look at sth. or watch sth as well.
+
+schauen = look
+anschauen = look at
+anschauen is used, if you look at a specific thing
+schauen is used, if you don't look at a specific thing.
+
+sich [Dativ] etw.(A)/jmdn. anschauen
+仔细地观察、检查
+
+https://hinative.com/questions/15567206
+https://de.hinative.com/questions/4729143
+https://hinative.com/questions/20311248
+https://www.reddit.com/r/German/comments/qz3r2z/whats_the_difference_between_anschauenansehen_and/
 `````
 
-# 2-13_Lektion_15_7b_4.mp3
-<audio controls loop src="B1.2_KB/2-13_Lektion_15_7b_4.mp3"></audio>
+`````
+Welches Einstiegsgehalt stellen Sie sich denn für diese Stelle vor?
+What starting salary do you expect for this position?
+
+Einstiegsgehalt 开始的工资
+der Einstieg 上车；开始，进入
+das Gehalt 工资，薪水
+
+sich(D) vorstellen 想象，设想
+Können Sie sich vorstellen, wie schnell sie sind.
+需要注意，这里的sich虽然是Dativ，但是对应Sie的仍然是sich
+
+Reflexivpronomen
+Akkusativ: mich, dich, sich, uns, euch, sich
+Dativ: mir, dir, sich, uns, euch, sich
+
+https://de.hinative.com/questions/18110813
+`````
 
 `````
-Herr Dr. Stürmer: Ja, das kenne ich auch zu gut. Bitte nennen Sie mir doch abschließend die Gründe, warum wir genau Sie einstellen sollten.
-Julian Bode: Hm … Also, ich erfülle alle Voraussetzungen für die Stelle und habe außerdem noch Berufserfahrung im Ausland. Ich arbeite selbstständig und finde auch in Problemsituationen flexible Lösungen. Dabei fällt es mir leicht, auf andere Menschen zuzugehen.
-Herr Dr. Stürmer: Danke, Herr Bode! Haben Sie denn noch eine Frage an mich?
-Julian Bode: Ja, und zwar interessiert mich noch, wie groß das Team ist, in dem ich arbeiten würde.
-Herr Dr. Stürmer: Zurzeit arbeiten fünf Mitarbeiter in diesem Team, zwei Frauen und drei Männer. Jeder von ihnen hat einen anderen Schwerpunkt. Und Sie, Herr Bode, würden zunächst die Projekte für Nordamerika betreuen.
-Julian Bode: Oh, das klingt gut!
-Herr Dr. Stürmer: Dann noch eine letzte Frage von mir: Welches Einstiegsgehalt stellen Sie sich denn für diese Stelle vor?
-Julian Bode: Hm, ich denke da an ein Monatsgehalt von ungefähr 2000 Euro.
-Herr Dr. Stürmer: Gut, Herr Bode, ich denke, ich konnte heute einen recht guten Eindruck von Ihnen bekommen. Wir melden uns dann in ein paar Tagen bei Ihnen. Vielen Dank, dass Sie hier waren.
-Julian Bode: Ja, herzlichen Dank auch an Sie, Herr Dr. Stürmer. Auf Wiedersehen!
-Herr Dr. Stürmer: Auf Wiedersehen, Herr Bode, einen schönen Tag noch!
+Ich denke da an ein Monatsgehalt von ungefähr 2000 Euro.
 `````
 
 # 2-14_Modul_5_1_2.mp3
@@ -1610,6 +1640,40 @@ Junger Mann: Hoppla, da fällt gleich alles raus! Entschuldigung! So, hier, Ihre
 Ältere Dame: Vielen Dank!
 Junger Mann: Ich will ja nicht neugierig sein, aber ist das ein Foto von Ihrer Hochzeit?
 Ältere Dame: Ja genau, das sind mein Hans und ich! Das ist schon sehr lange her, sag’ ich Ihnen!
+`````
+
+`````
+Könnten Sie mich bitte kurz rauslassen?
+Could you please let me out for a moment?
+`````
+
+`````
+Gerade noch geschafft! = Just made it!
+Ich hab es gerade noch geschafft. = I barely made it.
+
+Es bedeutet, dass man etwas nur ganz knapp erreicht/bekommen hat
+knapp 短缺的；紧的，窄的
+
+Ich habe den Test gerade noch geschafft.
+die Zeit war knapp, aber alle Fragen konnten beantwortet werden.
+
+Ich habe es gerade noch geschafft, den Bus zu bekommen.
+
+https://de.hinative.com/questions/16674581
+`````
+
+`````
+Ich will ja nicht neugierig sein, aber ...
+
+Eine andere Umschreibung:
+Es geht mich eigentlich nichts an, aber...
+Es bedeutet soviel wie:
+Es interessiert mich , aber wenn du nicht antworten willst, musst du das nicht.
+In English I would say: I don' t want to be curious but...
+
+Umschreibung 改写，重写，意译，翻译，迂回说法，委婉说法
+
+https://de.hinative.com/questions/1282271
 `````
 
 # 2-16_Lektion_16_4a.mp3
@@ -1659,65 +1723,8 @@ Junger Mann: Danke, ebenfalls! Gute Reise noch! Tschüs!
 Ältere Dame: Auf Wiedersehen!
 `````
 
-# 2-17_Lektion_16_4b.mp3
-<audio controls loop src="B1.2_KB/2-17_Lektion_16_4b.mp3"></audio>
-
 `````
-Junger Mann: Das Foto eben von Ihrer Hochzeit: Wann war denn das, wenn ich fragen darf?
-Ältere Dame: Das war 1959! Eine verrückte Zeit. Wir hatten damals das Gefühl, dass es endlich wieder aufwärts geht …
-Junger Mann: Wie meinen Sie das denn?
-Ältere Dame: Schauen Sie, unsere Eltern, vor allem unsere Mütter, hatten ja jahrelang hart gearbeitet, um nach dem Krieg wieder einen normalen Familienalltag möglich zu machen. Wir hatten kaum etwas zu essen, kaum etwas anzuziehen. Viele hatten ihre Väter, Männer oder Söhne und ihren ganzen Besitz verloren.
-Junger Mann: Das können wir uns heute wirklich gar nicht mehr vorstellen! Wir brauchen ja nur mal keinen Empfang mit dem Handy zu haben, da jammern wir schon.
-Ältere Dame: Ja, manchmal kann ich es selbst nicht glauben, wie wir damals gelebt haben. Aber irgendwann ging es mit der Wirtschaft wieder aufwärts und wir gingen guten Zeiten entgegen. Aber ach, was rede ich! Das interessiert Sie sicher nicht!
-Junger Mann: Doch, sehr sogar. Erzählen Sie ruhig weiter!
-`````
-
-# 2-18_Lektion_16_4c.mp3
-<audio controls loop src="B1.2_KB/2-18_Lektion_16_4c.mp3"></audio>
-
-`````
-Ältere Dame: Aber ach, was rede ich! Das interessiert Sie sicher nicht!
-Junger Mann: Doch, sehr sogar. Erzählen Sie ruhig weiter!
-Ältere Dame: Wie alt sind Sie denn?
-Junger Mann: Ich bin jetzt 21 Jahre alt.
-Ältere Dame: Ja, sehen Sie, mit 21 habe ich gerade meinen Hans kennengelernt. Schauen Sie: Das ist er in Ihrem Alter. Wir gingen so oft wir konnten in die Galerie zum Tanztee.
-Junger Mann: Wie kann ich mir das vorstellen? Gab es dort tatsächlich Tee für alle?
-Ältere Dame: Nein, es hieß Tanztee, weil es nachmittags war, meistens am Wochenende. Es war die einzige Veranstaltung für die Jugend damals und da gingen wir alle hin. Der Tanzlehrer legte Musik auf und wir tanzten dazu. Und dann kam der Rock ’n’ Roll aus den USA nach Deutschland und mit ihm ein neues Lebensgefühl. Ach, das war eine herrliche Zeit! Und, wo gehen Sie so hin?
-Junger Mann: Ich gehe fast jeden Freitag und Samstag in einen Club. Vor 23 Uhr braucht man da allerdings gar nicht erst aufzutauchen. So gegen Mitternacht wird es dann langsam voll.
-Ältere Dame: Tatsächlich erst um Mitternacht? Das werde ich nie verstehen. Und welche Musik wird da gespielt?
-Junger Mann: Ach, da werden alle möglichen Musikrichtungen gespielt. Als ich noch bei meinen Eltern gewohnt habe, kam es mir vor allem darauf an, möglichst lang wegzubleiben. Und am nächsten Tag bin ich dann erst um drei Uhr nachmittags aus meinem Zimmer gekommen. Da waren meine Eltern ganz schön sauer.
-Ältere Dame: Ja, das erzählt meine Tochter von ihren Kindern auch. Bei uns kam das damals gar nicht infrage. Meine Mutter war nicht so streng und ich durfte auch ausgehen, aber sie legte größten Wert darauf, dass ich vor Mitternacht zu Hause war. Sonst war der Tanztee am nächsten Wochenende mit Sicherheit gestrichen.
-Junger Mann: Puh, das klingt hart!
-Ältere Dame: Außerdem hatte jedes Familienmitglied täglich seine Aufgaben zu erledigen, auch am Wochenende. Ich war zuständig für die Kleidung: bügeln und waschen. Mein Bruder musste kleine Reparaturen im Haus erledigen.
-Junger Mann: Also, im Haushalt brauchte ich in den Jahren vor dem Abitur nicht zu helfen. Meine Eltern wollten, dass ich so viel wie möglich für die Schule lerne. Ich musste mein Zimmer in Ordnung halten. Aber selbst das hab ich nicht geschafft. Bei mir sah es wirklich immer schrecklich aus. Bis ich meine erste Freundin hatte.
-Ältere Dame: Wann war das, wenn ich so neugierig sein darf?
-Junger Mann: Na klar, das war mit knapp 17.
-Ältere Dame: Das war bei uns natürlich nicht vorstellbar, dass ein Mann und eine Frau sich gegenseitig besuchten, bevor sie verheiratet waren. Deshalb haben wir ja alle so früh geheiratet.
-Junger Mann: Meine Eltern haben erst mit 35 geheiratet und ein Jahr später kam ich auf die Welt.
-Ältere Dame: Haben Sie auch Geschwister?
-`````
-
-# 2-19_Lektion_16_4d.mp3
-<audio controls loop src="B1.2_KB/2-19_Lektion_16_4d.mp3"></audio>
-
-`````
-Ältere Dame: Haben Sie auch Geschwister?
-Junger Mann: Ja, eine jüngere Schwester, die wird nächsten Monat 18. Sie kann es kaum erwarten.
-Ältere Dame: Was kann sie kaum erwarten?
-Junger Mann: Na, dass sie volljährig wird, dass unsere Eltern ihr nichts mehr zu sagen haben, zum Beispiel, wann sie nach Hause kommen soll und so weiter.
-Ältere Dame: Ja, aber wissen Sie: Genau das kann ich ehrlich gesagt schwer verstehen. Ich nehme einmal an, Ihre Familie ist finanziell gut versorgt und hat alles, was heute so dazugehört: Auto, Fernseher, Computer usw.
-Junger Mann: Ja, das stimmt!
-Ältere Dame: Und Sie hatten vermutlich auch eine schöne Kindheit ohne große Probleme, oder?
-Junger Mann: Auf jeden Fall!
-Ältere Dame: Und deshalb verstehe ich einfach nicht, warum viele junge Leute so unzufrieden sind und immer noch mehr Freiheiten wollen.
-Junger Mann: Ja, da haben Sie schon recht. Und ich kann das jetzt auch anders sehen als noch vor fünf Jahren. Tatsächlich ist meine Generation fast sorglos aufgewachsen, wir brauchten uns um nichts zu kümmern. Und trotzdem müssen wir uns von unseren Eltern abgrenzen. Das ist heute nicht viel anders als früher.
-Ältere Dame: Ja, das stimmt. Jede Generation hat einfach ihre eigenen Strategien. Puh, da haben wir uns jetzt richtig die Köpfe heiß geredet.
-Junger Mann: Allerdings! Das war wirklich ein interessantes Gespräch.
-Ältere Dame: Ja, das fand ich auch.
-Junger Mann: Jetzt muss ich leider gleich aussteigen.
-Ältere Dame: Na, dann alles Gute für Sie!
-Junger Mann: Danke, ebenfalls! Gute Reise noch! Tschüs!
-Ältere Dame: Auf Wiedersehen!
+verrückt 疯狂的；荒诞的；强烈的；英语crazy
 `````
 
 # 2-20_Lektion_16_8a.mp3
