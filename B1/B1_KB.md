@@ -1698,8 +1698,7 @@ Junger Mann: Ach, da werden alle möglichen Musikrichtungen gespielt. Als ich no
 Ältere Dame: Ja, das erzählt meine Tochter von ihren Kindern auch. Bei uns kam das damals gar nicht infrage. Meine Mutter war nicht so streng und ich durfte auch ausgehen, aber sie legte größten Wert darauf, dass ich vor Mitternacht zu Hause war. Sonst war der Tanztee am nächsten Wochenende mit Sicherheit gestrichen.
 Junger Mann: Puh, das klingt hart!
 Ältere Dame: Außerdem hatte jedes Familienmitglied täglich seine Aufgaben zu erledigen, auch am Wochenende. Ich war zuständig für die Kleidung: bügeln und waschen. Mein Bruder musste kleine Reparaturen im Haus erledigen.
-Junger Mann: Also, im Haushalt brauchte ich in den Jahren vor dem Abitur nicht zu helfen. Meine Eltern wollten, dass ich so viel wie möglich für die Schule lerne.
-Ich musste mein Zimmer in Ordnung halten. Aber selbst das hab ich nicht geschafft. Bei mir sah es wirklich immer schrecklich aus. Bis ich meine erste Freundin hatte.
+Junger Mann: Also, im Haushalt brauchte ich in den Jahren vor dem Abitur nicht zu helfen. Meine Eltern wollten, dass ich so viel wie möglich für die Schule lerne. Ich musste mein Zimmer in Ordnung halten. Aber selbst das hab ich nicht geschafft. Bei mir sah es wirklich immer schrecklich aus. Bis ich meine erste Freundin hatte.
 Ältere Dame: Wann war das, wenn ich so neugierig sein darf?
 Junger Mann: Na klar, das war mit knapp 17.
 Ältere Dame: Das war bei uns natürlich nicht vorstellbar, dass ein Mann und eine Frau sich gegenseitig besuchten, bevor sie verheiratet waren. Deshalb haben wir ja alle so früh geheiratet.
@@ -1725,6 +1724,172 @@ Junger Mann: Danke, ebenfalls! Gute Reise noch! Tschüs!
 
 `````
 verrückt 疯狂的；荒诞的；强烈的；英语crazy
+Wie meinen Sie das denn? = Was meinen Sie denn?
+
+jahrelang = mehrere Jahre lang (z.B. 5 Jahre lang)
+有数字的情况，分开写；没有具体数字，合并谢。
+
+der Besitz 财产；占有
+verlieren,verliert,verloren 丢失，失去
+jammern 抱怨，诉苦，complain
+damals adv. 当时，那时
+irgendwann adv. 不知什么时候，在某一个时候
+
+Wir gingen guten Zeiten entgegen. = We were heading for good times.
+entgegen 迎着，向着；对着(引申为违背)；顶着(风雨)，迎击(敌人)
+entgegen 支配第三格，可放在名词前或后
+
+Erzählen Sie ruhig weiter! = Please tell me more!
+ruhig adv. 尽管，放心地
+
+tatsächlich 真的，事实上的（ts发音快的话直接发/ts/音，慢的话t单独发音、s发/z/音）
+die Jugend (集合名词)年轻人，跟从形容词变化来的Jugendliche是近义词
+
+da <表示地点>那里；<表示时间>那时；<表示情态>在这种情况下
+Da bin ich ganz deiner Meinung. 我完全同意你的观点。
+Ich bin der Meinung, dass ein Mann und eine Frau heiraten sollten, wenn sie zusammenleben möchten.
+
+Der Tanzlehrer legte Musik auf und wir tanzten dazu.
+The dance teacher put on music and we danced to it.
+Musik auflegen = put music on = 放音乐
+Zur Musik Tanzen = dance to the music = 跟着音乐跳舞
+
+der Rock and Roll = der Rock ’n’ Roll = rock and roll = 摇滚乐
+Rock and Roll 是一个名词，DWDS是英语发音，音频中是德式发音，指的是摇滚乐这种音乐类型
+
+herrlich 壮丽的，美妙的，精彩的
+allerdings <强调肯定的语气>当然；<表示有所保留地承认>虽然；<表示限制，转折>然而
+Musikrichtung 音乐流派，音乐风格，音乐类型
+auftauchen 出现
+wegbleiben = stay away
+
+nachmittags 每天下午；在下午
+um zwei Uhr nachmittags 下午两点
+
+sauer [口]生气的，不满的
+gestrichen 取消的，撤销的
+zuständig 应负责的，主管的
+annehmen 接受；采纳，通过；认为，相信
+dazugehören 属于
+gut versorgt sein = to be well cared for
+sich von j-m / etw. abgrenzen 同...划清界限
+die Strategie, -n, 战略；对策
+`````
+
+`````
+Wir brauchen ja nur mal keinen Empfang mit dem Handy zu haben, da jammern wir schon.
+
+in case there is no signal for our mobile phones
+
+现在的我们，只要手机没信号，就开始抱怨。因此无法想象以前的人们没吃的、没穿的，必须要辛苦劳作。在战争中，不仅失去了所有财产，还有父亲、丈夫、儿子，也全都失去了。
+
+https://hinative.com/questions/18042994
+`````
+
+`````
+Wir gingen so oft wir konnten in die Galerie zum Tanztee.
+
+so oft wie möglich
+so oft wir können
+
+Wir können uns so oft du willst treffen.
+
+如上所示，so oft 后面可以加一个简短的修饰
+`````
+
+`````
+Als ich noch bei meinen Eltern gewohnt habe, kam es mir vor allem darauf an, möglichst lang wegzubleiben.
+
+for me was important, to stay away as long as possible.
+
+auf etw. ankommen = sth matters/to be important
+
+es kommt jdm auf etwas(A) an
+es是占位的主语，整句话的意思可以理解为某事对某人来说很重要，这件事情会对这个人的决策或者其他的产生影响
+
+Woauf kommt es an? 哪件事重要？哪件事会产生影响？
+
+https://hinative.com/questions/9607598
+https://www.zhihu.com/question/444407366/answer/1730581154?utm_id=0
+`````
+
+`````
+erzählen von vs. erzählen über
+
+erzählen von => Thema, erzählen über => beschreiben
+
+Wir erzählen von den Ferien = Die Ferien sind das Thema.
+Wir erzählen über die Ferien = Wir erläutern genauer, wie die Ferien waren.
+
+Flüchtlinge erzählen von ihrer Flucht = Das Thema der Erzählung der Flüchtlinge ist ihre Flucht.
+Flüchtlinge erzählen über ihre Flucht = Die Flüchtlinge beschreiben ihre Flucht.
+
+https://blog.leo.org/2019/09/27/erzaehlen-von-und-erzaehlen-ueber/
+`````
+
+`````
+infrage kommen = in Frage kommen = 可行，可以考虑
+
+Das kommt überhaupt nicht in Frage! 这根本就不可能！
+`````
+
+`````
+Da haben wir uns jetzt richtig die Köpfe heiß geredet.
+
+Literally: "Now we've talked our heads hot (over that)."
+It means it was a heated debate over some topic.
+
+https://hinative.com/questions/17935648
+`````
+
+`````
+【德语词汇】eben的8种含义
+
+一个小小的eben，偏偏要做德语进阶路上一块儿大大的绊脚石。想要搞明白它的含义，得先看清它的三重身份——形容词、副词、小品词
+
+1. eben作为形容词时，表示flach, glatt，也就是平坦的，书面和口头都可以使用
+
+例：Die Landschaft ist eben. 地势平坦（没有起伏）
+
+2. eben作副词，有三种不同的含义，但是整体上都是表示一种十分接近的状态
+
+含义1：gerade oder vor kurzer Zeit – 刚刚
+
+例：Meine Mutter hat eben angerufen. 我妈妈刚刚打电话来（才挂电话不久）。
+
+* 在表示这个意思的时候，经常也会和gerade连用，比如Ich war gerade eben in der Stadt. 我刚刚进城去了。这时强调时间更短，刚刚才从城里回来
+
+含义2：sofort und schnell – 马上去做，并且持续时间不长
+
+例：Ich rufe eben meine Mutter an. 我这就给我妈打个电话（立刻马上打，并且通话很简短）
+
+* eben也可以和mal搭配在一起用，比如Ich gehe mal eben in die Stadt. 我这就进一趟城，去去就回
+
+含义3：fast nicht - 差点儿就不行了
+
+例：Ich habe die Prüfung so eben bestanden. 我将将通过了考试，压线飘过
+
+例：Hast du heute Morgen den Zug erreicht? - Ja, aber nur so eben. 差点儿就赶不上了，踩点儿进站上车
+
+3. eben作小品词时，和很多小品词一样，很难独立解释，结合不同的重读、情景或者结构的时候，表现出来的语气也不一样
+
+含义1：Das ist einfach so. Das muss man so akzeptieren. - 没法改变，只能接受现实
+
+例：Wenn der Supermarkt schon geschlossen ist, gehe ich eben morgen früh einkaufen. 超市要是已经关门了的话，那我就只能明天早上再去了呗，不然还能怎么办呢
+
+含义2：Wenn es sein muss, mache ich das. 表示一种不情愿，但是勉强将就一下，反正也没有其它的选择了
+
+例：Tut mir leid, aber Würste haben wir heute nicht. Ich kann Ihnen stattdessen einen Salat anbieten. – OK, dann nehme ich eben den Salat. （既然没有我想要的香肠）那我就点一份沙拉吧，就将就一下吧
+
+含义3：So ist es! - 作为回应，表示赞同对方所说的话，这事儿我也是知道的，或者我也是这么想的
+
+例：Wir können nächsten Monat nicht in den Urlaub fahren. Da kommen meine Eltern zu Besuch. – Eben. / Ja, eben. 我们下个月不能去度假了，我父母要来。- 是啊，谁说不是呢
+
+含义4：genau - 就是...，正是...，表示一种强调
+
+例：Wieso hast du die Prüfung nicht bestanden? – Eben DAS frage ich mich auch. 我也想知道啊！这个问题也困扰着我啊！
+
+https://zhuanlan.zhihu.com/p/655898082
 `````
 
 # 2-20_Lektion_16_8a.mp3
@@ -1746,6 +1911,15 @@ Bleiben Sie oder möchten Sie weiterreisen?
 Behalten Sie Ihre Eindrücke und reisen Sie weiter. Öffnen Sie langsam die Augen. Fangen Sie dann an, zu schreiben.
 `````
 
+`````
+begegnen 遇见，遇到
+Wem begegnen Sie? = Who do you meet?
+
+behalten 记住，保持
+der Eindruck 印象
+Behalten Sie Ihre Eindrücke. = Keep your impressions.
+`````
+
 # 2-21_Lektion_17_1b.mp3
 <audio controls loop src="B1.2_KB/2-21_Lektion_17_1b.mp3"></audio>
 
@@ -1760,6 +1934,19 @@ Frau: Vielleicht hat es auch kurz vorher geregnet? Ich finde jedenfalls, es stra
 Mann: Nein! Echt?
 `````
 
+`````
+bayerisch [`baiəriʃ] 巴伐利亚的
+die Voralpen 阿尔卑斯山前部山地
+die Gegend 地区
+häufig 经常的，频繁的
+leuchten 闪光，闪耀
+wahrscheinlich 大概的，(有极大)可能的
+eher 更确切地说
+kurz vorher = shortly before = 不久之前
+jedenfalls = auf jeden Fall = 无论如何 ，不管怎么样，反正
+ausgestrahlt 发射出
+`````
+
 # 2-22_Lektion_18_2.mp3
 <audio controls loop src="B1.2_KB/2-22_Lektion_18_2.mp3"></audio>
 
@@ -1767,11 +1954,34 @@ Mann: Nein! Echt?
 Abgeordneter: Frau Präsidentin, meine sehr verehrten Kolleginnen und Kollegen! Am 3. Oktober 1990 wurde der Beitritt der Deutschen Demokratischen Republik zur Bundesrepublik Deutschland wirksam. Nach der Wiedervereinigung versprach Bundeskanzler Helmut Kohl den Menschen „blühende Landschaften“. Kanzler Gerhard Schröder wollte den Osten zur „Chefsache“ machen. Heute, am Jahrestag der deutschen Einheit, wollen wir einmal überprüfen, was aus all den Versprechungen geworden ist. Ob wirklich „zusammengewachsen ist, was zusammengehört“.
 `````
 
+`````
+verehrt 尊敬的
+der Beitritt 参加，加入
+wirksam 有效的，生效的
+die Chefsache 头等大事，当务之急，重中之重
+überprüfen 审查，验证，审核
+Versprechung 诺言，承诺
+`````
+
 # 2-23_Lektion_18_4b.mp3
 <audio controls loop src="B1.2_KB/2-23_Lektion_18_4b.mp3"></audio>
 
 `````
 Moderatorin: Herzlich willkommen zum politischen Feuilleton. Bis zur nächsten Wahl ist zwar noch etwas Zeit, aber wir stellen uns heute die Frage: Wer geht überhaupt noch zur Wahl? Vor allem junge Leute scheinen sich immer weniger für Politik zu interessieren, sodass viele Menschen von der großen „Politikverdrossenheit der Jugend“ sprechen. Aber stimmt das wirklich? Wir sind der Sache einmal nachgegangen. Eine Reportage von Felix Wenzel.
+`````
+
+`````
+das Feuilleton [fȗjə`tõ:]
+
+Wer geht überhaupt noch zur Wahl? 谁还去投票？
+
+scheinen + zu + Inf. 看来，好像，似乎，觉得
+
+nachgehen 调查，追查
+einer Sache (einem Problem) nachgehen 对一件事(一个问题)进行调查
+
+Wir sind der Sache einmal nachgegangen.
+We looked into the matter once.
 `````
 
 # 2-24_Lektion_18_4c_4d.mp3
