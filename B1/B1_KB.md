@@ -1988,9 +1988,64 @@ We looked into the matter once.
 <audio controls loop src="B1.2_KB/2-24_Lektion_18_4c_4d.mp3"></audio>
 
 `````
-Reporter: Regelmäßig interviewen Forscher Jugendliche zwischen 12 und 25 Jahren, um sowohl etwas über ihre Werte als auch über ihr Sozialverhalten herauszufinden. Dabei stellten sie ein immer weiter sinkendes Interesse an Politik fest. Während es zum Beispiel in den 80er-Jahren noch „in“ war „politisch“ zu sein, wurde die Wahlbeteiligung ab den 90ern immer geringer, bis sich schließlich nur noch eine Minderheit der jungen Leute als „politisch interessiert“ bezeichnete. Dafür gab es verschiedene Gründe.
-Entweder waren es nicht eingehaltene Wahlversprechen oder die Skandale einiger Minister. Weder waren den jungen Leuten die Volksvertreter volksnah genug, noch konnten sie die Parteien gut genug voneinander unterscheiden. Die Forscher stellten also eher eine Parteien- als eine Politikverdrossenheit fest. Vor allem die beiden großen Parteien CDU und SPD verloren an Stimmen, während die kleineren Parteien Stimmen gewinnen konnten. Seit einigen Jahren aber stellen die Forscher eine Trendwende fest. Nicht nur Unterschriftenlisten werden wieder häufiger unterschrieben und Waren boykottiert, sondern auch die Teilnehmerzahlen von Protesten, Demonstrationen und Bürgerinitiativen steigen. Jugendliche sind wieder häufiger politisch aktiv. Vor allem engagieren sie sich für „ihre“ Themen, wie z.B. Frieden, Bildung, Umweltoder Tierschutz. Der Tiefpunkt der Politikverdrossenheit scheint überwunden, sodass die Forscher von einer „Repolitisierung der Jugend“ sprechen.
-Zwar hält die eindeutige Mehrheit der Jugendlichen die Demokratie in Deutschland immer noch für die beste Staatsform, aber die etablierten Parteien profitieren kaum davon. Zeit für die Parteien, das verlorene Vertrauen junger Menschen zurückzugewinnen!
+Reporter: Regelmäßig interviewen Forscher Jugendliche zwischen 12 und 25 Jahren, um sowohl etwas über ihre Werte als auch über ihr Sozialverhalten herauszufinden. Dabei stellten sie ein immer weiter sinkendes Interesse an Politik fest. Während es zum Beispiel in den 80er-Jahren noch „in“ war „politisch“ zu sein, wurde die Wahlbeteiligung ab den 90ern immer geringer, bis sich schließlich nur noch eine Minderheit der jungen Leute als „politisch interessiert“ bezeichnete. Dafür gab es verschiedene Gründe. Entweder waren es nicht eingehaltene Wahlversprechen oder die Skandale einiger Minister. Weder waren den jungen Leuten die Volksvertreter volksnah genug, noch konnten sie die Parteien gut genug voneinander unterscheiden. Die Forscher stellten also eher eine Parteien- als eine Politikverdrossenheit fest. Vor allem die beiden großen Parteien CDU und SPD verloren an Stimmen, während die kleineren Parteien Stimmen gewinnen konnten. Seit einigen Jahren aber stellen die Forscher eine Trendwende fest. Nicht nur Unterschriftenlisten werden wieder häufiger unterschrieben und Waren boykottiert, sondern auch die Teilnehmerzahlen von Protesten, Demonstrationen und Bürgerinitiativen steigen. Jugendliche sind wieder häufiger politisch aktiv. Vor allem engagieren sie sich für „ihre“ Themen, wie z.B. Frieden, Bildung, Umwelt oder Tierschutz. Der Tiefpunkt der Politikverdrossenheit scheint überwunden, sodass die Forscher von einer „Repolitisierung der Jugend“ sprechen. Zwar hält die eindeutige Mehrheit der Jugendlichen die Demokratie in Deutschland immer noch für die beste Staatsform, aber die etablierten Parteien profitieren kaum davon. Zeit für die Parteien, das verlorene Vertrauen junger Menschen zurückzugewinnen!
+`````
+
+`````
+der Forscher 研究人员，学者
+der Wert 价值
+die Werte 价值观（看到的例句，表示价值观时都用的复数）
+das Sozialverhalten 社会行为，社会伦理道德状况
+herausfinden 从……找出，查明，查清
+sinken 下降
+feststellen 查明，确定
+Wahlbeteiligung 选民投票率
+sich bezeichnen 自称
+einhalten 遵守
+Wahlversprechen 竞选承诺
+nicht eingehaltene Wahlversprechen 没有被遵守的竞选承诺
+der Skandal [skan`da:l] 丑闻
+der Volksvertreter 人民代表，国会议员
+volksnah 接近人民的
+voneinander adv. 彼此，互相
+unterscheiden 区分，分清
+eher 更确切地说
+Verdrossenheit 恼怒，坏情绪
+die Stimme 选票
+die Trendwende 趋势逆转
+die Wende 转折，转折点
+wenden 使……转向，翻转；掉头
+die Unterschriftenliste 签名表
+unterschreiben 签名，署名
+boykottieren 抵制
+eindeutig 明确的，确凿的，不含糊的
+etablieren 创办，建立
+profitieren 获取利润，得到好处
+`````
+
+`````
+während 的三种用法：
+1，während + Genitiv，在……期间
+2，引导从句，表示时间，在……同时
+3，引导从句，表示对比，虽然，等同于英语中的 while
+`````
+
+`````
+Vor allem die beiden großen Parteien CDU und SPD verloren an Stimmen, während die kleineren Parteien Stimmen gewinnen konnten.
+
+In particular, the two large parties, CDU and SPD, lost votes, while the smaller parties were able to gain votes.
+
+看起来是 Vor allem die beiden großen Parteien CDU und SPD 整体作为主语，才能保证 verloren 在第二位。
+`````
+
+`````
+überwinden 克服
+
+scheinen + zu + Inf. 看来，好像，似乎
+
+scheint überwunden zu sein 看起来已经被克服了
+
+scheint überwunden 貌似就是 scheint überwunden zu sein 的简写
 `````
 
 # 2-25_Modul_6_1_2.mp3
@@ -2003,48 +2058,26 @@ Zwar hält die eindeutige Mehrheit der Jugendlichen die Demokratie in Deutschlan
 Vorgänger-Heidekönigin: Ja, vielen Dank an unsere Stadtkapelle, eure Musik macht immer richtig gute Laune. Wobei mir das Herz trotzdem ein wenig schwer ist, denn ich werde jetzt diese Krone an meine Nachfolgerin übergeben. Hier kommt die neue Heidekönigin von Schneverdingen: Inga Malin Peters!
 `````
 
+`````
+Wobei mir das Herz trotzdem ein wenig schwer ist.
+
+ein wenig = a little bit
+
+das Herz schwer werden = get sad, get unhappy, shed tears
+
+类似 wobei 的，还有 weshalb, weswegen, aus welchem Grund
+
+看了一些例句，Wobei应该是要引导从句的，但本文中这句话就没有主句吗？？？？？？？？？？？？？
+
+https://hinative.com/questions/18081050
+`````
+
 # 3-02_Lektion_19_5a.mp3
 <audio controls loop src="B1.2_KB/3-02_Lektion_19_5a.mp3"></audio>
 
 `````
-Inga Malin Peters: Ja, guten Tag, meine Damen und Herren, ich freue mich, dass Sie so zahlreich zu unserer Pressekonferenz hier ins Rathaus gekommen sind. Ich freue mich, als Heidekönigin unser schönes Schneverdingen und die Lüneburger Heide vertreten zu dürfen.
-Kurz zu meiner Person: Ich bin Bewohnerin der Heide in sechster Generation und habe schon als Kind mit Begeisterung die Krönung der neuen Heidekönigin verfolgt. Je älter ich wurde, desto mehr habe ich mir gewünscht, selbst einmal Heidekönigin zu werden. Also geht heute für mich ein Kindheitstraum in Erfüllung. Die einmalige Landschaft der Lüneburger Heide möchte ich Ihnen heute gern vorstellen.
-Zunächst möchte ich Ihnen etwas über die Entstehung der Lüneburger Heide erzählen. Dann möchte ich Ihnen erläutern, warum Mensch und Vieh lebenswichtig sind für die Heide. Anschließend stelle ich Ihnen die vielen Möglichkeiten vor, eine wunderschöne Zeit in unserer Heide zu verbringen. Am Ende können Sie mir gern Fragen stellen.
-Zuerst komme ich zur Entstehung der Lüneburger Heide: Die Heide sah nicht immer so aus wie heute. Ganz früher waren hier überall Waldflächen, Moore und Bäche. In der Steinzeit kamen die ersten Bauern in diese Gegend. Sie fällten die Bäume und betrieben Ackerbau. Der Wald verschwand und das Heidekraut begann zu wachsen.
-Bis Anfang des 18. Jahrhunderts lebten die Bauern von ihren Schafen und Bienen und deren Wolle, Bienenwachs und Honig. Doch je internationaler die Handelsbeziehungen wurden, desto größer wurde die Konkurrenz für die Heideprodukte. Die Heidebauern mussten ihr Land verkaufen und auf den Heideflächen wurden wieder viele Bäume gepflanzt.
-Das hätte das Ende der Heide sein können. Bei uns gründete sich aber vor circa 100 Jahren einer der ersten Naturschutzvereine Deutschlands. Es ist derselbe Verein, der sich auch heute noch um die Heideflächen kümmert.
-Die Pflanze, die in der Heide hauptsächlich wächst, heißt „Besenheide”. Sie wächst und blüht nur dann in großen Flächen, wenn die Landschaft von Menschen und Tieren intensiv gepflegt wird. Aber wie funktioniert das nun im Einzelnen? Unsere wichtigsten Helfer sind dabei die Heidschnucken, eine alte Schafrasse. Täglich ziehen sechs Schafherden durch die Lüneburger Heide. Die Tiere fressen alles weg, was in die Höhe wachsen will. So bleibt die Heide kurz und bietet Lebensraum für viele seltene Tiere und Pflanzen.
-Sehr geehrte Damen und Herren, so funktioniert die Erhaltung der Heide. Bevor ich gleich zum letzten Punkt komme: Haben Sie denn an dieser Stelle bereits Fragen? Bitte!
-Journalist 1: Ich würde gern wissen, wer denn all die Arbeiten koordiniert und organisiert, die für die Erhaltung der Heide nötig sind?
-Inga Malin Peters: Ich habe Ihnen ja vorhin vom Naturschutzverein erzählt. Dieser Verein übernimmt und koordiniert die wichtigen Pflegemaßnahmen in der Heide. Aber dieser Verein lebt von unserer Mithilfe, auch finanziell. Je mehr Menschen aus der Region sich engagieren, desto besser kann er seine Arbeit machen. Auch Sie könnten doch zum Beispiel eine Patenschaft für eine Heidschnucke übernehmen.
-Journalist 1: Aha, so etwas gibt es? Das kann ich mir ja wirklich mal überlegen!
-Inga Malin Peters: Das wäre schön! Gibt es denn noch weitere Fragen? Nein? Gut, dann möchte ich nun zum letzten Punkt kommen: Welche Aktivitäten und besonderen Reiseziele können Sie Ihren Lesern, Zuhörern oder Zuschauern empfehlen? Das Wichtigste erleben Sie ja gerade alle selbst: Die schönste Zeit in der Lüneburger Heide ist die Heideblüte. Sie dauert von Anfang August bis Anfang September. Dann blüht die Heide lila. Aber auch außerhalb der Hauptsaison hat man viele Urlaubsmöglichkeiten. Sie können ein Hotel, eine Pension oder eine Ferienwohnung buchen oder auch auf einem der 20 Campingplätze mitten in der Heide zelten. Die Lüneburger Heide ist flach und daher ideal für eine Fahrradtour. Sie können auch zum Wandern hierher kommen! Die Lüneburger Heide eignet sich besonders für Wander-Anfänger oder Familien mit Kindern. Oder Sie erleben die Heide vom Pferd aus und reiten durch die herrliche Heidelandschaft. Egal, ob Sie wandern, Rad fahren oder reiten: Wenn Sie dann doch mal Hunger bekommen, finden Sie überall kleine Cafés oder Restaurants. Und nun möchte ich zum Schluss kommen. Gibt es noch Fragen von Ihrer Seite? Ja, bitte!
-Journalistin 1: Liebe Frau Peters, ich möchte mich zunächst mal herzlich bedanken, Sie haben uns Ihre Heimat ganz wunderbar vorgestellt. Ich würde am liebsten gleich noch ein paar Tage hierbleiben. Gibt es denn auch ein Heimatmuseum, in dem man sich ansehen kann, wie die Menschen hier früher gelebt haben?
-Inga Malin Peters: Ach, das hätte ich fast vergessen: Ja, wir haben hier eines der ältesten Heimatmuseen in Deutschland: „Dat ole Hus“ in Wilsede. Dort wird gezeigt, wie die Heidebauern um 1850 lebten und arbeiteten.
-Journalist 2: Ich hätte auch noch eine Frage: Wissen Sie eigentlich schon, wo Sie Ihren nächsten Auftritt haben?
-Inga Malin Peters: Auf jeden Fall werde ich bei der Tourismusmesse in Berlin dabei sein. So, vielen Dank fürs Zuhören. Nun darf ich Sie noch in den kleinen Saal bitten, wir haben ein paar Getränke und einen kleinen Imbiss vorbereitet.
-`````
-
-# 3-03_Lektion_19_5b.mp3
-<audio controls loop src="B1.2_KB/3-03_Lektion_19_5b.mp3"></audio>
-
-`````
-Inga Malin Peters: Ja, guten Tag, meine Damen und Herren, ich freue mich, dass Sie so zahlreich zu unserer Pressekonferenz hier ins Rathaus gekommen sind. Ich freue mich, als Heidekönigin unser schönes Schneverdingen und die Lüneburger Heide vertreten zu dürfen.
-Kurz zu meiner Person: Ich bin Bewohnerin der Heide in sechster Generation und habe schon als Kind mit Begeisterung die Krönung der neuen Heidekönigin verfolgt. Je älter ich wurde, desto mehr habe ich mir gewünscht, selbst einmal Heidekönigin zu werden. Also geht heute für mich ein Kindheitstraum in Erfüllung. Die einmalige Landschaft der Lüneburger Heide möchte ich Ihnen heute gern vorstellen.
-Zunächst möchte ich Ihnen etwas über die Entstehung der Lüneburger Heide erzählen. Dann möchte ich Ihnen erläutern, warum Mensch und Vieh lebenswichtig sind für die Heide. Anschließend stelle ich Ihnen die vielen Möglichkeiten vor, eine wunderschöne Zeit in unserer Heide zu verbringen. Am Ende können Sie mir gern Fragen stellen.
-Zuerst komme ich zur Entstehung der Lüneburger Heide: Die Heide sah nicht immer so aus wie heute. Ganz früher waren hier überall Waldflächen, Moore und Bäche. In der Steinzeit kamen die ersten Bauern in diese Gegend. Sie fällten die Bäume und betrieben Ackerbau. Der Wald verschwand und das Heidekraut begann zu wachsen.
-Bis Anfang des 18. Jahrhunderts lebten die Bauern von ihren Schafen und Bienen und deren Wolle, Bienenwachs und Honig. Doch je internationaler die Handelsbeziehungen wurden, desto größer wurde die Konkurrenz für die Heideprodukte. Die Heidebauern mussten ihr Land verkaufen und auf den Heideflächen wurden wieder viele Bäume gepflanzt.
-Das hätte das Ende der Heide sein können. Bei uns gründete sich aber vor circa 100 Jahren einer der ersten Naturschutzvereine Deutschlands. Es ist derselbe Verein, der sich auch heute noch um die Heideflächen kümmert.
-Die Pflanze, die in der Heide hauptsächlich wächst, heißt „Besenheide”. Sie wächst und blüht nur dann in großen Flächen, wenn die Landschaft von Menschen und Tieren intensiv gepflegt wird. Aber wie funktioniert das nun im Einzelnen? Unsere wichtigsten Helfer sind dabei die Heidschnucken, eine alte Schafrasse. Täglich ziehen sechs Schafherden durch die Lüneburger Heide. Die Tiere fressen alles weg, was in die Höhe wachsen will. So bleibt die Heide kurz und bietet Lebensraum für viele seltene Tiere und Pflanzen.
-`````
-
-# 3-04_Lektion_19_6a_6b.mp3
-<audio controls loop src="B1.2_KB/3-04_Lektion_19_6a_6b.mp3"></audio>
-
-`````
-Inga Malin Peters: Sehr geehrte Damen und Herren, so funktioniert die Erhaltung der Heide. Bevor ich gleich zum letzten Punkt komme: Haben Sie denn an dieser Stelle bereits Fragen? Bitte!
-Journalist 1: Ich würde gern wissen, wer denn all die Arbeiten koordiniert und organisiert, die für die Erhaltung der Heide nötig sind?
-Inga Malin Peters: Ich habe Ihnen ja vorhin vom Naturschutzverein erzählt. Dieser Verein übernimmt und koordiniert die wichtigen Pflegemaßnahmen in der Heide. Aber dieser Verein lebt von unserer Mithilfe, auch finanziell. Je mehr Menschen aus der Region sich engagieren, desto besser kann er seine Arbeit machen. Auch Sie könnten doch zum Beispiel eine Patenschaft für eine Heidschnucke übernehmen.
+Inga Malin Peters: Ja, guten Tag, meine Damen und Herren, ich freue mich, dass Sie so zahlreich zu unserer Pressekonferenz hier ins Rathaus gekommen sind. Ich freue mich, als Heidekönigin unser schönes Schneverdingen und die Lüneburger Heide vertreten zu dürfen. Kurz zu meiner Person: Ich bin Bewohnerin der Heide in sechster Generation und habe schon als Kind mit Begeisterung die Krönung der neuen Heidekönigin verfolgt. Je älter ich wurde, desto mehr habe ich mir gewünscht, selbst einmal Heidekönigin zu werden. Also geht heute für mich ein Kindheitstraum in Erfüllung. Die einmalige Landschaft der Lüneburger Heide möchte ich Ihnen heute gern vorstellen. Zunächst möchte ich Ihnen etwas über die Entstehung der Lüneburger Heide erzählen. Dann möchte ich Ihnen erläutern, warum Mensch und Vieh lebenswichtig sind für die Heide. Anschließend stelle ich Ihnen die vielen Möglichkeiten vor, eine wunderschöne Zeit in unserer Heide zu verbringen. Am Ende können Sie mir gern Fragen stellen. Zuerst komme ich zur Entstehung der Lüneburger Heide: Die Heide sah nicht immer so aus wie heute. Ganz früher waren hier überall Waldflächen, Moore und Bäche. In der Steinzeit kamen die ersten Bauern in diese Gegend. Sie fällten die Bäume und betrieben Ackerbau. Der Wald verschwand und das Heidekraut begann zu wachsen. Bis Anfang des 18. Jahrhunderts lebten die Bauern von ihren Schafen und Bienen und deren Wolle, Bienenwachs und Honig. Doch je internationaler die Handelsbeziehungen wurden, desto größer wurde die Konkurrenz für die Heideprodukte. Die Heidebauern mussten ihr Land verkaufen und auf den Heideflächen wurden wieder viele Bäume gepflanzt. Das hätte das Ende der Heide sein können. Bei uns gründete sich aber vor circa 100 Jahren einer der ersten Naturschutzvereine Deutschlands. Es ist derselbe Verein, der sich auch heute noch um die Heideflächen kümmert. Die Pflanze, die in der Heide hauptsächlich wächst, heißt „Besenheide”. Sie wächst und blüht nur dann in großen Flächen, wenn die Landschaft von Menschen und Tieren intensiv gepflegt wird. Aber wie funktioniert das nun im Einzelnen? Unsere wichtigsten Helfer sind dabei die Heidschnucken, eine alte Schafrasse. Täglich ziehen sechs Schafherden durch die Lüneburger Heide. Die Tiere fressen alles weg, was in die Höhe wachsen will. So bleibt die Heide kurz und bietet Lebensraum für viele seltene Tiere und Pflanzen. Sehr geehrte Damen und Herren, so funktioniert die Erhaltung der Heide. Bevor ich gleich zum letzten Punkt komme: Haben Sie denn an dieser Stelle bereits Fragen? Bitte!
+Journalist 1: Ich würde gern wissen, wer denn all die Arbeiten koordiniert und organisiert, die für die Erhaltung der Heide nötig sind? Inga Malin Peters: Ich habe Ihnen ja vorhin vom Naturschutzverein erzählt. Dieser Verein übernimmt und koordiniert die wichtigen Pflegemaßnahmen in der Heide. Aber dieser Verein lebt von unserer Mithilfe, auch finanziell. Je mehr Menschen aus der Region sich engagieren, desto besser kann er seine Arbeit machen. Auch Sie könnten doch zum Beispiel eine Patenschaft für eine Heidschnucke übernehmen.
 Journalist 1: Aha, so etwas gibt es? Das kann ich mir ja wirklich mal überlegen!
 Inga Malin Peters: Das wäre schön! Gibt es denn noch weitere Fragen? Nein? Gut, dann möchte ich nun zum letzten Punkt kommen: Welche Aktivitäten und besonderen Reiseziele können Sie Ihren Lesern, Zuhörern oder Zuschauern empfehlen? Das Wichtigste erleben Sie ja gerade alle selbst: Die schönste Zeit in der Lüneburger Heide ist die Heideblüte. Sie dauert von Anfang August bis Anfang September. Dann blüht die Heide lila. Aber auch außerhalb der Hauptsaison hat man viele Urlaubsmöglichkeiten. Sie können ein Hotel, eine Pension oder eine Ferienwohnung buchen oder auch auf einem der 20 Campingplätze mitten in der Heide zelten. Die Lüneburger Heide ist flach und daher ideal für eine Fahrradtour. Sie können auch zum Wandern hierher kommen! Die Lüneburger Heide eignet sich besonders für Wander-Anfänger oder Familien mit Kindern. Oder Sie erleben die Heide vom Pferd aus und reiten durch die herrliche Heidelandschaft. Egal, ob Sie wandern, Rad fahren oder reiten: Wenn Sie dann doch mal Hunger bekommen, finden Sie überall kleine Cafés oder Restaurants. Und nun möchte ich zum Schluss kommen. Gibt es noch Fragen von Ihrer Seite? Ja, bitte!
 Journalistin 1: Liebe Frau Peters, ich möchte mich zunächst mal herzlich bedanken, Sie haben uns Ihre Heimat ganz wunderbar vorgestellt. Ich würde am liebsten gleich noch ein paar Tage hierbleiben. Gibt es denn auch ein Heimatmuseum, in dem man sich ansehen kann, wie die Menschen hier früher gelebt haben?
