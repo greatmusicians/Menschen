@@ -2072,6 +2072,15 @@ das Herz schwer werden = get sad, get unhappy, shed tears
 https://hinative.com/questions/18081050
 `````
 
+`````
+übergeben an + Akk.
+
+Man kann unangenehme Arbeiten an die Roboter übergeben. 
+人们可以把难活重活交给机器人来做。
+
+把某物交给某人，是用 an + Akk.，还是用 Dativ 呢？好像都行，但是不知道有什么区别？
+`````
+
 # 3-02_Lektion_19_5a.mp3
 <audio controls loop src="B1.2_KB/3-02_Lektion_19_5a.mp3"></audio>
 
@@ -2084,6 +2093,28 @@ Journalistin 1: Liebe Frau Peters, ich möchte mich zunächst mal herzlich bedan
 Inga Malin Peters: Ach, das hätte ich fast vergessen: Ja, wir haben hier eines der ältesten Heimatmuseen in Deutschland: „Dat ole Hus“ in Wilsede. Dort wird gezeigt, wie die Heidebauern um 1850 lebten und arbeiteten.
 Journalist 2: Ich hätte auch noch eine Frage: Wissen Sie eigentlich schon, wo Sie Ihren nächsten Auftritt haben?
 Inga Malin Peters: Auf jeden Fall werde ich bei der Tourismusmesse in Berlin dabei sein. So, vielen Dank fürs Zuhören. Nun darf ich Sie noch in den kleinen Saal bitten, wir haben ein paar Getränke und einen kleinen Imbiss vorbereitet.
+`````
+
+`````
+zahlreich 很多的
+Schneverdingen 施内费尔丁根，是下萨克森州的一个市镇，人口差一点不到两万
+vertreten 代表
+
+Kurz zu meiner Person = Briefly about myself
+搜了一下，这个短语在自我介绍的时候挺常用的
+
+Begeisterung 热情，兴奋
+Krönung 加冕，加冕礼
+verfolgen 跟踪，关注，追查
+wünschen 祝愿，希望，要求
+sich.(D) etw.(A) wünschen 想要某物
+Nun darfst du dir etwas wünschen. 你现在可以许愿了。
+
+in Erfüllung gehen = sich erfüllen = 实现
+Also geht heute für mich ein Kindheitstraum in Erfüllung.
+Meine Hoffnung hat sich erfüllt.
+
+
 `````
 
 # 3-05_Lektion_20_1b.mp3
