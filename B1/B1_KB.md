@@ -2086,7 +2086,8 @@ Man kann unangenehme Arbeiten an die Roboter übergeben.
 
 `````
 Inga Malin Peters: Ja, guten Tag, meine Damen und Herren, ich freue mich, dass Sie so zahlreich zu unserer Pressekonferenz hier ins Rathaus gekommen sind. Ich freue mich, als Heidekönigin unser schönes Schneverdingen und die Lüneburger Heide vertreten zu dürfen. Kurz zu meiner Person: Ich bin Bewohnerin der Heide in sechster Generation und habe schon als Kind mit Begeisterung die Krönung der neuen Heidekönigin verfolgt. Je älter ich wurde, desto mehr habe ich mir gewünscht, selbst einmal Heidekönigin zu werden. Also geht heute für mich ein Kindheitstraum in Erfüllung. Die einmalige Landschaft der Lüneburger Heide möchte ich Ihnen heute gern vorstellen. Zunächst möchte ich Ihnen etwas über die Entstehung der Lüneburger Heide erzählen. Dann möchte ich Ihnen erläutern, warum Mensch und Vieh lebenswichtig sind für die Heide. Anschließend stelle ich Ihnen die vielen Möglichkeiten vor, eine wunderschöne Zeit in unserer Heide zu verbringen. Am Ende können Sie mir gern Fragen stellen. Zuerst komme ich zur Entstehung der Lüneburger Heide: Die Heide sah nicht immer so aus wie heute. Ganz früher waren hier überall Waldflächen, Moore und Bäche. In der Steinzeit kamen die ersten Bauern in diese Gegend. Sie fällten die Bäume und betrieben Ackerbau. Der Wald verschwand und das Heidekraut begann zu wachsen. Bis Anfang des 18. Jahrhunderts lebten die Bauern von ihren Schafen und Bienen und deren Wolle, Bienenwachs und Honig. Doch je internationaler die Handelsbeziehungen wurden, desto größer wurde die Konkurrenz für die Heideprodukte. Die Heidebauern mussten ihr Land verkaufen und auf den Heideflächen wurden wieder viele Bäume gepflanzt. Das hätte das Ende der Heide sein können. Bei uns gründete sich aber vor circa 100 Jahren einer der ersten Naturschutzvereine Deutschlands. Es ist derselbe Verein, der sich auch heute noch um die Heideflächen kümmert. Die Pflanze, die in der Heide hauptsächlich wächst, heißt „Besenheide”. Sie wächst und blüht nur dann in großen Flächen, wenn die Landschaft von Menschen und Tieren intensiv gepflegt wird. Aber wie funktioniert das nun im Einzelnen? Unsere wichtigsten Helfer sind dabei die Heidschnucken, eine alte Schafrasse. Täglich ziehen sechs Schafherden durch die Lüneburger Heide. Die Tiere fressen alles weg, was in die Höhe wachsen will. So bleibt die Heide kurz und bietet Lebensraum für viele seltene Tiere und Pflanzen. Sehr geehrte Damen und Herren, so funktioniert die Erhaltung der Heide. Bevor ich gleich zum letzten Punkt komme: Haben Sie denn an dieser Stelle bereits Fragen? Bitte!
-Journalist 1: Ich würde gern wissen, wer denn all die Arbeiten koordiniert und organisiert, die für die Erhaltung der Heide nötig sind? Inga Malin Peters: Ich habe Ihnen ja vorhin vom Naturschutzverein erzählt. Dieser Verein übernimmt und koordiniert die wichtigen Pflegemaßnahmen in der Heide. Aber dieser Verein lebt von unserer Mithilfe, auch finanziell. Je mehr Menschen aus der Region sich engagieren, desto besser kann er seine Arbeit machen. Auch Sie könnten doch zum Beispiel eine Patenschaft für eine Heidschnucke übernehmen.
+Journalist 1: Ich würde gern wissen, wer denn all die Arbeiten koordiniert und organisiert, die für die Erhaltung der Heide nötig sind?
+Inga Malin Peters: Ich habe Ihnen ja vorhin vom Naturschutzverein erzählt. Dieser Verein übernimmt und koordiniert die wichtigen Pflegemaßnahmen in der Heide. Aber dieser Verein lebt von unserer Mithilfe, auch finanziell. Je mehr Menschen aus der Region sich engagieren, desto besser kann er seine Arbeit machen. Auch Sie könnten doch zum Beispiel eine Patenschaft für eine Heidschnucke übernehmen.
 Journalist 1: Aha, so etwas gibt es? Das kann ich mir ja wirklich mal überlegen!
 Inga Malin Peters: Das wäre schön! Gibt es denn noch weitere Fragen? Nein? Gut, dann möchte ich nun zum letzten Punkt kommen: Welche Aktivitäten und besonderen Reiseziele können Sie Ihren Lesern, Zuhörern oder Zuschauern empfehlen? Das Wichtigste erleben Sie ja gerade alle selbst: Die schönste Zeit in der Lüneburger Heide ist die Heideblüte. Sie dauert von Anfang August bis Anfang September. Dann blüht die Heide lila. Aber auch außerhalb der Hauptsaison hat man viele Urlaubsmöglichkeiten. Sie können ein Hotel, eine Pension oder eine Ferienwohnung buchen oder auch auf einem der 20 Campingplätze mitten in der Heide zelten. Die Lüneburger Heide ist flach und daher ideal für eine Fahrradtour. Sie können auch zum Wandern hierher kommen! Die Lüneburger Heide eignet sich besonders für Wander-Anfänger oder Familien mit Kindern. Oder Sie erleben die Heide vom Pferd aus und reiten durch die herrliche Heidelandschaft. Egal, ob Sie wandern, Rad fahren oder reiten: Wenn Sie dann doch mal Hunger bekommen, finden Sie überall kleine Cafés oder Restaurants. Und nun möchte ich zum Schluss kommen. Gibt es noch Fragen von Ihrer Seite? Ja, bitte!
 Journalistin 1: Liebe Frau Peters, ich möchte mich zunächst mal herzlich bedanken, Sie haben uns Ihre Heimat ganz wunderbar vorgestellt. Ich würde am liebsten gleich noch ein paar Tage hierbleiben. Gibt es denn auch ein Heimatmuseum, in dem man sich ansehen kann, wie die Menschen hier früher gelebt haben?
@@ -2096,6 +2097,7 @@ Inga Malin Peters: Auf jeden Fall werde ich bei der Tourismusmesse in Berlin dab
 `````
 
 `````
+die Heide 石楠荒原
 zahlreich 很多的
 Schneverdingen 施内费尔丁根，是下萨克森州的一个市镇，人口差一点不到两万
 vertreten 代表
@@ -2110,12 +2112,128 @@ wünschen 祝愿，希望，要求
 sich.(D) etw.(A) wünschen 想要某物
 Nun darfst du dir etwas wünschen. 你现在可以许愿了。
 
-in Erfüllung gehen = sich erfüllen = 实现
-Also geht heute für mich ein Kindheitstraum in Erfüllung.
-Meine Hoffnung hat sich erfüllt.
+einmalig 一次性的；惟一的；难得的，出色的，无与伦比的
+Entstehung 形成，来源
+erläutern = erklären = 解释，说明
+lebenswichtig 生活必需的，生死攸关的，极其重要的
+Waldfläche 森林面积；林地
+Steinzeit 石器时代
 
+"Gegend" has additional connotations like feeling, ecology and geology.
+"Gebiet" is more formal and usually it means the region shown in a map.
+
+Sie fällten die Bäume und betrieben Ackerbau.
+betreiben 经营，从事
+der Ackerbau 耕种，农业
+
+verschwinden, Präteritum: verschwand, 消失
+von etw.(D) leben 靠……生存（食物，收入等等）
+das Bienenwachs 蜂蜡
+die Konkurrenz 竞争
+derselbe = dasselbe = dieselbe = 相同的，同样的，同一个
+
+hauptsächlich 主要的
+die Besenheide 帚石楠，苏格兰石楠
+der Besen 扫帚
+blühen 开花
+durchziehen 漫游，周游；穿越，通过
+Erhaltung 维护，养护
+`````
 
 `````
+Also geht heute für mich ein Kindheitstraum in Erfüllung.
+
+in Erfüllung gehen = sich erfüllen = 实现
+Meine Hoffnung hat sich erfüllt.
+
+ein Kindheitstraum ist in Erfüllung gegangen
+Ein Kindheitstraum geht in Erfüllung
+Nun geht für mich mein größter Kindheitstraum in Erfüllung.
+`````
+
+`````
+Nominativ: die Lüneburger Heide
+Genitiv: der Lüneburger Heide
+
+可见，地名变成的“……的”不是形容词，不会变化词尾。
+`````
+
+`````
+Zunächst - Dann - Anschließend - Am Ende
+
+Zunächst möchte ich Ihnen etwas über die Entstehung der Lüneburger Heide erzählen.
+Dann möchte ich Ihnen erläutern, warum Mensch und Vieh lebenswichtig sind für die Heide.
+Anschließend stelle ich Ihnen die vielen Möglichkeiten vor, eine wunderschöne Zeit in unserer Heide zu verbringen.
+Am Ende können Sie mir gern Fragen stellen.
+`````
+
+`````
+deren是指示代词的第二格，表示前面提到的某人(物)的
+
+die Behälter und deren Inhalte 容器和他们里面的东西
+Die Bibliothek, deren Räume renoviert werden,ist zur Zeit geschlossen.
+
+在使用物主代词会产生误解的情况下，常用deren来复指前面提到的人或事。
+
+Anna verabschiedete sich von Maria und deren Mann.
+安娜向玛丽亚和玛丽亚的丈夫告别。
+`````
+
+`````
+Das hätte das Ende der Heide sein können.
+
+Hätte sein können vs. Könnte gewesen sein
+
+"Es hätte sein können", sagt aus, dass es aber tatsächlich nicht so war.
+
+"Es könnte gewesen sein" meint, dass man sich nicht sicher ist und die Frage noch nicht geklärt ist.
+
+https://dict.leo.org/forum/viewGeneraldiscussion.php?idForum=4&idThread=929440&lp=ende&lang=de
+`````
+
+`````
+Bei uns gründete sich aber vor circa 100 Jahren einer der ersten Naturschutzvereine Deutschlands.
+
+einer der ersten Naturschutzvereine
+der Verein，所以才会用 einer 吧
+
+在德语中 “最....的之一”是以第二格的形式来表达的
+比如einer der berühmtesten Schauspieler，最著名的演员之一
+einer = ein Schauspieler 是第一格 一名演员
+der berühmtesten Schauspieler 第二格， 最著名的演员们
+
+Drei neue Selbsthilfegruppen gründen sich in Dresden.
+Three new self-help groups are founded in Dresden.
+一般情况下gründen的主语是人，貌似：如果物为主语，加sich就可以替代Passiv。
+
+最后的 Deutschlands 是 Deutschland 的 Genitiv，DWDS上也可查到类似用法：die Demokratisierung Deutschlands，特别之处就是没有冠词。
+`````
+
+`````
+Sie wächst und blüht nur dann in großen Flächen, wenn die Landschaft von Menschen und Tieren intensiv gepflegt wird.
+
+It only grows and blooms in large areas if the landscape is intensively cared for by people and animals.
+`````
+
+`````
+Aber wie funktioniert das nun im Einzelnen?
+But how does this work in detail?
+
+nun 那么，怎么（不仅有“现在”的意思，还有好几个语气、连词的用法）
+
+im Einzelnen = ganz genau = 详细地
+`````
+
+`````
+Unsere wichtigsten Helfer sind dabei die Heidschnucken, eine alte Schafrasse.
+
+Our most important helpers are the Heidschnucken, an old breed of sheep.
+
+der Helfer 帮手，助手
+die Rasse 物种，品种
+die Heidschnucke 欧洲盘羊
+`````
+
 
 # 3-05_Lektion_20_1b.mp3
 <audio controls loop src="B1.2_KB/3-05_Lektion_20_1b.mp3"></audio>
