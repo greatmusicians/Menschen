@@ -2138,6 +2138,18 @@ der Besen 扫帚
 blühen 开花
 durchziehen 漫游，周游；穿越，通过
 Erhaltung 维护，养护
+
+die Maßnahme 方法，措施
+die Pflegemaßnahmen 保养措施
+die Patenschaft 赞助关系，帮助关系
+sich(Dat.) etw. überlegen 思考，思虑
+herrlich 壮丽的，精彩的
+überall 到处，在任何地方
+
+hierbleiben 留在这，停留（为什么可以合在一起写呢？语言习惯？）
+der Auftritt 登台(演出)
+der Saal 大厅，礼堂
+der Imbiss 点心，小吃（似乎不使用复数）
 `````
 
 `````
@@ -2234,6 +2246,42 @@ die Rasse 物种，品种
 die Heidschnucke 欧洲盘羊
 `````
 
+`````
+Sie können auf einem der 20 Campingplätze mitten in der Heide zelten.
+
+auf einem der 20 Campingplätze 和 mitten in der Heide 是并列关系
+
+einer der 20 Campingplätze 是 Genetiv，再按照 auf 转为 Dativ 的 einem
+`````
+
+`````
+hierher vs. hierhin vs. hier
+
+hierher 和 hierhin 表示的是 Richtung：woher 或 wohin
+hier 表示的是 Position：wo
+
+Hin ist das Ziel und Her der Ursprung.
+die Ursprung 起点，起源
+
+Hin is towards and her is from a location.
+wir gehen dorthin = we'll go towards that place
+wir kommen dorther = we came from that place
+
+Ich gehe dorthin, wo wir uns das erste Mal getroffen haben.
+
+her有往自己方向来的意思，hin有去的含义
+Woher kommst du? = 你从那里来到这里的？
+
+"hierher" ist zum Sprecher.
+Come here! = Komm her! = 你过来！
+
+hierher，意味着说话的人就在hier的位置。hierhin，意味着说话的人不在hier这里，比如手指地图说这里。
+
+bis hierhin und nicht weiter 到此为止
+einer ging hierhin, der andere dorthin 一个去了这里，另一个去了那里
+
+反正挺乱的，还没完全理清楚。。。。。。。。。。。。。。。。。。。。。。。。。。。。。
+`````
 
 # 3-05_Lektion_20_1b.mp3
 <audio controls loop src="B1.2_KB/3-05_Lektion_20_1b.mp3"></audio>
