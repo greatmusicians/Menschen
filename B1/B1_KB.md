@@ -2301,6 +2301,13 @@ Jupp: Schön. Dann geh ich am besten gleich nach oben, mir ein Plätzchen suchen
 Franz: Moment. Erst die Schuhe ausziehen. Am allerbesten ist, du liest dir erst einmal die Hüttenregeln durch.
 `````
 
+`````
+Grüezi 瑞士德语，您好
+
+Schön hast du es hier.
+什么意思？
+`````
+
 # 3-06_Lektion_21_1b.mp3
 <audio controls loop src="B1.2_KB/3-06_Lektion_21_1b.mp3"></audio>
 
@@ -2315,14 +2322,30 @@ Julia: Oder noch besser, wir singen: eins, zwei, drei ...
 Alle drei: Jetzt fahr’n wir durch das Land, durch das Land, jetzt fahr’n wir durch das Land. Jetzt sind wir auf Tournee, auf Tournee, jetzt sind wir auf Tournee – juchhe!
 `````
 
+`````
+Conga 一种鼓(Trommel)
+(ein) Foto schießen 拍照。这种说法似乎挺常见。schießen 确实也有拍摄的意思。
+die Tournee [tur`ne:] 巡回演出
+`````
+
 # 3-07_Lektion_21_5b.mp3
 <audio controls loop src="B1.2_KB/3-07_Lektion_21_5b.mp3"></audio>
 
 `````
-Sprecherin: Im Zentrum, innerhalb der Stadtmauer, liegt die schöne mittelalterliche Altstadt unseres Dorfes. Zwischen der Kirche und dem Rathaus ist der Marktplatz. Hier verkaufen die Bauern der Region zweimal in der Woche ihre Produkte.
-Vom Marktplatz aus führt eine Fußgängerzone Richtung Norden. An der Fußgängerzone entlang gibt es auf beiden Seiten viele Geschäfte. Dort kann man gut shoppen gehen und dort ist auch unser großes Kaufhaus. Durch unser Dorf führt ein Fluss, der außerhalb der Stadtmauern zu einem See gestaut ist. Um diesen See herum führt ein breiter Weg mit Bänken zum Ausruhen. Westlich des Sees ist ein Sportplatz. Hinter dem Sportplatz ist das Hallenbad zum Baden und Schwimmen, wenn es für den See noch zu kalt ist.
-Unser Dorf ist gut erreichbar, denn es hat auch einen Bahnhof. Er liegt am südwestlichen Rand des Dorfes. Hinter dem Bahnhof steht ein Parkhaus. Hier parken die Pendler der Umgebung, die mit dem Zug in die Stadt fahren.
-Besonders schön ist die Lage des Dorfes. Im Süden beginnt eine Berglandschaft. Im Norden liegt außerdem ein kleiner Wald außerhalb des Dorfes. Es gibt also viele Möglichkeiten für Tagesausflüge in die Natur.
+Sprecherin: Im Zentrum, innerhalb der Stadtmauer, liegt die schöne mittelalterliche Altstadt unseres Dorfes. Zwischen der Kirche und dem Rathaus ist der Marktplatz. Hier verkaufen die Bauern der Region zweimal in der Woche ihre Produkte. Vom Marktplatz aus führt eine Fußgängerzone Richtung Norden. An der Fußgängerzone entlang gibt es auf beiden Seiten viele Geschäfte. Dort kann man gut shoppen gehen und dort ist auch unser großes Kaufhaus. Durch unser Dorf führt ein Fluss, der außerhalb der Stadtmauern zu einem See gestaut ist. Um diesen See herum führt ein breiter Weg mit Bänken zum Ausruhen. Westlich des Sees ist ein Sportplatz. Hinter dem Sportplatz ist das Hallenbad zum Baden und Schwimmen, wenn es für den See noch zu kalt ist. Unser Dorf ist gut erreichbar, denn es hat auch einen Bahnhof. Er liegt am südwestlichen Rand des Dorfes. Hinter dem Bahnhof steht ein Parkhaus. Hier parken die Pendler der Umgebung, die mit dem Zug in die Stadt fahren. Besonders schön ist die Lage des Dorfes. Im Süden beginnt eine Berglandschaft. Im Norden liegt außerdem ein kleiner Wald außerhalb des Dorfes. Es gibt also viele Möglichkeiten für Tagesausflüge in die Natur.
+`````
+
+`````
+stauen (筑坝)拦住，挡住
+
+Um diesen See herum führt ein breiter Weg mit Bänken zum Ausruhen.
+湖周围有一条宽阔的小路，有可供休息的长凳。
+zum Ausruhen 是修饰 Bänken 的！！！！
+
+der Rand 边，边缘
+der Pendler 通勤者，乘车上下班的人
+die Umgebung 环境，周围
+die Lage 位置，环境，形势
 `````
 
 # 3-08_Lektion_21_7a.mp3
@@ -2336,39 +2359,9 @@ Moderator: Ihr seid jetzt hier in Augsburg. Vorher wart ihr unter anderem in Ess
 Julia: Ja, also das Wichtigste ist: Vorher muss natürlich fleißig geübt werden. Sobald wir dann wissen, wo wir auftreten, müssen Verträge gemacht werden. Dann müssen Plakate und Informationsmaterial für die Werbung verschickt werden. Das gehört alles zu meinen Aufgaben.
 Andrea: Ich kümmere mich um unsere Kostüme. Und weil ich die Fahrerin bin, bin ich außerdem für unser Tour-Auto zuständig. Das muss gesaugt und vollgetankt werden.
 Julia: Dann müssen natürlich die Instrumente in Ordnung sein. Jede von uns ist für ihre eigenen Instrumente verantwortlich. Beim Packen darf natürlich nichts vergessen werden, vor allem nicht der Proviant! Darum kümmert sich meistens Barbara.
-Barbara: Ja, ich bereite immer eine Kleinigkeit für die Fahrt vor. Ich backe Kuchen und schmiere Brote. Der Konzertveranstalter hat natürlich auch ein paar Aufgaben. Denn auch vor Ort muss so einiges vorbereitet werden. So muss beispielweise die Technik bereitgestellt werden. Andrea: Ja, und der Konzertveranstalter muss unsere Plakate aufhängen, denn wir brauchen ja Werbung!
-Moderator: Wow! So ein Konzert bedeutet ganz schön viel Organisation. Wo hat es euch am besten gefallen?
-Julia: Also, am meisten überrascht hat mich persönlich das Ruhrgebiet. Da ist kulturell ganz viel los und die Leute waren total herzlich.
-Barbara: Ich fand unseren Auftritt in einem Weingut etwas außerhalb von Basel am schönsten. Dort herrschte auch die fröhlichste Stimmung. Der Wein und das gute Wetter waren sicher auch schuld daran.
-Andrea: Und Augsburg hatte den nettesten Konzertveranstalter! Er hat uns eine persönliche Stadtführung gegeben und uns die interessantesten Ecken Augsburgs gezeigt. Die „Fuggerei“ war eins der spannendsten Erlebnisse auf unserer Tournee.
-Julia: Abgesehen von den Auftritten natürlich!
-Andrea: Ja, klar! Wobei die Schnitzel in Essen auch nicht zu verachten waren. Barbara: Und mein Veggie-Burger!
-Moderator: Vielen Dank für euren Besuch hier im Studio.
-Julia: Vielen Dank für die Einladung.
-Moderator: Ihre Begeisterung für Rhythmus und Musik, liebe Hörerinnen und Hörer, geben die „Wonnebeats“ übrigens nicht nur auf Konzerten, sondern auch in vielfältigen Angeboten für Erwachsene und Kinder weiter. Sie bieten sowohl Firmenworkshops als auch Trommelkurse in Schulen und auf Kindergeburtstagen an. Wer neugierig geworden ist, kann sich gern bei uns in der Redaktion oder auf der Homepage der „Wonnebeats“ informieren.
-`````
-
-# 3-09_Lektion_21_7b.mp3
-<audio controls loop src="B1.2_KB/3-09_Lektion_21_7b.mp3"></audio>
-
-`````
-Moderator: Ich freue mich, dass die drei jetzt bei mir im Studio sitzen. Herzlich willkommen.
-Alle drei: Hallo!
-Julia: Wir freuen uns, hier zu sein.
-Moderator: Ihr seid jetzt hier in Augsburg. Vorher wart ihr unter anderem in Essen und in der Schweiz, in der Nähe von Basel. Wie ist denn der Ablauf so einer Tournee? Was muss vorbereitet werden und wie ist eure Aufgabenverteilung?
-Julia: Ja, also das Wichtigste ist: Vorher muss natürlich fleißig geübt werden. Sobald wir dann wissen, wo wir auftreten, müssen Verträge gemacht werden. Dann müssen Plakate und Informationsmaterial für die Werbung verschickt werden. Das gehört alles zu meinen Aufgaben.
-Andrea: Ich kümmere mich um unsere Kostüme. Und weil ich die Fahrerin bin, bin ich außerdem für unser Tour-Auto zuständig. Das muss gesaugt und vollgetankt werden.
-Julia: Dann müssen natürlich die Instrumente in Ordnung sein. Jede von uns ist für ihre eigenen Instrumente verantwortlich. Beim Packen darf natürlich nichts vergessen werden, vor allem nicht der Proviant! Darum kümmert sich meistens Barbara.
 Barbara: Ja, ich bereite immer eine Kleinigkeit für die Fahrt vor. Ich backe Kuchen und schmiere Brote. Der Konzertveranstalter hat natürlich auch ein paar Aufgaben. Denn auch vor Ort muss so einiges vorbereitet werden. So muss beispielweise die Technik bereitgestellt werden.
 Andrea: Ja, und der Konzertveranstalter muss unsere Plakate aufhängen, denn wir brauchen ja Werbung!
 Moderator: Wow! So ein Konzert bedeutet ganz schön viel Organisation. Wo hat es euch am besten gefallen?
-`````
-
-# 3-10_Lektion_21_9.mp3
-<audio controls loop src="B1.2_KB/3-10_Lektion_21_9.mp3"></audio>
-
-`````
-Moderator: Wo hat es euch am besten gefallen?
 Julia: Also, am meisten überrascht hat mich persönlich das Ruhrgebiet. Da ist kulturell ganz viel los und die Leute waren total herzlich.
 Barbara: Ich fand unseren Auftritt in einem Weingut etwas außerhalb von Basel am schönsten. Dort herrschte auch die fröhlichste Stimmung. Der Wein und das gute Wetter waren sicher auch schuld daran.
 Andrea: Und Augsburg hatte den nettesten Konzertveranstalter! Er hat uns eine persönliche Stadtführung gegeben und uns die interessantesten Ecken Augsburgs gezeigt. Die „Fuggerei“ war eins der spannendsten Erlebnisse auf unserer Tournee.
@@ -2378,6 +2371,137 @@ Barbara: Und mein Veggie-Burger!
 Moderator: Vielen Dank für euren Besuch hier im Studio.
 Julia: Vielen Dank für die Einladung.
 Moderator: Ihre Begeisterung für Rhythmus und Musik, liebe Hörerinnen und Hörer, geben die „Wonnebeats“ übrigens nicht nur auf Konzerten, sondern auch in vielfältigen Angeboten für Erwachsene und Kinder weiter. Sie bieten sowohl Firmenworkshops als auch Trommelkurse in Schulen und auf Kindergeburtstagen an. Wer neugierig geworden ist, kann sich gern bei uns in der Redaktion oder auf der Homepage der „Wonnebeats“ informieren.
+`````
+
+`````
+beteiligen 参加，参与
+treten 踩，踏，踢
+auftreten 登台演出，出场
+
+vorher 以前，事先
+unter anderem = u.a. = 此外
+
+Vorher muss natürlich fleißig geübt werden.
+Passiv Präsens mit Modalverben：状语在后，则情态动词前面加es；状语在前，则去掉es（虽然去掉，但情态动词仍然按照es变位）。
+
+sobald [zo`balt] 一旦，一...就...
+verschicken = versenden 发送，寄送
+
+für j-n/etw.(A) zuständig sein 主管……，对……负责
+
+Das Auto muss gesaugt und vollgetankt werden. 吸尘，加满油
+der Proviant [pro`viant] (旅途中携带的)食物，给养
+
+vorbereiten 准备，为...做准备
+Kleinigkeit 小玩意儿，小事儿
+schmieren 涂抹
+
+Ich backe Kuchen und schmiere Brote. 我烤蛋糕并涂面包。
+
+vor Ort 在现场
+der Vor-Ort-Termin 面谈
+der Vor-Ort-Service 现场服务
+
+Denn auch vor Ort muss so einiges vorbereitet werden.
+Because a lot of things have to be prepared on site too.
+
+beispielweise = zum Beispiel
+bereitstellen 提供（为了做准备，阶提供这个、提供那个）
+
+viel los sein 很忙，很多人，很热闹，很多活动
+Da ist kulturell ganz viel los.
+Am Samstag wird in Freiburg viel los sein.
+
+herrschen 存在着，充满着
+das Erlebnis, die Erlebnisse, 经历
+
+eins/eines der teuersten Handys 最贵的手机之一
+eins/eines 都可以
+
+abgesehen von 不计，不考虑
+Abgesehen von den Auftritten natürlich! 当然除了表演之外！
+Apart from the performances of course!
+Abgesehen von den Kosten ist es auch noch machbar. 不计成本的话还是可行的。
+
+verachten 轻视，蔑视
+der Veggie-Burger = der Veggieburger, 单复同形, 素汉堡
+Begeisterung 热情
+der Rhythmus [`rytmus] 节奏，节律
+übrigens adv. 此外，另外，顺便提一下
+vielfältig 多种多样的
+die Redaktion 编辑部，编辑室
+`````
+
+`````
+senden vs. schicken
+Umgangssprachlich wird "schicken" für einen Brief oder eine Mail verwendet und "Senden" für ein Paket.
+
+abschicken vs. verschicken
+Eigentlich besteht kein großer Unterschied zwischen den jeweils beiden Sachen.
+
+Ich schicke die E-Mail ab.
+Ich verschicke die E-Mail.
+Ich sende dir den Brief per Post.
+Ich versende den Brief per Post an dich.
+
+https://de.hinative.com/questions/17184442
+https://de.hinative.com/questions/3022920
+`````
+
+`````
+Auftritt, auftreten, Auftreten
+
+der Auftritt 登台，演出
+auftreten 出现，出场
+das Auftreten 举止，态度
+
+Zusammen treten sie als „Wonnebeats“ auf.
+Together they perform as "Wonnebeats".
+
+Sein Auftreten ist ziemlich arrogant heute. Er hält sich wohl für etwas besseres.
+His appearance is pretty arrogant today. He thinks he's better than us.
+
+Der Auftritt der Theatergruppe war beeindruckend.
+The performance of the theater group was impressive.
+
+https://de.hinative.com/questions/3247505
+`````
+
+`````
+Der Wein und das gute Wetter waren sicher auch schuld daran.
+
+Schuld an der Fröhlichkeit waren der Wein und das gute Wetter.
+
+The cause of the happiness was the wine and the good weather.
+
+在这里，Schuld = Grund，而且在这里没有罪过的那种 negativ 的含义，而是 neutral 的。
+
+Wer hat daran Schuld? = wer ist schuld daran?
+
+schuld an etwas sein = für etwas verantwortlich sein
+`````
+
+`````
+Wobei die Schnitzel in Essen auch nicht zu verachten waren.
+The schnitzels in Essen were not to be despised either.
+埃森的炸肉排也不容小觑。
+
+verachten 轻视，蔑视
+
+Wobei so ein Stück Sachertorte nicht zu verachten ist.
+像这样的萨赫蛋糕是不容小觑的。
+
+Auch der Wein und der selbsgemacht Grappa waren nicht zu verachten.
+葡萄酒和自制的格拉巴酒也不容忽视。
+Grappa (意大利)葡萄果渣白兰地
+`````
+
+`````
+Ihre Begeisterung für Rhythmus und Musik, liebe Hörerinnen und Hörer, geben die „Wonnebeats“ übrigens nicht nur auf Konzerten, sondern auch in vielfältigen Angeboten für Erwachsene und Kinder weiter.
+
+weitergeben 转告；传递
+
+顺便说一句，亲爱的听众，“Wonnebeats”不仅在音乐会上，还在成人和儿童的各种活动中传递他们对节奏和音乐的热情。
 `````
 
 # 3-11_Modul_7_1_2.mp3
@@ -2390,6 +2514,34 @@ Moderator: Ihre Begeisterung für Rhythmus und Musik, liebe Hörerinnen und Hör
 Audioguide: Schließen Sie die Augen und erinnern Sie sich: Die Szenen, die sich vor dieser Mauer abspielten, gingen um die Welt. Es ist der Abend des 9. November 1989. Ein Donnerstag. Tausende von Menschen versammeln sich vor der Berliner Mauer am Brandenburger Tor, die sich an diesem Abend zum ersten Mal seit 1961 wieder öffnet. 28 Jahre lang war das Tor verschlossen und ist zum Symbol für das geteilte Berlin geworden. Doch wie kam es dazu? Drehen wir die Uhr noch ein Stückchen weiter zurück.
 `````
 
+`````
+der Audioguide 语音导览机
+sich abspielen 发生，进行，上演
+sich versammeln 聚集
+sich öffnen 打开，敞开
+verschlossen 关闭的，锁住的
+
+`````
+
+`````
+Die Szenen, die sich vor dieser Mauer abspielten, gingen um die Welt.
+The scenes that took place in front of this wall went around the world.
+这堵墙前发生的场景传遍了全世界。
+`````
+
+`````
+Wie kam es dazu?
+How did it happen?
+How did that come about?
+`````
+
+`````
+Drehen wir die Uhr noch ein Stückchen weiter zurück.
+Let's turn the clock back a little further.
+
+drehen 旋转，转动
+`````
+
 # 3-13_Lektion_22_3_1.mp3
 <audio controls loop src="B1.2_KB/3-13_Lektion_22_3_1.mp3"></audio>
 
@@ -2397,17 +2549,166 @@ Audioguide: Schließen Sie die Augen und erinnern Sie sich: Die Szenen, die sich
 Audioguide: Vom Kriegsende bis zur Teilung Deutschlands
 Junge: Extrablatt! Extrablatt! Der Krieg ist vorbei!
 Audioguide: Im Mai 1945 ist Deutschland endlich von den Alliierten befreit worden. Das Land und die Stadt Berlin wurden in vier Besatzungszonen geteilt: eine amerikanische, eine sowjetische, eine französische und eine britische. Da sich aber die westlichen Länder und die Sowjetunion nicht über die zukünftige Staatsform einigen konnten, kam es schließlich zur Teilung Deutschlands in einen West- und einen Ostteil.
-Wenn Sie mehr über die Teilung Deutschlands wissen wollen, drücken sie die 1-0-1.
+Audioguide: Wenn Sie mehr über die Teilung Deutschlands wissen wollen, drücken sie die 1-0-1.
+`````
+
+`````
+das Extrablatt (报纸的)号外，特刊
+alliiert [ali`i:ɐt] 同盟的，结盟的
+der/die Alliierte [ali`i:ɐtə] (形容词作名词)同盟国
+befreit 被解放的，被释放的，被拯救的
+
+sich einigen 达成一致
+sich (mit j-m) auf/über etw.(A) einigen
+Sie einigten sich auf einen Kompromiss. 他们达成妥协。
 `````
 
 # 3-14_Lektion_22_3_2.mp3
 <audio controls loop src="B1.2_KB/3-14_Lektion_22_3_2.mp3"></audio>
 
 `````
-Audioguide: Von der Teilung Deutschlands bis zum Mauerbau 1948 waren über dem Berliner Himmel häufig Flugzeugmotoren zu hören. Was hatte das zu bedeuten? Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist. Von einem Tag auf den anderen war die Berliner Bevölkerung von der Außenwelt abgeschnitten. Die westlichen Alliierten ließen sich das allerdings nicht gefallen. Sie beschlossen, den Menschen einfach aus der Luft mit den wichtigsten Lebensmitteln zu helfen. Ihre Taktik ist später als „Berliner Luftbrücke“ bekannt geworden.
-Schließlich gab die Sowjetunion auf. Deutschland wurde in „West“ und „Ost“ geteilt. Im Westen wurde 1949 die Bundesrepublik Deutschland gegründet, im Osten die Deutsche Demokratische Republik. In der BRD wurde die Demokratie eingeführt, in der DDR eine sozialistische EinParteien-Diktatur.
-Während die BRD mithilfe der USA ein „Wirtschaftswunder“ erlebte, hatte die DDR große wirtschaftliche Probleme. Immer mehr Menschen zogen in den Westen. Die DDR musste reagieren, wenn sie nicht irgendwann ohne Einwohner dastehen wollte. Obwohl die DDR-Regierung noch im Juni 1961 erklärte, dass niemand vorhatte, eine Mauer zu bauen, konnte man in der Nacht vom 12. auf den 13. August 1961 plötzlich Baulärm hören. Quer durch die Hauptstadt wurde Stacheldraht gezogen. Rund um Westberlin entstand eine drei Meter hohe Mauer.
+Audioguide: Von der Teilung Deutschlands bis zum Mauerbau 1948 waren über dem Berliner Himmel häufig Flugzeugmotoren zu hören. Was hatte das zu bedeuten? Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist. Von einem Tag auf den anderen war die Berliner Bevölkerung von der Außenwelt abgeschnitten. Die westlichen Alliierten ließen sich das allerdings nicht gefallen. Sie beschlossen, den Menschen einfach aus der Luft mit den wichtigsten Lebensmitteln zu helfen. Ihre Taktik ist später als „Berliner Luftbrücke“ bekannt geworden. Schließlich gab die Sowjetunion auf. Deutschland wurde in „West“ und „Ost“ geteilt. Im Westen wurde 1949 die Bundesrepublik Deutschland gegründet, im Osten die Deutsche Demokratische Republik. In der BRD wurde die Demokratie eingeführt, in der DDR eine sozialistische EinParteien-Diktatur.
+Audioguide: Während die BRD mithilfe der USA ein „Wirtschaftswunder“ erlebte, hatte die DDR große wirtschaftliche Probleme. Immer mehr Menschen zogen in den Westen. Die DDR musste reagieren, wenn sie nicht irgendwann ohne Einwohner dastehen wollte. Obwohl die DDR-Regierung noch im Juni 1961 erklärte, dass niemand vorhatte, eine Mauer zu bauen, konnte man in der Nacht vom 12. auf den 13. August 1961 plötzlich Baulärm hören. Quer durch die Hauptstadt wurde Stacheldraht gezogen. Rund um Westberlin entstand eine drei Meter hohe Mauer.
 Audioguide: Wenn Sie mehr über den Alltag in der DDR wissen wollen, drücken Sie die 1-0-2.
+`````
+
+`````
+zuvor [tsu`vo:ɐ] 事先，之前，以前
+
+Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist.
+怎么听都不是 blockiert 而是 besetzt 的音。但是从含义上讲，blockiert 是对的，苏联只是封锁并没有占领西柏林，课本上的文本也是 blockiert。可能是音频录制错误吧。
+
+abgeschnitten ===>>> abschneiden 切断，阻断
+Bevölkerung 人口，居民，人民，民众
+
+sich ließen ===>>> sich lassen
+
+`````
+
+`````
+1948 waren über dem Berliner Himmel häufig Flugzeugmotoren zu hören.
+
+▶ 在 B1.2 L21 学习了 Passiv Präsens mit Modalverben，就是那个“状语前置则去掉主语”的奇怪语法。
+Diese Rechnung muss bis nächste Woche bezahlt werden.
+
+▶ Es gibt aber alternative Möglichkeiten, diesen Satz auszudrücken. Eine dieser Alternativen ist die sogenannte Passiversatzform ‘sein + zu + Infinitiv’, um die es in diesem Beitrag geht. Die Passiversatzform ‘sein + zu + Infinitiv’ bildet ihr mit der konjugierten Form des Hilfsverbs ‘sein’. Dann folgt ‘zu‘ und der Infinitiv des Verbs, wie in diesen beiden Beispielen …
+
+die Alternative [altεrna`ti:və] 其他可能性，其他选择
+das Hilfsverb 助动词
+folgen 跟随，(随后)跟上
+
+sein + zu + Infinitiv 跟 Passiv mit Modalverben 在某些情形下，是可以互相转换。
+
+▶ Wann ist die Form ‘sein + zu + Infinitiv’ möglich?
+那些情形 sein + zu + Infinitiv 跟 Passiv mit Modalverben 可以互换？
+
+Die Ersatzform ‘sein + zu + Infinitiv‘ kann Passivsätze mit den Modalverben ‘können‘, ‘müssen’, ‘sollen’ und ‘nicht dürfen‘ ersetzen. Wenn etwas ‘zu machen’ ist, dann kann man damit eine Pflicht beziehungsweise ein Notwendigkeit meinen, aber es kann auch um eine Möglichkeit gehen. Beispielsweise kann der Satz …
+Das Problem ist bis nächste Woche zu lösen.
+folgendes bedeuten:
+Das Problem kann bis morgen gelöst werden.
+oder
+Das Problem muss bis morgen gelöst werden.
+
+der Ersatz [εɐ`zats] 代替者，代替物 ===>>> ersetzen 替代
+beziehungsweise 或者；或者更确切地说 ===>>> bzw. 缩写形式更常见
+die Notwendigkeit 必要性；必需品，必须做的事
+
+sein + zu + Infinitiv 可用于替代 ‘können‘, ‘müssen’, ‘sollen’ und ‘nicht dürfen‘ ，可见比较灵活，相比直接使用 Modalverb，结合语境可能会有多种含义。
+
+Das erste Beispiel betont eine Möglichkeit oder eine Fähigkeit, das Problem zu lösen. Dagegen geht es im zweiten Beispiel um eine Pflicht oder eine Notwendigkeit, das Problem zu lösen.
+
+Auch wenn wir sagen wollen, dass etwas nicht erlaubt ist, man etwas also NICHT darf, können wir die Passiversatzform ‘sein + zu + Infinitiv’ gebrauchen. Den Satz …
+Der Rasen darf nicht betreten werden.
+könnt ihr auch auf diese Weise ausdrücken …
+Der Rasen ist nicht zu betreten.
+
+gebrauchen 使用，利用 ===>>> gebraucht 二手的，旧的
+
+
+https://deutsch-coach.com/die-passiversatzform-sein-zu-infinitiv/
+`````
+
+`````
+Was hatte das zu bedeuten? ===>>> What did that mean?
+
+Mit Hilfe der Modalitätsverben sein und haben in Verbindung mit zu + Infinitiv kann eine Möglichkeit oder Notwendigkeit ausgedrückt werden.Die haben-Verbindungen werden mit einem Satz im Aktiv umschrieben, während die sein-Verbindungen mit einem Satz im Passiv.
+
+umschreiben 解释，说明
+Modalitätsverben 准情态动词(详细解释见后面)
+
+Du hast dich anständig zu benehmen.	===>>> müssen
+Du musst dich anständig benehmen.
+anständig `an·stän·dig 合适的，合乎礼貌的，规矩的
+benehmen 举止，行为，态度
+
+Du hast die Gäste nicht in die Küche hereinzulassen. ===>>> nicht dürfen
+Du darfst die Gäste nicht in die Küche hereinlassen.
+hereinlassen 让……进来，容许……进来
+
+Ich habe mich nicht zu verteidigen. ===>>> nicht müssen / nicht brauchen
+Ich brauche mich nicht zu verteidigen. 我不需要为自己辩护。
+verteidigen 保卫，捍卫；为……辩护
+
+Hier hat er überhaupt nichts zu bestimmen. ===>>> (nicht) können
+Hier kann er überhaupt nichts bestimmen. 他在这里根本没有发言权。
+bestimmen 确定，规定；有决定权
+
+Modalitätsverben 准情态动词 是什么？
+
+Modalitätsverben können wie die Modalverben einem anderen Verb eine bestimmte Bedeutungsrichtung („Modalität“) hinzufügen, die mit Hilfe eines Modalverbs oder eines Adverbs umschrieben werden kann.
+
+Im Gegensatz zu den Modalverben verlangen die Modalitätsverben aber einen Infinitiv(anschluss) mit zu. Die wichtigsten Modalitätsverben sind ‘sein zu‘, ‘haben zu‘ und ‘nicht brauchen zu‘.
+
+hinzufügen 添加，补充(注意，这里的zu是单词的一部分)
+
+https://www.deutschplus.net/pages/Modalitatsverben
+https://deutschegrammatik20.de/spezielle-verben/modalitaetsverben/
+https://de.hujiang.com/new/p175223/
+`````
+
+`````
+von einem Tag auf den anderen = von einem Tag zum anderen
+
+a) plötzlich, unerwartet; mit umgehender Wirkung
+b) innerhalb (sehr) kurzer Zeit; innerhalb einer unverhältnismäßig kurzen Frist
+
+umgehend 立刻的，尽快的
+die Wirkung 效果，反应，影响
+unverhältnismäßig 不合比例的，不相称的；过度，过分，太
+die Frist 期限，日期
+
+(idiomatic) in a short period of time; overnight; suddenly
+
+本意是一日之间，这里用来形容时间短
+
+https://www.dwds.de/wb/von%20einem%20Tag%20zum%20anderen
+`````
+
+`````
+sich(D) etwas gefallen lassen: etwas unwillig oder freudig akzeptieren
+unwillig 不情愿的
+freudig 愉快的
+
+sich etw. nicht gefallen lassen: 对不可接受的行为做出（愤怒）反应
+
+表示不情愿接受时，经常与müssen连用。
+表示愉快地接受时，可以加gern：sich etw. gern gefallen lassen
+如果加了nicht，就没有愉快的含义了，而是不接受，不仅不接受，还要作出反应
+
+Aber muss ich mir das gefallen lassen?
+But do I have to put up with it?
+但我必须忍受吗？
+
+Man muss sich von sich selbst nicht alles gefallen lassen!
+You don't have to put up with everything about yourself!
+你不必忍受自己的一切！
+
+Die westlichen Alliierten ließen sich das allerdings nicht gefallen.
+However, the Western allies did not put up with this.
+然而，西方盟军并没有容忍这一点。
+
+https://www.dwds.de/wb/sich%20etw.%20gefallen%20lassen
+https://www.dwds.de/wb/sich%20etw.%20nicht%20gefallen%20lassen
 `````
 
 # 3-15_Lektion_22_3_3.mp3
@@ -2415,9 +2716,9 @@ Audioguide: Wenn Sie mehr über den Alltag in der DDR wissen wollen, drücken Si
 
 `````
 Audioguide: Alltag in der DDR Nachdem 1961 die Berliner Mauer gebaut wurde, glaubte kaum einer mehr an die Wiedervereinigung. Die Menschen gewöhnten sich an den DDR-Alltag. Ein- bis dreijährige Kinder wurden ganztägig in Krippen betreut, denn oft waren beide Partner berufstätig. Trotzdem hatten die Menschen nicht viel. Lebensmittel waren oft knapp. Viele Produkte wurden so selten angeboten, dass es vor den Geschäften lange Schlangen gab. Sehr beliebt war ein Auto, das in der DDR gebaut wurde: der Trabant. Sogar gebraucht war er fast noch so viel wert wie neu.
-Wer es sich leisten konnte, hatte ein Wochenendhaus. Die sogenannte „Datsche“ lag meist am Rand der Stadt oder auf dem Land. Im Garten wurden Obst und Gemüse angebaut. Aber die Datsche wurde vor allem auch nicht so streng kontrolliert.
-Denn vergessen wir nicht: Freie Meinungsäußerung war in DDR unmöglich. In 40 Jahren DDR wurden etwa 250 000 Menschen aus politischen Gründen verhaftet. Ehemalige „StasiGefängnisse“ sind später in Gedenkstätten umgewandelt worden, die man noch heute besichtigen kann. Sie erinnern uns an diese schwierige Zeit, die erst 1989 endete.
-Wenn Sie mehr über die Friedliche Revolution in der DDR und die deutsche Wiedervereinigung wissen wollen, drücken Sie die 1-0-3.
+Audioguide: Wer es sich leisten konnte, hatte ein Wochenendhaus. Die sogenannte „Datsche“ lag meist am Rand der Stadt oder auf dem Land. Im Garten wurden Obst und Gemüse angebaut. Aber die Datsche wurde vor allem auch nicht so streng kontrolliert.
+Audioguide: Denn vergessen wir nicht: Freie Meinungsäußerung war in DDR unmöglich. In 40 Jahren DDR wurden etwa 250 000 Menschen aus politischen Gründen verhaftet. Ehemalige „StasiGefängnisse“ sind später in Gedenkstätten umgewandelt worden, die man noch heute besichtigen kann. Sie erinnern uns an diese schwierige Zeit, die erst 1989 endete.
+Audioguide: Wenn Sie mehr über die Friedliche Revolution in der DDR und die deutsche Wiedervereinigung wissen wollen, drücken Sie die 1-0-3.
 `````
 
 # 3-16_Lektion_22_3_4.mp3
@@ -2425,8 +2726,8 @@ Wenn Sie mehr über die Friedliche Revolution in der DDR und die deutsche Wieder
 
 `````
 Audioguide: Friedliche Revolution und deutsche Wiedervereinigung 1989 öffnete zunächst Ungarn seine Grenze in den Westen. Das sprach sich schnell herum. Tausende von DDR-Bürgern reisten nach Ungarn, Polen und in die damalige Tschechoslowakei. Sie besetzten die westdeutschen Botschaften oder flohen über die offenen Grenzen in den Westen.
-Durch die massenhafte Flucht verlor die Berliner Mauer mehr und mehr ihren Sinn. Doch auch in der DDR gingen immer mehr Menschen auf die Straßen. Hier hören Sie, wie die Menschen mit dem Ruf „Wir sind das Volk“ gegen das System protestieren, von dem sie 41 Jahre lang unterdrückt worden sind. In der Leipziger Nikolaikirche fingen die Friedensgebete und die Montagsdemonstrationen an und breiteten sich von dort auch in andere Städte aus. Sie wurden zum Symbol für die Friedliche Revolution.
-Am 9. November 1989 fiel endlich die Mauer. Und am 3. Oktober 1990 wurden die „neuen Länder“ der DDR und die „alten Länder“ der BRD gemeinsam zur Bundesrepublik Deutschland.
+Durch die massenhafte Flucht verlor die Berliner Mauer mehr und mehr ihren Sinn. Doch auch in der Audioguide: DDR gingen immer mehr Menschen auf die Straßen. Hier hören Sie, wie die Menschen mit dem Ruf „Wir sind das Volk“ gegen das System protestieren, von dem sie 41 Jahre lang unterdrückt worden sind. In der Leipziger Nikolaikirche fingen die Friedensgebete und die Montagsdemonstrationen an und breiteten sich von dort auch in andere Städte aus. Sie wurden zum Symbol für die Friedliche Revolution.
+Audioguide: Am 9. November 1989 fiel endlich die Mauer. Und am 3. Oktober 1990 wurden die „neuen Länder“ der DDR und die „alten Länder“ der BRD gemeinsam zur Bundesrepublik Deutschland.
 `````
 
 # 3-17_Lektion_23_2b_1.mp3
@@ -2450,11 +2751,69 @@ Christoph: Bei der Arbeit sitze ich sehr viel am Schreibtisch, abends oder am Wo
 Yvette: Das ist mein Rad und das kann ruhig jeder sofort sehen. So eins gibt’s nur einmal. Ich bekomme immer gleich gute Laune, wenn ich aufs Rad steige. Und die Leute um mich herum auch, die lachen mir zu und freuen sich. Klar, es gibt auch welche, die finden das blöd und kindisch. Egal! Ich finde es dafür langweilig, wenn alle Fahrräder gleich aussehen.
 `````
 
+`````
+Egal [e`ga:l] 无所谓，不在乎
+Es ist mir egal. 这我无所谓。 我不在乎。
+Ob du kommst oder nicht, ist mir egal. 你来不来我无所谓。
+
+dafür 对此；在这方面，在这件事上
+`````
+
+`````
+Das ist mein Rad und das kann ruhig jeder sofort sehen.
+This is my bike and everyone can see it straight away.
+
+Wir sind ein transparentes Unternehmen und das kann ruhig jeder sehen.
+We are a transparent company and everyone is allowed to see that.
+
+transparent [transpa`rεnt]  透明的；简明易懂，一目了然的
+
+Aber dass sie ihn liebt, kann ruhig jeder sehen!
+But everyone can see that she loves him!
+
+ruhig adv. 尽管，放心地
+`````
+
+`````
+So eins gibt’s nur einmal.
+There's only one like this.
+
+Das gibt's nur einmal. 
+这是唯一的一次。一生一度。人生只有一次。机不可失，时不再来。
+宫崎骏《起风了》德语插曲：Das gibt's nur einmal
+`````
+
+`````
+aufs Fahrrad steigen = get on the bike
+起上自行车
+
+Fahrradfahren liegt voll im Trend und erfreut sich immer größerer Beliebtheit. Außerdem macht es fit, ist gesund und du kannst direkt vor der Haustür in das nächste Abenteuer starten. Eigentlich könntest du doch auch mal wieder auf das Rad steigen! Wären da bloß nicht immer diese Gründe, die dagegensprechen würden.
+
+https://www.fahrrad.de/info/5-ausreden-grund-radzufahren/
+`````
+
+`````
+Und die Leute um mich herum auch, die lachen mir zu und freuen sich.
+
+主语：后半句开头的die(指代前面出现的die Leute)
+动词：lachen，sich freuen
+状语从句：die Leute um mich herum auch
+
+这个句子之所以让我觉得奇怪，就是因为把真正的主语放在从句里面了，在主句中用了代词。
+跟直觉正好相反。乍一看，会有一种从句是主句、主句是从句的感觉。
+`````
+
 # 3-20_Lektion_23_2b_4.mp3
 <audio controls loop src="B1.2_KB/3-20_Lektion_23_2b_4.mp3"></audio>
 
 `````
 Bruno: Ich habe schon viele Fahrräder gehabt und ich muss sagen: Ich kann mir kein besseres vorstellen als dieses hier. Ich sitze so viel bequemer als auf meinem alten Rad und habe auch nach langem Fahren keine Schmerzen im Nacken. Und wenn ich mal länger unterwegs bin, kann ich auch eine Gepäcktasche montieren, so wie heute.
+`````
+
+`````
+der Nacken 颈，后脖子
+die Gepäcktasche 自行车上的驮篮
+montieren 安装，装配
 `````
 
 # 3-21_Lektion_23_3b.mp3
