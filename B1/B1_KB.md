@@ -839,8 +839,6 @@ Roman: Ja, sieht ganz so aus! Aber da kann man wohl nichts mehr machen. Ich kann
 
 `````
 neulich 不久前，最近
-
-
 `````
 
 `````
@@ -1165,7 +1163,7 @@ Engagement [ãgaʒə`mã:] 法语，责任心
 <audio controls loop src="B1.2_KB/2-05_Lektion_13_3b_3c_3.mp3"></audio>
 
 `````
-Leyla: Guten Tag, mein Name ist Leyla. Ich erzähle heute von meinem Missverständnis. Also passt auf: Ich war einmal in München zu Besuch. Ich war ganz allein und wusste nicht, was ich in der Stadt ansehen sollte. Deshalb bin ich in ein Café gegangen und habe ein Mädchen, das neben mir am Tisch saß, gefragt: „Entschuldige. Ich kenne mich hier nicht aus, ich bin ganz alleine in der Stadt. Hast du vielleicht einen „Typ“ für mich?“ Das Mädchen hat mich angesehen und angefangen zu kichern. Sie hat auf den Kellner gedeutet und gesagt: „Der vielleicht?“ Ich habe gedacht, ich soll den Kellner fragen. Deswegen habe ich den Kellner gerufen und wiederholt: „Ich möchte gern etwas unternehmen. Haben Sie einen „Typ“ für mich?“ Augenblicklich ist der Keller ganz rot geworden. Aber ich habe nicht verstanden, warum. Darum habe ich gesagt. „Ein schöner Platz oder ein Museum oder so was.“ Da haben die beiden mich verstanden. „Ah!“, hat der Kellner gelacht. „Du willst einen „Tipp“! Keinen „Typ“.“ Als ich meinen Fehler verstanden habe, bin ich total rot geworden. Der Kellner hat mir vorgeschlagen, das „Valentin-Museum“ am Isartor zu besuchen. Das war ein guter Tipp. Karl Valentin war ein deutscher Komiker. In dem Museum gab es noch mehr Missverständnisse und Sprachspiele.
+Leyla: Guten Tag, mein Name ist Leyla. Ich erzähle heute von meinem Missverständnis. Also passt auf: Ich war einmal in München zu Besuch. Ich war ganz allein und wusste nicht, was ich in der Stadt ansehen sollte. Deshalb bin ich in ein Café gegangen und habe ein Mädchen, das neben mir am Tisch saß, gefragt: „Entschuldige. Ich kenne mich hier nicht aus, ich bin ganz alleine in der Stadt. Hast du vielleicht einen „Typ“ für mich?“ Das Mädchen hat mich angesehen und angefangen zu kichern. Sie hat auf den Kellner gedeutet und gesagt: „Der vielleicht?“ Ich habe gedacht, ich soll den Kellner fragen. Deswegen habe ich den Kellner gerufen und wiederholt: „Ich möchte gern etwas unternehmen. Haben Sie einen „Typ“ für mich?“ Augenblicklich ist der Kellner ganz rot geworden. Aber ich habe nicht verstanden, warum. Darum habe ich gesagt. „Ein schöner Platz oder ein Museum oder so was.“ Da haben die beiden mich verstanden. „Ah!“, hat der Kellner gelacht. „Du willst einen „Tipp“! Keinen „Typ“.“ Als ich meinen Fehler verstanden habe, bin ich total rot geworden. Der Kellner hat mir vorgeschlagen, das „Valentin-Museum“ am Isartor zu besuchen. Das war ein guter Tipp. Karl Valentin war ein deutscher Komiker. In dem Museum gab es noch mehr Missverständnisse und Sprachspiele.
 `````
 
 `````
@@ -2576,13 +2574,42 @@ Audioguide: Wenn Sie mehr über den Alltag in der DDR wissen wollen, drücken Si
 zuvor [tsu`vo:ɐ] 事先，之前，以前
 
 Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist.
-怎么听都不是 blockiert 而是 besetzt 的音。但是从含义上讲，blockiert 是对的，苏联只是封锁并没有占领西柏林，课本上的文本也是 blockiert。可能是音频录制错误吧。
+怎么听都不是 blockiert 而是 besetzt 的音。但是从含义上讲，blockiert 是对的，苏联只是封锁并没有占领西柏林，课本上的文本也是 blockiert。应该是音频没有及时更新。
 
 abgeschnitten ===>>> abschneiden 切断，阻断
 Bevölkerung 人口，居民，人民，民众
 
 sich ließen ===>>> sich lassen
+beschlossen ===>>> beschließen  决定，做出...决定
+die Taktik 策略，战术
+aufgeben 放弃
 
+Schließlich gab die Sowjetunion auf.
+听音频是
+Schließlich zog sich die Sowjetunion wieder aus Westberlin zurück.
+应该是音频没有及时更新。以前是苏联占领西柏林然后退出，这不符合史实，所以现在改成了封锁西柏林然后放弃。
+
+die Demokratie 民主政体
+einführen 采用
+die Diktatur 专制，专政
+die EinParteien-Diktatur 一党专政
+
+mithilfe (Präposition) = mit Hilfe 还没发现不能互换的情形
+Ich öffne die Flasche mithilfe / mit Hilfe eines Flaschenöffners.
+Ich habe den Test mithilfe / mit Hilfe meiner Freunde bestanden.
+Nachdem ich mein Bein gebrochen habe, konnte ich nur mithilfe / mit Hilfe von Krücken laufen.
+die Krücke 拐杖
+
+irgendwann 不知什么时候，在某个时候
+der Einwohner 居民
+
+dastehen 站在这里，但在这里并不是这个意思，而是用于构成一种句型
+nicht irgendwann ... dastehen wollen 大概意思是：不想最终怎么样怎么样
+
+vorhaben 计划，企图，打算
+quer (介词)横跨；(副词)横向地
+der Stacheldraht St`a·chel·draht 铁丝网
+entstand ===>>> entstehen 产生，出现
 `````
 
 `````
@@ -2667,7 +2694,13 @@ https://de.hujiang.com/new/p175223/
 `````
 
 `````
-von einem Tag auf den anderen = von einem Tag zum anderen
+von...auf vs. von...bis
+区别并不容易描述出来。
+von...bis 比较简单，就是从哪里到哪里
+von...auf 似乎是在强调，从1涨到10，从10降到1，这样一个变化过程
+比如说价格、股市、数量，从A一路涨到B，用 von...auf 就更形象一点
+
+▶ von einem Tag auf den anderen = von einem Tag zum anderen
 
 a) plötzlich, unerwartet; mit umgehender Wirkung
 b) innerhalb (sehr) kurzer Zeit; innerhalb einer unverhältnismäßig kurzen Frist
@@ -2681,7 +2714,11 @@ die Frist 期限，日期
 
 本意是一日之间，这里用来形容时间短
 
+▶ vom 12. auf den 13. August
+8月12日至13日
+
 https://www.dwds.de/wb/von%20einem%20Tag%20zum%20anderen
+https://de.hinative.com/questions/413604
 `````
 
 `````
@@ -2707,8 +2744,37 @@ Die westlichen Alliierten ließen sich das allerdings nicht gefallen.
 However, the Western allies did not put up with this.
 然而，西方盟军并没有容忍这一点。
 
+So ist das sonntags bei uns. Da wird sich schön gemacht und ausgegangen. Ein frisches Stückchen Kuchen und ein Likörchen lassen wir uns auch gefallen.
+der Likör [li`kø:ɐ] ===>>> das Likörchen 利口酒
+餐后甜酒，来自法语Liqueur，它是以蒸馏酒（白兰地、威士忌、朗姆酒、金酒、伏特加、龙舌兰）为基酒配制各种调香物品，并经过甜化处理的酒精饮料。
+
+Da wird sich schön gemacht und ausgegangen. 这句话又是什么语法呢？不知道。
+
 https://www.dwds.de/wb/sich%20etw.%20gefallen%20lassen
 https://www.dwds.de/wb/sich%20etw.%20nicht%20gefallen%20lassen
+`````
+
+`````
+nicht irgendwann ... dastehen wollen
+不想最终怎么样怎么样
+
+Die DDR musste reagieren, wenn sie nicht irgendwann ohne Einwohner dastehen wollte. 
+The GDR had to react if it didn't want to end up without residents at some point.
+GDR ===>>> German Democratic Republic
+如果东德不想在某个时候失去居民，就必须做出反应。
+
+Ich wollte nicht irgendwann mit nichts dastehen.
+I didn't want to end up with nothing at some point.
+我不想在某个时刻最终一无所有。
+
+Sie wollten nicht als Plagiator dastehen.
+They didn't want to look like a plagiarist.
+他们不想看起来像抄袭者。
+
+Immer schön "bitte" und "danke" sagen, wenn wir nicht wie ein unhöflicher Depp dastehen wollen.
+
+Doch gerade weil wir das Alte nicht loslassen, werden wir irgendwann tatsächlich mit leeren Händen dastehen.
+但正因为我们不放下旧的，到了某个时候，我们实际上就会两手空空。
 `````
 
 # 3-15_Lektion_22_3_3.mp3
@@ -2721,13 +2787,61 @@ Audioguide: Denn vergessen wir nicht: Freie Meinungsäußerung war in DDR unmög
 Audioguide: Wenn Sie mehr über die Friedliche Revolution in der DDR und die deutsche Wiedervereinigung wissen wollen, drücken Sie die 1-0-3.
 `````
 
+`````
+sich an etw.(A) gewöhnen 习惯于，适应于
+ganztägig 全日的，全天的
+die Krippe 托儿所
+betreuen 照料，照管
+berufstätig 在职的，从事职业的
+
+Sogar gebraucht war er fast noch so viel wert wie neu.
+即使使用过，它仍然几乎和新的一样值钱。
+
+Wer es sich leisten konnte, hatte ein Wochenendhaus.
+Those who could afford it had a weekend house.
+
+sich etw. leisten können 买得起
+sogenannt 所谓的，通常所说的
+lag ===>>> liegen
+anbauen, angebaut, 种植，栽培
+verhaften 拘捕，逮捕
+
+ehemalig 以前的，从前的
+Stasi ===>>> Ministerium für Staatssicherheit 的缩写，东德国家安全部
+die Gedenkstätte, -n, 纪念馆
+umwandeln 改造
+etw. (in etw.(A) / zu etw.(D)) umwandeln
+
+Sie erinnern uns an diese schwierige Zeit.
+Sie 是主语，指代前面的 Gefängnisse
+diese schwierige Zeit 是 Akkusativ，是 erinnern an 的宾语
+jn.(A) an etw.(Akk) erinnern 提醒某人不要忘记某事
+`````
+
 # 3-16_Lektion_22_3_4.mp3
 <audio controls loop src="B1.2_KB/3-16_Lektion_22_3_4.mp3"></audio>
 
 `````
 Audioguide: Friedliche Revolution und deutsche Wiedervereinigung 1989 öffnete zunächst Ungarn seine Grenze in den Westen. Das sprach sich schnell herum. Tausende von DDR-Bürgern reisten nach Ungarn, Polen und in die damalige Tschechoslowakei. Sie besetzten die westdeutschen Botschaften oder flohen über die offenen Grenzen in den Westen.
-Durch die massenhafte Flucht verlor die Berliner Mauer mehr und mehr ihren Sinn. Doch auch in der Audioguide: DDR gingen immer mehr Menschen auf die Straßen. Hier hören Sie, wie die Menschen mit dem Ruf „Wir sind das Volk“ gegen das System protestieren, von dem sie 41 Jahre lang unterdrückt worden sind. In der Leipziger Nikolaikirche fingen die Friedensgebete und die Montagsdemonstrationen an und breiteten sich von dort auch in andere Städte aus. Sie wurden zum Symbol für die Friedliche Revolution.
+Audioguide: Durch die massenhafte Flucht verlor die Berliner Mauer mehr und mehr ihren Sinn. Doch auch in der DDR gingen immer mehr Menschen auf die Straßen. Hier hören Sie, wie die Menschen mit dem Ruf „Wir sind das Volk“ gegen das System protestieren, von dem sie 41 Jahre lang unterdrückt worden sind. In der Leipziger Nikolaikirche fingen die Friedensgebete und die Montagsdemonstrationen an und breiteten sich von dort auch in andere Städte aus. Sie wurden zum Symbol für die Friedliche Revolution.
 Audioguide: Am 9. November 1989 fiel endlich die Mauer. Und am 3. Oktober 1990 wurden die „neuen Länder“ der DDR und die „alten Länder“ der BRD gemeinsam zur Bundesrepublik Deutschland.
+`````
+
+`````
+sprach ===>>> sprechen
+besetzen 占用，占领
+das Botschaften 大使馆
+flohen ===>>> fliehen 逃跑，躲避
+offen 开着的，可通行的
+massenhaft 大量的
+verlor ===>>> verlieren 丧失，丢失
+
+das System [zys`te:m] 体制，社会制度；系统，体系
+unterdrücken [untɐ`drykn] 压制，压迫，镇压
+fing an ===>>> anfangen
+Friedensgebete 和平祈祷
+sich ausbreiten 传播开来，蔓延
+fiel ===>>> fallen
 `````
 
 # 3-17_Lektion_23_2b_1.mp3
@@ -2737,11 +2851,88 @@ Audioguide: Am 9. November 1989 fiel endlich die Mauer. Und am 3. Oktober 1990 w
 Heike: Uns ist es wichtig, so umweltbewusst wie möglich zu leben. Wir wohnen in der Stadt, da brauchen wir kein Auto. Aber ohne diesen kleinen Lastesel hier könnte ich keinen Tag leben. Ich habe zwei Kinder, eins davon ist erst zwei Jahre alt und fährt noch nicht selbst Fahrrad. Die Kleine setze ich morgens bei jedem Wetter in ihren Sitz und ab geht’s zum Kindergarten. Auf dem Rückweg mache ich dann meine Einkäufe. Sie glauben gar nicht, wie viel hier reinpasst! Nur für die Treppen in den vierten Stock, da müsste noch was erfunden werden.
 `````
 
+`````
+umweltbewusst 有环境意识的，环保的
+der Lastesel [last] [e:zl] 三轮的，有个挺大的筐筐的自行车，带小孩最方便了
+die Last 负重，负担
+der Esel 驴
+erfunden ===>>> erfinden 创造，发明；凭空捏造
+`````
+
+`````
+Die Kleine setze ich morgens bei jedem Wetter in ihren Sitz und ab geht’s zum Kindergarten.
+
+ab geht's
+在句子中的作用，是替换了原本的“gehen wir”。
+下面的一些例子，翻译时也会加上主语，但主语是什么，根据语境不一样。
+在主语没有歧义的时候，也许就可以把 gehen <Sub.> 换成 ab geht's 了？
+
+abgehen 走开，离开
+
+还找到了如下的例子：
+Mosaik Vogel. ..noch den Stecker hinzufügen und ab geht's in den Garten.
+Ab geht's zum Kindergarten.
+
+Dann auf "senden" klicken und ab geht's.
+Then click “send” and off you go.
+然后点击“发送”即可。
+`````
+
+`````
+Sie glauben gar nicht, wie viel hier reinpasst!
+谷歌翻译把reinpasst翻译成fit、合适，是不对的。
+这句话的意思应该是：你难以想象，这个车筐里到底能装下多少东西！表达的是对这个自行车的认可。
+
+"Sie glauben gar nicht, wieviel hier reinpasst!" klingt komplett richtig.
+"Sie glauben gar nicht, wieviel hier passt!" klingt nicht nach richtigem Deutsch.
+Ich würde letzteres nicht verwenden.
+
+reinpassen 
+umgangssprachlich 白话的，口语的
+jmd., etw. passt (in etw.) rein
+1) 就数量或大小(Menge oder Größe)而言，装得下
+2) 满足特征、规范或期望(Eigenschaften, Normen oder Erwartungen erfüllen)
+
+Mein Rucksack ist bis oben hin voll, nur der Blumenkohl hat nicht mehr reingepasst.
+我的背包已经满了，唯独菜花已经装不下了。
+
+Ich bin mehrfach umgezogen, mein Hab und Gut passt immer noch in 20 Umzugskisten rein.
+Hab und Gut ===>>> der gesamte Besitz eines Menschen 全部家当
+mehrfach 多次的
+Umzugskisten 搬家箱 ===>>> die Kiste 箱子
+
+https://www.dwds.de/wb/reinpassen
+https://de.hinative.com/questions/7166263
+`````
+
 # 3-18_Lektion_23_2b_2.mp3
 <audio controls loop src="B1.2_KB/3-18_Lektion_23_2b_2.mp3"></audio>
 
 `````
 Christoph: Bei der Arbeit sitze ich sehr viel am Schreibtisch, abends oder am Wochenende brauche ich dringend Bewegung und frische Luft. Ich wohne in Klagenfurt am Wörthersee – es gibt hier klare Seen, einsame Straßen und jede Menge hohe Berge drum herum. Ich fahre oft nach Feierabend alleine oder mit meinen Freunden eine Tour, so zwischen 50 und 100 Kilometer. Zurzeit trainieren wir regelmäßig, denn im Sommer wollen wir alle zusammen von hier bis an die Adria fahren. Das ist schon lange ein Traum von mir!
+`````
+
+`````
+einsam 孤独的，寂寞的；偏僻的，偏远的
+Feierabend 下班，收工；下班后的休息的时间
+`````
+
+`````
+Es gibt hier klare Seen, einsame Straßen und jede Menge hohe Berge drum herum.
+这里有清澈的湖泊、偏僻的道路和周围的高山。
+
+为什么这里 See 用复数 Seen 呢？感觉跟英语 lake 什么时候用 lakes 的问题一样。不知道。
+可能这个湖不是一个规则形状的湖，而是被分割成好几片水域吧。
+
+"jede Menge" literally means "any amount of", so "a lot".
+
+drum = darum
+herum 四周，周围；大约在...时候
+drumherum = um etwas herum
+
+https://www.dwds.de/wb/drumherum
+https://www.linguee.com/german-english/translation/alles+drum+herum.html
+https://german.stackexchange.com/questions/39875/es-gibt-hier-jede-menge-hohe-berge-drum-herum
 `````
 
 # 3-19_Lektion_23_2b_3.mp3
@@ -2829,6 +3020,135 @@ Moderatorin: Sagen Sie uns doch bitte zum Abschluss noch, wie Sie die Chancen se
 Tobias Brunnthaler: Ich sehe die Entwicklungen sehr positiv. Die Zeiten, in denen sich alles nur ums Auto drehte, sind vorbei. Zum einen hat die Politik erkannt, dass das Fahrrad eine sehr wichtige Rolle bei der Mobilität der Zukunft einnimmt. Außerdem nehmen auch die Bürger selbst die Sache in die Hand und demonstrieren für Verbesserungen im Radverkehr. Und schließlich kann kaum jemand leugnen, dass das Fahrrad besonders in Stadtgebieten meist die klügste Wahl ist. Und das erkennen hier offenbar auch junge Menschen immer mehr: Fahrradfahren ist in.
 `````
 
+`````
+drehen 转动，旋转
+erkennen 认识到，清楚地看到，认出
+der Experte, die Expertin 专家，专业人士（比较奇怪，结尾没有r）
+beitragen zu 为…作贡献，有助于
+entscheidend 决定性的，关键的，decisive
+Veröffentlichen 公布，发表，出版
+
+Voraussetzung 前提，先决条件
+der Ausbau 拆除，扩建，改建
+der Radweg, die Radwege 自行车道
+Radstrecken ===>>> Rads + Treck 似乎是骑行路线的意思，泛指各种车道
+einrichten 安排，布置，建立
+
+rein 纯粹的，完全的
+umwandeln 改变，改造
+die Vorfahrt 优先行驶权
+Über- oder Unterführung
+
+Überführung 天桥，高架桥，过街桥
+Unterführung 下跨道，隧道
+umgehen 绕过，绕开
+文中的意思就是通过天桥、隧道使骑行者能够绕开危险的路口
+
+die Bremse 刹车，车闸
+die Klingel 铃
+durchführen 进行，实行，实施
+Reparaturen durchführen lassen 构成动词结构，为什么加lassen呢？不加lassen是自己做，加上lassen是别人做
+der Ersatz 代替者，备用物
+das Ersatzteil 备用件，替换零部件
+die Scherbe 碎片
+der Dienst 职务；值班，值勤
+Eine Scherben-Dienst beseitigt Scherben, zum Beispiel auf Radwegen. 清除的碎玻璃。
+
+bewegen 活动，走动，转动
+spüren 察觉到，感受到
+das Umfeld 影响范围，周围环境
+(auf j-n / etw.) verzichten 放弃
+der Komfort [kɔm`fo:ɐ] 舒适，安逸（末尾的t不发音）
+
+Ich steigere Fitness und Kondition. 
+steigern 增强，提高
+die Fitness 身体状态良好
+die Kondition 身体素质（被谷歌翻译成耐力、英语stamina，似乎更合适）
+Kondition aufbauen bedeutet an mehr als nur an deiner Ausdauer zu arbeiten.
+die Ausdauer 毅力，耐力
+增强体质不仅仅意味着锻炼耐力。
+
+nebenbei [ne:bn`bai] 此外，还有；顺便，附带
+zum einen 一方面
+einnehmen 占据，占有
+demonstrieren 示威游行；表明，说明
+etwas in die Hand nehmen ===>>> die Verantwortung für eine Sache übernehmen
+leugnen 否认，否定
+
+Außerdem nehmen auch die Bürger selbst die Sache in die Hand und demonstrieren für Verbesserungen im Radverkehr.
+此外，市民们也要积极采取行动，并举行示威活动，要求改善自行车运动。
+`````
+
+`````
+关于 dass das so ist.
+根据例句，感觉就是指代前面提到的情形，跟es的作用差不多吧
+
+Tobias Brunnthaler, Experte für Mobilität und Umwelt, hat in den letzten Jahren entscheidend dazu beigetragen, dass das so ist.
+Tobias Brunnthaler, an expert in mobility and the environment, has made a decisive contribution to ensuring that this is the case in recent years.
+
+Sie haben eine angenehme Lage heute und ich bin froh, dass das so ist.
+You are in a pleasant situation today and I am glad that you are.
+die Lage 形势，局势；状况，处境；位置，环境
+`````
+
+`````
+ganz oben mit dabei
+
+Ganz oben mit dabei! 似乎可以翻译成现在的热门词汇：遥遥领先
+
+mit dabei 是什么意思？
+You shouldn't be looking at the two words in isolation; they can mean many things in different contexts. Here it's "ganz oben mit dabei" => "among the top contenders/entries/..."
+
+Ich denke, auf Englisch würde man „among them“ sagen. Hier ist gemeint, dass das was vorher gesagt wurde, besonders auch auf Städte wie Münster und Freiburg zutrifft.
+
+https://de.hinative.com/questions/12221554
+`````
+
+`````
+Radweg vs. Fahrradstraße
+
+Radweg 通常的公路两侧的用于骑自行车的车道
+Fahrradstraße 自行车专用街道，其余机动车必须有相应的指示牌才能通行
+
+Der grundsätzliche Unterschied ist, dass bei der Fahrradstraße tatsächlich die gesamte Straße beziehungsweise Fahrbahn für die Radfahrer bestimmt ist. Beim Radweg dagegen ist es in den meisten Fällen so, dass dieser an den Seiten der Fahrbahn verläuft und die Fahrbahn für Autos und andere Kraftfahrzeuge bestimmt ist.
+
+Wenn ein Radweg als solcher gekennzeichnet ist, müssen Fahrradfahrer auch diesen Weg benutzen und dürfen nicht auf der Fahrbahn fahren.
+
+Bei der Fahrradstraße ist es so, dass andere Verkehrsteilnehmer nur dann die Fahrbahn benutzen dürfen, falls dies durch ein Zusatzschild freigegeben ist.
+
+https://www.askingbox.de/frage/unterschied-zwischen-radweg-und-fahrradstrasse
+`````
+
+`````
+Es werden breitere und neue Radstrecken eingerichtet, Straßen in reine Fahrradstraßen umgewandelt, in denen Radfahrer Vorfahrt haben, Über- oder Unterführungen für Radfahrer gebaut, damit gefährliche Kreuzungen umgangen werden können.
+
+damit gefährliche Kreuzungen umgangen werden können 应该是对 Über- oder Unterführungen 的限定从句，表达的意思应该是：gefährliche Kreuzungen können damit umgangen werden
+
+开头的 es 是什么成分？答案是：不属于主语、宾语这种成分，就只是占位而已，用于保持动词在第二位。某些情况下，真正的主语不方便放在第一位，也没有其他可以放在第一位的成分，那就直接放个es就行了。
+
+Es werden breitere und neue Radstrecken eingerichtet.
+= Breitere und neue Radstrecken werden eingerichtet.
+
+Without the "es". The "es" is basically a placehold, since the verb has to be in the second position you need something there. Sometimes, for whatever reason, stylistic, emphasis, just sounds nicer, it's better not to put the subject up there. If there's nothing else to put up there, then "es" ends up there. Here: https://de.wikipedia.org/wiki/V2-Stellung#Besetzung_des_Vorfelds
+
+"Eine weitere Möglichkeit ist, das Vorfeld mit einem speziellen Füllpronomen (Expletiv) zu besetzen. Das Pronomen " es " in folgendem Beispiel dient nur dazu, das Vorfeld zu füllen, so dass die Form des deutschen Hauptsatzes gewahrt bleibt, auch wenn man keinen Satzteil durch Voranstellung hervorheben möchte. — Dieses "es" vertritt also kein Subjekt.
+
+这在语法上叫做：Füllpronomen，详见 https://de.wikipedia.org/wiki/Satzgef%C3%BCge?useskin=vector
+这跟英语里面的形式主语 it 有点儿像，但不一样！！！
+在德语里，是否需要es，取决于能否满足动词第二位的原则，而不是为了满足主谓结构才需要一个形式主语。
+
+Um ein Satzgefüge zu zerlegen, muss als erstes geklärt werden, welcher Teil der Hauptsatz ist.
+这里面，主句 muss als erstes geklärt werden 里面就不需要加 es，因为从句 Um ein Satzgefüge zu zerlegen 作为第一位，主句已经满足动词第二位的原则了，所以不需要填充一个es。
+
+Es muss geklärt werden, welche Nebensätze einem anderen Nebensatz untergeordnet sind und wo Nebensätze nebeneinander vorkommen.
+在这里，主句是 Es muss geklärt werden ，主语很长不适合放在第一位，其他的 geklärt werden 根据情态动词规则必须放在句尾，所以没有任何东西可以放在第一位了，但又必须让 muss 在第二位，因此就在第一位放个es占位。
+
+以上，是我自己的总结，不一定对。更多信息，还是详见原文 https://de.wikipedia.org/wiki/Satzgef%C3%BCge?useskin=vector
+
+https://de.wikipedia.org/wiki/Satzgef%C3%BCge?useskin=vector
+https://www.reddit.com/r/German/comments/3jem6i/why_does_my_book_say_es_werden_and_not_es_wird/
+`````
+
 # 3-22_Lektion_24_1.mp3
 <audio controls loop src="B1.2_KB/3-22_Lektion_24_1.mp3"></audio>
 
@@ -2841,6 +3161,16 @@ Mann 1: Ok, dann jetzt bitte das Loch mit der Erde auffüllen. Das sieht gut aus
 Frau 1: So, das wird also mal die Dorflinde!
 Mann 2: Na, hoffentlich wächst die gut an!
 Frau 2: War ja gar nicht so schwierig.
+`````
+
+`````
+auflockern 松土；使松散
+die Erde 地球；泥土
+das Loch 洞，窟窿
+
+Halt mal fest.
+Hold on. 坚持，稍等。
+？？？？？？？
 `````
 
 # 3-23_Lektion_24_6b_6c.mp3
