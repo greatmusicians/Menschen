@@ -801,18 +801,66 @@ atmungsaktiv 透气的，透气良好的
 Trainerin: Herzlich willkommen zur Büro-Tiefenentspannung. Sorg dafür, dass du die nächsten zehn Minuten völlig ungestört sein kannst. Ist dein Telefon wirklich ausgeschaltet? Ist die Tür geschlossen? Leg oder setz dich bequem hin und schließ deine Augen! Versuch nun, dich für ein paar Minuten ganz zu entspannen. Atme einige Male tief ein und aus, ein und aus. Und während du ausatmest, spür, wie du alle Gedanken loslässt und deinen Körper ganz schwer machst. Und dein Körper dann ganz leicht wird. Entspann deinen Körper, lass los. Entspann! Entspann dein Gesicht, lass los!
 `````
 
+`````
+Sport trägt zu einem größeren Wohlbefinden bei.
+beitragen zu 为…作贡献，促进
+Wohlbefinden 幸福，安宁
+Sorg dafür, ... ===>>> make sure ...
+leg ===>>> legen 躺下
+sich hinsetzen 坐下
+loslassen 放开，释放
+`````
+
+
 # 1-29_Lektion_9_7.mp3
 <audio controls loop src="B1.1_KB/1-29_Lektion_9_7.mp3"></audio>
 
 `````
-Herr Hartmann: Guten Tag, meine Damen und Herren. Zunächst möchte ich mich herzlich beim Gesundheitsministerium für diesen Preis bedanken, über den ich mich besonders freue, weil mir das Thema Gesundheitsmanagement im Betrieb so sehr am Herzen liegt. Ich möchte Ihnen das Konzept unseres Unternehmens Fürstenrieder Confiserie in einer kleinen Präsentation vorstellen.
-Zuerst möchte ich Ihnen erläutern, warum uns dieses Thema so wichtig ist. Danach zeige ich Ihnen, wie und seit wann wir uns mit dem betrieblichen Gesundheitsmanagement beschäftigen. Dazu stelle ich Ihnen die Arbeit unseres Expertenteams vor. Abschließend können Sie mir gern Fragen stellen.
-Kommen wir zur wichtigsten Leitlinie unseres Unternehmens. Sie lautet: „Die Gesundheit und Zufriedenheit von unseren Mitarbeitern stehen an erster Stelle.“ Wir fragen uns: Was kann die Unternehmensleitung für die Mitarbeiter tun? Denn heutzutage ist die Gesundheit der Mitarbeiter einer der wichtigsten Faktoren für wirtschaftlichen Erfolg.
-Schauen Sie einmal hier: Diese Tabelle zeigt, welche Folgen der demografische Wandel in den nächsten zehn Jahren für den Arbeitsmarkt haben wird. In unserem Unternehmen liegt das Durchschnittsalter heute zwischen 40 und 43 Jahren. In wenigen Jahren wird es auf 50 Jahre gestiegen sein. Wir haben uns gefragt: Was können wir tun, dass wir auch mit älteren Arbeitnehmern in Zukunft als Betrieb funktionieren? Eine zentrale Antwort auf diese Frage war: Wir müssen dafür sorgen, dass unsere Mitarbeiter gesund bleiben.
-Also haben wir schon vor sechs Jahren ein Expertenteam zusammengestellt. Dieses Team hat ein Konzept zum Gesundheitsmanagement entwickelt, das wir schrittweise eingeführt haben. Das wichtigste an diesem Konzept sind unsere zehn goldenen Regeln. Sie hängen bei uns nicht nur in jedem Raum an der Wand, sie werden von unseren Mitarbeitern auch angenommen und in die Praxis umgesetzt. Einen Moment, bitte. Hier sind sie: Schauen Sie: Mit Fitness- und Entspannungsmöglichkeiten, gesundem Essen und vielem mehr konnten wir schon jetzt erreichen, dass unsere Mitarbeiter seltener krank sind. Sie werden sich jetzt wahrscheinlich fragen: Wie finanzieren wir das? Natürlich ist das ein schwieriger Punkt, aber unsere Erfahrung zeigt: Kranke und unmotivierte Mitarbeiter sind am Ende teurer als ein gutes Gesundheitsmanagement.
-Und damit, meine Damen und Herren, komme ich zum letzten Punkt. Falls Sie mehr zum Thema Gesundheitsmanagement im Betrieb wissen möchten, dann lade ich Sie zu einem meiner Seminare ein. Die Termine finden Sie im Internet auf unserer Homepage.
-Ich bin nun mit meinem Vortrag am Ende.
-Ein herzliches Dankeschön an Sie fürs Zuhören! Haben Sie noch Fragen?
+Herr Hartmann: Guten Tag, meine Damen und Herren. Zunächst möchte ich mich herzlich beim Gesundheitsministerium für diesen Preis bedanken, über den ich mich besonders freue, weil mir das Thema Gesundheitsmanagement im Betrieb so sehr am Herzen liegt. Ich möchte Ihnen das Konzept unseres Unternehmens Fürstenrieder Confiserie in einer kleinen Präsentation vorstellen. Zuerst möchte ich Ihnen erläutern, warum uns dieses Thema so wichtig ist. Danach zeige ich Ihnen, wie und seit wann wir uns mit dem betrieblichen Gesundheitsmanagement beschäftigen. Dazu stelle ich Ihnen die Arbeit unseres Expertenteams vor. Abschließend können Sie mir gern Fragen stellen. Kommen wir zur wichtigsten Leitlinie unseres Unternehmens. Sie lautet: „Die Gesundheit und Zufriedenheit von unseren Mitarbeitern stehen an erster Stelle.“ Wir fragen uns: Was kann die Unternehmensleitung für die Mitarbeiter tun? Denn heutzutage ist die Gesundheit der Mitarbeiter einer der wichtigsten Faktoren für wirtschaftlichen Erfolg. Schauen Sie einmal hier: Diese Tabelle zeigt, welche Folgen der demografische Wandel in den nächsten zehn Jahren für den Arbeitsmarkt haben wird. In unserem Unternehmen liegt das Durchschnittsalter heute zwischen 40 und 43 Jahren. In wenigen Jahren wird es auf 50 Jahre gestiegen sein. Wir haben uns gefragt: Was können wir tun, dass wir auch mit älteren Arbeitnehmern in Zukunft als Betrieb funktionieren? Eine zentrale Antwort auf diese Frage war: Wir müssen dafür sorgen, dass unsere Mitarbeiter gesund bleiben. Also haben wir schon vor sechs Jahren ein Expertenteam zusammengestellt. Dieses Team hat ein Konzept zum Gesundheitsmanagement entwickelt, das wir schrittweise eingeführt haben. Das wichtigste an diesem Konzept sind unsere zehn goldenen Regeln. Sie hängen bei uns nicht nur in jedem Raum an der Wand, sie werden von unseren Mitarbeitern auch angenommen und in die Praxis umgesetzt. Einen Moment, bitte. Hier sind sie: Schauen Sie: Mit Fitness- und Entspannungsmöglichkeiten, gesundem Essen und vielem mehr konnten wir schon jetzt erreichen, dass unsere Mitarbeiter seltener krank sind. Sie werden sich jetzt wahrscheinlich fragen: Wie finanzieren wir das? Natürlich ist das ein schwieriger Punkt, aber unsere Erfahrung zeigt: Kranke und unmotivierte Mitarbeiter sind am Ende teurer als ein gutes Gesundheitsmanagement. Und damit, meine Damen und Herren, komme ich zum letzten Punkt. Falls Sie mehr zum Thema Gesundheitsmanagement im Betrieb wissen möchten, dann lade ich Sie zu einem meiner Seminare ein. Die Termine finden Sie im Internet auf unserer Homepage. Ich bin nun mit meinem Vortrag am Ende. Ein herzliches Dankeschön an Sie fürs Zuhören! Haben Sie noch Fragen?
+`````
+
+`````
+das Ministerium [minis`te:rium] (政府的)部 ===>>> ium 的发音，类似优，m的音变得很弱
+der Preis 价格；奖金；称赞，表扬
+sich (bei jm)(für etw.) bedanken 表示感谢
+die Leitlinie 指导方针，基本原则，guideline
+lauten 内容是……
+heutzutage 现在，现今
+der Faktor  [`fakto:ɐ] 因素，要素
+die Folge 结果，后果，concequence；次序，顺序
+demografisch 人口统计学的
+der Wandel 转变，变化
+das Durchschnittsalter 平均年龄
+der Arbeitnehmer 雇员
+schrittweise 一步一步地，逐步的
+einführen 采用，推广
+
+in die Praxis umsetzen 付诸实践
+Wir sollen unsere Erkenntnisse in die Praxis umsetzen. 我们应该把知识转化为实践。
+
+erreichen 到达；与……联系上；能得到，能实现
+wahrscheinlich 很可能的，大概的
+unmotiviert 无缘无故的，缺乏积极性的
+`````
+
+`````
+本文的背景信息：
+
+Der Traditionsbetrieb Fürstenrieder Confiserie nahm heute einen Preis für „Vorbildliches Gesundheitsmanagement im Betrieb“ entgegen. Der Preis wird jährlich von den Krankenkassen verliehen. Der Geschäftsführer Jürgen Hartmann bedankt sich und erläutert sein Konzept.
+
+Fürstenrieder Confiserie 这个企业得到了一个政府颁发的的健康管理模范企业的奖。
+
+vorbildlich 模范的
+entgegen/nehmen = etw. annehmen, in Empfang nehmen 收到
+die Krankenkasse 医疗保险；医疗保险公司
+verliehen 授予，给……颁发
+erläutern 解释，讲解，说明
+`````
+
+`````
+Was können wir tun, dass wir auch mit älteren Arbeitnehmern in Zukunft als Betrieb funktionieren?
+
+What can we do to ensure that we can function as a company with older employees in the future?
 `````
 
 # 1-31_Modul_3_1_2.mp3
@@ -3155,7 +3203,7 @@ https://www.reddit.com/r/German/comments/3jem6i/why_does_my_book_say_es_werden_a
 `````
 Mann 1: So, noch ein bisschen auflockern, das dürfte tief genug sein. Jetzt könnt ihr ein bisschen von der neuen Erde ins Loch geben.
 Kind: Halt mal fest.
-Mann 1: Das reicht erst mal, danke! Und jetzt, Rudi, ganz langsam den Baum einset- zen. Moment, ich helfe dir. Kinder, ist er so gerade?
+Mann 1: Das reicht erst mal, danke! Und jetzt, Rudi, ganz langsam den Baum einsetzen. Moment, ich helfe dir. Kinder, ist er so gerade?
 Kind: Ein bisschen da rüber, ja, so ist es gut!
 Mann 1: Ok, dann jetzt bitte das Loch mit der Erde auffüllen. Das sieht gut aus! Kinder, ihr könnt jetzt gießen, hier sind die Gießkannen.
 Frau 1: So, das wird also mal die Dorflinde!
@@ -3164,13 +3212,23 @@ Frau 2: War ja gar nicht so schwierig.
 `````
 
 `````
+Das löst mehrere Probleme auf einmal.
+This solves several problems at once.
+
 auflockern 松土；使松散
 die Erde 地球；泥土
 das Loch 洞，窟窿
 
 Halt mal fest.
 Hold on. 坚持，稍等。
-？？？？？？？
+
+Ich denke, das reicht erst mal.
+I think that's okay for now.
+
+auffüllen 填满
+
+War ja gar nicht so schwierig.
+这里又不是过去时，为什么用 war 呢？？？？？？？？？？？？
 `````
 
 # 3-23_Lektion_24_6b_6c.mp3
@@ -3182,8 +3240,7 @@ Frau Großer: Ja, liebe Hörerinnen und Hörer, Sie hörten einen Bericht über 
 Frau Granados: Hallo.
 Herr Dr. Fischer: Guten Tag.
 Herr Brandes: Danke schön für die Einladung.
-Frau Großer: Ja, Frau Granados, an Sie habe ich gleich die erste Frage: Das Modell vom Mehrgenerationen-Wohnen ist ja eigentlich eine schöne Vorstellung.
-Aber ist es realistisch, dass wir hiermit unsere gesellschaftlichen Probleme in den Griff bekommen?
+Frau Großer: Ja, Frau Granados, an Sie habe ich gleich die erste Frage: Das Modell vom Mehrgenerationen-Wohnen ist ja eigentlich eine schöne Vorstellung. Aber ist es realistisch, dass wir hiermit unsere gesellschaftlichen Probleme in den Griff bekommen?
 Frau Granados: Warum nicht? Die Zahl der Menschen ohne Familie nimmt ja zu. Und dann ist solch ein Projekt eine geeignete Form, um im Alter nicht allein zu sein.
 Herr Dr. Fischer: Also wenn ich hier mal ein paar konkrete Zahlen nennen darf …
 Frau Großer: Gern, Herr Dr. Fischer.
@@ -3204,6 +3261,159 @@ Frau Granados: Ja, natürlich. Das Fahrrad ist eines der ökologischsten Verkehr
 Frau Großer: Können Sie ein Beispiel nennen, Frau Granados?
 Frau Granados: Ja, gerade im Bereich der Ernährung finden wir zahlreiche Beispiele. Wenn Sie sich in den großen Städten umschauen, finden Sie überall Gemeinschaftsgärten und Bienenstöcke erobern die Hochhäuser. Die Menschen wünschen sich Lebensmittel, von denen sie wissen, wo sie herkommen. Statt ihre Lebensmittel wie bisher im Supermarkt zu kaufen, bauen sie ihr Obst und Gemüse lieber selbst an.
 Frau Großer: Ja, liebe Hörerinnen und Hörer, wie ist es bei Ihnen? Was ist Ihnen wichtig? Das würden wir gern wissen. Rufen Sie uns an oder schicken Sie uns eine E-Mail. Unsere Gäste sind auch weiterhin im Chat für Sie da. Wir machen jetzt eine kleine Pause mit Musik von den „Roaring Tomatoes“!
+`````
+
+`````
+das Jahrzehnt [ja:ɐ`tse:nt] 十年
+sich durchsetzen 比较难，见下面详细解释
+hierüber 关于此事；在这上面(表示空间位置)
+Forschung (科学)研究
+das Szenarium, die Szenarien, 重音在na上, 场景
+bei jedem Szenarium 不论何种情况，在任何情况下
+
+das Modell 模型
+Vorstellung 想象；概念；想法；演出
+hiermit 特此；就此；以此，用这个
+der Griff 手伸向，手伸进；采用，采取
+gesellschaftlich 社会的，社交的 ===>>> 跟 sozial(来自法语) Kein Unterschied
+etw. (besser, gut, wieder) in den Griff bekommen 找到解决某事的办法；掌握/应对某事
+
+solch 如此，这样的
+im Alter ===>>> in old age, 晚年
+sich verdoppeln 翻倍
+sich verdreifachen 变为三倍
+文中 wird sich 出现了连读，变成了类似 [vir-tsig] 的音
+der Senior, [ˈzeːnioːɐ], 老年人 älterer Mensch
+
+der Bereich 范围，区域，领域
+der Hersteller 制造者，生产厂家
+in naher Zukunft 在不久的将来
+sich etw.(A) leisten Können 买得起某物
+der Einsatz 使用
+denken an etw.(A) 考虑
+die Klinik 较大的专科医院，诊所
+das Pflegeheim 疗养院
+
+der Automat 自动售货机；自动装置，自动机器
+ersetzen 替代
+das Personal 只使用单数，泛指人力资源
+Natürlich kann ein Automat niemals einen Menschen ersetzen.
+Of course, a machine can never replace a human.
+
+einschenken 倒(水、茶)，斟酒
+unabhängig 独立的，不受……影响的，independent】
+ermöglichen 使有可能，使有机会，使能够
+ferngesteuert 遥控的，远程控制的
+der Sensor 传感器
+die Fußmatte 脚垫，门口擦脚垫
+
+unterbrechen 打断……说话
+das Stichwort 关键词，提示词
+teilen 分开；分担，分享
+besitzen 占有
+ausreden 把话说完
+
+die Vision 愿景，幻想
+Vision und Wirklichkeit 理想与现实
+gemeinschaftlich 共同的，一起的
+zum einen ..., zum anderen ... 一方面……，另一方面……
+
+sich zu Wort melden 示意想要发言
+zu Wort kommen 得到了发言机会
+der Zusammenhang (行为，现象等内在的)相互关系，相互联系，上下文关系
+erwähnen 提及，提到
+galt Präteritum ===>>> gelten ... als ... 被视为，被认作是
+unheimlich 可怕的；极大的
+
+Bevölkerung (集合名词)居民，人口
+ergreifen 采取，抓住
+
+erobern ？？？？？没搞懂什么意思
+
+bisher 至今，迄今
+anbauen (大面积)种植，栽培
+`````
+
+`````
+sich durchsetzen 被普遍接受，得到认同，占上风
+
+durchsetzen有两种发音，重音在durch上，或重音在setzen上
+
+1，重音在durch上
+    变位：setzt durch, setzte durch, hat durchgesetzt
+    含义：etw. trotz Widerstandes erreichen 尽管有阻力，仍然成功(做到/有影响/实施/贯彻)
+    Vt：ein Gesetz im Parlament durchsetzen 推动议会通过一项法律
+    Vr：die Wahrheit setzt sich durch 真理胜出
+2，重音在setzen上
+    变位：durchsetzt, durchsetzte, hat durchsetzt
+    含义：gleichmäßig auf etw. verteilen 将一些人或事均匀地分布在某物中
+    用法：如果物做主语，一般就要用被动了
+
+https://www.dwds.de/wb/durchsetzen
+`````
+
+`````
+Da können wir nicht so tun, als ob alle alten Menschen persönlich und individuell betreut werden könnten.
+
+We cannot pretend that all old people can be cared for personally and individually.
+我们不能假装所有老年人都可以得到个人和单独的照顾。
+
+... so tun, als ob ... 假装，表现得好像……一样
+
+Wenn man das nicht so ist,  man so tun als ob.
+If you're not, you pretend.
+
+Man sollte daher nicht so tun, als ob es in der Zukunft überhaupt keine Schiffe mehr geben würde!
+One should therefore not act as if there would be no ships at all in the future!
+因此，人们不应该表现得好像未来根本就没有船一样！
+`````
+
+`````
+Schon in naher Zukunft sollen sie den Senioren im Alltag helfen können.
+They should be able to help seniors in their everyday lives in the near future.
+他们应该能够在不久的将来帮助老年人的日常生活。
+
+der Senior, [ˈzeːnioːɐ], 老年人 älterer Mensch
+`````
+
+`````
+Es geht hier ja nicht nur darum, dass einem ein Roboter eine Tasse Tee einschenkt, sondern um Technologien, die uns ein unabhängiges Leben ermöglichen.
+
+einschenken 倒(水、茶)，斟酒
+unabhängig 独立的，不受……影响的，independent
+
+It's not just about a robot pouring you a cup of tea, but about technologies that enable us to live independently.
+
+Es geht hier ja nicht nur darum, dass ..., sondern um ...
+It's not just about ..., but about ...
+`````
+
+`````
+Aber wir müssen noch mehr auf Elektroautos setzen.
+But we need to rely even more on electric cars.
+
+注意，这里不是 aufsetzen，否则应该写在一起的。
+`````
+
+`````
+Das Stichwort der Zukunft heißt meiner Meinung nach: teilen statt besitzen.
+
+In my opinion, the keyword of the future is: sharing instead of owning.
+
+teilen 分开；分担，分享
+besitzen 占有
+Veränderung 改变，变革
+die Seele 心灵，内心；精神，灵魂
+`````
+
+`````
+In diesem Zusammenhang will ich noch einen anderen Aspekt erwähnen: Lange Zeit galt Umweltschutz ja als Aufgabe der Politik.
+
+In this context, I would like to mention another aspect: for a long time, environmental protection was considered a political responsibility.
+
+der Zusammenhang (行为，现象等内在的)相互关系，相互联系，上下文关系
+erwähnen 提及，提到
+galt Präteritum ===>>> gelten ... als ... 被视为，被认作是
 `````
 
 # 3-24_Modul_8_1_2.mp3
