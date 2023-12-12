@@ -3085,8 +3085,6 @@ einrichten 安排，布置，建立
 rein 纯粹的，完全的
 umwandeln 改变，改造
 die Vorfahrt 优先行驶权
-Über- oder Unterführung
-
 Überführung 天桥，高架桥，过街桥
 Unterführung 下跨道，隧道
 umgehen 绕过，绕开

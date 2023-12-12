@@ -5,6 +5,14 @@
 Moderator: Und nun kommen wir wieder zu unserer Hörerumfrage am Freitagnachmittag. Heute geht es um das Thema: Praktikanten in Deutschland. Eine neue Studie sagt, dass nur wenige Praktika in Deutschland gut bezahlt sind. Die meisten sind eher schlecht bezahlt und in vielen Betrieben bekommen die Praktikanten gar kein Geld: So verdienen 40 % von den Praktikanten nichts. Noch schlechter sieht es bei den Karrierechancen aus. Viele Praktikanten hoffen, nach dem Praktikum auch einen Job im Praktikumsbetrieb zu bekommen. Aber das bekommen nur wenige. Daher sind sogar über 60 % unzufrieden mit ihren Jobchancen. Trotzdem ist die allgemeine Zufriedenheit nicht schlecht. Denn mehr als die Hälfte der Praktikanten ist nicht unzufrieden: So geben 65 % von allen Praktikanten an, dass sie insgesamt zufrieden mit ihrem Praktikum sind. Deshalb fragen wir unsere Hörer heute: Welche Praktikumserfahrungen haben Sie? Waren Sie zufrieden oder unzufrieden? Rufen Sie uns an oder schicken Sie uns eine E-Mail.
 `````
 
+`````
+die Studie 研究，论文
+der Praktikant 实习生
+das Praktikum, die Praktika, 实习
+eher 更可能；倒不如说是，更确切地说
+angeben 告知，说明，陈述
+`````
+
 # 06_Lektion_2,_Basistraining,_8b_Und_C_1.mp3
 <audio controls loop src="B1.1_AB/06_Lektion_2,_Basistraining,_8b_Und_C_1.mp3"></audio>
 
@@ -24,13 +32,91 @@ Frau Vogel: Ich bin nicht gern zu Schule gegangen und habe mich gefreut, dass ic
 Moderator: Na, dann war das Praktikum ja auf jeden Fall eine gute Idee! Vielen Dank, Frau Vogel. Auch unsere Hörerinnen und Hörer haben also sehr unterschiedliche Erfahrungen gemacht. Doch nun erst einmal Musik.
 `````
 
+`````
+Herr Wenzel, welche Erfahrungen haben Sie gemacht?
+Herr Wenzel，你有什么样的经历？
+
+Erfahrungen machen vs. Erfahrungen haben
+
+参考朗氏辞典，Erfahrung 有两个含义：
+1，ein Wissen oder Können, das man nicht theoretisch aus Büchern, sondern in der Praxis (durch eigene Erlebnisse) bekommet
+翻译为经验、能力、知识，配合 haben 使用
+2，mst Pl; Erlebnisse, aus denen man etw. lernt (Erfahrungen machen, sammeln)
+翻译为经历、阅历，必须用复数，配合 machen、sammeln 使用
+
+经历过，不一定有经验。从经历转化为经验，是需要思考总结的。所以，如果较真儿的话，
+问 Erfahrungen machen，是在问对方的经历，问的是事件，希望对方讲一个故事。
+问 Erfahrungen haben，就是问对方的经验，问的是对方的感悟、心得。
+如果不较真儿，似乎是可以混用的。
+
+Die Erfahrungen, die wir machen, sprechen gegen die Erfahrungen, die wir haben.
+这里就要较真儿了，不过这个句子太哲学、太抽象，还不能理解。
+
+Manche Erfahrungen muss man selber machen.
+这里强调的是亲身经历。
+
+Wir glauben, Erfahrungen zu machen, aber die Erfahrungen machen uns.
+这里强调的是经历。而且前后两个 machen 使句子很优美。
+
+Erste Hilfe leisten: Haben Sie bereits Erfahrungen damit?
+Providing first aid: Do you already have experience with this?
+提供急救：您有这方面的经验吗？ 这里强调的是经验、能力
+
+Haben Sie einen Kurs oder bereits Erfahrungen damit gemacht?
+Have you taken a course or already had experience with it?
+您是否参加过课程或已经有相关经验？ 这里为了简洁，两个名词共用一个 machen，应该是混用的情况，这里指的应该是经验、能力。
+
+Erfahrung in etwas haben s. Erfahrung mit etwas haben
+
+mit 是一般常用的，就是有没有相关的经验、知识、能力
+in 似乎更强调深入其中过
+
+Ich habe Erfahrung mit der Immobilienbranche.
+在房地产方面有经验，比如买过房
+Ich habe Erfahrung in der Immobilienbranche.
+在房地产行业有经验，比如从事过相关职业
+
+https://german.stackexchange.com/questions/17621/erfahrung-haben-mit-oder-im
+`````
+
+`````
+Da bleibt netto kaum etwas übrig.
+工资扣除各种费用之后所剩无几。
+
+主语应该是 kaum etwas，网上还能找到如下类似句子：
+
+Wie viel bleibt vom Brutto übrig?
+Was bleibt netto vom Bruttogehalt übrig?
+Netto: Was vom Gehalt übrig bleibt
+
+Immer wieder hört man Klagen darüber, dass vom Bruttogehalt netto kaum etwas übrig bleibt.
+经常能听到人们抱怨，工资扣除各种费用之后所剩无几。
+`````
+
+`````
+Und woran lag das?
+
+And what was the reason for that?
+And what caused that?
+基于什么让你得出这个结论？ （这样就跟 liegen 联系上了）
+
+lag = 3rd pers. sing. imperfect of liegen, to lie
+However, "liegen an" means something completely different, it means to have a cause, be caused by, ...
+
+Just bear in mind that idiomatic phrases very rarely offer themselves to a literal translation, they usually sound quirky(古怪的) at best or make no sense at all in a worst case scenario. Here a classic example;
+
+Du bist vielleicht ein Spaßvogel. => lit. You are perhaps a fun bird.
+Actual meaning: Man, you're a clown/jester(逗乐小丑).
+
+https://de.hinative.com/questions/20578284
+`````
+
 # 12_Lektion_4,_Hoeren,_2_1.mp3
 <audio controls loop src="B1.1_AB/12_Lektion_4,_Hoeren,_2_1.mp3"></audio>
 
 `````
 Ansage 1
-Jens: Hallo, Annika. Hier spricht Jens. Sag mal, dich kann man ja gar nicht erreichen. Gestern Abend war bei dir zu Hause die ganze Zeit besetzt und jetzt bist du nicht da. Ruf mich doch
-mal an. Ich bin im Büro. Du weißt ja, meine Durchwahl ist die 18.
+Jens: Hallo, Annika. Hier spricht Jens. Sag mal, dich kann man ja gar nicht erreichen. Gestern Abend war bei dir zu Hause die ganze Zeit besetzt und jetzt bist du nicht da. Ruf mich doch mal an. Ich bin im Büro. Du weißt ja, meine Durchwahl ist die 18.
 Bandansage: Wenn Sie direkt mit dem Absender der Nachricht verbunden werden wollen, wählen Sie die Eins. Zum Speichern der Nachricht wählen Sie die Zwei. Wenn Sie die Nachricht noch einmal hören möchten, drücken Sie die Drei. Zum Löschen drücken Sie die Vier.
 
 Ansage 2
@@ -43,6 +129,22 @@ Ansage 4
 Bandansage: Herzlich willkommen beim Abonnenten-Service des B&O-Verlags. Bitte wählen Sie eine Nummer, damit ich Sie mit dem zuständigen Mitarbeiter verbinden kann. Wenn Sie eine Zeitschrift aus unserem Programm abonnieren möchten, drücken Sie bitte die Eins. Bei Fragen zur Kündigung drücken Sie bitte die Zwei. Bei Reklamationen drücken Sie bitte die Drei. Für alle anderen Fragen wählen Sie die Vier.
 Anrufer: Aha, also die Zwei drücken.
 Bandansage: Schade, dass Sie Ihr Zeitschriften-Abonnement kündigen möchten. Eine Kündigung kann nicht telefonisch erfolgen. Bitte beachten Sie auch, dass Sie Ihr Abo sechs Wochen vor Laufzeitende kündigen müssen. Senden Sie uns Ihr Kündigungsschreiben per Post oder E-Mail. Vergessen Sie nicht, Ihre Kundennummer anzugeben. Unsere Adresse ist Bromstraße 17, 60643 Frankfurt.
+`````
+
+`````
+löschen 删除，废除，取消
+die Geschäftsstelle 营业处，办事处；[律]事务所
+
+der Anschluss 连接，接通
+Kein Anschluss unter dieser Nummer. 此号码无法接通。
+ärztlich 医生的，医疗的
+der Notdienst 急救服务
+
+das Abonnement [abɔnə`mã] [法]预订，订阅
+der Abonnent [abɔ`nεnt] 用户，订户2
+die Laufzeit 期限，有效期
+das Kündigungsschreiben 解雇函，解约书
+angeben 告知，说明，陈述
 `````
 
 # 18_Lektion_7,_Basistraining,_8_1.mp3
@@ -75,6 +177,32 @@ Verkäufer: Ah, eine gute Entscheidung! An dem werden Sie sicher sehr lange Freu
 Kundin: Ja, gern …
 `````
 
+`````
+sich umschauen 环顾，四下看看
+anschaffen 购买，置办
+die Tagestour 一日游
+bedenken 考虑，思考(近义词：über etw. nachdenken, etw. berücksichtigen)
+`````
+
+`````
+Da muss man ja wirklich einiges beachten.
+
+einiges heißt ein paar Dinge/Sachen
+
+Es stammt von dem Indefinitpronomen "einige" ab. Die Form "einiges" steht als Pronomen in der Bedeutung von z.B. "some things / a couple of things", manchmal auch "quite something".
+abstammen 起源于...，出身...，是....后裔
+Indefinitpronomen 不定代词，用来指非特定对象
+
+Da muss man ja wirklich einiges beachten.
+Indeed you need to observe/mind *some things* (when dealing) with this.
+
+Das "ja" steht als Abtönungspartikel – je nach Zusammenhang kann der Sprecher hiermit ausdrücken, A) dass der Sprecher diese Tatsache überraschend fand/findet, oder B) dass der Sprecher hier eine dem Gesprächspartner vielleicht schon bekannte Tatsache wiederholt.
+Abtönungspartikel 语气小品词
+Zusammenhang 关系、关联、相互关系、上下文
+
+https://de.hinative.com/questions/15945803
+`````
+
 # 21_Lektion_8,_Basistraining,_10_1.mp3
 <audio controls loop src="B1.1_AB/21_Lektion_8,_Basistraining,_10_1.mp3"></audio>
 
@@ -83,6 +211,18 @@ Moderator: Nach dem Abitur sind viele junge Menschen ratlos: Soll ich studieren 
 Herr Jensen: Ganz generell kann man sagen, dass man mit einem Studium gute Chancen im späteren Berufsleben hat. Zurzeit sind in Deutschland nur vier Prozent mit Hochschuldiplom arbeitslos. Also wirklich wenige. Allerdings bedeutet ein Hochschulabschluss nicht immer, dass man einen sicheren Arbeitsplatz hat. Wenn man z.B. Kunst oder Architektur studiert, ist es sogar ziemlich schwierig, später einen Arbeitsplatz zu finden. Aber ein Studium hat natürlich schon viele Vorteile, z.B. finanziell: Mit einem Universitätsdiplom verdient man meistens mehr als mit einer abgeschlossenen Berufsausbildung.
 Moderator: Für wen wäre dann eine Berufsausbildung in einer Firma die bessere Alternative?
 Herr Jensen: Wer lieber praktisch arbeitet, der sollte besser eine Berufsausbildung machen. Nach zwölf Jahren Schule haben viele erst mal genug vom Lernen. Bei einer Ausbildung sammelt man sofort praktische Erfahrungen in einer Firma und lernt genau das, was man im zukünftigen Beruf braucht. Im Studium wird man nicht so gut auf den Berufsalltag vorbereitet. Außerdem dauert eine Ausbildung meistens nur drei Jahre, also nicht so lange wie ein Studium. Ein sehr großer Vorteil ist natürlich auch, dass man von Anfang an sein eigenes Gehalt verdient und nicht erst fünf Jahre später ein eigenes Einkommen hat.
+`````
+
+`````
+ratlos 没主意的，不知所措的
+erlernen 学会，学到（强调已经学会，而不是正在学）
+ein Handwerk erlernen 学会一门手艺
+die Agentur [agεn`tu:ɐ] 代理处，代办处
+
+der General [genə`ra:l] 将军
+generell [genə`rεl] 一般适用的，普遍的，普通的
+
+das Einkommen 收入
 `````
 
 # 24_Lektion_9,_Aussprache,_3_1.mp3
