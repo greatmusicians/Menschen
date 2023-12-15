@@ -225,13 +225,6 @@ generell [genə`rεl] 一般适用的，普遍的，普通的
 das Einkommen 收入
 `````
 
-# 24_Lektion_9,_Aussprache,_3_1.mp3
-<audio controls loop src="B1.1_AB/24_Lektion_9,_Aussprache,_3_1.mp3"></audio>
-
-`````
-Sprecher: Für eine Zigarette braucht man circa 5-7 Minuten. Raucher machen also mehr Pausen am Arbeitsplatz. Wie löst man das Problem? Als Beispiel möchte ich Ihnen von der Situation in meinem Betrieb erzählen: Nichtraucherschutz spielt dort eine große Rolle. Die Raucher müssen draußen rauchen. Die Nichtraucher bekommen eine Apfel-Pause. Während die Raucher rauchen, können die Nichtraucher einen Apfel essen. Interessantes Konzept, oder?
-`````
-
 # 28_Lektion_11,_Hoeren,_1_1.mp3
 <audio controls loop src="B1.1_AB/28_Lektion_11,_Hoeren,_1_1.mp3"></audio>
 
@@ -248,6 +241,37 @@ Mann 2: Mein schönster Glücksmoment war im letzten Urlaub. Wir wollten am Meer
 Frau: Ich weiß nicht, also Glück, das sind für mich die einfachen Dinge im Alltag. Wenn ich aufwache und die Sonne mir ins Gesicht scheint. Wenn mich ein lieber Mensch anlächelt oder wenn meine Kinder ein Bild malen und es mir dann ganz stolz zeigen. Solche Momente finde ich sehr schön. Das ist für mich Glück. Es muss nicht der Lottogewinn oder irgendetwas Großes sein.
 Mann 3: Ich arbeite in einem Supermarkt. Die meisten von unseren Kunden sind sehr nett, sie grüßen und sind höflich. Eine hübsche, junge Frau fand ich aber immer besonders sympathisch. An einem Samstagabend, kurz vor Ladenschluss, stand sie mal wieder bei mir an der Kasse. Nachdem ich schon alles in die Kasse getippt hatte, bemerkte sie, dass sie ihre Geldbörse vergessen hatte. Die Situation war ihr ziemlich unangenehm. Da hab’ ich ihr angeboten, ihren Einkauf von meinem eigenen Geld zu zahlen. Sie sollte mir das Geld dann am Montag bringen. Aus irgendeinem Grund habe ich ihr vertraut. Und tatsächlich brachte sie mir das Geld gleich am nächsten Montag. Sie hat mich dann zum Essen eingeladen. Und heute sind wir ein Paar.
 Mann 4: Also, ich bin Fußballfan und Glück, das ist für mich, wenn Borussia Dortmund gewinnt. Ich schaue mir die Spiele meistens in einer Kneipe an. Das ist lustiger, als alleine zu Hause vor dem Fernseher zu sitzen. Und wenn Dortmund gewinnt, dann feiern alle zusammen auf der Straße. So wie letztes Jahr, als Borussia Deutscher Meister geworden ist. Wir haben die ganze Nacht gefeiert. Das war toll!
+`````
+
+`````
+fuhr ===>>> fahren
+eines Tages = 有一天 = one day, some day, someday
+einsam 寂寞的，孤独的；偏僻的，偏远的
+rauschen (树叶)沙沙作响；流水潺潺；(风)呼啸；(海水)发出波浪声
+stolz 自豪的，骄傲的
+irgendetwas pron. 一些东西，某些东西
+unangenehm 令人不快的，尴尬的
+bemerken 发觉，注意到
+
+irgendein pron. 不知哪一个，有一个，某一个
+<不定代词;按形容词变化;表示不明确但确实存在或必需的>
+
+Aus irgendeinem Grund habe ich ihr vertraut.
+For some reason I trusted her. 出于某种原因，我信任她。
+
+Borussia Dortmund 多特蒙德足球俱乐部
+普鲁士（古普鲁士语：Prūsa；德语：Preußen；英语：Prussia；拉丁语：Borussia）
+
+Deutscher Meister 德甲冠军，德国冠军
+`````
+
+`````
+Nachdem ich schon alles in die Kasse getippt hatte, bemerkte sie, dass sie ihre Geldbörse vergessen hatte.
+当我将所有内容输入收银机后，她意识到她忘记带钱包了。
+
+Plusquamperfekt [`pluskvampεrfεkt] 过去完成时
+
+这里 dass 从句也用了过去完成时，而不是现在时。
 `````
 
 # Lektion_13_Hoeren_2.mp3
@@ -340,6 +364,38 @@ Moderatorin: Frau Hacker, das war ein schönes Schlusswort. Ich wünsche Ihnen v
 Frau Hacker: Vielen Dank.
 `````
 
+`````
+außergewöhnlich 不寻常的，非凡的
+künstlerisch 艺术的，艺术家的
+das Grafikdesign 平面设计
+die Grafik 图形，图像；显卡的简称
+bewerben 申请
+
+großformatig 大尺寸的
+die Gesellschaft 社会
+verändern 改变，使变化
+(für, gegen j-n / mit j-m) kämpfen 战斗，斗争，奋斗
+
+luftleer 真空的
+entstehen 产生，出现
+geschieht ===>>> geschehen 发生，出现
+Anerkennung 承认，肯定；赞赏，表彰
+anerkennen 承认，赞同
+
+tätig 在…工作，任职
+künstlerisch tätig sein 从事艺术工作
+gegenseitig 相互的，彼此的
+das Schlusswort 结束语
+`````
+
+`````
+Allerdings entstehen meine Bilder nicht im luftleeren Raum: Alles, was geschieht, was ich beobachte oder aus den Medien erfahre, beeinflusst mich und damit auch meine Arbeit.
+
+However, my pictures are not created in a vacuum: everything that happens, what I observe or learn from the media, influences me and therefore also my work.
+
+然而，我的照片并不是在真空中创作的：发生的一切，我观察到的或从媒体学到的东西，都会影响我，因此也影响我的工作。
+`````
+
 # Lektion_20_Hoeren_1b.mp3
 <audio controls loop src="B1.2_AB/Lektion_20_Hoeren_1b.mp3"></audio>
 
@@ -359,6 +415,87 @@ Herr Nadler: Das verstehe ich natürlich. Ich möchte ja das Skifahren nicht ver
 Moderator: Wie kann man sich denn beim Skifahren so verhalten, dass man der Umwelt möglichst wenig schadet?
 Herr Nadler: Jeder kann etwas tun: zum Beispiel, indem er mit öffentlichen Verkehrsmitteln anreist und nur dann Ski fährt, wenn es auch wirklich ausreichend Schnee gibt. Ich finde, das kann man schon von den Skifahrern verlangen. Kritisch sehe ich vor allem, wenn aufgrund von Schneemangel immer noch mehr Skigebiete in höheren Regionen gebaut werden. Wenn ohne Rücksicht auf die Tier- und Pflanzenwelt noch mehr Pisten, Lifte und Parkplätze gebaut werden.
 Moderator: Liebe Zuhörerinnen und Zuhörer, wir sind auch schon wieder fast am Ende unserer Sendung. Lassen Sie mich deshalb noch einmal kurz zusammenfassen: Bewegung ist gesund, Skifahren macht Spaß, aber es ist nicht überall gut für die Umwelt. Nehmen Sie Rücksicht auf die Natur, sodass auch die kommenden Generationen die Schönheit der Alpen bewundern können. Herzlichen Dank an unsere Gäste im Studio. Und auch an Sie zu Hause: Danke fürs Zuhören. Und bis zum nächsten Mal!
+`````
+
+`````
+die Diskussionsrunde 研讨会，圆桌谈话
+sich bewegen (朝某一方向，在某一范围内)移动，走动；运动，转动
+der Mangel [`maŋ əl] 缺乏，不足
+grundsätzlich 基本上，原则上
+ablehnen 反对，否定，不赞成
+Herstellung 制造，生产，建立
+verbrauchen 使用，消耗，损耗
+entstehen, ist entstanden, 产生，形成
+verantwortungsvoll 责任重大的，有责任心的，responsible
+
+umgehen (以某种方式)对待，对付
+Er versteht mit Kindern umzugehen. 他善于同孩子打交道。
+
+schaden 损害，伤害，危害
+Mit seinem Verhalten will er niemandem schaden. 他的行为不会伤害任何人。
+被伤害的对象是 Dativ，似乎是因为 schaden 为 vi 不及物动词
+
+ausreichen 够用，足够，足以
+ausreichend 够用的，足够的
+
+aufgrund <支配第二格或与von连用>根据，基于，由于
+die Rücksicht 顾及，体贴
+die Piste 滑雪道
+zusammenfassen 总结，概括；联合，团结
+kommend 未来的，新来的，下一个的
+bewundern 惊叹，欣赏，钦佩
+`````
+
+`````
+Gehören Sie zu den Menschen, die es kaum erwarten können, bis in den Bergen endlich wieder die Skisaison beginnt?
+
+在 die es kaum erwarten können 中，es 应该是形式宾语。这里的 es 可以省略吗？
+
+bis 可以是介词、副词、连词。这里应该是连词，作用是引导一个从句。
+`````
+
+`````
+Oder mögen Sie es lieber ruhiger und genießen den Winter, indem Sie einfach nur spazieren gehen oder wandern?
+
+indem 连词，通过...方法，这里的作用，应该是详细解释如何 genießen den Winter，即通过怎么做、什么样的方法去 genießen den Winter
+`````
+
+`````
+In vielen Skiregionen setzt man inzwischen bei Schneemangel Kunstschnee ein.
+
+inzwischen adv. 在此期间
+这里有个 bei 不知道为什么？感觉没有 bei 也行呀？？？？？
+`````
+
+`````
+Das verstehe ich natürlich. Ich möchte ja das Skifahren nicht verbieten. Aber die Hauptsache ist, dass wir verantwortungsvoll mit der Natur umgehen.
+
+But the main thing is that we treat nature responsibly.
+但最重要的是我们要负责任地对待大自然。
+
+verantwortungsvoll 责任重大的，有责任心的，responsible
+umgehen (以某种方式)对待，对付
+Er versteht mit Kindern umzugehen. 他善于同孩子打交道。
+`````
+
+`````
+Ich finde, das kann man schon von den Skifahrern verlangen.
+I think you can ask the skiers to do that.
+我认为我们可以要求滑雪者这样做。
+
+verlangen 要求，盼望，require，demand
+
+verlangen后面没有双宾语的用法，所以当我们要求某人做某事的时候，verlangen的用法是区别于我们英语中传统的ask sb to do sth的，代替的反而是另外一种很简单的思路即，ask for sth from sb，德语中便是verlangen von jdm。需要知道，德国人经常使用的就是verlangen von jdm，etwas zu tun这个结构啦。
+
+https://zhuanlan.zhihu.com/p/359687197
+`````
+
+`````
+Kritisch sehe ich vor allem, wenn aufgrund von Schneemangel immer noch mehr Skigebiete in höheren Regionen gebaut werden. Wenn ohne Rücksicht auf die Tier- und Pflanzenwelt noch mehr Pisten, Lifte und Parkplätze gebaut werden.
+
+I am particularly critical of the fact that more ski areas are being built in higher regions due to a lack of snow. When even more slopes, lifts and parking spaces are built without considering the flora and fauna.
+
+我特别批评的是，由于缺雪，在地势较高的地区修建了更多的滑雪场。当建造更多的斜坡、电梯和停车位时，却没有考虑动植物群。
 `````
 
 # Lektion_21_Aussprache_3.mp3
