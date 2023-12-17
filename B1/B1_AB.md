@@ -510,23 +510,122 @@ Wie immer bin ich schon Tage vorher nervös. Obwohl ich eigentlich keine Zeit da
 
 14. März – Vorstellung im Kindergarten „Wonneproppen“
 
-Was soll ich sagen: Der Auftritt war ein voller Erfolg! Schon der Empfang durch die Kindergärtnerin Eva war sehr freundlich und die Atmosphäre wirklich angenehm. Die Kinder waren fantastisch und haben toll mitgemacht. Ich habe ihnen Witze erzählt, lustige Quiz-Fragen gestellt und mit ihnen fröhliche Lieder gesungen. Völlig erschöpft bin ich am Abend nach Hause gekommen. Alles ist gutgegangen, keine Katastrophe ist passiert. Hoffentlich darf ich bald wieder mein Clown-Programm aufführen.
+Was soll ich sagen : Der Auftritt war ein voller Erfolg! Schon der Empfang durch die Kindergärtnerin Eva war sehr freundlich und die Atmosphäre wirklich angenehm. Die Kinder waren fantastisch und haben toll mitgemacht. Ich habe ihnen Witze erzählt, lustige Quiz-Fragen gestellt und mit ihnen fröhliche Lieder gesungen. Völlig erschöpft bin ich am Abend nach Hause gekommen. Alles ist gutgegangen, keine Katastrophe ist passiert. Hoffentlich darf ich bald wieder mein Clown-Programm aufführen.
+`````
+
+`````
+der Clown [klaun] [英](马戏和杂技中的)小丑,丑角
+der Auftritt 登台(演出)
+Verpflegung 膳食，给养
+der Kofferraum 轿车后备箱
+erschöpft 筋疲力尽的，疲惫的
+aufführen 上演，放映，演奏，举办
 `````
 
 # Lektion_21_Basis_14.mp3
 <audio controls loop src="B1.2_AB/Lektion_21_Basis_14.mp3"></audio>
 
 `````
-Radiomoderator: Hallo und herzlich willkommen zu unserer Sendung „Stadtreisen“. In unserer Reihe „Die interessantesten Städte Europas“ möchten wir Ihnen heute Zürich vorstellen. Denn die größte Stadt der Schweiz ist unserer Meinung nach wirklich einen Besuch wert. Zürichs Umgebung ist fantastisch. Durch die Stadt, die am Ufer des Zürichsees liegt, fließen zwei Flüsse, die Sihl und die Limmat. Bei schönem Wetter kann man die Berge sehen, die um die Stadt herum liegen.
-Zürich ist lebendig und dynamisch, aber im Vergleich zu anderen Großstädten herrscht dort eher eine ruhige entspannte Atmosphäre. Besonders empfehlenswert ist ein Besuch der Bahnhofstraße mit ihren schönen historischen Gebäuden. Die Bahnhofstraße ist eine der elegantesten und auch teuersten Einkaufsstraßen Europas. Dort gibt es Kaufhäuser, DesignerLäden, Schmuckgeschäfte und Banken.
-Aber in Zürich finden Sie nicht nur Banken und Geschäfte, sondern es gibt auch ein großes kulturelles Angebot. So gehört z.B. das Schauspielhaus Zürich zu den wichtigsten Bühnen im deutschsprachigen Raum. Gleich in der Nähe vom Schauspielhaus ist das Kunsthaus. In dem Gebäude aus dem vorigen Jahrhundert finden Sie die bedeutendste Kunstsammlung der Schweiz. Dort sind Werke vom 15.
-Jahrhundert bis zur Gegenwart ausgestellt. Das Museum besitzt besonders viele Bilder von Edvard Munch und Alberto Giacometti.
-Die interessantesten Ecken für jüngere Leute gibt es im Szeneviertel ZürichWest. Dieser Stadtteil, der in der Nähe des Zentrums liegt, war im 19. Jahrhundert ein wichtiges Industriegebiet.
-Viele alte Fabriken und andere Industriegebäude wurden renoviert. Das Viertel entwickelt sich mehr und mehr zu einem Vergnügungsviertel mit Theatern, Bars, Ateliers, Konzertsälen und trendigen Läden.
-Im Sommer dürfen Sie auf keinen Fall versäumen, in einem der elf Bäder an der Limmat oder dem Zürichsee zu baden. Im See ist das Wasser übrigens so sauber, dass man es trinken kann.
-Eins der schönsten Bäder ist das „Frauenbadi“. Die Anlage an der Limmat ist schon über 100 Jahre alt und liegt mitten in der Stadt. Wie der Name schon sagt, müssen Männer leider draußen bleiben oder sie müssen bis abends warten. Denn dann wir das Bad zu einer Barfußbar. Die Bar heißt so, weil man die Schuhe ausziehen muss. Dort kann man dann mit einem wunderbaren Blick auf die Lichter der Altstadt und die Türme des Großmünsters einen Drink genießen.
-Die Stadt entspricht vielleicht nicht ganz dem Bild, das man oft von ihr hat. Denn Zürich ist nicht nur eine reiche Finanzmetropole. In dieser Stadt haben Toleranz und Gastfreundschaft eine lange Tradition. Deshalb wurde sie für viele Künstler, Schriftsteller und Politiker zur zweiten Heimat. Hier haben unter anderem Georg Büchner, James Joyce, der Psychoanalytiker C.G. Jung, Lenin und Trotzki gewohnt.
-Übrigens: Entgegen der weit verbreiteten Meinung ist nicht Zürich die Hauptstadt der Schweiz, sondern Bern. Wenn Sie jetzt neugierig geworden sind, finden Sie noch mehr Informationen und Tipps auf der Webseite zur Sendung.
+Radiomoderator: Hallo und herzlich willkommen zu unserer Sendung „Stadtreisen“. In unserer Reihe „Die interessantesten Städte Europas“ möchten wir Ihnen heute Zürich vorstellen. Denn die größte Stadt der Schweiz ist unserer Meinung nach wirklich einen Besuch wert. Zürichs Umgebung ist fantastisch. Durch die Stadt, die am Ufer des Zürichsees liegt, fließen zwei Flüsse, die Sihl und die Limmat. Bei schönem Wetter kann man die Berge sehen, die um die Stadt herum liegen. Zürich ist lebendig und dynamisch, aber im Vergleich zu anderen Großstädten herrscht dort eher eine ruhige entspannte Atmosphäre. Besonders empfehlenswert ist ein Besuch der Bahnhofstraße mit ihren schönen historischen Gebäuden. Die Bahnhofstraße ist eine der elegantesten und auch teuersten Einkaufsstraßen Europas. Dort gibt es Kaufhäuser, Designer-Läden, Schmuckgeschäfte und Banken. Aber in Zürich finden Sie nicht nur Banken und Geschäfte, sondern es gibt auch ein großes kulturelles Angebot. So gehört z.B. das Schauspielhaus Zürich zu den wichtigsten Bühnen im deutschsprachigen Raum. Gleich in der Nähe vom Schauspielhaus ist das Kunsthaus. In dem Gebäude aus dem vorigen Jahrhundert finden Sie die bedeutendste Kunstsammlung der Schweiz. Dort sind Werke vom 15. Jahrhundert bis zur Gegenwart ausgestellt. Das Museum besitzt besonders viele Bilder von Edvard Munch und Alberto Giacometti. Die interessantesten Ecken für jüngere Leute gibt es im Szeneviertel Zürich-West. Dieser Stadtteil, der in der Nähe des Zentrums liegt, war im 19. Jahrhundert ein wichtiges Industriegebiet. Viele alte Fabriken und andere Industriegebäude wurden renoviert. Das Viertel entwickelt sich mehr und mehr zu einem Vergnügungsviertel mit Theatern, Bars, Ateliers, Konzertsälen und trendigen Läden. Im Sommer dürfen Sie auf keinen Fall versäumen, in einem der elf Bäder an der Limmat oder dem Zürichsee zu baden. Im See ist das Wasser übrigens so sauber, dass man es trinken kann. Eins der schönsten Bäder ist das „Frauenbadi“. Die Anlage an der Limmat ist schon über 100 Jahre alt und liegt mitten in der Stadt. Wie der Name schon sagt, müssen Männer leider draußen bleiben oder sie müssen bis abends warten. Denn dann wird das Bad zu einer Barfußbar. Die Bar heißt so, weil man die Schuhe ausziehen muss. Dort kann man dann mit einem wunderbaren Blick auf die Lichter der Altstadt und die Türme des Großmünsters einen Drink genießen. Die Stadt entspricht vielleicht nicht ganz dem Bild, das man oft von ihr hat. Denn Zürich ist nicht nur eine reiche Finanzmetropole. In dieser Stadt haben Toleranz und Gastfreundschaft eine lange Tradition. Deshalb wurde sie für viele Künstler, Schriftsteller und Politiker zur zweiten Heimat. Hier haben unter anderem Georg Büchner, James Joyce, der Psychoanalytiker C.G. Jung, Lenin und Trotzki gewohnt. Übrigens: Entgegen der weit verbreiteten Meinung ist nicht Zürich die Hauptstadt der Schweiz, sondern Bern. Wenn Sie jetzt neugierig geworden sind, finden Sie noch mehr Informationen und Tipps auf der Webseite zur Sendung.
+`````
+
+`````
+Umgebung 周围，环境，郊区
+lebendig 活的，有生命的；活跃的，生气勃勃的；生动的
+dynamisch 动态的，不断变化的；有生命力的，生气勃勃的，活跃的
+im Vergleich zu 跟……比较/对照
+herrschen 统治，治理；存在着，充满着
+entspannt 放松的，缓和的，冷静下来的
+
+im deutschsprachigen Raum 在德语区
+vorig 过去的，上次的，先前的
+bedeutend 重要的；显著的；著名的，有名望的；杰出的，卓越的
+die Gegenwart 现代，当代
+
+Szeneviertel ist eine umgangssprachliche Bezeichnung für ein durch ein spezielles soziokulturelles Milieu geprägtes Stadtviertel.
+Szeneviertel 是一个口语术语，指的是具有特殊社会文化环境的城区。
+
+Zürich-West 西郊工业风的苏黎世西区
+das Vergnügungsviertel 休闲娱乐区
+Atelier [ate`lie:, atə`lie:] (电影)摄影棚；(定做女式服装的)时装店
+der Konzertsaal, die Konzertsäle, 音乐厅
+trendig 时髦的，流行的
+
+versäumen 错过
+die Anlage (公共)设施
+barfuß 光脚的
+barfußbar 光脚酒吧
+der Drink [英]酒，酒类饮料
+die Metropole [metro`po:lə] 中心，大都会
+Finanzmetropole 金融中心
+die Toleranz 容忍，宽容
+unter anderem = u. a. = 此外，另外，诸如
+übrigens 另外，此外，顺便提一下
+weitverbreitet 流行的，普遍的，广泛传播的
+`````
+
+`````
+Denn die größte Stadt der Schweiz ist unserer Meinung nach wirklich einen Besuch wert.
+
+Es ist einen Besuch wert. 为什么使用 Akkusativ？
+
+"wert sein" is treated differently from "sein".
+jemandem (Dat) etwas (Akk) wert sein
+
+Learn fixed phrasings as they are!
+
+https://www.reddit.com/r/German/comments/di2l3l/es_ist_einen_besuch_wert_akkusativ_mit_sein/
+`````
+
+`````
+das Schauspielhaus Zürich 苏黎世剧院
+
+建于1837年。第一任经理为夏洛蒂·毕尔希—普费弗尔。20世纪以后，随着现代思潮的兴起开始繁荣。1933年以后，不少德国和奥地利戏剧家流亡苏黎世，尤其是第二次世界大战期间,讲德语的德、奥、瑞士3国戏剧家合作，把苏黎世话剧院的繁荣推向高峰，标志是B.布莱希特的4 出名剧《大胆妈妈和她的孩子们》(1941)、《四川一好人》（1943）、《伽利略传》(1943)和布莱希特亲自协助导演的《潘蒂拉老爷和他的男仆马狄》的首次公演，它们使苏黎世剧院成为一个以反法西斯为主调的国际舞台。瑞士最有影响、历史最长、具有国际声誉的剧院。
+
+大胆妈妈和她的孩子们》，副标题是“三十年战争纪事”，时代背景就是17世纪德国三十年战争。安娜·菲尔琳，号称“大胆妈妈”，带着两个儿子、一个哑女，拉货车随军叫卖，把战争视为谋生的依靠，发财的来源。一个士兵望着她的货车预言：“谁要想靠战争过活，就得向它交出些什么。”这个把生活希望完全寄托于战争的女人，最终落得家破人亡。这是一个在战争中为谋生不怕冒险，不计后果的女人的悲剧。“大胆妈妈”称呼，来源于德国17世纪小说家格里美尔豪森的流浪汉小说《女骗子和女流浪者库拉舍》。“库拉舍”（Courage）这个词在巴罗克时代的含义是女人勾引男人的“心计”，在布莱希特笔下，则是小人物为了生存而必备的“勇气”。
+
+《四川好人》是布莱希特创作的一出寓意剧。首演于1943年。说的是两千年来世上好人难以立足，民怨沸腾，因此三位神仙下凡来到人间寻访好人。但他们一开始就遇到了重重困难：无论是富人还是穷人都不愿给他们提供栖身之地。只有好心的妓女沈德收留了他们。第二天清晨，三位神仙以付住宿费的名义给了沈德一千多银元。这样，沈德再不必以卖身为业。她开了一家小型烟店并无偿地给邻居、亲友和求助者提供食宿。然而，这位“贫居窟的天使”的善心义举非但得不到好报，反而使她自己的烟店难以为继。无助的沈德只得戴上面具，以表兄水达的身份出现。“水达”待人苛刻，处事精明，他把沈德的烟店料理得井井有条。这时，从“旅途归来”的沈德爱上了一位失业飞行员。为了使他能在北京谋到职位，沈德准备卖掉烟店，大举借贷。然而她的未婚夫也是一个自私自利的骗子。他的“爱情”和沈德的善良几乎使烟店濒临倒闭。为了挽救沈德，“表兄水达”又一次登场。他在一间破屋子里开设了一家烟卷工厂，给沈德的“客人”和其他人提供就业机会，残酷的剥削手段和严格的经营管理使工厂规模渐大，生意日渐兴隆。人们在感激“水达”给了他们工作和面包的同时，又十分怀念善良的沈德。于是有人怀疑“水达”谋害了他的表妹，以霸占她的烟店。“水达”被人举报。在三位神仙乔装打扮的法官面前，他现出了沈德的原形，道出了自己的苦衷：“既要善待别人，又要善待自己，这我办不到。”“你们的世界太不公平。”然而，三个神仙在这个问题面前也束手无策。“是改变人，还是改变世界？”“是靠神仙，还是靠好人？”这就是布莱希特让观众和读者思索的问题。 对于人和世界的敏锐观察、入木三分的刻画、对于社会问题的严肃思考以及驾轻就熟的大众化语言充分显示了布莱希特这位戏剧大师的手笔，这也是这个剧本获得成功、成为当代名作之一的主要原因。 值得指出的是，这个剧本里虽然出现的是中国地名和人名，然而却不一定是指中国的人和事。
+
+《伽利略传》为历史哲理剧，以17世纪意大利天文学家、物理学家伽利略生平为题材，把历史的经验教训和20世纪现实斗争结合起来，表现在新旧交替时刻，科学与愚昧、变革与反动之间的争斗。
+
+1939 Die Geschäfte des Herrn Julius Caesar
+1941 Mutter Courage und ihre Kinder
+1943 Der gute Mensch von Sezuan
+1943 Leben des Galilei
+1948 Der kaukasische Kreidekreis
+1948 Herr Puntila und sein Knecht Matti
+
+https://www.inhaltsangabe.de/autoren/brecht/#werke
+`````
+
+`````
+Edvard Munch
+
+爱德华·蒙克（Edvard Munch，1863年12月12日—1944年1月23日），挪威表现主义画家、版画复制匠，现代表现主义绘画的先驱。爱德华·蒙克绘画带有强烈的主观性和悲伤压抑的情调。他对心理苦闷的强烈的，呼唤式的处理手法对20世纪初德国表现主义的成长起了主要的影响，其主要作品有《呐喊》《生命之舞》《卡尔约翰街的夜晚》。1944年1月23日，爱德华·蒙克于艾可利逝世。
+
+Alberto Giacometti
+
+阿尔贝托·贾科梅蒂（Giacometti， Alberto,1901～1966），瑞士存在主义雕塑大师，画家。代表作品有《超现实表》、《笼》、《鼻子》等。2010年2月3日，拍卖师在英国伦敦苏富比拍卖行拍卖瑞士雕塑家贾科梅蒂的雕塑作品“行走的人”。 该作品最终以6500万英镑（约合1亿多美元）的价格成交，刷新了艺术品拍卖成交价格的世界纪录。
+`````
+
+`````
+Hier haben unter anderem Georg Büchner, James Joyce, der Psychoanalytiker C.G. Jung, Lenin und Trotzki gewohnt.
+
+Georg Büchner
+格奥尔格·毕希纳（1813～1837）。德国剧作家。1813年10月17日生于达姆施塔特附近的戈德劳一医生家庭，1837年2月19日卒于苏黎世。1831～1833年在施特拉斯堡攻读医学，参加当地民主运动，接触圣西门空想社会主义学说。1834年在达姆施塔特和吉森建立秘密革命组织“人权协会”，秘密发行政治小册子《黑森信使》，被称为《共产党宣言》之前19世纪最革命的文献。该文采用阶级分析和统计学方法，指出黑森不存在工业无产阶级，农民是革命主力，提出“给茅屋以和平，给王宫以战争”的口号。由于有人告密被通缉。1835年被迫逃往施特拉斯堡，后转往瑞士，任苏黎世大学讲师。主要剧作有描写法国大革命的《丹东之死》、讽刺喜剧《莱翁采和莱娜》、悲剧《沃伊采克》和中篇小说《棱茨》。
+
+詹姆斯·乔伊斯（James Joyce,1882-1941），爱尔兰作家、诗人，二十世纪最伟大的作家之一，后现代文学的奠基者之一，其作品及“意识流”思想对世界文坛影响巨大。1920年起定居巴黎。其一生颠沛流离，辗转于欧洲各地，靠教授英语和写作糊口，晚年饱受眼疾之痛，几近失明。其作品结构复杂，用语奇特，极富独创性。主要作品是短篇小说集《都柏林人》（1914）描写下层市民的日常生活，显示社会环境对人的理想和希望的毁灭。自传体小说《青年艺术家的自画像》（1916）以大量内心独白描述人物心理及其周围世界。代表作长篇小说《尤利西斯》（1922）表现现代社会中人的孤独与悲观。后期作品长篇小说《芬尼根的守灵夜》（1939）借用梦境表达对人类的存在和命运的终极思考，语言极为晦涩难懂。
+
+《都柏林人》的人物，形形色色，有逃学的男孩、死了亲人的老处女、思春的少女、狡诈的流浪汉等等，他们行走于都柏林这座城市，感谢微不足道的事情，与此同时，感到孤独、蠢动或者绝望。
+
+C.G. Jung
+卡尔·荣格（Carl Gustav Jung，1875—1961），瑞士心理学家。1907年开始与西格蒙德·弗洛伊德合作，发展及推广精神分析学说长达6年之久，之后与弗洛伊德理念不和，分道扬镳，创立了荣格人格分析心理学理论，提出“情结“的概念，把人格分为内倾和外倾两种，主张把人格分为意识、个人无意识和集体无意识三层。曾任国际心理分析学会会长、国际心理治疗协会主席等，创立了荣格心理学学院。1961年6月6日逝于瑞士。荣格及其思想受到了中国哲学家厉麟似及其所创办的景星学社重要而深远的影响。他的理论和思想至今仍对心理学研究产生深远影响。
+
+Lenin 列宁
+1917年，俄国爆发了二月革命，俄罗斯帝国沙皇尼古拉二世逊位，罗曼诺夫王朝的统治被彻底推翻，成立了以社会革命党和立宪民主党为主的各党派联盟俄国临时政府。同时彼得格勒也成立一个苏维埃。此时尚在中立国瑞士的列宁深知自己需要马上返回俄国，但由于邻国陷入了一战无法直接通行。尽管如此，瑞士社会民主党人弗里茨·普拉廷积极与德国当局协商，德国也希望能利用列宁缓解同俄国在东线的战事，于是同意协助列宁乘坐由德国安排的“密封列车”回国。列宁穿越德境后乘船到达瑞典，在瑞典社会民主党人奥托·格日姆伦、图雷·尼曼等人的帮助下，他顺利经过斯堪的纳维亚，于1917年4月16日乘坐火车到达彼得格勒的芬兰站。
+
+Trotzki 托洛茨基
+1914年8月3日，第一次世界大战爆发后，奥匈帝国与俄罗斯帝国交战，托洛茨基被迫逃离维也纳前往中立国瑞士，以避免作为俄罗斯移民被捕。在瑞士，托洛茨基曾在瑞士社会民主党内短暂工作，促使该党通过了一项国际主义决议。托洛茨基在苏黎世停留的时间里写了一本反对战争的书——《战争与国际》，反对欧洲的社会民主党派，主要是德国社会民主党采取的亲战立场。
 `````
 
 # Lektion_22_Basistraining_7a.mp3
@@ -534,6 +633,16 @@ Die Stadt entspricht vielleicht nicht ganz dem Bild, das man oft von ihr hat. De
 
 `````
 Reporter: Im Herbst 1989 fand in Deutschland eine friedliche Revolution statt. Ein wichtiger Teil dieser Revolution waren Demonstrationen, die von September an in Leipzig und anderen großen Städten stattfanden. Immer mehr Bürger protestierten gegen das politische System und forderten mehr Freiheit. Entgegen aller Erwartungen wurde am Abend des 9. November die Mauer geöffnet. Wie war das damals eigentlich? Das wollten wir mal von jemandem wissen, der es selbst erlebt hat. Hören Sie jetzt ein Interview mit Uli U. aus Berlin, der bei der Maueröffnung dabei war.
+`````
+
+`````
+fordern 要求，索取
+sein Recht fordern 要求自己的权利
+entgegen 跟...相反，违背
+
+entgegen aller Erwartungen 出乎所有人的意料
+标准语法应该是 entgegen + Dativ: entgegen allen Erwartungen
+但实际上，有些地方还是习惯使用 entgegen + Genitiv: entgegen aller Erwartungen
 `````
 
 # Lektion_22_Basistraining_7b.mp3
@@ -550,6 +659,28 @@ Reporter: Wie haben Sie die kommenden Tage verbracht?
 Uli U.: Die Maueröffnung war ja am Donnerstag. Nachdem ich am Freitagmorgen nach Hause gekommen bin, musste ich erst einmal ausschlafen. Als ich dann nach ein paar Stunden aufgewacht bin, erschien mir alles wie ein Traum. Ich konnte nicht glauben, dass die Mauer offen war. Schließlich war man noch einen Tag vorher ins Gefängnis gekommen, wenn man auf der Flucht verhaftet worden war. Natürlich sind wir in den folgenden Tagen noch öfter nach Westberlin gegangen. Dort waren vor den Banken, die am ersten Wochenende sogar nachts geöffnet hatten, lange Schlangen. Jeder DDR-Bürger bekam nämlich 100 Mark Begrüßungsgeld von der Bundesrepublik. Wir hätten ja mit unserem Ostgeld nichts kaufen können. Und natürlich wollten alle die Dinge, die es bei uns in der DDR nicht gab.
 Reporter: Wissen Sie noch, was Sie sich vom Begrüßungsgeld gekauft haben?
 Uli U.: Angeblich haben ja alle Bananen gekauft, aber das stimmt natürlich nicht. Ich habe mir einen CD-Player gekauft und der funktioniert sogar heute noch.
+`````
+
+`````
+aufregend 令人兴奋的，激动人心的
+Wilhelm von Humboldt 威廉·冯·洪堡，是柏林洪堡大学的创始者
+schien ===>>> scheinen + zu + 不定式：看来，好像，似乎，觉得
+`````
+
+`````
+Wie so oft saßen wir auch an diesem Abend zusammen in einer Kneipe.
+As so often happens, we sat together in a bar that evening.
+正如经常发生的那样，那天晚上我们一起坐在酒吧里。
+
+wie so oft 像往常一样
+
+wie so oft 不能等同于 so oft wie ？？？？？
+
+还能搜到如下用法，是什么含义呢？
+So oft wie möglich, so oft wie nötig.
+So viel wie nötig, so wenig wie möglich.
+
+Mache so oft wie möglich das, was du am besten kannst. 尽可能地多做你最擅长的事。
 `````
 
 # Lektion_23_Hoeren_2.mp3
