@@ -619,7 +619,7 @@ Georg Büchner
 《都柏林人》的人物，形形色色，有逃学的男孩、死了亲人的老处女、思春的少女、狡诈的流浪汉等等，他们行走于都柏林这座城市，感谢微不足道的事情，与此同时，感到孤独、蠢动或者绝望。
 
 C.G. Jung
-卡尔·荣格（Carl Gustav Jung，1875—1961），瑞士心理学家。1907年开始与西格蒙德·弗洛伊德合作，发展及推广精神分析学说长达6年之久，之后与弗洛伊德理念不和，分道扬镳，创立了荣格人格分析心理学理论，提出“情结“的概念，把人格分为内倾和外倾两种，主张把人格分为意识、个人无意识和集体无意识三层。曾任国际心理分析学会会长、国际心理治疗协会主席等，创立了荣格心理学学院。1961年6月6日逝于瑞士。荣格及其思想受到了中国哲学家厉麟似及其所创办的景星学社重要而深远的影响。他的理论和思想至今仍对心理学研究产生深远影响。
+卡尔·荣格（Carl Gustav Jung，1875—1961），瑞士心理学家。1907年开始与西格蒙德·弗洛伊德合作，发展及推广精神分析学说长达6年之久，之后与弗洛伊德理念不和，分道扬镳，创立了荣格人格分析心理学理论，提出“情结“的概念，把人格分为内倾和外倾两种，主张把人格分为意识、个人无意识和集体无意识三层。曾任国际心理分析学会会长、国际心理治疗协会主席等，创立了荣格心理学学院。1961年6月6日逝于瑞士。荣格及其思想受到了中国哲学家厉麟似及其所创办的景星学社重要而深远的影响。他的理论和思想至今仍对心理学研究产生深远影响。荣格认为每个人内心中存在着一个男人和一个女人，男人身体里的女性叫阿尼玛，女人身体里的男性叫阿尼姆斯。这是荣格发现的一个重要的意象，用来解释一些心理和行为上的“反常”。
 
 Lenin 列宁
 1917年，俄国爆发了二月革命，俄罗斯帝国沙皇尼古拉二世逊位，罗曼诺夫王朝的统治被彻底推翻，成立了以社会革命党和立宪民主党为主的各党派联盟俄国临时政府。同时彼得格勒也成立一个苏维埃。此时尚在中立国瑞士的列宁深知自己需要马上返回俄国，但由于邻国陷入了一战无法直接通行。尽管如此，瑞士社会民主党人弗里茨·普拉廷积极与德国当局协商，德国也希望能利用列宁缓解同俄国在东线的战事，于是同意协助列宁乘坐由德国安排的“密封列车”回国。列宁穿越德境后乘船到达瑞典，在瑞典社会民主党人奥托·格日姆伦、图雷·尼曼等人的帮助下，他顺利经过斯堪的纳维亚，于1917年4月16日乘坐火车到达彼得格勒的芬兰站。
@@ -664,7 +664,15 @@ Uli U.: Angeblich haben ja alle Bananen gekauft, aber das stimmt natürlich nich
 `````
 aufregend 令人兴奋的，激动人心的
 Wilhelm von Humboldt 威廉·冯·洪堡，是柏林洪堡大学的创始者
+
 schien ===>>> scheinen + zu + 不定式：看来，好像，似乎，觉得
+erschien ===>>> erscheinen 显得，看起来，使人觉得
+
+angeblich 据称，据说
+von Weitem 从远处
+
+der Trabi, die Trabis, 前东德汽车品牌 Trabant 的俗称
+angeblich 据称，据说
 `````
 
 `````
@@ -681,6 +689,34 @@ So oft wie möglich, so oft wie nötig.
 So viel wie nötig, so wenig wie möglich.
 
 Mache so oft wie möglich das, was du am besten kannst. 尽可能地多做你最擅长的事。
+`````
+
+`````
+Wir konnten es nicht glauben, sind aber trotzdem los an den Grenzübergang Bornholmer Straße.
+
+Der Grenzübergang Bornholmer Straße war ein Grenzübergang an der Berliner Mauer von 1961 bis 1990; er verband die Bezirke Prenzlauer Berg und Wedding im Norden Berlins über die Bösebrücke.
+1，博恩霍尔姆大街的过境通道。Bösebrücke桥东端的Bornholmer街边境口岸是1989年11月9日晚柏林墙第一个开放的地方
+2，der Bezirk 地区，区域；行政区
+3，19世纪，普伦茨劳贝格区(Prenzlauer Berg)是传统的工人区，区内建筑的特点是五层的兵营式公寓。曾是德国的一个自治城区，2001年起并入潘科大区后，整个区域成为德国居住人口最多的城区。保留有许多战前建筑，而上世纪90你那两徳统一后，包括普伦茨劳贝格的潘科区都开展兴建，吸引年轻群体入住。现在的普伦茨劳贝格不仅是创意产业聚集地，也是很多家庭选择的住宅区。
+4，威丁（Wedding）是德国首都柏林米特区西北部的一个分区，2001年以前是单独的区，此后与米特区和蒂尔加滕合并成立新的米特区。、
+5，博泽桥 Bösebrücke
+`````
+
+`````
+Schließlich war man noch einen Tag vorher ins Gefängnis gekommen, wenn man auf der Flucht verhaftet worden war.
+毕竟就在前一天，如果你在试图逃跑时被捕，还会被关进监狱。
+`````
+
+`````
+Wir hätten ja mit unserem Ostgeld nichts kaufen können.
+We couldn't have bought anything with our Eastern money.
+
+类似的
+Wir hätten gehen können. We could have gone.
+Wir hätten gehen sollen. We should have left.
+
+这里是什么时态？为什么使用这种时态？？？？
+应该是虚拟式吧
 `````
 
 # Lektion_23_Hoeren_2.mp3
@@ -705,4 +741,58 @@ Katrin: Ja, das kann ich gut verstehen.
 Felix: Kommt uns doch mal besuchen. Dann könnt ihr euch das mal anschauen.
 Katrin: Ja, das machen wir bestimmt mal. Da kommt mein Bus. Viele Grüße an Lisa. Ich melde mich die Tage.
 Felix: Ja, mach das. Und grüß Florian von mir.
+`````
+
+`````
+sich an etw.(A) gewöhnen 习惯于；适应于
+der Kamerad [kamə`ra:t] 同伴，同事，同学
+der Spielkamerad (儿童)游戏伙伴
+beengen 挤紧，夹紧；使憋闷
+der Verkehrslärm 交通噪声
+ehrlich 真实的，真诚的
+gebären 分娩 ===>>> geboren 天生的，土生土长的
+
+überzeugt 有坚定信念的，深信不疑的
+von sich (selbst) überzeugt [贬]过于自负、自信
+(von j-m / etw.) abhängig sein 依赖于...的
+selbstständig sein 自主的，自立的，独立的
+`````
+
+`````
+Das letzte Mal muss schon fast ein halbes Jahr her sein.
+The last time must have been almost half a year ago.
+上一次应该是快半年前的事了。
+
+her adv.
+<表示空间>到这里来
+<表示时间>从...时起,从...至今
+
+Er soll sofort her. 叫他立马来。
+Es ist schon einen Monat her. 那是一个月前的事了。
+`````
+
+`````
+Das wäre allerdings auch nichts für mich.
+似乎应当翻译为：当然我也不喜欢这样。
+
+Das ist nichts für mich. 这不合我的胃口。这我不喜欢。
+
+allerdings
+① <强调肯定的语气>当然,自然
+② <表示有所保留地承认>固然,诚然,虽然
+③ <表示限制，转折>但是，不过，然而
+`````
+
+`````
+Ich melde mich die Tage.
+
+Was heißt "Ich werde mich die Tage mal bei dir melden"?
+
+Nach spätestens zwei Wochen wird sich der Jemand bei dir melden. So verstehe ich den Satz. Ist dir diese Person näher bekannt, wie schätzt du sie ein? Es könnte nämlich auch sein, dass sie gar nicht die Absicht hat sich zu melden. Nach zwanzig Jahren wartest du immer noch.
+该人最迟会在两周后与您联系。我是这样理解这句话的。您是否更了解这个人？您对他们有何看法？也有可能她压根就没打算联系你。 二十年后，你还在等待。
+
+"Die Tage" bedeutet meistens irgend wann - oder auch nicht. Das ist eine Floskel wie "man sieht sich".
+“Die Tage”通常意味着在某个时刻——或者不是。 这就是“再见”之类的短语。
+
+https://www.gutefrage.net/frage/was-heisst-ich-werde-mich-die-tage-mal-bei-dir-melden
 `````
