@@ -2613,7 +2613,8 @@ Sie einigten sich auf einen Kompromiss. 他们达成妥协。
 <audio controls loop src="B1.2_KB/3-14_Lektion_22_3_2.mp3"></audio>
 
 `````
-Audioguide: Von der Teilung Deutschlands bis zum Mauerbau 1948 waren über dem Berliner Himmel häufig Flugzeugmotoren zu hören. Was hatte das zu bedeuten? Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist. Von einem Tag auf den anderen war die Berliner Bevölkerung von der Außenwelt abgeschnitten. Die westlichen Alliierten ließen sich das allerdings nicht gefallen. Sie beschlossen, den Menschen einfach aus der Luft mit den wichtigsten Lebensmitteln zu helfen. Ihre Taktik ist später als „Berliner Luftbrücke“ bekannt geworden. Schließlich gab die Sowjetunion auf. Deutschland wurde in „West“ und „Ost“ geteilt. Im Westen wurde 1949 die Bundesrepublik Deutschland gegründet, im Osten die Deutsche Demokratische Republik. In der BRD wurde die Demokratie eingeführt, in der DDR eine sozialistische EinParteien-Diktatur.
+Audioguide: Von der Teilung Deutschlands bis zum Mauerbau
+Audioguide: 1948 waren über dem Berliner Himmel häufig Flugzeugmotoren zu hören. Was hatte das zu bedeuten? Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist. Von einem Tag auf den anderen war die Berliner Bevölkerung von der Außenwelt abgeschnitten. Die westlichen Alliierten ließen sich das allerdings nicht gefallen. Sie beschlossen, den Menschen einfach aus der Luft mit den wichtigsten Lebensmitteln zu helfen. Ihre Taktik ist später als „Berliner Luftbrücke“ bekannt geworden. Schließlich gab die Sowjetunion auf. Deutschland wurde in „West“ und „Ost“ geteilt. Im Westen wurde 1949 die Bundesrepublik Deutschland gegründet, im Osten die Deutsche Demokratische Republik. In der BRD wurde die Demokratie eingeführt, in der DDR eine sozialistische Ein-Parteien-Diktatur.
 Audioguide: Während die BRD mithilfe der USA ein „Wirtschaftswunder“ erlebte, hatte die DDR große wirtschaftliche Probleme. Immer mehr Menschen zogen in den Westen. Die DDR musste reagieren, wenn sie nicht irgendwann ohne Einwohner dastehen wollte. Obwohl die DDR-Regierung noch im Juni 1961 erklärte, dass niemand vorhatte, eine Mauer zu bauen, konnte man in der Nacht vom 12. auf den 13. August 1961 plötzlich Baulärm hören. Quer durch die Hauptstadt wurde Stacheldraht gezogen. Rund um Westberlin entstand eine drei Meter hohe Mauer.
 Audioguide: Wenn Sie mehr über den Alltag in der DDR wissen wollen, drücken Sie die 1-0-2.
 `````
@@ -2829,9 +2830,10 @@ Doch gerade weil wir das Alte nicht loslassen, werden wir irgendwann tatsächlic
 <audio controls loop src="B1.2_KB/3-15_Lektion_22_3_3.mp3"></audio>
 
 `````
-Audioguide: Alltag in der DDR Nachdem 1961 die Berliner Mauer gebaut wurde, glaubte kaum einer mehr an die Wiedervereinigung. Die Menschen gewöhnten sich an den DDR-Alltag. Ein- bis dreijährige Kinder wurden ganztägig in Krippen betreut, denn oft waren beide Partner berufstätig. Trotzdem hatten die Menschen nicht viel. Lebensmittel waren oft knapp. Viele Produkte wurden so selten angeboten, dass es vor den Geschäften lange Schlangen gab. Sehr beliebt war ein Auto, das in der DDR gebaut wurde: der Trabant. Sogar gebraucht war er fast noch so viel wert wie neu.
+Audioguide: Alltag in der DDR
+Audioguide: Nachdem 1961 die Berliner Mauer gebaut wurde, glaubte kaum einer mehr an die Wiedervereinigung. Die Menschen gewöhnten sich an den DDR-Alltag. Ein- bis dreijährige Kinder wurden ganztägig in Krippen betreut, denn oft waren beide Partner berufstätig. Trotzdem hatten die Menschen nicht viel. Lebensmittel waren oft knapp. Viele Produkte wurden so selten angeboten, dass es vor den Geschäften lange Schlangen gab. Sehr beliebt war ein Auto, das in der DDR gebaut wurde: der Trabant. Sogar gebraucht war er fast noch so viel wert wie neu.
 Audioguide: Wer es sich leisten konnte, hatte ein Wochenendhaus. Die sogenannte „Datsche“ lag meist am Rand der Stadt oder auf dem Land. Im Garten wurden Obst und Gemüse angebaut. Aber die Datsche wurde vor allem auch nicht so streng kontrolliert.
-Audioguide: Denn vergessen wir nicht: Freie Meinungsäußerung war in DDR unmöglich. In 40 Jahren DDR wurden etwa 250 000 Menschen aus politischen Gründen verhaftet. Ehemalige „StasiGefängnisse“ sind später in Gedenkstätten umgewandelt worden, die man noch heute besichtigen kann. Sie erinnern uns an diese schwierige Zeit, die erst 1989 endete.
+Audioguide: Denn vergessen wir nicht: Freie Meinungsäußerung war in DDR unmöglich. In 40 Jahren DDR wurden etwa 250 000 Menschen aus politischen Gründen verhaftet. Ehemalige „Stasi-Gefängnisse“ sind später in Gedenkstätten umgewandelt worden, die man noch heute besichtigen kann. Sie erinnern uns an diese schwierige Zeit, die erst 1989 endete.
 Audioguide: Wenn Sie mehr über die Friedliche Revolution in der DDR und die deutsche Wiedervereinigung wissen wollen, drücken Sie die 1-0-3.
 `````
 
@@ -2870,7 +2872,8 @@ jn.(A) an etw.(Akk) erinnern 提醒某人不要忘记某事
 <audio controls loop src="B1.2_KB/3-16_Lektion_22_3_4.mp3"></audio>
 
 `````
-Audioguide: Friedliche Revolution und deutsche Wiedervereinigung 1989 öffnete zunächst Ungarn seine Grenze in den Westen. Das sprach sich schnell herum. Tausende von DDR-Bürgern reisten nach Ungarn, Polen und in die damalige Tschechoslowakei. Sie besetzten die westdeutschen Botschaften oder flohen über die offenen Grenzen in den Westen.
+Audioguide: Friedliche Revolution und deutsche Wiedervereinigung
+Audioguide: 1989 öffnete zunächst Ungarn seine Grenze in den Westen. Das sprach sich schnell herum. Tausende von DDR-Bürgern reisten nach Ungarn, Polen und in die damalige Tschechoslowakei. Sie besetzten die westdeutschen Botschaften oder flohen über die offenen Grenzen in den Westen.
 Audioguide: Durch die massenhafte Flucht verlor die Berliner Mauer mehr und mehr ihren Sinn. Doch auch in der DDR gingen immer mehr Menschen auf die Straßen. Hier hören Sie, wie die Menschen mit dem Ruf „Wir sind das Volk“ gegen das System protestieren, von dem sie 41 Jahre lang unterdrückt worden sind. In der Leipziger Nikolaikirche fingen die Friedensgebete und die Montagsdemonstrationen an und breiteten sich von dort auch in andere Städte aus. Sie wurden zum Symbol für die Friedliche Revolution.
 Audioguide: Am 9. November 1989 fiel endlich die Mauer. Und am 3. Oktober 1990 wurden die „neuen Länder“ der DDR und die „alten Länder“ der BRD gemeinsam zur Bundesrepublik Deutschland.
 `````
