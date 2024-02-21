@@ -1,7 +1,7 @@
 # 1-02_Lektion_1_1b.mp3
 <audio controls loop src="B1.1_KB/1-02_Lektion_1_1b.mp3"></audio>
 
-`````
+`````de
 Amelie: Bine, schenkst du Franzi Orangensaft ein? Ich mach’ solange den Sekt auf … So, hat dann jeder? Gut ... Also meine Lieben: Ihr wundert euch sicher, warum ich gerade euch eingeladen habe. Ihr kennt euch ja noch nicht mal ... Aber ich fahr’ ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien-Entscheidung geholfen haben. Da wart ihr alle in den letzten Monaten besonders wichtig für mich ...
 `````
 
@@ -17,7 +17,7 @@ besonders adv. <在形容词之前>特别,极其,非常
 # 1-03_Lektion_1_4b_4c.mp3
 <audio controls loop src="B1.1_KB/1-03_Lektion_1_4b_4c.mp3"></audio>
 
-`````
+`````de
 Amelie: ... Aber ich fahr’ ja jetzt für zwei Jahre nach Bulgarien und da wollte ich gern die Menschen einladen, die mir bei der Bulgarien-Entscheidung geholfen haben. Da wart ihr alle in den letzten Monaten besonders wichtig für mich ... Diese Hübsche hier neben mir heißt Franziska. Sie ist die Tochter von meinem Nachbarn und ich habe ihr drei Jahre lang Latein-Nachhilfe gegeben. Aber nicht nur du hast von mir gelernt, liebe Franzi, auch ich habe von dir gelernt. Als ich dir von der römischen Siedlung erzählt habe, die man in Bulgarien gefunden hat, hast du gleich gerufen: „Cool, da musst du hin!“ Du hast also auch mir Nachhilfe gegeben – Nachhilfe in Mut und Abenteuerlust. Wenn ich wiederkomme, bist du schon ziemlich erwachsen. Aber keine Sorge: Du bist so eine Kluge. Auch ohne meine Nachhilfe wirst du deinen Weg schon machen. Dann zu dir, liebe Sabine: Wer sie noch nicht kennt: Sabine ist meine Mitbewohnerin und man kann sich keine bessere wünschen. Denn Sabine ist die Ordentlichste, die ich kenne. Sogar unsere Gewürze in der Küche hat sie alphabetisch geordnet. Sabine ist immer vernünftig, also genau das Gegenteil von mir. Wer mich kennt, weiß ja, dass ich nicht so wahnsinnig vernünftig bin.
 Sabine: Gar nicht!
 Amelie: Sabine hat mir geholfen, die Unterlagen für meine Bewerbung fertig zu machen. Schließlich war alles so perfekt, dass ich mich leicht gegen meinen Konkurrenten durchsetzen konnte. So mussten sie mir das Stipendium einfach geben. Danke dafür!
@@ -86,7 +86,7 @@ they are all the same when used as "deciding". However, in some instances, one w
 # 1-04_Lektion_1_7.mp3
 <audio controls loop src="B1.1_KB/1-04_Lektion_1_7.mp3"></audio>
 
-`````
+`````de
 Studentin 1: Gestern habe ich den neuen Professor gesehen. Der ist noch ziemlich jung. Habt ihr ihn schon erlebt?
 Studentin 2: Seine Vorlesung gestern war nicht so spannend. Er spricht wahnsinnig langsam. Ich wäre fast eingeschlafen.
 Student: Was? Ich fand es gar nicht langweilig. Er hat ziemlich viel Humor. Das hat mir gut gefallen.
@@ -100,7 +100,7 @@ der Humor, [hu`mo:ɐ], 幽默
 # 1-05_Lektion_2_1.mp3
 <audio controls loop src="B1.1_KB/1-05_Lektion_2_1.mp3"></audio>
 
-`````
+`````de
 Praktikant: Seid ihr bereit?
 Kinder: Jaaa!
 Praktikant: Okay. Dann los ... Uuuund ...
@@ -116,7 +116,7 @@ der Jägersmann 猎人
 # 1-06_Lektion_3_2.mp3
 <audio controls loop src="B1.1_KB/1-06_Lektion_3_2.mp3"></audio>
 
-`````
+`````de
 Herr Hauser: Ach, guten Tag. Ich habe Sie schon erwartet!
 Journalistin: Guten Tag, Herr Hauser!
 Herr Hauser: Kommen Sie doch herein! Darf ich Ihnen den Schirm abnehmen?
@@ -141,7 +141,7 @@ Seine Kinder sind ihm sehr ans Herz gewachsen.
 # 1-07_Lektion_3_3c.mp3
 <audio controls loop src="B1.1_KB/1-07_Lektion_3_3c.mp3"></audio>
 
-`````
+`````de
 Sprecher: Ich möchte die Menschen glücklich machen. – Ein Besuch bei Herbert Hauser, Makler aus Leidenschaft. Er lebt in Oberursel, einem kleinen Ort im Taunus in der Nähe von Frankfurt. Sein großes Arbeitszimmer hat viele Fenster, durch die man ins Grüne blickt. An den Wänden hängen Fotos in allen Größen, die unterschiedliche Häuser und ihre Bewohner zeigen. Herbert Hauser kennt sie alle. Er ist der Mann, der den Traum vom passenden Heim wahr werden lässt – und das schon seit über 40 Jahren. „Ich wollte schon immer andere Menschen glücklich machen“, erzählt er uns, als wir ihn besuchen. „Ihnen das richtige Haus oder die passende Wohnung vermitteln, das ist für mich mehr als ein Beruf. Es ist meine Leidenschaft!“ Wer kann das heute noch sagen? Zusammen mit Herbert Hauser werfen wir einen Blick auf die Fotos in seinem Arbeitszimmer. Er stellt uns vier Kunden vor, denen er bei der schwierigen Wohnungssuche half.
 `````
 
@@ -187,7 +187,7 @@ https://www.youtube.com/watch?v=ydv1opKLApM
 # 1-08_Lektion_3_3c_A.mp3
 <audio controls loop src="B1.1_KB/1-08_Lektion_3_3c_A.mp3"></audio>
 
-`````
+`````de
 Herr Hauser: Schauen Sie sich dieses Foto an, das hier war mein allererster Kunde in den 70er-Jahren: ein Frankfurter Student. Er suchte ein 1-Zimmer-Apartment mit kleinem Balkon. Zu dieser Zeit herrschte extremer Wohnungsmangel für Studenten. Wir fanden nur Wohnungen, die zu weit entfernt waren von der Universität. Oder Wohngemeinschaften. Doch Joachim wollte unbedingt seine eigenen vier Wände haben. Nach langer Suche fanden wir einen leeren Zirkuswagen auf dem Grundstück einer alten Dame. Sie machte damals einen klugen Tausch: Joachim zog in den Zirkuswagen und erledigte dafür Hausmeister-Tätigkeiten für die Besitzerin. Nach dem Tod der alten Dame erbte er das Haus und das Grundstück und lebt heute noch dort. Ab und zu fahre ich ihn besuchen und dann trinken wir eine Tasse Tee in seinem Wagen.
 `````
 
@@ -221,7 +221,7 @@ gehen/kommen/fahren + 动词: 去做什么，来做什么
 # 1-09_Lektion_3_3c_B.mp3
 <audio controls loop src="B1.1_KB/1-09_Lektion_3_3c_B.mp3"></audio>
 
-`````
+`````de
 Herr Hauser: Das hier, das ist die Familie Souza Fontes aus Brasilien. Als sie aus ihrem Heimatland hier ankamen, fanden sie nur eine enge Wohnung in der Innenstadt. Aber den Souza Fontes fehlte schnell vor allem eines: ein Ort, an den sie Freunde und Verwandte zu jeder Jahreszeit zum Grillen einladen können. Sie suchten also ein Zuhause mit Garten oder Hof. Die Kosten durften nicht zu hoch sein. In einem Vorort fand ich eine schöne Wohnung, die direkten Zugang zu einem großen Garten hatte. Die Wohnungseinweihung war ein spektakuläres Garten- und Grillfest, bei dem es fantastisches Essen gab und ich mich sehr amüsiert habe.
 `````
 
@@ -241,7 +241,7 @@ sich amüsieren 很开心，很高兴
 # 1-10_Lektion_3_3c_C.mp3
 <audio controls loop src="B1.1_KB/1-10_Lektion_3_3c_C.mp3"></audio>
 
-`````
+`````de
 Herr Hauser: Und hier, auf diesem Foto: Das sind die Ettenhubers, die unbedingt auf einen alten Bauernhof ziehen wollten. Ich fand schließlich einen mit über 200 m² Wohnfläche und einem großen Grundstück für sie. Die früheren Besitzer zogen zu ihren Kindern und so übernahmen die Ettenhubers auch gleich die ganze Einrichtung: Vom alten Auto über den Mülleimer bis zur Klobürste war alles inklusive. Das Schmuckstück des Hauses war und ist der schöne Ofen, an dem ich erst kürzlich wieder bei einem Stück Kuchen mit der Familie saß.
 `````
 
@@ -282,7 +282,7 @@ erst adv. 才
 # 1-11_Lektion_3_3c_D.mp3
 <audio controls loop src="B1.1_KB/1-11_Lektion_3_3c_D.mp3"></audio>
 
-`````
+`````de
 Herr Hauser: Am schönsten war die Begegnung mit dieser Dame, die Sie vorhin ansprachen: Sie war eine sehr anspruchsvolle Kundin, die nur in der besten Lage suchte. Ein Apartment mit Dachterrasse und Lift in der Innenstadt von Frankfurt, das war ihr Wunsch. Ich habe der Dame viele Objekte gezeigt, aber mit allen war sie unzufrieden – nur mit mir nicht: Seit 36 Jahren bin ich glücklich mit Erika verheiratet. Hier sehen Sie sie in unserem Ferienquartier am Bodensee! So, nun kennen Sie die schönsten Geschichten meines Berufslebens!
 `````
 
@@ -319,7 +319,7 @@ What am I supposed to do with that?
 # 1-14_Lektion_4_3.mp3
 <audio controls loop src="B1.1_KB/1-14_Lektion_4_3.mp3"></audio>
 
-`````
+`````de
 Frau Appeldorn: Das hier muss es sein: Abocenter – 040 5844
 Bandansage: Guten Tag, Sie sind verbunden mit der Mediengruppe Nord. Womit können wir Ihnen helfen? Drücken Sie bitte die 1 für Bestellung, die 2 für Produktinformation oder die 3 für persönliche Beratung.
 Frau Appeldorn: Ich nehme die 3!
@@ -367,7 +367,7 @@ Eine Durchwahl bildet den Abschluss einer Rufnummer und dient dem Anrufer dazu, 
 # 1-15_Lektion_4_5a.mp3
 <audio controls loop src="B1.1_KB/1-15_Lektion_4_5a.mp3"></audio>
 
-`````
+`````de
 Frau Appeldorn: Fluss mit drei Buchstaben … Ja, hallo?
 Herr Fischer: Guten Tag, hier Mediengruppe Nord, Fischer am Apparat, spreche ich mit Frau Appeldorn?
 Frau Appeldorn: Um was geht es denn?
@@ -378,7 +378,7 @@ Frau Appeldorn: Einen Augenblick bitte, wir sind gleich für Sie da. Einen Augen
 # 1-16_Lektion_5_1b.mp3
 <audio controls loop src="B1.1_KB/1-16_Lektion_5_1b.mp3"></audio>
 
-`````
+`````de
 Gisela: Schön, dass du jetzt auch bei uns bist, Carola!
 Carola: Danke, Gisela, mir gefällt es auch sehr gut bei euch! Ich kann es immer noch nicht glauben, dass wir jetzt alle einen Arbeitsplatz mit Computer haben. Die Lieferscheine schreiben sich ja fast von selbst.
 Gisela: Ja, das ist wirklich eine große Hilfe! Wir tippen einfach drei Zahlen ein und schon ist alles fertig! Fast ein bisschen wie Zauberei, findest du nicht?
@@ -420,7 +420,7 @@ die Hardware 同英语发音，硬件
 # 1-17_Lektion_5_7_1.mp3
 <audio controls loop src="B1.1_KB/1-17_Lektion_5_7_1.mp3"></audio>
 
-`````
+`````de
 Lukas: In meinem Studium benutze ich jetzt schon ein virtuelles Klassenzimmer oder Chats und Blogs zur Zusammenarbeit mit anderen. In den nächsten Jahrzehnten werden Zeit und Raum für die Kommunikation noch unwichtiger werden. In 20 Jahren werden Studenten sich in eine virtuelle Universität einloggen und überall und jederzeit mit dem ganzen System arbeiten können. Und das geht vermutlich alles ohne Maus und Tastatur.
 `````
 
@@ -433,7 +433,7 @@ jederzeit adv. 随时，无论何时
 # 1-18_Lektion_5_7_2.mp3
 <audio controls loop src="B1.1_KB/1-18_Lektion_5_7_2.mp3"></audio>
 
-`````
+`````de
 Verena: Unser Unternehmen möchte, dass die Abteilungen besser zusammenarbeiten: So werden wir schon in den nächsten fünf bis zehn Jahren immer weniger feste Arbeitsplätze haben. Die Firma wird Kommunikationsinseln einrichten, wo sich Kollegen und Kunden als Teams treffen. Wie wird es dort aussehen? Es wird Wandflächen für Skizzen und Ideen geben und Service-Roboter werden technische Hilfe bereitstellen und Getränke servieren. Und in 20 Jahren? Vermutlich wird jeder Mitarbeiter bei der Einstellung eine Datenbrille mit allen Informationen bekommen.
 `````
 
@@ -451,7 +451,7 @@ There will be wall space for sketches and ideas
 # 1-19_Lektion_5_7_3.mp3
 <audio controls loop src="B1.1_KB/1-19_Lektion_5_7_3.mp3"></audio>
 
-`````
+`````de
 Paulo: Also, ich weiß auch nicht. Noch mehr Technologie in unserem Leben halte ich für unmöglich. Und ich will das auch gar nicht! Die Menschen sind doch jetzt schon mit vielen elektronischen Entwicklungen überfordert. Wenn es so weitergeht, werden wir schon bald eine Rückbewegung erleben. Ich glaube, wir werden die 24-Stunden-Erreichbarkeit zurücknehmen und Medienpausen einplanen. Der Mensch ist schließlich kein Computer! Was ich mir allerdings für mich gut vorstellen kann: Mein Büro wird papierlos sein. Allein schon aus ökologischen Gründen!
 `````
 
@@ -507,7 +507,7 @@ einplanen 把……计划在内；把……纳入计划
 # 1-20_Lektion_6_2.mp3
 <audio controls loop src="B1.1_KB/1-20_Lektion_6_2.mp3"></audio>
 
-`````
+`````de
 Herr Geiger: Also, dann: Auf Wiedersehen, Frau Müller, Herr Müller ...
 Herr Müller: Was? Sie wollen schon gehen? Kommen Sie doch noch zum Essen zu uns mit, Herr Geiger!
 Herr Geiger: Zum Essen? Ich weiß nicht. Ich bin mir nicht sicher, ob Ihre Frau ...
@@ -539,7 +539,7 @@ erst neulich = just recently
 # 1-21_Lektion_6_4.mp3
 <audio controls loop src="B1.1_KB/1-21_Lektion_6_4.mp3"></audio>
 
-`````
+`````de
 Herr Müller: Hallo, Herr Geiger! Kommen Sie rein. Schön, dass es geklappt hat.
 Herr Geiger: Vielen Dank für Ihre Gastfreundschaft, Herr Müller. Und entschuldigen Sie die Verspätung. Ich wollte eigentlich noch Blumen kaufen, aber ...
 Herr Müller: Ach, ist doch nur eine halbe Stunde. Darf ich Ihnen was anbieten? Meine Frau hat einen kleinen Cocktail vorbereitet.
@@ -775,7 +775,7 @@ https://baijiahao.baidu.com/s?id=1731968109063435674
 # 1-26_Lektion_7_7b.mp3
 <audio controls loop src="B1.1_KB/1-26_Lektion_7_7b.mp3"></audio>
 
-`````
+`````de
 Verkäufer: Kann ich etwas für Sie tun?
 Kundin: Ich suche eine Regenjacke. Können Sie mir eine empfehlen?
 Verkäufer: Hier haben wir eine Regenjacke im Angebot. Ich muss Ihnen aber sagen, dass es bei Regenjacken große Unterschiede gibt. Bei starkem Regen ist diese nicht ganz wasserdicht. Außerdem müssen Sie bedenken, dass Sie in dieser Jacke leicht schwitzen.
@@ -797,7 +797,7 @@ atmungsaktiv 透气的，透气良好的
 # 1-28_Lektion_9_1b.mp3
 <audio controls loop src="B1.1_KB/1-28_Lektion_9_1b.mp3"></audio>
 
-`````
+`````de
 Trainerin: Herzlich willkommen zur Büro-Tiefenentspannung. Sorg dafür, dass du die nächsten zehn Minuten völlig ungestört sein kannst. Ist dein Telefon wirklich ausgeschaltet? Ist die Tür geschlossen? Leg oder setz dich bequem hin und schließ deine Augen! Versuch nun, dich für ein paar Minuten ganz zu entspannen. Atme einige Male tief ein und aus, ein und aus. Und während du ausatmest, spür, wie du alle Gedanken loslässt und deinen Körper ganz schwer machst. Und dein Körper dann ganz leicht wird. Entspann deinen Körper, lass los. Entspann! Entspann dein Gesicht, lass los!
 `````
 
@@ -815,7 +815,7 @@ loslassen 放开，释放
 # 1-29_Lektion_9_7.mp3
 <audio controls loop src="B1.1_KB/1-29_Lektion_9_7.mp3"></audio>
 
-`````
+`````de
 Herr Hartmann: Guten Tag, meine Damen und Herren. Zunächst möchte ich mich herzlich beim Gesundheitsministerium für diesen Preis bedanken, über den ich mich besonders freue, weil mir das Thema Gesundheitsmanagement im Betrieb so sehr am Herzen liegt. Ich möchte Ihnen das Konzept unseres Unternehmens Fürstenrieder Confiserie in einer kleinen Präsentation vorstellen. Zuerst möchte ich Ihnen erläutern, warum uns dieses Thema so wichtig ist. Danach zeige ich Ihnen, wie und seit wann wir uns mit dem betrieblichen Gesundheitsmanagement beschäftigen. Dazu stelle ich Ihnen die Arbeit unseres Expertenteams vor. Abschließend können Sie mir gern Fragen stellen. Kommen wir zur wichtigsten Leitlinie unseres Unternehmens. Sie lautet: „Die Gesundheit und Zufriedenheit von unseren Mitarbeitern stehen an erster Stelle.“ Wir fragen uns: Was kann die Unternehmensleitung für die Mitarbeiter tun? Denn heutzutage ist die Gesundheit der Mitarbeiter einer der wichtigsten Faktoren für wirtschaftlichen Erfolg. Schauen Sie einmal hier: Diese Tabelle zeigt, welche Folgen der demografische Wandel in den nächsten zehn Jahren für den Arbeitsmarkt haben wird. In unserem Unternehmen liegt das Durchschnittsalter heute zwischen 40 und 43 Jahren. In wenigen Jahren wird es auf 50 Jahre gestiegen sein. Wir haben uns gefragt: Was können wir tun, dass wir auch mit älteren Arbeitnehmern in Zukunft als Betrieb funktionieren? Eine zentrale Antwort auf diese Frage war: Wir müssen dafür sorgen, dass unsere Mitarbeiter gesund bleiben. Also haben wir schon vor sechs Jahren ein Expertenteam zusammengestellt. Dieses Team hat ein Konzept zum Gesundheitsmanagement entwickelt, das wir schrittweise eingeführt haben. Das wichtigste an diesem Konzept sind unsere zehn goldenen Regeln. Sie hängen bei uns nicht nur in jedem Raum an der Wand, sie werden von unseren Mitarbeitern auch angenommen und in die Praxis umgesetzt. Einen Moment, bitte. Hier sind sie: Schauen Sie: Mit Fitness- und Entspannungsmöglichkeiten, gesundem Essen und vielem mehr konnten wir schon jetzt erreichen, dass unsere Mitarbeiter seltener krank sind. Sie werden sich jetzt wahrscheinlich fragen: Wie finanzieren wir das? Natürlich ist das ein schwieriger Punkt, aber unsere Erfahrung zeigt: Kranke und unmotivierte Mitarbeiter sind am Ende teurer als ein gutes Gesundheitsmanagement. Und damit, meine Damen und Herren, komme ich zum letzten Punkt. Falls Sie mehr zum Thema Gesundheitsmanagement im Betrieb wissen möchten, dann lade ich Sie zu einem meiner Seminare ein. Die Termine finden Sie im Internet auf unserer Homepage. Ich bin nun mit meinem Vortrag am Ende. Ein herzliches Dankeschön an Sie fürs Zuhören! Haben Sie noch Fragen?
 `````
 
@@ -877,7 +877,7 @@ Roman: Verständlich. Danke, Mona, dass Du angerufen hast. Ja, liebe Zuhörer ..
 # 1-33_Lektion_10_3_1.mp3
 <audio controls loop src="B1.1_KB/1-33_Lektion_10_3_1.mp3"></audio>
 
-`````
+`````de
 Roman: Und hier sind wir wieder mit unserem Thema: Dumm gelaufen – Mein nächster Anrufer heißt Daniel und kommt aus Wien. Hallo, Daniel!
 Daniel: Hallo Roman. Also, ich wollte erzählen, wie ich neulich mit meiner Freundin eine neue Wohnung gesucht habe. Gleich die erste habe ich perfekt gefunden. Aber dann hat meine Freundin gesagt: „Die erste ist es nie. Lass uns noch ein paar anschauen.“ Also haben wir noch fünf weitere Wohnungen besichtigt. Aber keine war besser. Und als wir dann die erste nehmen wollten, war die schon weg. Das war vielleicht blöd! Ich hab mich so geärgert.
 Roman: Das versteh ich!
@@ -901,7 +901,7 @@ besichtigt 听起来像是发的ich的音，而不是ik。
 # 1-34_Lektion_10_3_2.mp3
 <audio controls loop src="B1.1_KB/1-34_Lektion_10_3_2.mp3"></audio>
 
-`````
+`````de
 Roman: So, und wen haben wir denn jetzt in der Leitung?
 Lisa: Hallo, hier ist Lisa.
 Roman: Hallo, Lisa. Was willst Du uns erzählen?
@@ -924,7 +924,7 @@ andermal adv. 下一次，下一回
 # 1-35_Lektion_10_3_3.mp3
 <audio controls loop src="B1.1_KB/1-35_Lektion_10_3_3.mp3"></audio>
 
-`````
+`````de
 Roman: Und nun spreche ich mit Annette. Annette kommt aus Eilsbrunn bei Regensburg. Hallo, Annette. Du hast Deinen Bus verpasst? Klingt ja erst mal nicht besonders schlimm.
 Annette: Ja, erst mal nicht. Aber ich musste über 40 Minuten auf den nächsten Bus warten. Und es gab weit und breit kein Häuschen zum Unterstellen.
 Roman: Lass mich raten: Es schien nicht gerade die Sonne, oder?
@@ -966,7 +966,7 @@ Doesn't sound particularly bad at first.
 # 1-36_Lektion_10_3_4.mp3
 <audio controls loop src="B1.1_KB/1-36_Lektion_10_3_4.mp3"></audio>
 
-`````
+`````de
 Roman: Es gibt aber auch Situationen, über die wir uns erst ärgern und später ganz froh sind, wie sie gelaufen sind. Meine nächste Anruferin heißt Iris und kommt aus Berlin.
 Iris: Hallo? Bin ich schon dran?
 Roman: Ja. Hallo, Iris. Erzähl uns doch Deine Geschichte.
@@ -1040,7 +1040,7 @@ https://hinative.com/questions/16816170
 # 1-37_Lektion_10_6a_6b.mp3
 <audio controls loop src="B1.1_KB/1-37_Lektion_10_6a_6b.mp3"></audio>
 
-`````
+`````de
 Roman: Und nun kommen wir zu Simon aus Bremen. Welche Geschichte möchtest Du erzählen?
 Simon: Ich spiele seit Jahren mit einem Freund zusammen Lotto. Wir kreuzen immer die gleichen Zahlen an. Und vor zwei Monaten hatten wir fünf Richtige.
 Roman: Wow! Das passt aber nicht zum Thema Dumm gelaufen, oder?
@@ -1064,7 +1064,7 @@ Aber da kann man wohl nichts mehr machen.
 # 1-42_Lektion_12_7b.mp3
 <audio controls loop src="B1.1_KB/1-42_Lektion_12_7b.mp3"></audio>
 
-`````
+`````de
 Moderator: In unserer Reihe Beruf und Karriere geht es heute um das Thema Small Talk. Nicht jedem liegt die Plauderei ohne Inhalt, aber zum Berufsalltag gehört sie einfach dazu. Egal, ob im Gespräch mit Kollegen, Vorgesetzten oder Kunden: Small Talk kann und soll eine angenehme Atmosphäre schaffen. Doch was sind nun eigentlich gute Small-Talk-Themen? Wir haben die Business-Trainerin Julia Perlstein gefragt.
 Expertin: Wenn es um Small Talk geht, werden viele Menschen unsicher. Dabei ist es ganz einfach. Es gibt zwei Grundregeln, die man beachten muss. Erstens: Das Thema darf nicht zu privat werden. Und zweitens: Es darf nicht zu negativ sein.
 Moderator: Eigene Krankheiten und Todesfälle in der Familie sollte man also vermeiden?
@@ -1150,7 +1150,7 @@ wahrscheinlich [va:ɐ`ʃainliç] 可能的，大概的
 # 2-02_Lektion_13_3a.mp3
 <audio controls loop src="B1.2_KB/2-02_Lektion_13_3a.mp3"></audio>
 
-`````
+`````de
 Radiomoderator: Hallo und herzlich willkommen. Hier ist Roland vom Uni-Radio. Das hat sicher jeder schon mal erlebt: ein Missverständnis, das mit Sprache zu tun hat. Peinlich, wenn es passiert, aber hinterher oft ein Grund zum Lachen. Heute Vormittag habe ich Deutschlerner an einer Sprachenschule befragt und sie gebeten, mir ihre Geschichte zu erzählen.
 `````
 
@@ -1166,7 +1166,7 @@ peinlich 尴尬的，难堪的，不愉快的
 # 2-03_Lektion_13_3b_3c_1.mp3
 <audio controls loop src="B1.2_KB/2-03_Lektion_13_3b_3c_1.mp3"></audio>
 
-`````
+`````de
 Jennifer: Hi, mein Name ist Jennifer und ich komme aus Portland, Oregon. Folgendes habe ich erlebt: Als ich nach Deutschland gezogen bin, hat mich mein Chef zum Essen eingeladen. Aber ausgerechnet am Nachmittag der Einladung hat mich meine Mutter angerufen und mir erzählt, dass mein Onkel gestorben ist. Ich war sehr, sehr traurig. Darum habe ich bei meinem Chef angerufen und das Essen kurzfristig abgesagt. Mein Chef hat sich gewundert und gefragt: „Aber warum denn?“ Deshalb habe ich es ihm erklärt: „Ich habe heute einfach keine Lust zum Feiern, denn ich bin so blau.“ Mein Chef war ganz entsetzt und hat gesagt: „Können Sie das wiederholen? Ich glaube, ich habe Sie nicht richtig verstanden.“ Deswegen habe ich noch mal gesagt: „Bitte entschuldigen Sie, aber ich kann nicht kommen, weil ich so blau bin.“ „Wie bitte!?“, hat mein Chef gerufen. „Jetzt schon? Sie trinken mitten am Nachmittag Alkohol?“ Da habe ich gemerkt, dass ich einen Fehler gemacht habe. In meiner Sprache bedeutet „blau sein“ nämlich „traurig sein“ und nicht „betrunken sein“. Aus diesem Grund gab es ein Missverständnis. Deshalb habe ich ganz schnell korrigiert: „Entschuldigung. Ich meine nicht, dass ich getrunken habe. Ich bin traurig, weil mein Onkel gestorben ist.“ Dann hat mich mein Chef verstanden. Das war so peinlich! Aber später haben wir noch oft über dieses Missverständnis gelacht!
 `````
 
@@ -1197,7 +1197,7 @@ Im Folgenden erfährst du folgende interessante Dinge über China.
 # 2-04_Lektion_13_3b_3c_2.mp3
 <audio controls loop src="B1.2_KB/2-04_Lektion_13_3b_3c_2.mp3"></audio>
 
-`````
+`````de
 Julie: Hallo, mein Name ist Julie. Ich komme aus Frankreich, wohne aber seit sieben Jahren in Deutschland, weil mein Mann Deutscher ist. Ich gebe Trommelkurse in Schulen. Damit die Lehrer sich ein Bild von mir machen können, habe ich eine Homepage. Dort veröffentliche ich auch gern Erfahrungsberichte. Deswegen bitte ich die Lehrer, ein paar Sätze über mich zu schreiben, wenn ihnen der Kurs gefallen hat. Einmal, ich war noch nicht lange in Deutschland, schrieb eine Lehrerin: „Julie brachte viel Engagement und große „Bega-bung“ mit.“ „Bega-bung?“ habe ich gedacht und nicht verstanden. Deshalb bin ich zu ihr gegangen und habe gesagt: „Verzeihen Sie. Meinten Sie mit „Bega-bung“ meine Trommel? Die heißt aber nicht Begabung, sondern Bongo.“ Doch wegen meiner falschen Betonung hat mich die Lehrerin auch nicht verstanden. Aus diesem Grund hat sie den Text noch einmal gelesen. Sie hat gelacht, denn jetzt hat sie verstanden, was ich meine. „Nein“, hat sie gesagt und besonders deutlich betont: „Das heißt nicht „Bega-bung“. Das heißt „Begabung“. Begabung bedeutet, dass Sie eine sehr gute Musikerin sind.“
 `````
 
@@ -1210,7 +1210,7 @@ Engagement [ãgaʒə`mã:] 法语，责任心
 # 2-05_Lektion_13_3b_3c_3.mp3
 <audio controls loop src="B1.2_KB/2-05_Lektion_13_3b_3c_3.mp3"></audio>
 
-`````
+`````de
 Leyla: Guten Tag, mein Name ist Leyla. Ich erzähle heute von meinem Missverständnis. Also passt auf: Ich war einmal in München zu Besuch. Ich war ganz allein und wusste nicht, was ich in der Stadt ansehen sollte. Deshalb bin ich in ein Café gegangen und habe ein Mädchen, das neben mir am Tisch saß, gefragt: „Entschuldige. Ich kenne mich hier nicht aus, ich bin ganz alleine in der Stadt. Hast du vielleicht einen „Typ“ für mich?“ Das Mädchen hat mich angesehen und angefangen zu kichern. Sie hat auf den Kellner gedeutet und gesagt: „Der vielleicht?“ Ich habe gedacht, ich soll den Kellner fragen. Deswegen habe ich den Kellner gerufen und wiederholt: „Ich möchte gern etwas unternehmen. Haben Sie einen „Typ“ für mich?“ Augenblicklich ist der Kellner ganz rot geworden. Aber ich habe nicht verstanden, warum. Darum habe ich gesagt. „Ein schöner Platz oder ein Museum oder so was.“ Da haben die beiden mich verstanden. „Ah!“, hat der Kellner gelacht. „Du willst einen „Tipp“! Keinen „Typ“.“ Als ich meinen Fehler verstanden habe, bin ich total rot geworden. Der Kellner hat mir vorgeschlagen, das „Valentin-Museum“ am Isartor zu besuchen. Das war ein guter Tipp. Karl Valentin war ein deutscher Komiker. In dem Museum gab es noch mehr Missverständnisse und Sprachspiele.
 `````
 
@@ -1273,7 +1273,7 @@ Isator 伊萨门
 # 2-06_Lektion_13_3b_3c_4.mp3
 <audio controls loop src="B1.2_KB/2-06_Lektion_13_3b_3c_4.mp3"></audio>
 
-`````
+`````de
 Phuong: Hi, ich bin Phuong. Ich war einmal bei einem Schüleraustausch in Deutschland. An einem Sonntag war sehr schönes Wetter. Daher wollte meine Gast-Familie einen Ausflug machen. Der Vater meines Austauschpartners hat gefragt: „Wollen wir in den Zoo?“ Und ich habe gerufen: „Au ja! Das ist eine gute Idee.“ Denn ich gehe sehr gern in den Zoo. Nur meine Gast-Mutter wollte nicht, wegen der langen Schlange vor dem Zoo. Als ich das gehört habe, bin ich sehr erschrocken. Als Kind bin ich nämlich einmal von einer Schlange gebissen worden. Deshalb habe ich große Angst vor Reptilien. Plötzlich wollte ich auch nicht mehr in den Zoo und habe gesagt: „Ich finde das doch nicht so gut.“ Mein Gast-Vater hat gefragt: „Bedeutet das, dass du lieber zu Hause bleiben willst?“ Er hat sich sehr gewundert. Darum habe ich die Geschichte von dem Schlangenbiss erzählt. Da haben alle gelacht und das Missverständnis aufgeklärt. Seither weiß ich, dass mit „Schlange“ die wartenden Leute vor der Kasse gemeint sind.
 `````
 
@@ -1328,7 +1328,7 @@ https://de.hinative.com/questions/13407038
 # 2-07_Lektion_14_1b.mp3
 <audio controls loop src="B1.2_KB/2-07_Lektion_14_1b.mp3"></audio>
 
-`````
+`````de
 Coach: So, ich habe noch eine Übung für euch, bevor wir dann zur Kletterwand rübergehen. Ihr wisst, das Wichtigste beim Klettern ist, dass ihr euch aufeinander verlassen könnt. Darum machen wir als Erstes eine Vertrauensübung. Und dazu gehen wir bitte jetzt alle zum Podest dort drüben. Was passiert hier? Einer oder eine von euch lässt sich rückwärts in die Arme von allen anderen fallen. Gibt es jemanden, der sich vorstellen kann, das auszuprobieren? Dann kann ich die Übung besser erklären.
 Jutta: Ja, ich würde es gern versuchen!
 Coach: Ok, Jutta, dann stell dich doch bitte oben auf das Podest. Die anderen kommen bitte alle zu mir. Ihr bildet zwei Reihen und stellt euch dabei Schulter an Schulter. Ja, so ist es gut! Jetzt haltet ihr euch ganz fest an den Händen. Schaut, so: immer über Kreuz, ja, so ist es gut. Auf diese Weise könnt ihr Jutta auf jeden Fall auffangen. Jutta, du schaust dir jetzt das Ganze in Ruhe an und sagst uns, ob du dich fallen lassen möchtest.
@@ -1422,7 +1422,7 @@ https://hinative.com/questions/14819448
 # 2-08_Lektion_15_ab.mp3
 <audio controls loop src="B1.2_KB/2-08_Lektion_15_ab.mp3"></audio>
 
-`````
+`````de
 Frau 1: Komm, Jens, jetzt mach du mal weiter! Ich möchte jetzt auch was essen.
 Jens: Oh, ich weiß nicht, was ich fragen soll, ich hab doch so was noch nie gemacht!
 Frau 2: Ich weiß noch was: Also, Herr Bode, dann nennen Sie mir doch zum Schluss bitte drei Gründe, warum Sie für diese Stelle besonders geeignet sind!
@@ -1471,7 +1471,7 @@ The interview couldn't be more difficult than here with you!
 # 2-09_Lektion_15_7a.mp3
 <audio controls loop src="B1.2_KB/2-09_Lektion_15_7a.mp3"></audio>
 
-`````
+`````de
 Herr Dr. Stürmer: Guten Tag, Herr Bode, schön, dass Sie da sind.
 Julian Bode: Guten Tag, Herr Dr. Stürmer, danke für die Einladung zum Gespräch. Ich freue mich, hier zu sein.
 Herr Dr. Stürmer: Setzen Sie sich doch! Möchten Sie etwas trinken?
@@ -1725,7 +1725,7 @@ https://de.hinative.com/questions/1282271
 # 2-16_Lektion_16_4a.mp3
 <audio controls loop src="B1.2_KB/2-16_Lektion_16_4a.mp3"></audio>
 
-`````
+`````de
 Junger Mann: Das Foto eben von Ihrer Hochzeit: Wann war denn das, wenn ich fragen darf?
 Ältere Dame: Das war 1959! Eine verrückte Zeit. Wir hatten damals das Gefühl, dass es endlich wieder aufwärts geht …
 Junger Mann: Wie meinen Sie das denn?
@@ -1941,7 +1941,7 @@ https://zhuanlan.zhihu.com/p/655898082
 # 2-20_Lektion_16_8a.mp3
 <audio controls loop src="B1.2_KB/2-20_Lektion_16_8a.mp3"></audio>
 
-`````
+`````de
 Sprecherin: Schließen Sie die Augen und hören Sie. Erinnern Sie sich an Ihre Jugend.
 Sie machen eine große Reise. Der Zug fährt ein und Sie steigen ein.
 Wohin möchten Sie reisen?
@@ -1969,7 +1969,7 @@ Behalten Sie Ihre Eindrücke. = Keep your impressions.
 # 2-21_Lektion_17_1b.mp3
 <audio controls loop src="B1.2_KB/2-21_Lektion_17_1b.mp3"></audio>
 
-`````
+`````de
 Frau: Guck mal, das Bild ist doch schön!
 Mann: Münter, oder?
 Frau: Genau. Gabriele Münter hat es 1910 gemalt. Es heißt „Landschaft mit weißer Mauer“.
@@ -1996,7 +1996,7 @@ ausgestrahlt 发射出
 # 2-22_Lektion_18_2.mp3
 <audio controls loop src="B1.2_KB/2-22_Lektion_18_2.mp3"></audio>
 
-`````
+`````de
 Abgeordneter: Frau Präsidentin, meine sehr verehrten Kolleginnen und Kollegen! Am 3. Oktober 1990 wurde der Beitritt der Deutschen Demokratischen Republik zur Bundesrepublik Deutschland wirksam. Nach der Wiedervereinigung versprach Bundeskanzler Helmut Kohl den Menschen „blühende Landschaften“. Kanzler Gerhard Schröder wollte den Osten zur „Chefsache“ machen. Heute, am Jahrestag der deutschen Einheit, wollen wir einmal überprüfen, was aus all den Versprechungen geworden ist. Ob wirklich „zusammengewachsen ist, was zusammengehört“.
 `````
 
@@ -2012,7 +2012,7 @@ Versprechung 诺言，承诺
 # 2-23_Lektion_18_4b.mp3
 <audio controls loop src="B1.2_KB/2-23_Lektion_18_4b.mp3"></audio>
 
-`````
+`````de
 Moderatorin: Herzlich willkommen zum politischen Feuilleton. Bis zur nächsten Wahl ist zwar noch etwas Zeit, aber wir stellen uns heute die Frage: Wer geht überhaupt noch zur Wahl? Vor allem junge Leute scheinen sich immer weniger für Politik zu interessieren, sodass viele Menschen von der großen „Politikverdrossenheit der Jugend“ sprechen. Aber stimmt das wirklich? Wir sind der Sache einmal nachgegangen. Eine Reportage von Felix Wenzel.
 `````
 
@@ -2033,7 +2033,7 @@ We looked into the matter once.
 # 2-24_Lektion_18_4c_4d.mp3
 <audio controls loop src="B1.2_KB/2-24_Lektion_18_4c_4d.mp3"></audio>
 
-`````
+`````de
 Reporter: Regelmäßig interviewen Forscher Jugendliche zwischen 12 und 25 Jahren, um sowohl etwas über ihre Werte als auch über ihr Sozialverhalten herauszufinden. Dabei stellten sie ein immer weiter sinkendes Interesse an Politik fest. Während es zum Beispiel in den 80er-Jahren noch „in“ war „politisch“ zu sein, wurde die Wahlbeteiligung ab den 90ern immer geringer, bis sich schließlich nur noch eine Minderheit der jungen Leute als „politisch interessiert“ bezeichnete. Dafür gab es verschiedene Gründe. Entweder waren es nicht eingehaltene Wahlversprechen oder die Skandale einiger Minister. Weder waren den jungen Leuten die Volksvertreter volksnah genug, noch konnten sie die Parteien gut genug voneinander unterscheiden. Die Forscher stellten also eher eine Parteien- als eine Politikverdrossenheit fest. Vor allem die beiden großen Parteien CDU und SPD verloren an Stimmen, während die kleineren Parteien Stimmen gewinnen konnten. Seit einigen Jahren aber stellen die Forscher eine Trendwende fest. Nicht nur Unterschriftenlisten werden wieder häufiger unterschrieben und Waren boykottiert, sondern auch die Teilnehmerzahlen von Protesten, Demonstrationen und Bürgerinitiativen steigen. Jugendliche sind wieder häufiger politisch aktiv. Vor allem engagieren sie sich für „ihre“ Themen, wie z.B. Frieden, Bildung, Umwelt oder Tierschutz. Der Tiefpunkt der Politikverdrossenheit scheint überwunden, sodass die Forscher von einer „Repolitisierung der Jugend“ sprechen. Zwar hält die eindeutige Mehrheit der Jugendlichen die Demokratie in Deutschland immer noch für die beste Staatsform, aber die etablierten Parteien profitieren kaum davon. Zeit für die Parteien, das verlorene Vertrauen junger Menschen zurückzugewinnen!
 `````
 
@@ -2130,7 +2130,7 @@ Man kann unangenehme Arbeiten an die Roboter übergeben.
 # 3-02_Lektion_19_5a.mp3
 <audio controls loop src="B1.2_KB/3-02_Lektion_19_5a.mp3"></audio>
 
-`````
+`````de
 Inga Malin Peters: Ja, guten Tag, meine Damen und Herren, ich freue mich, dass Sie so zahlreich zu unserer Pressekonferenz hier ins Rathaus gekommen sind. Ich freue mich, als Heidekönigin unser schönes Schneverdingen und die Lüneburger Heide vertreten zu dürfen. Kurz zu meiner Person: Ich bin Bewohnerin der Heide in sechster Generation und habe schon als Kind mit Begeisterung die Krönung der neuen Heidekönigin verfolgt. Je älter ich wurde, desto mehr habe ich mir gewünscht, selbst einmal Heidekönigin zu werden. Also geht heute für mich ein Kindheitstraum in Erfüllung. Die einmalige Landschaft der Lüneburger Heide möchte ich Ihnen heute gern vorstellen. Zunächst möchte ich Ihnen etwas über die Entstehung der Lüneburger Heide erzählen. Dann möchte ich Ihnen erläutern, warum Mensch und Vieh lebenswichtig sind für die Heide. Anschließend stelle ich Ihnen die vielen Möglichkeiten vor, eine wunderschöne Zeit in unserer Heide zu verbringen. Am Ende können Sie mir gern Fragen stellen. Zuerst komme ich zur Entstehung der Lüneburger Heide: Die Heide sah nicht immer so aus wie heute. Ganz früher waren hier überall Waldflächen, Moore und Bäche. In der Steinzeit kamen die ersten Bauern in diese Gegend. Sie fällten die Bäume und betrieben Ackerbau. Der Wald verschwand und das Heidekraut begann zu wachsen. Bis Anfang des 18. Jahrhunderts lebten die Bauern von ihren Schafen und Bienen und deren Wolle, Bienenwachs und Honig. Doch je internationaler die Handelsbeziehungen wurden, desto größer wurde die Konkurrenz für die Heideprodukte. Die Heidebauern mussten ihr Land verkaufen und auf den Heideflächen wurden wieder viele Bäume gepflanzt. Das hätte das Ende der Heide sein können. Bei uns gründete sich aber vor circa 100 Jahren einer der ersten Naturschutzvereine Deutschlands. Es ist derselbe Verein, der sich auch heute noch um die Heideflächen kümmert. Die Pflanze, die in der Heide hauptsächlich wächst, heißt „Besenheide”. Sie wächst und blüht nur dann in großen Flächen, wenn die Landschaft von Menschen und Tieren intensiv gepflegt wird. Aber wie funktioniert das nun im Einzelnen? Unsere wichtigsten Helfer sind dabei die Heidschnucken, eine alte Schafrasse. Täglich ziehen sechs Schafherden durch die Lüneburger Heide. Die Tiere fressen alles weg, was in die Höhe wachsen will. So bleibt die Heide kurz und bietet Lebensraum für viele seltene Tiere und Pflanzen. Sehr geehrte Damen und Herren, so funktioniert die Erhaltung der Heide. Bevor ich gleich zum letzten Punkt komme: Haben Sie denn an dieser Stelle bereits Fragen? Bitte!
 Journalist 1: Ich würde gern wissen, wer denn all die Arbeiten koordiniert und organisiert, die für die Erhaltung der Heide nötig sind?
 Inga Malin Peters: Ich habe Ihnen ja vorhin vom Naturschutzverein erzählt. Dieser Verein übernimmt und koordiniert die wichtigen Pflegemaßnahmen in der Heide. Aber dieser Verein lebt von unserer Mithilfe, auch finanziell. Je mehr Menschen aus der Region sich engagieren, desto besser kann er seine Arbeit machen. Auch Sie könnten doch zum Beispiel eine Patenschaft für eine Heidschnucke übernehmen.
@@ -2332,7 +2332,7 @@ einer ging hierhin, der andere dorthin 一个去了这里，另一个去了那�
 # 3-05_Lektion_20_1b.mp3
 <audio controls loop src="B1.2_KB/3-05_Lektion_20_1b.mp3"></audio>
 
-`````
+`````de
 Jupp: Hallo! Guten Tag!
 Franz: Grüezi!
 Jupp: Ach, schön haben Sie es hier!
@@ -2357,7 +2357,7 @@ Schön hast du es hier.
 # 3-06_Lektion_21_1b.mp3
 <audio controls loop src="B1.2_KB/3-06_Lektion_21_1b.mp3"></audio>
 
-`````
+`````de
 Julia: Barbara, pack doch den kleinen Koffer oben links hin. Dann passt die Conga vielleicht da drüben noch rein.
 Barbara: Okay. So, ja, wunderbar. Die Congas sind auch drin. Dann kann’s ja losgehen.
 Fotograf: Moment, ich schieß’ noch ein Foto. Stellt euch alle drei noch mal vor das Auto. So kommt gut raus, dass die Reise losgeht. Das wäre doch ein tolles erstes Foto für euren Blog.
@@ -2377,7 +2377,7 @@ die Tournee [tur`ne:] 巡回演出
 # 3-07_Lektion_21_5b.mp3
 <audio controls loop src="B1.2_KB/3-07_Lektion_21_5b.mp3"></audio>
 
-`````
+`````de
 Sprecherin: Im Zentrum, innerhalb der Stadtmauer, liegt die schöne mittelalterliche Altstadt unseres Dorfes. Zwischen der Kirche und dem Rathaus ist der Marktplatz. Hier verkaufen die Bauern der Region zweimal in der Woche ihre Produkte. Vom Marktplatz aus führt eine Fußgängerzone Richtung Norden. An der Fußgängerzone entlang gibt es auf beiden Seiten viele Geschäfte. Dort kann man gut shoppen gehen und dort ist auch unser großes Kaufhaus. Durch unser Dorf führt ein Fluss, der außerhalb der Stadtmauern zu einem See gestaut ist. Um diesen See herum führt ein breiter Weg mit Bänken zum Ausruhen. Westlich des Sees ist ein Sportplatz. Hinter dem Sportplatz ist das Hallenbad zum Baden und Schwimmen, wenn es für den See noch zu kalt ist. Unser Dorf ist gut erreichbar, denn es hat auch einen Bahnhof. Er liegt am südwestlichen Rand des Dorfes. Hinter dem Bahnhof steht ein Parkhaus. Hier parken die Pendler der Umgebung, die mit dem Zug in die Stadt fahren. Besonders schön ist die Lage des Dorfes. Im Süden beginnt eine Berglandschaft. Im Norden liegt außerdem ein kleiner Wald außerhalb des Dorfes. Es gibt also viele Möglichkeiten für Tagesausflüge in die Natur.
 `````
 
@@ -2397,7 +2397,7 @@ die Lage 位置，环境，形势
 # 3-08_Lektion_21_7a.mp3
 <audio controls loop src="B1.2_KB/3-08_Lektion_21_7a.mp3"></audio>
 
-`````
+`````de
 Moderator: Die drei Musikerinnen Andrea Schick, Barbara Fried und Julia Braun-Podeschwa sind seit vielen Jahren an verschiedenen musikalischen Projekten und Theaterproduktionen beteiligt. Zusammen treten sie als „Wonnebeats“ auf. Ich freue mich, dass die drei jetzt bei mir im Studio sitzen. Herzlich willkommen.
 Alle drei: Hallo!
 Julia: Wir freuen uns, hier zu sein.
@@ -2591,7 +2591,7 @@ drehen 旋转，转动
 # 3-13_Lektion_22_3_1.mp3
 <audio controls loop src="B1.2_KB/3-13_Lektion_22_3_1.mp3"></audio>
 
-`````
+`````de
 Audioguide: Vom Kriegsende bis zur Teilung Deutschlands
 Junge: Extrablatt! Extrablatt! Der Krieg ist vorbei!
 Audioguide: Im Mai 1945 ist Deutschland endlich von den Alliierten befreit worden. Das Land und die Stadt Berlin wurden in vier Besatzungszonen geteilt: eine amerikanische, eine sowjetische, eine französische und eine britische. Da sich aber die westlichen Länder und die Sowjetunion nicht über die zukünftige Staatsform einigen konnten, kam es schließlich zur Teilung Deutschlands in einen West- und einen Ostteil.
@@ -2612,7 +2612,7 @@ Sie einigten sich auf einen Kompromiss. 他们达成妥协。
 # 3-14_Lektion_22_3_2.mp3
 <audio controls loop src="B1.2_KB/3-14_Lektion_22_3_2.mp3"></audio>
 
-`````
+`````de
 Audioguide: Von der Teilung Deutschlands bis zum Mauerbau
 Audioguide: 1948 waren über dem Berliner Himmel häufig Flugzeugmotoren zu hören. Was hatte das zu bedeuten? Dazu muss man wissen, dass der Westteil von Berlin kurz zuvor von den sowjetischen Truppen blockiert worden ist. Von einem Tag auf den anderen war die Berliner Bevölkerung von der Außenwelt abgeschnitten. Die westlichen Alliierten ließen sich das allerdings nicht gefallen. Sie beschlossen, den Menschen einfach aus der Luft mit den wichtigsten Lebensmitteln zu helfen. Ihre Taktik ist später als „Berliner Luftbrücke“ bekannt geworden. Schließlich gab die Sowjetunion auf. Deutschland wurde in „West“ und „Ost“ geteilt. Im Westen wurde 1949 die Bundesrepublik Deutschland gegründet, im Osten die Deutsche Demokratische Republik. In der BRD wurde die Demokratie eingeführt, in der DDR eine sozialistische Ein-Parteien-Diktatur.
 Audioguide: Während die BRD mithilfe der USA ein „Wirtschaftswunder“ erlebte, hatte die DDR große wirtschaftliche Probleme. Immer mehr Menschen zogen in den Westen. Die DDR musste reagieren, wenn sie nicht irgendwann ohne Einwohner dastehen wollte. Obwohl die DDR-Regierung noch im Juni 1961 erklärte, dass niemand vorhatte, eine Mauer zu bauen, konnte man in der Nacht vom 12. auf den 13. August 1961 plötzlich Baulärm hören. Quer durch die Hauptstadt wurde Stacheldraht gezogen. Rund um Westberlin entstand eine drei Meter hohe Mauer.
@@ -2829,7 +2829,7 @@ Doch gerade weil wir das Alte nicht loslassen, werden wir irgendwann tatsächlic
 # 3-15_Lektion_22_3_3.mp3
 <audio controls loop src="B1.2_KB/3-15_Lektion_22_3_3.mp3"></audio>
 
-`````
+`````de
 Audioguide: Alltag in der DDR
 Audioguide: Nachdem 1961 die Berliner Mauer gebaut wurde, glaubte kaum einer mehr an die Wiedervereinigung. Die Menschen gewöhnten sich an den DDR-Alltag. Ein- bis dreijährige Kinder wurden ganztägig in Krippen betreut, denn oft waren beide Partner berufstätig. Trotzdem hatten die Menschen nicht viel. Lebensmittel waren oft knapp. Viele Produkte wurden so selten angeboten, dass es vor den Geschäften lange Schlangen gab. Sehr beliebt war ein Auto, das in der DDR gebaut wurde: der Trabant. Sogar gebraucht war er fast noch so viel wert wie neu.
 Audioguide: Wer es sich leisten konnte, hatte ein Wochenendhaus. Die sogenannte „Datsche“ lag meist am Rand der Stadt oder auf dem Land. Im Garten wurden Obst und Gemüse angebaut. Aber die Datsche wurde vor allem auch nicht so streng kontrolliert.
@@ -2871,7 +2871,7 @@ jn.(A) an etw.(Akk) erinnern 提醒某人不要忘记某事
 # 3-16_Lektion_22_3_4.mp3
 <audio controls loop src="B1.2_KB/3-16_Lektion_22_3_4.mp3"></audio>
 
-`````
+`````de
 Audioguide: Friedliche Revolution und deutsche Wiedervereinigung
 Audioguide: 1989 öffnete zunächst Ungarn seine Grenze in den Westen. Das sprach sich schnell herum. Tausende von DDR-Bürgern reisten nach Ungarn, Polen und in die damalige Tschechoslowakei. Sie besetzten die westdeutschen Botschaften oder flohen über die offenen Grenzen in den Westen.
 Audioguide: Durch die massenhafte Flucht verlor die Berliner Mauer mehr und mehr ihren Sinn. Doch auch in der DDR gingen immer mehr Menschen auf die Straßen. Hier hören Sie, wie die Menschen mit dem Ruf „Wir sind das Volk“ gegen das System protestieren, von dem sie 41 Jahre lang unterdrückt worden sind. In der Leipziger Nikolaikirche fingen die Friedensgebete und die Montagsdemonstrationen an und breiteten sich von dort auch in andere Städte aus. Sie wurden zum Symbol für die Friedliche Revolution.
@@ -2898,7 +2898,7 @@ fiel ===>>> fallen
 # 3-17_Lektion_23_2b_1.mp3
 <audio controls loop src="B1.2_KB/3-17_Lektion_23_2b_1.mp3"></audio>
 
-`````
+`````de
 Heike: Uns ist es wichtig, so umweltbewusst wie möglich zu leben. Wir wohnen in der Stadt, da brauchen wir kein Auto. Aber ohne diesen kleinen Lastesel hier könnte ich keinen Tag leben. Ich habe zwei Kinder, eins davon ist erst zwei Jahre alt und fährt noch nicht selbst Fahrrad. Die Kleine setze ich morgens bei jedem Wetter in ihren Sitz und ab geht’s zum Kindergarten. Auf dem Rückweg mache ich dann meine Einkäufe. Sie glauben gar nicht, wie viel hier reinpasst! Nur für die Treppen in den vierten Stock, da müsste noch was erfunden werden.
 `````
 
@@ -2959,7 +2959,7 @@ https://de.hinative.com/questions/7166263
 # 3-18_Lektion_23_2b_2.mp3
 <audio controls loop src="B1.2_KB/3-18_Lektion_23_2b_2.mp3"></audio>
 
-`````
+`````de
 Christoph: Bei der Arbeit sitze ich sehr viel am Schreibtisch, abends oder am Wochenende brauche ich dringend Bewegung und frische Luft. Ich wohne in Klagenfurt am Wörthersee – es gibt hier klare Seen, einsame Straßen und jede Menge hohe Berge drum herum. Ich fahre oft nach Feierabend alleine oder mit meinen Freunden eine Tour, so zwischen 50 und 100 Kilometer. Zurzeit trainieren wir regelmäßig, denn im Sommer wollen wir alle zusammen von hier bis an die Adria fahren. Das ist schon lange ein Traum von mir!
 `````
 
@@ -2989,7 +2989,7 @@ https://german.stackexchange.com/questions/39875/es-gibt-hier-jede-menge-hohe-be
 # 3-19_Lektion_23_2b_3.mp3
 <audio controls loop src="B1.2_KB/3-19_Lektion_23_2b_3.mp3"></audio>
 
-`````
+`````de
 Yvette: Das ist mein Rad und das kann ruhig jeder sofort sehen. So eins gibt’s nur einmal. Ich bekomme immer gleich gute Laune, wenn ich aufs Rad steige. Und die Leute um mich herum auch, die lachen mir zu und freuen sich. Klar, es gibt auch welche, die finden das blöd und kindisch. Egal! Ich finde es dafür langweilig, wenn alle Fahrräder gleich aussehen.
 `````
 
@@ -3048,7 +3048,7 @@ Und die Leute um mich herum auch, die lachen mir zu und freuen sich.
 # 3-20_Lektion_23_2b_4.mp3
 <audio controls loop src="B1.2_KB/3-20_Lektion_23_2b_4.mp3"></audio>
 
-`````
+`````de
 Bruno: Ich habe schon viele Fahrräder gehabt und ich muss sagen: Ich kann mir kein besseres vorstellen als dieses hier. Ich sitze so viel bequemer als auf meinem alten Rad und habe auch nach langem Fahren keine Schmerzen im Nacken. Und wenn ich mal länger unterwegs bin, kann ich auch eine Gepäcktasche montieren, so wie heute.
 `````
 
@@ -3061,7 +3061,7 @@ montieren 安装，装配
 # 3-21_Lektion_23_3b.mp3
 <audio controls loop src="B1.2_KB/3-21_Lektion_23_3b.mp3"></audio>
 
-`````
+`````de
 Sprecher: Die Zeiten, in denen sich alles nur ums Auto drehte, sind vorbei. Immer mehr Städte in Deutschland, Österreich und der Schweiz erkennen, dass es sich lohnt, den Radverkehr zu fördern. Tobias Brunnthaler, Experte für Mobilität und Umwelt, hat in den letzten Jahren entscheidend dazu beigetragen, dass das so ist.
 Moderatorin: Herr Brunnthaler, gerade sind wieder die Ergebnisse für die fahrradfreundlichste Stadt in Deutschland veröffentlicht worden. Ganz oben mit dabei sind Städte wie Münster, Freiburg und Karlsruhe. Was machen diese Städte richtig?
 Tobias Brunnthaler: Diese Städte machen sehr viel richtig. Sie schaffen es zum Beispiel, dass ihre Bürger immer mehr aufs Fahrrad steigen, statt das Auto zu benutzen. Die wichtigste Voraussetzung dafür ist natürlich der Ausbau der Radwege: Es werden breitere und neue Radstrecken eingerichtet, Straßen in reine Fahrradstraßen umgewandelt, in denen Radfahrer Vorfahrt haben, Über- oder Unterführungen für Radfahrer gebaut, damit gefährliche Kreuzungen umgangen werden können. Außerdem werden die Parkmöglichkeiten für Fahrräder in diesen Städten verbessert. Es gibt Service-Stationen, an denen man Reparaturen an Bremsen oder Klingeln durchführen lassen kann, den Reifendruck prüfen oder Ersatzteile kaufen kann, Scherben-Dienste und vieles mehr.
@@ -3201,7 +3201,7 @@ https://www.reddit.com/r/German/comments/3jem6i/why_does_my_book_say_es_werden_a
 # 3-22_Lektion_24_1.mp3
 <audio controls loop src="B1.2_KB/3-22_Lektion_24_1.mp3"></audio>
 
-`````
+`````de
 Mann 1: So, noch ein bisschen auflockern, das dürfte tief genug sein. Jetzt könnt ihr ein bisschen von der neuen Erde ins Loch geben.
 Kind: Halt mal fest.
 Mann 1: Das reicht erst mal, danke! Und jetzt, Rudi, ganz langsam den Baum einsetzen. Moment, ich helfe dir. Kinder, ist er so gerade?
@@ -3235,7 +3235,7 @@ War ja gar nicht so schwierig.
 # 3-23_Lektion_24_6b_6c.mp3
 <audio controls loop src="B1.2_KB/3-23_Lektion_24_6b_6c.mp3"></audio>
 
-`````
+`````de
 Sprecher: Forum Zukunft – mit Annabelle Großer
 Frau Großer: Ja, liebe Hörerinnen und Hörer, Sie hörten einen Bericht über das „Menschendorf“ in Österreich. Also ich persönlich könnte mir ja auch gut vorstellen, dort zu leben. Aber ist das wirklich eine Wohnform, die sich in den nächsten Jahrzehnten durchsetzen wird? Hierüber und über weitere Themen möchte ich heute mit meinen Gästen sprechen. Meine Gäste sind Gabriella Granados vom „Institut 2050“ aus Wien, Dr. Konrad Fischer von der Universität Berlin und Ronald Brandes vom Herrnheimer Forschungsinstitut. Alle drei beschäftigen sich seit Jahren mit Zukunftsszenarien.
 Frau Granados: Hallo.

@@ -1,7 +1,7 @@
 # 04_Lektion_2,_Basistraining,_9_a_und_b.mp3
 <audio controls loop src="A2.1_AB/04_Lektion_2,_Basistraining,_9_a_und_b.mp3"></audio>
 
-`````
+`````de
 Maria: Hallo Lars, hier ist Maria. Ich weiß, du bist noch in der Arbeit. Aber ich habe eine Bitte: Ich ziehe doch bald um und muss am Wochenende meine Wohnung renovieren. Vielleicht hast du ja am Samstag Zeit und kannst mir helfen.
 Ach ja – und kannst du vielleicht Werkzeug mitbringen? Das wäre total nett. Ruf mich bitte auf dem Handy an! Ich bin heute Abend nicht zu Hause. Liebe Grüße, Tschüs
 `````
@@ -9,21 +9,21 @@ Ach ja – und kannst du vielleicht Werkzeug mitbringen? Das wäre total nett. R
 # 05_Lektion_2,_Basistraining,_9_a_und_b.mp3
 <audio controls loop src="A2.1_AB/05_Lektion_2,_Basistraining,_9_a_und_b.mp3"></audio>
 
-`````
+`````de
 Peter: Hier spricht Peter, jetzt bist du nicht da. Das ist echt blöd. Ähm... Ich glaube, ich habe mein Handy bei dir vergessen. Vielleicht liegt es im Flur auf dem Regal in der Ecke. Kannst du es bitte suchen und mich dann anrufen? Ich brauche mein Handy unbedingt ganz schnell wieder. Danke! Bis morgen!
 `````
 
 # 06_Lektion_2,_Basistraining,_9_a_und_b.mp3
 <audio controls loop src="A2.1_AB/06_Lektion_2,_Basistraining,_9_a_und_b.mp3"></audio>
 
-`````
+`````de
 Tina: Hallo, hier ist Tina. Du, ich habe gerade in einem Geschäft ein ganz tolles Regal für unser Wohnzimmer gesehen. Vielleicht kannst du es dir ja auch anschauen. Du fährst ja heute noch in die Stadt. Also: das Möbelgeschäft ist in der Sonnenstraße gleich neben der Bushaltestelle. Den Namen habe ich jetzt vergessen. Aber das findest du schon. Das Regal ist im ersten Stock. Aber ich meine nicht das neben der Treppe. Es steht hinten rechts in der Ecke. Vor dem Regal stehen ein paar Sofas. Ich hoffe, es gefällt dir. Dann kaufen wir es. Also dann. Bis heute Abend!
 `````
 
 # 10_Lektion_3,_Basistraining,_5_a_und_b.mp3
 <audio controls loop src="A2.1_AB/10_Lektion_3,_Basistraining,_5_a_und_b.mp3"></audio>
 
-`````
+`````de
 Frau: Leo, was hast du denn eigentlich in den Ferien gemacht? Du hast noch gar nichts erzählt.
 Leo: Ach ja. Also, ich habe dieses Jahr nicht richtig Urlaub gemacht, sondern ich war auf einem Bergbauernhof und habe dort gearbeitet.
 Frau: Echt? Wie bist du denn auf die Idee gekommen?
@@ -39,7 +39,7 @@ Leo: Na ja. Da hast du recht. Nächstes Jahr fahre ich auf jeden Fall wieder nac
 # 11_Lektion_3,_Basistraining,_5_a_und_b.mp3
 <audio controls loop src="A2.1_AB/11_Lektion_3,_Basistraining,_5_a_und_b.mp3"></audio>
 
-`````
+`````de
 Frau: Hab ich dir schon von meiner Fahrradtour nach Italien erzählt?
 Mann: Was?! Eva, du bist mit dem Fahrrad bis nach Italien gefahren? Wahnsinn!
 Frau: Ganz schön sportlich, was! Für mich war das eine ganz neue Erfahrung. Ich muss schon sagen, das war toll – also mit dem Fahrrad erlebt man die Landschaft ganz anders. Man sieht alles viel genauer.
@@ -55,7 +55,7 @@ Mann: Das glaube ich.
 # 13 Lektion 3, Aussprache, 2.mp3
 <audio controls loop src="A2.1_AB/13 Lektion 3, Aussprache, 2.mp3"></audio>
 
-`````
+`````de
 a: Velo-Touren zwischen Kreuzlingen und Rohrschach: ohne Anstrengung am See-Ufer entlangfahren. Beratung und Ausrüstung bei Velo-Mann.
 b: Erholung pur: Bei uns dürfen Sie langsam sein, lange schlafen, lange frühstücken und unser gute Luft genießen. Hier ist die Welt noch in Ordnung!
 c: Am langwieder See: Die Vögel singen, die Frösche quaken. Im Zelt auf Campingpläzen übernachten. Die perfekte Erholung.
@@ -68,7 +68,7 @@ Ausrüstung 装备
 # 17_Lektion_5,_Hören,_1_a_und_b.mp3
 <audio controls loop src="A2.1_AB/17_Lektion_5,_Hören,_1_a_und_b.mp3"></audio>
 
-`````
+`````de
 Theo: Hallo, Klara. Wie geht‘s?
 Klara: Hallo Theo. Super! Ich habe nämlich Montag und Dienstag frei.
 Theo: Oh! Ein langes Wochenende, wie schön. Was machst du denn?
@@ -94,7 +94,7 @@ der Besuch 访问，探望；客人
 # 22_Lektion_6,_Basistraining,_11.mp3
 <audio controls loop src="A2.1_AB/22_Lektion_6,_Basistraining,_11.mp3"></audio>
 
-`````
+`````de
 Frau 1: Sag mal Sandra, hast du am übernächsten Wochenende Zeit?
 Sandra: Am Wochenende? Nö, warum? Ich fahre nach Barcelona.
 Frau 1: Oh. Nach Barcelona. Für wie lange?
@@ -115,7 +115,7 @@ Sandra: Danke. Klar, mach‘ ich! Bis dann!
 # 28_Lektion_8,_Hören,_2.mp3
 <audio controls loop src="A2.1_AB/28_Lektion_8,_Hören,_2.mp3"></audio>
 
-`````
+`````de
 Julia: Hallo.
 Petra: Hallo Julia, hier ist Petra.
 Julia: Hi, Petra.
@@ -149,7 +149,7 @@ OP Operation
 # 33_Lektion_10,_Basistraining,_12.mp3
 <audio controls loop src="A2.1_AB/33_Lektion_10,_Basistraining,_12.mp3"></audio>
 
-`````
+`````de
 Frau: Entschuldigung! Ich möchte bitte bestellen.
 Kellner: Einen Moment, ich komme gleich. So. – Sie bekommen?
 Frau: Ich hätte gern die Fischsuppe und das Steak. Aber nicht mit Reis bitte, sondern mit Pommes frites.
@@ -168,14 +168,14 @@ Kellner: Oh! Danke. Das ist aber sehr großzügig...
 # 40_Lektion_12,_Basistraining,_9_a.mp3
 <audio controls loop src="A2.1_AB/40_Lektion_12,_Basistraining,_9_a.mp3"></audio>
 
-`````
+`````de
 Moderator: Und hier unser Fernsehtipp der Woche! Ab nächster Woche gibt es eine neue Koch-Show im Fernsehen. Der bekannte TV-Koch Tom Bälzer kocht bei TV 1. Es soll viele gesunde und vegetarische Gerichte geben. Das Motto der Show: „Gesund, einfach und lecker“ Deshalb fragen wir unsere Hörerinnen und Hörer heute: Was halten Sie von Kochsendungen im Fernsehen?
 `````
 
 # 41_Lektion_12,_Basistraining,_9_b.mp3
 <audio controls loop src="A2.1_AB/41_Lektion_12,_Basistraining,_9_b.mp3"></audio>
 
-`````
+`````de
 Moderator: Und hier ist schon die erste Anruferin aus Lübeck: Frau Bah, was halten Sie von Kochsendungen?
 Frau Bah: Ich find‘ Kochsendungen super. Ich sehe sie mir total gern an und koche die Rezepte auch oft nach. Das macht Spaß und so bekomme ich immer neue Ideen für spannende und leckere Gerichte.
 Moderator: Nächste Woche beginnt auf TV1 die neue Koch-Show mit Tom Bälzer. Er will nur Bioprodukte verwenden und mit viel Gemüse kochen. Werden Sie sich die auch ansehen?
@@ -192,7 +192,7 @@ Moderator: Herr Bielenberg, danke für Ihren Anruf. So, liebe Hörerinnen und H�
 # 06_Lektion_14,_Basistraining,_10.mp3
 <audio controls loop src="A2.2_AB/06_Lektion_14,_Basistraining,_10.mp3"></audio>
 
-`````
+`````de
 Reporter: Guten Tag, meine Damen und Herren. Schön, dass Sie sich Zeit nehmen und zuhören. So kurz vor Weihnachten haben Sie sicher viel zu tun. Die meisten von uns sind ja ziemlich im Stress. Wir kaufen teure Geschenke für unsere Familie, Freunde und andere liebe Menschen. Aber vielleicht sollten wir auch mal an Menschen in anderen Ländern denken. Nicht allen geht es so gut wie uns.
 50 Mädchen und Jungen aus der Schubert-Grundschule haben das gemacht. Sie haben beim Projekt „Kinder helfen Kindern“ mitgemacht. Die Schüler haben Päckchen mit Geschenken für ukrainische Kinder gepackt. Schon in den nächsten Tagen werden die Pakete mit einem LKW in die Ukraine transportiert. Wir haben ein paar Schüler gefragt: Was hast du denn in dein Päckchen gepackt?
 Mädchen: Also, eine Puppe, Stifte, Hefte und einen Notizblock.
@@ -208,7 +208,7 @@ Reporter: Na, dann kann er den Fußball sicher sehr gut gebrauchen. So, das ware
 # 09_Lektion_15,_Hoeren,_2.mp3
 <audio controls loop src="A2.2_AB/09_Lektion_15,_Hoeren,_2.mp3"></audio>
 
-`````
+`````de
 Tim: Guten Morgen Sandra! Wie war dein Wochenende?
 Sandra: Total super, ich war bei meinen Eltern und habe mich verwöhnen lassen und viele alte Freunde getroffen.
 Tim: Oh, das klingt gut. Und wie hat dir der Tatort gestern gefallen?
@@ -236,35 +236,35 @@ witzig 幽默的
 # 16_Lektion_18,_Hoeren,_2a.mp3
 <audio controls loop src="A2.2_AB/16_Lektion_18,_Hoeren,_2a.mp3"></audio>
 
-`````
+`````de
 Und nun zum Wetter. Bis heute Nachmittag ist es im ganzen Land noch sonnig. Dann ziehen von Westen her Wolken auf. Am Abend gibt es schon erste Schauer. Morgen gibt es im ganzen Land verbreitet Niederschläge. Erst zum späten Abend lockert es von Westen her wieder langsam auf. Die Tageshöchsttemperaturen liegen bei 13 Grad und nachts um 5 Grad.
 `````
 
 # 17_Lektion_18,_Hoeren,_2b.mp3
 <audio controls loop src="A2.2_AB/17_Lektion_18,_Hoeren,_2b.mp3"></audio>
 
-`````
+`````de
 Und hier noch eine wichtige Durchsage für alle Besucher des Uwe Bürgens-Konzerts am Freitagabend. Uwe Bürgens ist krank und kann nicht wie geplant spielen. Das Konzert findet leider nicht statt und wird verschoben. Ein neuer Termin steht noch nicht fest. Den neuen Termin finden Sie nächste Woche auf der Webseite der Konzertagentur. Alle Karten sind auch für den neuen Termin gültig. Sie können Ihre Karte aber auch an den bekannten Vorverkaufsstellen zurückgeben.
 `````
 
 # 18_Lektion_18,_Hoeren,_2c.mp3
 <audio controls loop src="A2.2_AB/18_Lektion_18,_Hoeren,_2c.mp3"></audio>
 
-`````
+`````de
 Und nun zum heutigen Abendprogramm. Nach den Nachrichten und dem Wetter hören Sie wie immer unseren Radiokrimi. Ab 22.03 Uhr gibt es Live-Konzerte – unsere beliebte Musiksendung am Samstagabend. Auch diese Woche können unsere Hörerinnen und Hörer wieder abstimmen, welches Konzert sie hören wollen. Besuchen Sie unsere Website unter www.radiohit/live-konzerte.de und suchen Sie Ihr Lieblingskonzert aus.
 `````
 
 # 19_Lektion_18,_Hoeren,_2d.mp3
 <audio controls loop src="A2.2_AB/19_Lektion_18,_Hoeren,_2d.mp3"></audio>
 
-`````
+`````de
 Eine Meldung für alle Autofahrer. Morgen ist die Innenstadt wegen einer Veranstaltung gesperrt. Bitte fahren Sie nicht mit dem Auto ins Zentrum. Parken Sie Ihr Auto an den Park&Ride-Parkplätzen und nutzen Sie öffentliche Transportmittel. Für Besucher des Zentrums fahren die öffentlichen Verkehrsmittel morgen den ganzen Tag im Fünf-Minuten-Takt.
 `````
 
 # 23_Lektion_19,_Basistraining,_10.mp3
 <audio controls loop src="A2.2_AB/23_Lektion_19,_Basistraining,_10.mp3"></audio>
 
-`````
+`````de
 Radiosprecherin: Wo ist dieses Wochenende in unserer Stadt was los? Meine Damen und Herren, wir haben heute für Sie wieder interessante Veranstaltungen ausgesucht.
 Theaterfreunde aufgepasst! Im Stadttheater wird heute „Carmen“ von Georges Bizet gezeigt. Es gibt noch Karten. Beginn ist um 20 Uhr.
 „Blaues Land“, so hat Franz Marc seine Lieblingslandschaft in Bayern genannt. Wie er, Gabriele Münter, Wassily Kandinsky und andere Künstler diese Gegend gemalt haben, können Sie noch zwei Wochen länger sehen. Denn die Ausstellung in der Kunsthalle wird bis zum 30. August verlängert.
@@ -279,7 +279,7 @@ Da ist doch sicher für jeden etwas dabei! Und jetzt wünsche ich allen ein wund
 # 27_Lektion_21,_Basistraining,_12a.mp3
 <audio controls loop src="A2.2_AB/27_Lektion_21,_Basistraining,_12a.mp3"></audio>
 
-`````
+`````de
 Radiosprecher: Tauschringe werden in Deutschland immer beliebter. Es gibt mittlerweile weit über 300 Tauschringe und jedes Jahr werden es mehr. In einem Tauschring helfen sich Nachbarn gegenseitig. Sie wollen mal wieder mit Ihrem Mann schön essen gehen?
 Haben aber keinen Babysitter? Und das ist zu teuer? Kein Problem! In der Nachbarschaft finden Sie sicher einen Babysitter. Und dafür gehen Sie dann ein anderes Mal für Ihre Nachbarin einkaufen. Sie tauschen Zeit mit Ihren Nachbarn.
 Jeder kann anbieten, was ihm Spaß macht und was er machen kann. Und alles ist kostenlos. Wir sind hier heute beim Tauschring „Nord“ und sprechen mit Tauschern über ihre Erfahrungen:
@@ -288,7 +288,7 @@ Jeder kann anbieten, was ihm Spaß macht und was er machen kann. Und alles ist k
 # 28_Lektion_21,_Basistraining,_12b.mp3
 <audio controls loop src="A2.2_AB/28_Lektion_21,_Basistraining,_12b.mp3"></audio>
 
-`````
+`````de
 Radiosprecher: Wie lange sind Sie schon dabei?
 Frau: Seit zwei Jahren. Ich finde es toll, dass ich hier Hilfe bekomme und nichts bezahlen muss. Wenn das Licht nicht mehr brennt, hole ich immer meinen Nachbarn Herrn Müller. Also, Glühbirnen und Steckdosen fasse ich nicht an, weil ich bei Strom so ängstlich bin. Herr Müller wechselt dann meine Glühbirnen und repariert auch mal meinen Computer. Da kenne ich mich nämlich gar nicht aus.
 Radiosprecher: Und Sie selbst. Was bieten Sie an?
@@ -301,35 +301,35 @@ Radiosprecher: Das waren ein paar Stimmen vom Tauschring „Nord“. Wenn Sie je
 # 32_Lektion_22,_Hoeren,_1a.mp3
 <audio controls loop src="A2.2_AB/32_Lektion_22,_Hoeren,_1a.mp3"></audio>
 
-`````
+`````de
 Guten Abend. Mein Name ist Cordula Riemer. Ich war heute Nachmittag in ihrer MC-Filiale und habe meine Chipkarte abgeholt. Nun kann ich meinen Führerschein nicht mehr finden. Habe ich ihn vielleicht bei Ihnen vergessen? Bitte geben Sie mir doch so schnell wie möglich Bescheid. Sie erreichen mich unter der Rufnummer 689 76 54. Danke!
 `````
 
 # 33_Lektion_22,_Hoeren,_1b.mp3
 <audio controls loop src="A2.2_AB/33_Lektion_22,_Hoeren,_1b.mp3"></audio>
 
-`````
+`````de
 Hallo Luisa, Ella hier. Ich schaffe es heute Abend leider doch nicht. Wir hatten heute den ganzen Tag Sitzungen und ich muss im Büro dringend noch etwas für morgen fertig machen. Morgen Abend gehe ich zum Sport. Aber in zwei Tagen habe ich Zeit. Wie sieht es bei dir aus? Ruf mich doch bitte zurück. Tschüs!
 `````
 
 # 34_Lektion_22,_Hoeren,_1c.mp3
 <audio controls loop src="A2.2_AB/34_Lektion_22,_Hoeren,_1c.mp3"></audio>
 
-`````
+`````de
 Hallo Claudio, ich komme morgen um 15.32 Uhr mit dem Zug in Kassel an. Meine Schwester holt mich ab. Ich schlage vor, wir treffen uns um 19.00 Uhr bei unserem Lieblingsitaliener. Oder was meinst du? Ruf mich doch bitte auf dem Handy an, ich bin heute den ganzen Tag unterwegs. Ciao!
 `````
 
 # 35_Lektion_22,_Hoeren,_1d.mp3
 <audio controls loop src="A2.2_AB/35_Lektion_22,_Hoeren,_1d.mp3"></audio>
 
-`````
+`````de
 Guten Tag, Frau Strunge. Werkstatt Winterfeld, hier. Wir haben gute Nachrichten: Das Ersatzteil ist endlich gekommen und Ihr Auto ist fertig. Sie können Ihren Wagen also morgen abholen. Die Werkstatt ist ab 6.30 Uhr geöffnet. Außerdem war der Einbau weniger zeitaufwendig als erwartet. Die Reparatur kostet also rund 100 Euro weniger und liegt jetzt bei 254 Euro. Bis morgen dann. Auf Wiederhören.
 `````
 
 # 42_Lektion_24,_Basistraining,_10.mp3
 <audio controls loop src="A2.2_AB/42_Lektion_24,_Basistraining,_10.mp3"></audio>
 
-`````
+`````de
 Radiomoderatorin: Hallo und herzlich willkommen. Hier ist wieder Eure Jana von Radio FM. Ihr wollt billig verreisen? Dann haben wir heute eine sehr interessante Idee für Euch. Ich bin hier auf einem Bauernhof in der Nähe vom Bodensee. Auf diesem Hof kann man arbeiten und bekommt dafür kostenlos Unterkunft und Essen. Man bezahlt also nichts. Und das kann man nicht nur in Deutschland, sondern fast überall auf der Welt machen. Wie findet man Bauernhöfe, die freiwillige Helfer suchen? Auf der Webseite von AAB (Arbeit auf dem Bauernhof) könnt ihr Bauernhöfe auf der ganzen Welt finden. Mehr erfahrt ihr aber jetzt von Dan. Ihn habe ich hier auf dem Hof am Bodensee getroffen. Hallo Dan, kannst du dich kurz vorstellen?
 Dan: Ja klar, ich heiße Dan, bin 20 Jahre alt und komme aus den USA. Ich arbeite seit 3 Wochen hier auf dem Hof von Familie Günther.
 Radiomoderatorin: Dan, warum bist du eigentlich hierhergekommen?
@@ -355,7 +355,7 @@ Dan: Danke!
 # 44_Lektion_24,_Aussprache,_3.mp3
 <audio controls loop src="A2.2_AB/44_Lektion_24,_Aussprache,_3.mp3"></audio>
 
-`````
+`````de
 Sandra hat ein Semester im Ausland studiert. Das war ein tolles Erlebnis und sie konnte ihre Englischkenntnisse gut verbessern. Besonders gefallen hat ihr, dass sie so viele neue Leute kennengelernt hat. Schade war nur, dass das Studentenwohnheim nicht sauber war. Sandra musste immer alles allein putzen. Außerdem war das Wohnheim an einer lauten Straße. Trotzdem hatte Sandra viel Spaß.
 `````
 

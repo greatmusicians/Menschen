@@ -1,7 +1,7 @@
 # 05_Lektion_2,_Basistraining,_8a_1.mp3
 <audio controls loop src="B1.1_AB/05_Lektion_2,_Basistraining,_8a_1.mp3"></audio>
 
-`````
+`````de
 Moderator: Und nun kommen wir wieder zu unserer Hörerumfrage am Freitagnachmittag. Heute geht es um das Thema: Praktikanten in Deutschland. Eine neue Studie sagt, dass nur wenige Praktika in Deutschland gut bezahlt sind. Die meisten sind eher schlecht bezahlt und in vielen Betrieben bekommen die Praktikanten gar kein Geld: So verdienen 40 % von den Praktikanten nichts. Noch schlechter sieht es bei den Karrierechancen aus. Viele Praktikanten hoffen, nach dem Praktikum auch einen Job im Praktikumsbetrieb zu bekommen. Aber das bekommen nur wenige. Daher sind sogar über 60 % unzufrieden mit ihren Jobchancen. Trotzdem ist die allgemeine Zufriedenheit nicht schlecht. Denn mehr als die Hälfte der Praktikanten ist nicht unzufrieden: So geben 65 % von allen Praktikanten an, dass sie insgesamt zufrieden mit ihrem Praktikum sind. Deshalb fragen wir unsere Hörer heute: Welche Praktikumserfahrungen haben Sie? Waren Sie zufrieden oder unzufrieden? Rufen Sie uns an oder schicken Sie uns eine E-Mail.
 `````
 
@@ -16,7 +16,7 @@ angeben 告知，说明，陈述
 # 06_Lektion_2,_Basistraining,_8b_Und_C_1.mp3
 <audio controls loop src="B1.1_AB/06_Lektion_2,_Basistraining,_8b_Und_C_1.mp3"></audio>
 
-`````
+`````de
 Moderator: Und hier ist schon unser erster Anrufer aus Thüringen. Herr Wenzel, welche Erfahrungen haben Sie gemacht?
 Herr Wenzel: Also, ich mache gerade ein Praktikum und es ist nicht das erste nach meinem Architekturstudium. Leider habe ich nicht besonders gute Erfahrungen gesammelt. Die Aufgaben sind zwar oft interessant und ich habe auch viel gelernt, aber die Stellen sind einfach zu schlecht bezahlt. Da bleibt netto kaum etwas übrig.
 Moderator: Und warum machen Sie dann trotzdem noch ein Praktikum?
@@ -114,7 +114,7 @@ https://de.hinative.com/questions/20578284
 # 12_Lektion_4,_Hoeren,_2_1.mp3
 <audio controls loop src="B1.1_AB/12_Lektion_4,_Hoeren,_2_1.mp3"></audio>
 
-`````
+`````de
 Ansage 1
 Jens: Hallo, Annika. Hier spricht Jens. Sag mal, dich kann man ja gar nicht erreichen. Gestern Abend war bei dir zu Hause die ganze Zeit besetzt und jetzt bist du nicht da. Ruf mich doch mal an. Ich bin im Büro. Du weißt ja, meine Durchwahl ist die 18.
 Bandansage: Wenn Sie direkt mit dem Absender der Nachricht verbunden werden wollen, wählen Sie die Eins. Zum Speichern der Nachricht wählen Sie die Zwei. Wenn Sie die Nachricht noch einmal hören möchten, drücken Sie die Drei. Zum Löschen drücken Sie die Vier.
@@ -150,7 +150,7 @@ angeben 告知，说明，陈述
 # 18_Lektion_7,_Basistraining,_8_1.mp3
 <audio controls loop src="B1.1_AB/18_Lektion_7,_Basistraining,_8_1.mp3"></audio>
 
-`````
+`````de
 Verkäufer: Kann ich etwas für Sie tun?
 Kundin: Ähm ja, ich möchte mich mal bei Ihnen umschauen, weil ich mir einen neuen Rucksack anschaffen möchte.
 Verkäufer: Was haben Sie sich denn vorgestellt?
@@ -206,7 +206,7 @@ https://de.hinative.com/questions/15945803
 # 21_Lektion_8,_Basistraining,_10_1.mp3
 <audio controls loop src="B1.1_AB/21_Lektion_8,_Basistraining,_10_1.mp3"></audio>
 
-`````
+`````de
 Moderator: Nach dem Abitur sind viele junge Menschen ratlos: Soll ich studieren oder soll ich lieber einen Beruf erlernen? Lohnt sich ein Studium an einer Universität? Oder hat eine Berufsausbildung mehr Vorteile? – Diese Fragen stellen sich viele. Wir haben heute Herrn Jensen von der Agentur für Arbeit zu uns ins Studio eingeladen. Herr Jensen, was raten Sie jungen Leuten, die das Abitur machen: Ist ein Studium immer das Richtige?
 Herr Jensen: Ganz generell kann man sagen, dass man mit einem Studium gute Chancen im späteren Berufsleben hat. Zurzeit sind in Deutschland nur vier Prozent mit Hochschuldiplom arbeitslos. Also wirklich wenige. Allerdings bedeutet ein Hochschulabschluss nicht immer, dass man einen sicheren Arbeitsplatz hat. Wenn man z.B. Kunst oder Architektur studiert, ist es sogar ziemlich schwierig, später einen Arbeitsplatz zu finden. Aber ein Studium hat natürlich schon viele Vorteile, z.B. finanziell: Mit einem Universitätsdiplom verdient man meistens mehr als mit einer abgeschlossenen Berufsausbildung.
 Moderator: Für wen wäre dann eine Berufsausbildung in einer Firma die bessere Alternative?
@@ -228,14 +228,14 @@ das Einkommen 收入
 # 28_Lektion_11,_Hoeren,_1_1.mp3
 <audio controls loop src="B1.1_AB/28_Lektion_11,_Hoeren,_1_1.mp3"></audio>
 
-`````
+`````de
 Radiomoderatorin: Guten Tag, liebe Hörerinnen und Hörer. Herzlich willkommen zu unserer Sendung „Unterwegs“. Haben Sie sich heute schon über etwas gefreut? Wann waren Sie eigentlich zuletzt so richtig glücklich? Und was bedeutet Glück überhaupt? Unser Reporter von „Unterwegs“ hat sich auf die Suche nach dem Glück gemacht. Er hat Menschen, die er zufällig in der Stadt getroffen hat, über ihre Glücksmomente gefragt.
 `````
 
 # 29_Lektion_11,_Hoeren,_2_Und_3_1.mp3
 <audio controls loop src="B1.1_AB/29_Lektion_11,_Hoeren,_2_Und_3_1.mp3"></audio>
 
-`````
+`````de
 Mann 1: Ach ja. Ich habe monatelang hier in Berlin ein Zimmer in einer WG gesucht. Ich hatte mir schon mindestens 20 Zimmer angeschaut – aber ohne Erfolg. Es war wirklich hoffnungslos. Als ich eines Tages mal wieder mit der U-Bahn fuhr, fand ich auf dem Platz neben mir eine Zeitung mit Wohnungsanzeigen. Die habe ich mir angeschaut. Da lächelte mich eine sympathische junge Frau an und fragte mich, ob ich ein Zimmer suche. Sie erzählte mir, dass in ihrer WG ein Zimmer frei ist. Ich habe das Zimmer gleich besichtigt und jetzt wohne ich schon ein halbes Jahr dort. Mein Zimmer ist total schön und meine Mitbewohnerin und ich verstehen uns super.
 Mann 2: Mein schönster Glücksmoment war im letzten Urlaub. Wir wollten am Meer campen und weil es keinen Campingplatz in der Nähe gab, haben wir einfach an einem einsamen Strand geschlafen. Das Zelt haben wir gar nicht aufgebaut. In der Nacht konnte ich den Sternenhimmel sehen und das Rauschen vom Meer hören. Am Morgen wurden wir von der Sonne geweckt. Das war wunderschön.
 Frau: Ich weiß nicht, also Glück, das sind für mich die einfachen Dinge im Alltag. Wenn ich aufwache und die Sonne mir ins Gesicht scheint. Wenn mich ein lieber Mensch anlächelt oder wenn meine Kinder ein Bild malen und es mir dann ganz stolz zeigen. Solche Momente finde ich sehr schön. Das ist für mich Glück. Es muss nicht der Lottogewinn oder irgendetwas Großes sein.
@@ -277,7 +277,7 @@ Plusquamperfekt [`pluskvampεrfεkt] 过去完成时
 # Lektion_13_Hoeren_2.mp3
 <audio controls loop src="B1.2_AB/Lektion_13_Hoeren_2.mp3"></audio>
 
-`````
+`````de
 Museumsführer: Ich begrüße Sie ganz herzlich im ValentinKarlstadt-Musäum. Mein Name ist Franz Strobl. Auf unserem Rundgang durch das Museum möchte ich Ihnen das Leben und Wirken von Karl Valentin und seiner Partnerin Liesl Karlstadt zeigen.
 Das bekannte Münchener Komiker-Paar Karl Valentin und Liesl Karlstadt hat mit seinem schrägen Humor viele nachfolgende Künstler beeinflusst. Durch ihr Spiel mit der Sprache und durch ihren Wortwitz entstanden zahlreiche humorvolle Situationen und Sketche, in denen die Sprache, der Gesprächspartner oder die Welt missverstanden werden.
 Unser Rundgang dauert ungefähr zweieinhalb Stunden. Wir werden uns zunächst die Dauerausstellung zu Karl Valentin ansehen. Sie werden die vielen Seiten des Universalgenies kennenlernen: den Komiker, den Wortakrobaten, den Schauspieler, den Filmemacher … um nur einige zu nennen. Danach schauen wir uns gemeinsam die Liesl-Karlstadt-Ausstellung an.
@@ -345,7 +345,7 @@ um nur einige Namen zu nennen
 # Lektion_17_Hoeren_1b.mp3
 <audio controls loop src="B1.2_AB/Lektion_17_Hoeren_1b.mp3"></audio>
 
-`````
+`````de
 Moderatorin: Hallo und herzlich willkommen zu unserer Sendung „Menschen“. Wie an jedem Donnerstagnachmittag haben Sie auch heute wieder die Gelegenheit, einen interessanten Menschen kennenzulernen. Heute haben wir eine Frau mit einem außergewöhnlichen Beruf eingeladen. Mein Gast im Studio arbeitet als Künstlerin. Hallo, Frau Hacker, vielen Dank, dass Sie heute zu uns gekommen sind.
 Frau Hacker: Gern.
 Moderatorin: Frau Hacker, Sie sind noch keine 30 Jahre alt und Malerin von Beruf. Wie sind Sie zur Malerei gekommen?
@@ -399,7 +399,7 @@ However, my pictures are not created in a vacuum: everything that happens, what 
 # Lektion_20_Hoeren_1b.mp3
 <audio controls loop src="B1.2_AB/Lektion_20_Hoeren_1b.mp3"></audio>
 
-`````
+`````de
 Moderator: Guten Abend, liebe Hörerinnen und Hörer. Freuen Sie sich auch schon auf den ersten Schnee? Gehören Sie zu den Menschen, die es kaum erwarten können, bis in den Bergen endlich wieder die Skisaison beginnt? Oder mögen Sie es lieber ruhiger und genießen den Winter, indem Sie einfach nur spazieren gehen oder wandern? Das Thema unserer heutigen Diskussionsrunde ist „Skitourismus und Umwelt“. Dazu haben wir die Tourismusmanagerin Regina Tremmel aus Innsbruck zu uns ins Studio eingeladen. Unser zweiter Gast ist der Autor Frank Nadler, der ein Buch über den Skitourismus in den Alpen geschrieben hat. Guten Abend zusammen.
 Frau Tremmel: Guten Abend. Danke für die Einladung.
 Herr Nadler: Hallo! Ich freue mich, dass Sie mich eingeladen haben.
@@ -501,7 +501,7 @@ I am particularly critical of the fact that more ski areas are being built in hi
 # Lektion_21_Aussprache_3.mp3
 <audio controls loop src="B1.2_AB/Lektion_21_Aussprache_3.mp3"></audio>
 
-`````
+`````de
 Herzlich willkommen auf meiner Clown-Seite. Wollt ihr etwas über meine letzten Auftritte wissen?
 
 12. März – Vorbereitungen für den Auftritt
@@ -525,7 +525,7 @@ aufführen 上演，放映，演奏，举办
 # Lektion_21_Basis_14.mp3
 <audio controls loop src="B1.2_AB/Lektion_21_Basis_14.mp3"></audio>
 
-`````
+`````de
 Radiomoderator: Hallo und herzlich willkommen zu unserer Sendung „Stadtreisen“. In unserer Reihe „Die interessantesten Städte Europas“ möchten wir Ihnen heute Zürich vorstellen. Denn die größte Stadt der Schweiz ist unserer Meinung nach wirklich einen Besuch wert. Zürichs Umgebung ist fantastisch. Durch die Stadt, die am Ufer des Zürichsees liegt, fließen zwei Flüsse, die Sihl und die Limmat. Bei schönem Wetter kann man die Berge sehen, die um die Stadt herum liegen. Zürich ist lebendig und dynamisch, aber im Vergleich zu anderen Großstädten herrscht dort eher eine ruhige entspannte Atmosphäre. Besonders empfehlenswert ist ein Besuch der Bahnhofstraße mit ihren schönen historischen Gebäuden. Die Bahnhofstraße ist eine der elegantesten und auch teuersten Einkaufsstraßen Europas. Dort gibt es Kaufhäuser, Designer-Läden, Schmuckgeschäfte und Banken. Aber in Zürich finden Sie nicht nur Banken und Geschäfte, sondern es gibt auch ein großes kulturelles Angebot. So gehört z.B. das Schauspielhaus Zürich zu den wichtigsten Bühnen im deutschsprachigen Raum. Gleich in der Nähe vom Schauspielhaus ist das Kunsthaus. In dem Gebäude aus dem vorigen Jahrhundert finden Sie die bedeutendste Kunstsammlung der Schweiz. Dort sind Werke vom 15. Jahrhundert bis zur Gegenwart ausgestellt. Das Museum besitzt besonders viele Bilder von Edvard Munch und Alberto Giacometti. Die interessantesten Ecken für jüngere Leute gibt es im Szeneviertel Zürich-West. Dieser Stadtteil, der in der Nähe des Zentrums liegt, war im 19. Jahrhundert ein wichtiges Industriegebiet. Viele alte Fabriken und andere Industriegebäude wurden renoviert. Das Viertel entwickelt sich mehr und mehr zu einem Vergnügungsviertel mit Theatern, Bars, Ateliers, Konzertsälen und trendigen Läden. Im Sommer dürfen Sie auf keinen Fall versäumen, in einem der elf Bäder an der Limmat oder dem Zürichsee zu baden. Im See ist das Wasser übrigens so sauber, dass man es trinken kann. Eins der schönsten Bäder ist das „Frauenbadi“. Die Anlage an der Limmat ist schon über 100 Jahre alt und liegt mitten in der Stadt. Wie der Name schon sagt, müssen Männer leider draußen bleiben oder sie müssen bis abends warten. Denn dann wird das Bad zu einer Barfußbar. Die Bar heißt so, weil man die Schuhe ausziehen muss. Dort kann man dann mit einem wunderbaren Blick auf die Lichter der Altstadt und die Türme des Großmünsters einen Drink genießen. Die Stadt entspricht vielleicht nicht ganz dem Bild, das man oft von ihr hat. Denn Zürich ist nicht nur eine reiche Finanzmetropole. In dieser Stadt haben Toleranz und Gastfreundschaft eine lange Tradition. Deshalb wurde sie für viele Künstler, Schriftsteller und Politiker zur zweiten Heimat. Hier haben unter anderem Georg Büchner, James Joyce, der Psychoanalytiker C.G. Jung, Lenin und Trotzki gewohnt. Übrigens: Entgegen der weit verbreiteten Meinung ist nicht Zürich die Hauptstadt der Schweiz, sondern Bern. Wenn Sie jetzt neugierig geworden sind, finden Sie noch mehr Informationen und Tipps auf der Webseite zur Sendung.
 `````
 
@@ -631,7 +631,7 @@ Trotzki 托洛茨基
 # Lektion_22_Basistraining_7a.mp3
 <audio controls loop src="B1.2_AB/Lektion_22_Basistraining_7a.mp3"></audio>
 
-`````
+`````de
 Reporter: Im Herbst 1989 fand in Deutschland eine friedliche Revolution statt. Ein wichtiger Teil dieser Revolution waren Demonstrationen, die von September an in Leipzig und anderen großen Städten stattfanden. Immer mehr Bürger protestierten gegen das politische System und forderten mehr Freiheit. Entgegen aller Erwartungen wurde am Abend des 9. November die Mauer geöffnet. Wie war das damals eigentlich? Das wollten wir mal von jemandem wissen, der es selbst erlebt hat. Hören Sie jetzt ein Interview mit Uli U. aus Berlin, der bei der Maueröffnung dabei war.
 `````
 
@@ -648,7 +648,7 @@ entgegen aller Erwartungen 出乎所有人的意料
 # Lektion_22_Basistraining_7b.mp3
 <audio controls loop src="B1.2_AB/Lektion_22_Basistraining_7b.mp3"></audio>
 
-`````
+`````de
 Reporter: Wie haben Sie diesen Herbst erlebt?
 Uli U.: Es war damals eine aufregende Zeit. Ich war noch sehr jung und Student an der Humboldt Uni in Berlin. In diesen Tagen haben wir das Studium allerdings nicht so ernst genommen. Wir haben an den Montagsdemonstrationen teilgenommen oder über Politik diskutiert. Plötzlich schien so vieles möglich zu sein.
 Reporter: Wie haben Sie den 9. November verbracht?
@@ -722,7 +722,7 @@ Wir hätten gehen sollen. We should have left.
 # Lektion_23_Hoeren_2.mp3
 <audio controls loop src="B1.2_AB/Lektion_23_Hoeren_2.mp3"></audio>
 
-`````
+`````de
 Katrin: Hallo, Felix. Mensch, wir haben uns ja ewig nicht gesehen.
 Felix: Ja, das letzte Mal muss schon fast ein halbes Jahr her sein. Das war kurz vor unserem Umzug, oder?
 Katrin: Stimmt. Wie geht’s euch denn da draußen so?

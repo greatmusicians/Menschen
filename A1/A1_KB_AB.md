@@ -1,7 +1,7 @@
 # Menschen A1.1 Kursbuch, Seite 26, Lektion 4
 <audio controls loop src="歌德课程复习A1.1/Lektion 4, 3.mp3"></audio>
 
-`````
+`````de
 Sibylle: Der Tisch ist modern. Modern und praktisch.
 Artur: Soso. ... Hey, Sibylle! Das Bett ist nicht schlecht!
 Verkäufer: Hallo! Brauchen Sie Hilfe?
@@ -24,7 +24,7 @@ Ansage Möbelhaus: Möbel Stegmann – das Bett … der Tisch … die Lampe – 
 # Menschen A1.1 Kursbuch, Seite 34, Lektion 6
 <audio controls loop src="歌德课程复习A1.1/Lektion 6, 3_4.mp3"></audio>
 
-`````
+`````de
 Christian Schmidt: Brenner IT-Consulting. Guten Tag. Hier ist Christian Schmidt.
 Frau Feser: Hallo, Herr Schmidt. Hier ist Anne Feser.
 Christian Schmidt: Ah, hallo Frau Feser!
@@ -60,7 +60,7 @@ Bis gleich.  一会儿见！
 # Menschen A1.1 Kursbuch, Seite 40, Modul 2
 <audio controls loop src="歌德课程复习A1.1/Modul 2, 2_3.mp3"></audio>
 
-`````
+`````de
 Hubertus Grille braucht eine Brille.
 Marina Hartner sucht einen Partner.
 Benjamin Rüssel hat keinen Schlüssel.
@@ -90,7 +90,7 @@ Refrain
 # Menschen A1.1 Kursbuch, Seite 41, Lektion 7
 <audio controls loop src="歌德课程复习A1.1/Lektion 7, 2.mp3"></audio>
 
-`````
+`````de
 Fabian: Wow! Du kannst ja super tanzen!
 Rebekka: Was?
 Fabian: Du kannst super tanzen.
@@ -125,7 +125,7 @@ Rebekka: Nein!
 # Menschen A1.1 Kursbuch, Seite 43, Lektion 7
 <audio controls loop src="歌德课程复习A1.1/Lektion 7, 8.mp3"></audio>
 
-`````
+`````de
 Andi: Hallo, ich bin der Andi. Mein Hobby ist Fußball. Das da sind meine Freunde. Wir spielen nicht im Verein. Wir sind nur eine Freizeit-Mannschaft. Aber wir können alle ganz gut Fußball spielen. Wir spielen zwei- bis dreimal im Monat hier im Park. Das macht Spaß!
 Spieler: Hey, Andi! Was ist? Kommst du?
 Andi: Ja-a! Also tschüs! … Ich komme! Hier Werner! Hier!
@@ -159,7 +159,7 @@ bing上翻译为：Just like now
 # Menschen A1.1 Kursbuch, Seite 45, Lektion 8
 <audio controls loop src="歌德课程复习A1.1/Lektion 8, 2a.mp3"></audio>
 
-`````
+`````de
 Bedienung: So, Ihr Milchkaffee!
 Karina: Vielen Dank!
 Bedienung: Bitteschön!
@@ -170,7 +170,7 @@ Karina: Hallo, Manuel! … Gut! H-hm … Ins Schwimmbad? … Heute Nachmittag? �
 # Menschen A1.1 Kursbuch, Seite 49, Lektion 9
 <audio controls loop src="歌德课程复习A1.1/Lektion 9, 2.mp3"></audio>
 
-`````
+`````de
 Onkel Harry: Gute Nacht, Tim.
 Tim: Gute Nacht. … Onkel Harry?
 Onkel Harry: Ja?
@@ -198,7 +198,7 @@ Onkel Harry: Na, so ein Glück!
 # Menschen A1.1 Kursbuch, Seite 56, Modul 3
 <audio controls loop src="歌德课程复习A1.1/Modul 3, 1_2.mp3"></audio>
 
-`````
+`````de
 Tina, ich möchte dich was fragen:
 Tina, was machst du heute Abend?
 Hhmm, der Tag heut‘ ist so schön!
@@ -235,7 +235,7 @@ Heute, heute ist der Tag!
 # Menschen A1.1 Kursbuch, Seite 58, Lektion 10
 <audio controls loop src="歌德课程复习A1.1/Lektion 10, 3.mp3"></audio>
 
-`````
+`````de
 Durchsage: Achtung: Auf Gleis 22 fährt der Intercity-Express 621 aus Essen über Köln – Frankfurt – Würzburg – Nürnberg ein. Planmäßige Ankunft 14 Uhr 04. Bitte nicht einsteigen. Dieser Zug endet hier.
 Mann: Ja? … Hallo Verena!. … Nein, nein, ich bin noch nicht zu Hause. … Ich bin jetzt … warte … hör doch mal! … Hörst du, wo ich bin? … Ja, genau! … Ja, den Koffer hab ich … und die Tasche auch … Mach dir doch nicht immer so viele Sorgen, mein Schatz! … Ich bin schon erwachsen, weißt du? … Ich steige jetzt in die U-Bahn ein … und in vierzig Minuten komme ich zu Hause an … ja, dann rufe ich dich an. … Ja, natürlich! … Tschüs, mein Kind! …
 Durchsage: Am Bahnsteig zwei fährt gerade die U2, Richtung Messestadt München ein. Bitte Vorsicht an der Bahnsteigkante.
@@ -264,7 +264,7 @@ Eine wichtige Durchsage für alle Reisenden nach Hamburg: Der Intercity Express 
 # Menschen A1.1 Kursbuch, Seite 67, Lektion 12
 <audio controls loop src="歌德课程复习A1.1/Lektion 12, 4a.mp3"></audio>
 
-`````
+`````de
 Interviewer: Du heißt …?
 Henry: Ich heiße Henry …
 Interviewer: … und du kommst aus …
@@ -310,7 +310,7 @@ Benito & Carmela: Danke! … Ciao!
 # Menschen A1.1 Kursbuch, Seite 72, Modul 4
 <audio controls loop src="歌德课程复习A1.1/Modul 4, 1_2.mp3"></audio>
 
-`````
+`````de
 PartyMax
 
 Die Woche ist mal wieder nicht so toll gewesen: Von morgens bis abends nur Arbeit und Stress. 
@@ -330,7 +330,7 @@ Wir steigen ein, Wir fliegen ab, wir hören nicht mehr auf bis morgen früh um a
 # Menschen A1.2 Kursbuch, Seite 9, Lektion 13
 <audio controls loop src="歌德课程复习A1.2/1 Lektion 13, 1.mp3"></audio>
 
-`````
+`````de
 Navigator: Nach 600 Metern bitte rechts abbiegen.
 Er: 600 Meter? … Ach, das ist da unten, vor der Brücke.
 Sie: Jetzt schon nach rechts? Meinst du? … Nein, nein, das ist falsch.
@@ -357,7 +357,7 @@ Er: Hmm …
 # Menschen A1.2 Kursbuch, Seite 10, Lektion 13
 <audio controls loop src="歌德课程复习A1.2/2 Lektion 13, 4.mp3"></audio>
 
-`````
+`````de
 Er: Hallo? Entschuldigung? Können Sie uns helfen?
 Passant: Ja, bitte?
 Er: Wo ist denn hier die Altenburger Landstraße?
@@ -380,7 +380,7 @@ Passantin: Also, jetzt wenden Sie zuerst mal und dann fahren Sie einen Kilometer
 # Menschen A1.2 Kursbuch, Seite 11, Lektion 13
 <audio controls loop src="歌德课程复习A1.2/3 Lektion 13, 5.mp3"></audio>
 
-`````
+`````de
 Sie: Kennen Sie das Hotel „Maritim“?
 Passantin: Das „Maritim“? Hach, da sind Sie hier aber ganz falsch! Das ist ja in der Stadtmitte.
 Sie: Ach, das „Maritim“ ist im Zentrum?
@@ -413,7 +413,7 @@ Navigator: Nach 800 Metern bitte links abbiegen.
 # Menschen A1.2 Arbeitsbuch, Seite 9, Lektion 13
 <audio controls loop src="歌德课程复习A1.2/Lektion 13, Hoeren, 1 und 2.mp3"></audio>
 
-`````
+`````de
 A: Entschuldigen Sie? ... Können Sie mir helfen?
 B: Ja, klar.
 A: Ich suche die Albachstraße? … Kennen Sie die?
@@ -433,7 +433,7 @@ B: Kein Problem.
 # Menschen A1.2 Kursbuch, Seite 14, Lektion 14
 <audio controls loop src="歌德课程复习A1.2/6 Lektion 14, 4.mp3"></audio>
 
-`````
+`````de
 Maria: Das ist Ottos Haus.
 Elena: Hey. Das ist aber groß! Wie viele Zimmer hat sein Haus denn?
 Maria: Das weiß ich nicht. Warte mal! Hier vorne links ist die Küche, dahinter ist Ottos  Arbeitszimmer und rechts ist sein Wohnzimmer.
@@ -464,7 +464,7 @@ Maria: Du, weißt du, was ich glaube? …
 # Menschen A1.2 Arbeitsbuch, Seite 14, Lektion 14
 <audio controls loop src="歌德课程复习A1.2/Lektion 14, Basistraining, 11 und 12.mp3"></audio>
 
-`````
+`````de
 A: Wow…. Guck mal Dalva, hier ist das Wohnzimmer.
 B: Toll, mit riesengroßen Fenstern.
 A: Ja, und hier neben die Fenster kannst du dein rotes Sofa stellen.
@@ -484,7 +484,7 @@ B: Und hier ist das Bad. Ein bisschen klein, aber okay. Was meinst du?
 # Menschen A1.2 Arbeitsbuch, Seite 19, Lektion 15
 <audio controls loop src="歌德课程复习A1.2/Lektion 15, Basistraining, 5.mp3"></audio>
 
-`````
+`````de
 Liebe Leute!
 Ich möchte euch gern zu einem Spaziergang durch Giesing einladen – natürlich mit vielen Tipps. Giesing ist einfach toll. In unserem Viertel ist immer was los. Früher haben in Giesing viele Arbeiter gewohnt. Heute trifft man hier viele verschiedene Menschen – junge und alte Menschen, Menschen aus Deutschland, aber auch Menschen aus anderen Ländern. Die Mieten sind hier nicht so hoch. Auch Studenten können hier wohnen.
 Giesing hat auch kulturell einiges zu bieten: Es gibt nicht nur zwei Stadtteilbibliotheken, sondern auch ein Kino und ein Theater. Am besten gefällt mir das Stadtteil-Kulturzentrum im alten Giesinger Bahnhof. Hier fahren keine Züge mehr, doch hier trifft man immer nette Menschen. Das Programm bietet Theater, Kino und Tanz. Da ist doch für jeden etwas dabei. Schon neugierig? Dann kommt doch mal vorbei und schaut euch Giesing an.
@@ -493,7 +493,7 @@ Giesing hat auch kulturell einiges zu bieten: Es gibt nicht nur zwei Stadtteilbi
 # Menschen A1.2 Kursbuch, Seite 24, Modul 5
 <audio controls loop src="歌德课程复习A1.2/14 Modul 5, 2.mp3"></audio>
 
-`````
+`````de
 Ausklang: Ich finde es hier super
 
 Ich finde es hier super. Der Ort ist sehr schön.
@@ -526,7 +526,7 @@ Ich kann das nicht verstehen.
 # Menschen A1.2 Kursbuch, Seite 26, Lektion 16
 <audio controls loop src="歌德课程复习A1.2/16 Lektion 16, 3_4.mp3"></audio>
 
-`````
+`````de
 Frau: Was machen wir jetzt?
 Mann: Warten, oder? Der Aufzug geht ja sicher gleich wieder.
 Frau: Naja, wer weiß? Gibt's hier keinen Alarmknopf?
@@ -567,7 +567,7 @@ Frau: Du hast Zeit bis kurz vor vier …
 # Menschen A1.2 Arbeitsbuch, Seite 32, Lektion 16
 <audio controls loop src="歌德课程复习A1.2/Lektion 16, Basistraining, 10.mp3"></audio>
 
-`````
+`````de
 Stefan: Hallo Nina!
 Nina: Ach, hallo Stefan! Wie geht’s?
 Stefan: Danke gut. Du, Nina, wir müssen leider unser Treffen heute um elf verschieben.
@@ -584,7 +584,7 @@ Stefan: Ich auch. Tschüs.
 # Menschen A1.2 Kursbuch, Seite 33, Lektion 18
 <audio controls loop src="歌德课程复习A1.2/18 Lektion 18, 1b.mp3"></audio>
 
-`````
+`````de
 Frau Brehm: Hallo! Schwester Angelika!
 Schwester Angelika: Ach! Hallo, Frau Brehm! Wie geht es Ihnen?
 Frau Brehm: Mir geht’s gut, danke. Aber mein Mann ist leider krank.
@@ -596,7 +596,7 @@ Schwester Angelika: Kommen Sie mit!
 # Menschen A1.2 Kursbuch, Seite 34, Lektion 18
 <audio controls loop src="歌德课程复习A1.2/19 Lektion 18, 2.mp3"></audio>
 
-`````
+`````de
 Schwester Angelika: Hat Ihr Mann auch Schmerzen in den Armen oder Beinen?
 Frau Brehm: Nein, er hat nur Kopfschmerzen.
 Schwester Angelika: Und wie hoch ist das Fieber?
@@ -610,7 +610,7 @@ Frau Brehm: Vielen Dank, Schwester Angelika!
 # Menschen A1.2 Kursbuch, Seite 34, Lektion 18
 <audio controls loop src="歌德课程复习A1.2/20 Lektion 18, 2.mp3"></audio>
 
-`````
+`````de
 Frau Brehm: Hallo Schatz! Da bin ich wieder. Wie geht’s?
 Herr Brehm: Nicht so toll. Mein Kopf tut immer noch weh.
 Frau Brehm: Hm …
@@ -628,14 +628,14 @@ Herr Brehm: Na schön!
 # Menschen A1.2 Arbeitsbuch, Seite 45, Lektion 18
 <audio controls loop src="歌德课程复习A1.2/Lektion 18, Hoeren, 1.mp3"></audio>
 
-`````
+`````de
 Klaus Schneider: Guten Tag Frau Krüger. Klaus Schneider hier. Ich bin krank und kann morgen leider nicht um 10.00 Uhr zum Termin kommen. Können wir den Termin verschieben? Haben Sie am Mittwoch um 8.00 Uhr Zeit? Ich habe dann sowieso von 10.00 bis 12.00 Uhr eine Sitzung in Ihrer Firma. Ich rufe Sie morgen noch einmal an. Auf Wiederhören.
 `````
 
 # Menschen A1.2 Arbeitsbuch, Seite 45, Lektion 18
 <audio controls loop src="歌德课程复习A1.2/Lektion 18, Hoeren, 2.mp3"></audio>
 
-`````
+`````de
 a
 Melanie Huber: Guten Morgen Frau Gruber. Hier ist Melanie Huber. Meine Tochter ist krank. Ich kann daher leider heute nicht kommen. Wir haben heute Nachmittag einen Termin beim Arzt. Ich rufe dann morgen Vormittag noch einmal an. Vielleicht kann ich morgen Nachmittag ein paar Stunden arbeiten.
 
@@ -652,7 +652,7 @@ Ansage: Praxis Doktor Winterberg. Wir sind leider gerade nicht zu sprechen. Sie 
 # Menschen A1.2 Kursbuch, Seite 40, Modul 6
 <audio controls loop src="歌德课程复习A1.2/21 Modul 6, 1.mp3"></audio>
 
-`````
+`````de
 Chor
 Gloria, Viktoria, widewidewitt juchheirassa!
 Gloria, Viktoria, widewidewitt, bum bum.
@@ -681,7 +681,7 @@ Na schön, dann schlafen Sie halt am Tag.
 # Menschen A1.2 Kursbuch, Seite 42, Lektion 19
 <audio controls loop src="歌德课程复习A1.2/24 Lektion 19, 2_3.mp3"></audio>
 
-`````
+`````de
 Sie: Du! … Guck doch mal!
 Er: Was ist denn los?
 Sie: Sieh nicht gleich hin! Da drüben … am Eingang.
@@ -708,7 +708,7 @@ Sie: Hallo, Walter! Lange nicht gesehen, was?
 # Menschen A1.2 Kursbuch, Seite 43, Lektion 19
 <audio controls loop src="歌德课程复习A1.2/25 Lektion 19, 6a.mp3"></audio>
 
-`````
+`````de
 Peter: Hallo Tom!
 Tom: Hey, Peter! Hast du schon gesehen, wer hier ist?
 Peter: Wer denn? Na, sag schon!
@@ -727,7 +727,7 @@ Peter: Ach du liebe Zeit! Das gibt’s doch nicht! Und diese Frau hat mir frühe
 # Menschen A1.2 Kursbuch, Seite 43, Lektion 19
 <audio controls loop src="歌德课程复习A1.2/26 Lektion 19, 6a.mp3"></audio>
 
-`````
+`````de
 Svenja: Guck doch mal! Da ist Mark. Dann ist Sylvie doch sicher auch hier, oder?
 Alisa: Was? Sag bloß, du weißt das von Mark und Sylvie noch nicht?
 Svenja: Was denn?
@@ -744,7 +744,7 @@ Svenja: Wahnsinn!
 # Menschen A1.2 Kursbuch, Seite 43, Lektion 19
 <audio controls loop src="歌德课程复习A1.2/27 Lektion 19, 6a.mp3"></audio>
 
-`````
+`````de
 Tom: Sag mal, wer ist denn der Typ da drüben?
 Bekki: Kennst du ihn nicht? Das ist Mike Palfinger. Ihm hat das „Flying Horse‘ gehört.
 Tom: Das ist diese Luxus-Disco in Grünwald, oder?
@@ -758,7 +758,7 @@ Bekki: H-hm.
 # Menschen A1.2 Arbeitsbuch, Seite 68, Lektion 21
 <audio controls loop src="歌德课程复习A1.2/Lektion 21, Basistraining, 11 und 12.mp3"></audio>
 
-`````
+`````de
 Interviewer: Hallo. An unserer Fachhochschule sind Handys verboten. Viele beschweren sich über diese Regel. Wie findest du die Regel?
 Person 1: Ich finde die Regel in Ordnung. Irgendein Handy klingelt sonst immer. Das finde ich nicht so gut. Dann kann man nicht arbeiten.
 Interviewer: Und du? Was sagst du zu dem Handyverbot?
@@ -771,7 +771,7 @@ Person 4: Das kann ich gut verstehen. Ich habe das Handy auch immer an. Ich bin 
 # Menschen A1.2 Kursbuch, Seite 56, Modul 7
 <audio controls loop src="歌德课程复习A1.2/33 Modul 7, 1.mp3"></audio>
 
-`````
+`````de
 Der Bitte-Danke-Walzer
 
 Entschuldigung? ... Sie verzeihen? Dürfen wir mal eben hier vorbei?
@@ -804,7 +804,7 @@ Mir hat es auch gut gefallen. Ich freu' mich auf ein Wiedersehen!
 # Menschen A1.2 Arbeitsbuch, Seite 85, Lektion 23
 <audio controls loop src="歌德课程复习A1.2/Lektion 23, Basistraining, 6.mp3"></audio>
 
-`````
+`````de
 Radiomoderatorin: Und nun das Wetter. In Norddeutschland scheint schon heute vielfach die Sonne. Im Westen ist es zunächst neblig. Nach Nebelauflösung lässt sich auch hier immer häufiger die Sonne blicken. Im Süden und Osten Deutschlands ist es bewölkt und es kann noch etwas regnen. Im Süden sind dabei auch stärkere Regenfälle möglich. Die Temperaturen liegen im Norden bei 14 Grad. Im Westen steigen die Temperaturen bei Sonnenschein bis auf 16 Grad. Im Süden ist es mit 10 Grad eher kühl. Und in Ostdeutschland liegen die Temperaturen bei 14 Grad.
 Morgen scheint in ganz Deutschland die Sonne und die Temperaturen liegen zwischen 12 und 18 Grad. Das war's heute wieder mit unseren Nachrichten und weiter geht's mit „Little Bob“
 `````
@@ -812,7 +812,7 @@ Morgen scheint in ganz Deutschland die Sonne und die Temperaturen liegen zwische
 # Menschen A1.2 Arbeitsbuch, Seite 87, Lektion 23
 <audio controls loop src="歌德课程复习A1.2/Lektion 23, Hoeren, 2.mp3"></audio>
 
-`````
+`````de
 Peters Kollegin: Hallo Peter! Lang nicht gesehen! Hattest du einen schönen Urlaub?
 Peter: Nein, ehrlich gesagt, eher nicht. Meine Frau war krank. Sie hat über eine Woche mit Fieber und Grippe im Bett gelegen.
 Peters Kollegin: Oh, nein!
@@ -829,7 +829,7 @@ Peters Kollegin: Ja, wir hatten Glück. Unser Urlaub war einfach super! Das Wett
 # Menschen A1.2 Kursbuch, Seite 61, Lektion 23
 <audio controls loop src="歌德课程复习A1.2/37 Lektion 23, 1.mp3"></audio>
 
-`````
+`````de
 Laura: Hach, Regen, Regen, Regen … Wie lange soll das denn NOCH weitergehen? Ach Mann! Das ist unmöglich!
 Sandra: Guten Morgen, Laura!
 Laura: Morgen, Sandra. Himmel nochmal, ist das kalt! Bitte, kannst du nicht ein bisschen Sonnenschein für mich machen?
@@ -846,7 +846,7 @@ Laura: Hm, ja! Viel besser! Du bist ein Schatz!
 # Menschen A1.2 Kursbuch, Seite 65, Lektion 24
 <audio controls loop src="歌德课程复习A1.2/46 Lektion 24, 1.mp3"></audio>
 
-`````
+`````de
 Alisa: Ja? … Hallo? Hier ist Alisa … Hey, Nick! Du, warte mal kurz. So, jetzt. Na? Was läuft so?
 Nick: Was läuft? Hast du meine E-Mail nicht bekommen?
 Alisa: Nö, ich war noch nicht online. Was ist denn?
@@ -877,7 +877,7 @@ Alisa: Bis später! Tschüs!
 # Menschen A1.2 Arbeitsbuch, Seite 91, Lektion 24
 <audio controls loop src="歌德课程复习A1.2/Lektion 24, Basistraining, 5a.mp3"></audio>
 
-`````
+`````de
 Anrufbeantworter: Praxis Dr. Steinmeyer. Die Praxis ist zurzeit leider geschlossen. Vom 3. August bis zum 23. August sind wir im Urlaub. In Notfällen wenden Sie sich bitte an Dr. Kleinert in der Bergstraße 12. Ab dem 24. August sind wir wieder für Sie da. Wir danken für Ihren Anruf.
 `````
 
@@ -902,7 +902,7 @@ Michi: Hallo Katrin. Hier ist Michi. Ich habe am Wochenende noch nichts vor. Has
 # Menschen A1.2 Kursbuch, Seite 72, Modul 8
 <audio controls loop src="歌德课程复习A1.2/47 Modul 8, 1_2.mp3"></audio>
 
-`````
+`````de
 Sie hat mehr Glück als ich.
 Sie sieht viel schöner aus.
 Sie hat den teuersten Schmuck.

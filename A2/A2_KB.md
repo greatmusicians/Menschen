@@ -1,7 +1,7 @@
 # 02_Lektion_1_1.mp3
 <audio controls loop src="A2.1_KB/02_Lektion_1_1.mp3"></audio>
 
-`````
+`````de
 Franka: Ist das richtig so, Opa?
 Opa: Ja, das machst du sogar sehr gut, Franka. Und jetzt die Enden auf die Brezel drücken.
 Paul: Opa?
@@ -19,7 +19,7 @@ Opa: Siehst du? Und das wiederholen wir jetzt 30 mal.
 # 03_Lektion_1_3b.mp3
 <audio controls loop src="A2.1_KB/03_Lektion_1_3b.mp3"></audio>
 
-`````
+`````de
 Paul: Und wer ist das?
 Opa: Das sind meine Eltern vor ihrer Bäckerei. Das bin ich...das ist meine Schwester Lilli...und das da war unser Opa.
 Paul: Aber du bist doch unser Opa!
@@ -49,7 +49,7 @@ sonst 否则,不然就
 # 05_Lektion_1_5_und_7.mp3
 <audio controls loop src="A2.1_KB/05_Lektion_1_5_und_7.mp3"></audio>
 
-`````
+`````de
 Opa: Na gut. Also passt auf: Onkel Willi war nicht sehr fleißig. Er hat nicht gern gearbeitet. Er ist lieber mit den Mädchen tanzen gegangen. Einmal war sein Vater sehr krank. Er konnte nicht in die Bäckerei gehen und backen. Also hat er Onkel Willi darum gebeten. Aber Onkel Willi ist zu spät aus dem Bett gekommen. Keiner hat Brezeln gebacken. Niemand hatte Brötchen zum Frühstück. Die Bäckerei hatte den ganzen Tag geschlossen. Sein Vater war sehr wütend. Sie haben gestritten. Großvater hat gerufen: „Nie machst du, was ich sage. Geh doch dahin, wo der Pfeffer wächst“. Und wisst ihr, was dann passiert ist? Am nächsten Tag hat Onkel Willi sich ein Motorrad gekauft und ist dorthin gefahren, wo der Pfeffer wächst. Nach Indien! Er war schon verrückt, mein Onkel Willi!
 `````
 
@@ -76,7 +76,7 @@ DWDS上，nächstens的发音是/çs/，但是wächsern的发音是/ks/
 # 06_Lektion_2_2.mp3
 <audio controls loop src="A2.1_KB/06_Lektion_2_2.mp3"></audio>
 
-`````
+`````de
 Möbelpacker: Wohin mit der Kommode?
 Stefan: Gleich neben die Tür.
 Jasmin: Nein, Stefan. Nicht neben die Tür. Lieber unter das Fenster. Das sieht besser aus.
@@ -89,7 +89,7 @@ Möbelpacker: Entschuldigen Sie... Wie lange wollen Sie noch diskutieren? Das Di
 # 07_Lektion_2_3.mp3
 <audio controls loop src="A2.1_KB/07_Lektion_2_3.mp3"></audio>
 
-`````
+`````de
 1
 Stefan: Wenn ich in eine Wohnung einziehe, stelle ich zuerst das Sofa in das Wohnzimmer. Dann stelle ich das Fernsehgerät vor das Sofa. Das Fernsehgerät muss vor dem Sofa stehen. Sonst ist es nicht gemütlich. Alles andere ist unwichtig. Ob nun die Lampe neben dem Schrank steht, der Schrank in der Ecke oder neben dem Sofa, ist egal. Hauptsache ich fühle mich in meiner Wohnung wohl.
 2
@@ -112,7 +112,7 @@ verstecken 隐藏
 # 08_Lektion_3_2.mp3
 <audio controls loop src="A2.1_KB/08_Lektion_3_2.mp3"></audio>
 
-`````
+`````de
 a
 Rostocker: Tach ... Willkommen in Rostock. … Rostock ist die größte Stadt in Mecklenburg-Vorpommern. … Mecklenburg-Vorpommern ist ein deutsches Bundesland und liegt im Norden, an der Ostsee.
 b
@@ -136,7 +136,7 @@ Er ist Dichter und Maler zugleich. 他既是诗人同样也是画家。
 # 09_Modul_1_Ausklang.mp3
 <audio controls loop src="A2.1_KB/09_Modul_1_Ausklang.mp3"></audio>
 
-`````
+`````de
 Früher war alles besser
 
 Im Keller ist es dunkel, im Keller ist es kalt.
@@ -197,7 +197,7 @@ legen是有方向的，隐含的就是平放。如果是竖着放的，就用ste
 # 10_Lektion_4_1.mp3
 <audio controls loop src="A2.1_KB/10_Lektion_4_1.mp3"></audio>
 
-`````
+`````de
 Otto: Die sind lustig! … Das kann doch keiner lesen! … WAS steht da? … Hase? … Nase? … Aach, Käse soll das heißen! … Einen Käse will er, … einen, was … einen wilden Käse? … Quatsch! … mild steht da … Einen milden Käse! … Tzz, diese Schrift! …
 Supermarkt-Lautsprecherstimme: Sie suchen ein stilles Mineralwasser? … Probieren Sie doch mal „Pur-A-Quell“. … Heute im Sonderangebot: Nehmen Sie drei Flaschen mit und bezahlen Sie nur für zwei! … „Pur-A-Quell“ … direkt aus der Natur!
 `````
@@ -211,7 +211,7 @@ stilles Mineralwasser
 # 11_Lektion_4_4_1.mp3
 <audio controls loop src="A2.1_KB/11_Lektion_4_4_1.mp3"></audio>
 
-`````
+`````de
 Käseverkäufer: Guten Tag! … Was darf‘s sein?
 Otto: Öhm … ich hätte gern … einen milden Käse.
 Käseverkäufer: Einen milden Käse? … Tja, da gibt es viele. … Möchten Sie lieber einen weichen Käse oder einen harten?
@@ -223,7 +223,7 @@ Otto: Aha …
 # 12_Lektion_4_4_2.mp3
 <audio controls loop src="A2.1_KB/12_Lektion_4_4_2.mp3"></audio>
 
-`````
+`````de
 Otto: Drei Liter normale Milch … Hmm … Ähh, hallo? … Entschuldigung!?
 Otto: Haben Sie denn keine normale Milch?
 Mitarbeiterin: Normale Milch? … Was meinen Sie mit ‚normal‘? … Meinen Sie Vollmilch mit 3,5% Fett? … Oder fettarme Milch mit 1,5% Fett? … Oder Magermilch mit 0,5% Fett?
@@ -233,7 +233,7 @@ Otto: Keine Ahnung! … Ähmm … Wissen Sie was? … Ich nehme einfach zwei von
 # 13_Lektion_4_4_3.mp3
 <audio controls loop src="A2.1_KB/13_Lektion_4_4_3.mp3"></audio>
 
-`````
+`````de
 Wurstfachverkäuferin: Hallo! … Was darf es sein?
 Otto: Ich hätte gern einen mageren Schinken.
 Wurstfachverkäuferin: Gern. … Soll‘s ein roher Schinken sein … oder ein gekochter Schinken? …
@@ -245,7 +245,7 @@ Otto: Tja, … dann geben Sie mir doch einfach von beiden je 250 Gramm. … Äh,
 # 14_Lektion_4_8.mp3
 <audio controls loop src="A2.1_KB/14_Lektion_4_8.mp3"></audio>
 
-`````
+`````de
 Jochen: WAS?! … 87 Euro und 30 Cent? …
 Otto: Ja, … ich bekomme 29 Euro und 10 Cent von jedem von euch.
 Bruno: Bist du verrückt!? …
@@ -274,7 +274,7 @@ der Nerv, -en, 心境，精神状态
 # 15_Lektion_5_2.mp3
 <audio controls loop src="A2.1_KB/15_Lektion_5_2.mp3"></audio>
 
-`````
+`````de
 Oma: Schaut mal, der schöne Dom! Hier im Prospekt steht: Der Dom ist 157 Meter 38 hoch und war bis 1884 das höchste Gebäude der Welt. Er ist eine der größten Kathedralen im gotischen Baustil und zählt zum UNESCO-Weltkulturerbe.
 Mutter: Lasst uns reingehen! Ich möchte unbedingt das neue Fenster von Gerhard Richter sehen. Und hinterher können wir noch in das Römisch-Germanische Museum gehen. Wenn wir Glück haben...
 Tochter: …ist das Museum heute geschlossen! Oh Mann, wirklich. Mama! Oma! Muss ich da mit? Ich finde Kirchen und Museen stinklangweilig. Können wir nicht was anderes machen? Ich dachte, wir gehen shoppen!
@@ -337,7 +337,7 @@ das Römisch-Germanische Museum，位于科隆的罗马-日耳曼博物馆是一
 # 17_Lektion_6_5_1.mp3
 <audio controls loop src="A2.1_KB/17_Lektion_6_5_1.mp3"></audio>
 
-`````
+`````de
 Tim Rastmann: Hallo Anja, … Hier ist Tim …
 Tim Rastmann: Welcher Tim? … Na, Tim Rastmann …
 Tim Rastmann: Genau! … Na, wie geht’s denn so? …
@@ -355,7 +355,7 @@ Tim Rastmann: Jepp!
 # 18_Lektion_6_5_2.mp3
 <audio controls loop src="A2.1_KB/18_Lektion_6_5_2.mp3"></audio>
 
-`````
+`````de
 Ludmilla Stojkovic: Hallo? … Britta? … Hier ist Ludmilla.
 Ludmilla Stojkovic: Ah, Du hast gerade keine Zeit? … Du, ich hab‘ nur eine ganz kurze Frage: … Anfang September fahre ich für ein paar Tage nach Linz …
 Ludmilla Stojkovic: Ja, genau, … ja, da möchte ich auf jeden Fall wieder hin. … Du hast doch mal gesagt, das würde dich auch interessieren …
@@ -376,7 +376,7 @@ statt Konj. 而不是...
 # 19_Modul_2_Ausklang.mp3
 <audio controls loop src="A2.1_KB/19_Modul_2_Ausklang.mp3"></audio>
 
-`````
+`````de
 Hallo, meine sehr geehrten Damen und Herren.
 Mein Name ist Carolina Barth.
 Ist das nicht ein wunderbares Wetter heute?
@@ -410,7 +410,7 @@ das Denkmal, -mäler, 纪念碑
 # 20_Lektion_7_2.mp3
 <audio controls loop src="A2.1_KB/20_Lektion_7_2.mp3"></audio>
 
-`````
+`````de
 Trainerin: Und? Wie fühlen Sie sich?
 Herr Peters: Fan...fantastisch! Die Natur ... die frische Luft... ich könnte ewig so laufen.
 Trainerin: Ja, Joggen ist toll!
@@ -444,7 +444,7 @@ das Tempo 速度
 # 21_Lektion_7_3.mp3
 <audio controls loop src="A2.1_KB/21_Lektion_7_3.mp3"></audio>
 
-`````
+`````de
 Herr Peters: Puh, das war super! Ich fühle mich schon viel schlanker.
 Trainerin: Wie viel Kilo möchten Sie denn abnehmen?
 Herr Peters: Hm naja... so ungefähr acht?
@@ -469,7 +469,7 @@ Hydrat [hy`dra:t] [化]水合物,水化物
 # 22_Lektion_8_1a.mp3
 <audio controls loop src="A2.1_KB/22_Lektion_8_1a.mp3"></audio>
 
-`````
+`````de
 Dr. Watzeck: Frau … ähh … ähh … Frau Charlotte Brudler, bitte ins Sprechzimmer. Guten Tag Frau Brudler! … Bitte, nehmen Sie Platz!
 Frau Brudler: Danke …
 Dr. Watzeck: Na, … was kann ich denn heute für Sie tun, Frau Brudler?
@@ -492,7 +492,7 @@ Dr. Watzeck: Ganz ruhig, Frau Brudler. … Wir sehen uns das jetzt einfach mal a
 # 23_Lektion_9_1.mp3
 <audio controls loop src="A2.1_KB/23_Lektion_9_1.mp3"></audio>
 
-`````
+`````de
 Alfons Beierl: Guten Tag! Ich darf mich vorstellen: Mein Name ist Alfons Beierl.
 Ich bin 1977 als junger Mann hierher zu Audi nach Ingolstadt gekommen. Und diesen Wagen hier links, … den hab ich selbst noch mitgebaut.
 Das ist ein ‚Audi 80‘ aus der ersten Baureihe. ‚Audi 80‘, das sagt Ihnen vielleicht nicht mehr viel, heute.
@@ -509,7 +509,7 @@ die Erfolgsgeschichte 成故故事，成功历程
 # 24_Modul_3_Ausklang.mp3
 <audio controls loop src="A2.1_KB/24_Modul_3_Ausklang.mp3"></audio>
 
-`````
+`````de
 Man sollte eigentlich ... Aber es geht nicht. 24 Stunden sind zu wenig.
 Na ja, man könnte doch ... Aber es geht nicht. 24 Stunden sind zu wenig.
 Man sollte öfter mal ... Aber es geht nicht. 24 Stunden sind zu wenig.
@@ -544,7 +544,7 @@ Weil ich jetzt nicht weiß, mit wem ich Sport machen soll!
 # 25_Lektion_10_2.mp3
 <audio controls loop src="A2.1_KB/25_Lektion_10_2.mp3"></audio>
 
-`````
+`````de
 Julia: Guten Tag, sind Sie...?
 Olli: Ich glaube schon, wenn Sie...?
 Julia: Wahrscheinlich, weil...wir haben die gleiche Blume...
@@ -569,7 +569,7 @@ Gerbera 非洲菊；大丁草
 # 26_Lektion_10_3.mp3
 <audio controls loop src="A2.1_KB/26_Lektion_10_3.mp3"></audio>
 
-`````
+`````de
 Olli: Schade, dass es keine Pizza gibt.
 Julia: Das ist ja kein italienisches Lokal.
 Olli: Und Hamburger auch nicht.
@@ -591,7 +591,7 @@ zum Glück 幸亏，幸好
 # 27_Lektion_10_5.mp3
 <audio controls loop src="A2.1_KB/27_Lektion_10_5.mp3"></audio>
 
-`````
+`````de
 Ober: So...Sie bekommen?
 Olli: Ich nehme das Steak. Aber nicht mit Kartoffeln, sondern mit Pommes Frites.
 Ober: Gern. Wie wollen Sie das Steak?
@@ -627,7 +627,7 @@ Haben Sie Irgendwelche Sonderwünsche? 还有什么特别要求吗?
 # 28_Lektion_10_8.mp3
 <audio controls loop src="A2.1_KB/28_Lektion_10_8.mp3"></audio>
 
-`````
+`````de
 Ober: Hat es geschmeckt?
 Julia: Wunderbar!
 Olli: Verzeihen Sie, aber Sie haben meine Pommes Frites vergessen.
@@ -644,7 +644,7 @@ Julia: Getrennt!
 # 29_Lektion_11_1.mp3
 <audio controls loop src="A2.1_KB/29_Lektion_11_1.mp3"></audio>
 
-`````
+`````de
 Luisa Bauer: Hey Leute, vielen Dank! … Also … das ist total lieb von Euch … Und weil ich weiß, dass Ihr alle Hunger habt … und weil das warme Buffet nicht kalt werden soll, … deshalb sag ich jetzt auch nur einen Satz: Ich freue mich so über unsere tolle Arbeit in den letzten 10 Jahren … und ich bin auch restlos glücklich … mit Euch! Danke! … Das Buffet ist eröffnet!
 `````
 
@@ -655,7 +655,7 @@ das Buffet  [by`fe:] 自助餐
 # 30_Lektion_12_2.mp3
 <audio controls loop src="A2.1_KB/30_Lektion_12_2.mp3"></audio>
 
-`````
+`````de
 Radioreporter: Heute sind wir bei Familie Schneider zu Besuch. Die Familie bereitet alles für ein Foto vor. Eine Zeitschrift will über ihre Essgewohnheiten berichten. Was isst eine deutsche Familie innerhalb einer Woche? Familie Schneider ist eine deutsche Durchschnittsfamilie. Vater, Mutter, eine 10jährige Tochter, ein vierzehnjähriger Sohn. Gemeinsam stellen sie ihre Wocheneinkäufe auf den Tisch.
 Sohn: Wo soll das Gemüse hin?
 Mutter: Leg es auf die rechte Seite. Da ist noch Platz.
@@ -672,7 +672,7 @@ Radioreporter: Auf dem Tisch sieht man nun 10 Liter Saft...
 # 31_Lektion_12_5_1.mp3
 <audio controls loop src="A2.1_KB/31_Lektion_12_5_1.mp3"></audio>
 
-`````
+`````de
 Mutter: Ich koche gern. Unter der Woche gibt es oft Gemüse, Nudeln oder Suppe. Und wenn es schnell gehen muss, auch mal Pizza. Im Sommer, wenn es warm ist, essen wir meist Salat. Am Wochenende brate ich oft Fleisch und Fisch. Vor allem wenn Gäste kommen. Dann probiere ich oft neue Rezepte aus.
 `````
 
@@ -683,7 +683,7 @@ vor allem ①主要是，特别是 ②首先
 # 32_Lektion_12_5_2.mp3
 <audio controls loop src="A2.1_KB/32_Lektion_12_5_2.mp3"></audio>
 
-`````
+`````de
 Vater: Ich bin fürs Frühstück zuständig. Unter der Woche frühstücken wir Müsli. Am Wochenende hole ich Brötchen, mache Spiegeleier und decke den Tisch. Außerdem backe ich den Kuchen, wenn jemand Geburtstag hat. Ich liebe es, wenn wir alle zusammen sitzen. Dann reden und essen wir oft zwei Stunden lang. Ab und zu gehen meine Frau und ich auch ins Restaurant.
 `````
 
@@ -695,21 +695,21 @@ ab und zu 有时候，不时地
 # 33_Lektion_12_5_3.mp3
 <audio controls loop src="A2.1_KB/33_Lektion_12_5_3.mp3"></audio>
 
-`````
+`````de
 Sohn: Mama kocht viel zu oft Gemüse. Aber wenn ich Geburtstag habe, dann darf ich mir ein Essen aussuchen. Und dann wünsche ich mir Lasagne oder Pizza. Das sind meine Lieblingsessen. Wenn meine Freunde kommen, dann dürfen wir uns auch mal ein Eis aus dem Kühlschrank holen.
 `````
 
 # 34_Lektion_12_5_4.mp3
 <audio controls loop src="A2.1_KB/34_Lektion_12_5_4.mp3"></audio>
 
-`````
+`````de
 Tochter: Ich esse gern Süßigkeiten, Bananen und Schnitzel. Aber nicht gleichzeitig. Wenn wir uns abends einen Film ansehen, dann macht Mama oft einen Teller mit Obst und Schokolade. Manchmal gibt es auch Chips dazu.
 `````
 
 # 35_Modul_4_Ausklang.mp3
 <audio controls loop src="A2.1_KB/35_Modul_4_Ausklang.mp3"></audio>
 
-`````
+`````de
 LIEBE GEHT DURCH DEN MAGEN
 
 Ich weiß, dass ich kein Traummann bin
@@ -744,7 +744,7 @@ und wenn du‘s mal probiert hast, dann willst du mehr!
 # 01_Lektion_13_1.mp3
 <audio controls loop src="A2.2_KB/01_Lektion_13_1.mp3"></audio>
 
-`````
+`````de
 Paul: Bratwurst mit Sauerkraut! … Lecker!
 Frauke: Sag mal, Paul, woher kannst Du eigentlich so gut Deutsch? … Sind deine Eltern aus einem deutschsprachigen Land?
 Paul: Nein Frauke, … bei uns zu Hause spricht keiner Deutsch.
@@ -775,7 +775,7 @@ indefiniter Artikel, Adjektivdeklination, Plural + en
 # 02_Lektion_13_3_a_und_b.mp3
 <audio controls loop src="A2.2_KB/02_Lektion_13_3_a_und_b.mp3"></audio>
 
-`````
+`````de
 Paul: Wie heißt du?
 Frauke: Na, Frauke …
 Paul: Nein. „Wie heißt du?“, das war mein erster deutscher Satz …
@@ -824,7 +824,7 @@ werden: du wirst
 # 04_Lektion_14_2.mp3
 <audio controls loop src="A2.2_KB/04_Lektion_14_2.mp3"></audio>
 
-`````
+`````de
 Erna: So, der Schuhkarton ist fertig. Jetzt können wir die Sachen einpacken...
 Georg: Gut... die Mütze, den Schal und die Handschuhe legen wir ganz unten rein.
 Erna: Darüber freut sich das Kind bestimmt. In Osteuropa ist es jetzt ganz schön kalt.
@@ -844,7 +844,7 @@ Georg: Gern! Frohe Weihnachten... wünschen Georg... und Erna...
 # 06_Lektion_15_1.mp3
 <audio controls loop src="A2.2_KB/06_Lektion_15_1.mp3"></audio>
 
-`````
+`````de
 Er: Aah … gleich geht’s los …
 Sie: Ach, … Mist! …
 Er: Was denn?
@@ -861,7 +861,7 @@ Sie: Danke! … Hmm … Lecker! … Hach, ist das gemütlich! …
 # 07_Lektion_15_5a.mp3
 <audio controls loop src="A2.2_KB/07_Lektion_15_5a.mp3"></audio>
 
-`````
+`````de
 50jährige Frau: Ich sehe am liebsten den Tatort. ... Manchmal gucke ich ihn allein zu Hause, ... aber meistens zusammen mit einer Freundin. ... Dazu gibt’s immer Erdnüsse und ein, zwei Gläschen Sekt oder Wein.
 28jähriger Mann: Ich sehe oft den Tatort, aber ich habe keine feste Gewohnheit. ... Ich gucke den Tatort auch nicht immer am Sonntagabend. ... Wenn ich am Sonntagabend keine Zeit habe, gucke ich ihn später in der Mediathek.
 22jährige Studentin: Meine Lieblingssendung ist der Tatort. ... Ich treffe mich jeden Sonntagabend mit zwei Freundinnen aus der Uni. ... Dann kochen wir zusammen und anschließend sehen wir uns den neuen Tatort an. ... Das macht echt Spaß.
@@ -870,7 +870,7 @@ Sie: Danke! … Hmm … Lecker! … Hach, ist das gemütlich! …
 # 08_Modul_5_Ausklang.mp3
 <audio controls loop src="A2.2_KB/08_Modul_5_Ausklang.mp3"></audio>
 
-`````
+`````de
 So? ... Oder So?
 
 Ich muss nicht mehr aus meiner Wohnung gehen.
@@ -907,7 +907,7 @@ Gar nicht schön. So darf es nicht mehr weitergehen!
 # 09_Lektion_16_2.mp3
 <audio controls loop src="A2.2_KB/09_Lektion_16_2.mp3"></audio>
 
-`````
+`````de
 Schüler an der Rezeption: So, Frau Thalau...Ihr Zimmer ist im ersten Stock. Dann gebe ich Ihnen mal den Zimmerschlüssel.
 Schüler/Kunde: Hoffentlich ist Ihr Zimmer wenigstens sauber!
 Schülerin/Kundin: Wie bitte?
@@ -933,7 +933,7 @@ Ausbilderin: Gut. Stopp. Danke! Das war’s erst mal.
 # 10_Lektion_16_3.mp3
 <audio controls loop src="A2.2_KB/10_Lektion_16_3.mp3"></audio>
 
-`````
+`````de
 Ausbilderin: So, was meint ihr? Ich würde gerne wissen, ob Lukas alles richtig gemacht hat... Ja, Diana?
 Schülerin: Nein. Er war zu nervös.
 Ausbilderin: Pit!
@@ -971,7 +971,7 @@ der Schweinestall 猪圈,又脏又乱的房间
 # 11_Lektion_16_5b.mp3
 <audio controls loop src="A2.2_KB/11_Lektion_16_5b.mp3"></audio>
 
-`````
+`````de
 Schüler/Hotelgast: Entschuldigen Sie...
 Schüler/Rezeption: Ja, bitte?
 Schüler/Hotelgast: Wo ist denn hier die Sauna? Ich glaube, ich bin hier falsch.
@@ -986,7 +986,7 @@ Schüler/Hotelgast: Nein, danke. Jetzt weiß ich ja den Weg. Aber vorher war ich
 # 13_Lektion_17_1.mp3
 <audio controls loop src="A2.2_KB/13_Lektion_17_1.mp3"></audio>
 
-`````
+`````de
 Felix: So. Fertig.
 Nachbarin: Habt ihr alles?
 Simone: Ja... Nein, warte, Felix! Wo sind denn unsere Regensachen?
@@ -1005,7 +1005,7 @@ Nachbarin: Gute Fahrt, ihr zwei.
 # 14_Lektion_18_1.mp3
 <audio controls loop src="A2.2_KB/14_Lektion_18_1.mp3"></audio>
 
-`````
+`````de
 Er: Wuahh, ist das eisig! … Und dabei ist es erst Mitte Januar! … Wenn wir Pech haben, bleibt es noch zwei bis drei Monate lang so kalt. … MISTWETTER! … Naja, ist doch wahr, oder? … Ich HASSE sie einfach, diese dauernde Kälte!
 Sie: Puuhh! … Ist das wieder eine Hitze heute! … Und das geht schon seit Wochen so! … Dabei haben wir erst Mitte Juli! … Sogar nachts ist es mir inzwischen viel zu warm, … aber tagsüber ist es noch viel schlimmer … Aaahh!...
 `````
@@ -1013,7 +1013,7 @@ Sie: Puuhh! … Ist das wieder eine Hitze heute! … Und das geht schon seit Woc
 # 15_Lektion_18_3a.mp3
 <audio controls loop src="A2.2_KB/15_Lektion_18_3a.mp3"></audio>
 
-`````
+`````de
 Interviewer: Hallo!
 Er: Hallo!
 Interviewer: Darf ich kurz mit Ihnen über diesen wunderbaren Winter sprechen?
@@ -1033,7 +1033,7 @@ Er: Bitteschön! …
 # 16_Lektion_18_3a.mp3
 <audio controls loop src="A2.2_KB/16_Lektion_18_3a.mp3"></audio>
 
-`````
+`````de
 Interviewer: Hallo? … Hallo?!
 Sie: Wie bitte? … Sprechen Sie mit mir?
 Interviewer: Ja. … Ich interessiere mich für Ihre Meinung zum Wetter.
@@ -1063,7 +1063,7 @@ erstaunlich 惊人的，不可思议的
 # 17_Modul_6_Ausklang.mp3
 <audio controls loop src="A2.2_KB/17_Modul_6_Ausklang.mp3"></audio>
 
-`````
+`````de
 Ans Meer?
 
 Können Sie mir sagen, wie ich von hier ans Meer komme?
@@ -1109,7 +1109,7 @@ Wir fahren zusammen ans Meer!
 # 18_Lektion_19_1.mp3
 <audio controls loop src="A2.2_KB/18_Lektion_19_1.mp3"></audio>
 
-`````
+`````de
 Sascha: Hi, mein Name ist Sascha. Ich trage heute ein Gedicht vor ... Es heißt: „Wo, woher, wohin?“
 
 Wo warst du so lange?
@@ -1136,7 +1136,7 @@ Jana: Ja, das war mal was anderes. Gut, dass ich mitgekommen bin.
 # 19_Lektion_19_3_a_und_b.mp3
 <audio controls loop src="A2.2_KB/19_Lektion_19_3_a_und_b.mp3"></audio>
 
-`````
+`````de
 Bruno: Hi Pit, Hi Jana!
 Pit: Hi Bruno. Du bist ja total außer Atem. Woher kommst du denn?
 Bruno: Vom Sport. Sorry, dass ich so spät bin.
@@ -1159,7 +1159,7 @@ Jana: Ja, Pit hat recht. Ins Kino oder zum Essen können wir jeden Tag gehen. Ei
 # 20_Lektion_19_7a.mp3
 <audio controls loop src="A2.2_KB/20_Lektion_19_7a.mp3"></audio>
 
-`````
+`````de
 Sascha: Hi, mein Name ist Sascha. Ich trage heute ein Gedicht vor ... Es heißt: „Wo, woher, wohin?“
 
 Wo warst du so lange?
@@ -1182,7 +1182,7 @@ Wer?
 # 21_Lektion_20_2.mp3
 <audio controls loop src="A2.2_KB/21_Lektion_20_2.mp3"></audio>
 
-`````
+`````de
 Mädchen: Mischa sitzt am Tisch und wartet. Endlich klingelt das Telefon. Ihr Herz schlägt schneller.
 Durchsage in der U-Bahn: Nächste Haltestelle Schlossstraße.
 Mädchen: „Und?“, ruft Mischa ins Telefon.
@@ -1199,7 +1199,7 @@ Mädchen: Mist! Jetzt habe ich meine Haltestelle verpasst!
 # 22_Lektion_21_1b.mp3
 <audio controls loop src="A2.2_KB/22_Lektion_21_1b.mp3"></audio>
 
-`````
+`````de
 Herr Abelein: Hey! … Hallo! … Was machen Sie denn da? … Hey, Finger weg! … Das ist mein Auto! …Bleib stehen! … Du sollst stehenbleiben! …Hach, das gibt’s doch nicht, oder? … Das darf doch alles gar nicht wahr sein! … So ein verdammter Mist! … Ja? Hallo? … Ist da die Polizei? … Mein Name ist Gerd Abelein … Es geht um einen Einbruch … In mein Auto. … Gerade jetzt, vor einer Minute …
 `````
 
@@ -1217,7 +1217,7 @@ All of this can't be true!
 # 23_Lektion_21_4_a_und_b.mp3
 <audio controls loop src="A2.2_KB/23_Lektion_21_4_a_und_b.mp3"></audio>
 
-`````
+`````de
 Polizeibeamtin: … habe ich festgestellt, dass meine Jacke nicht im Auto war. … Ich habe meinen Geldbeutel ins Auto gelegt, habe das Auto abgesperrt und bin zurück in meine Wohnung, weil ich die Jacke noch schnell holen wollte. …
 Herr Abelein: Genau …
 Polizeibeamtin: Auf dem Weg zurück zum Auto, habe ich gesehen, wie ein Mann mit einem Hammer das Autofenster eingeschlagen hat. … Ich bin sofort losgerannt und habe gerufen. … Der Mann hat meinen Geldbeutel genommen und ist dann weggelaufen.
@@ -1253,7 +1253,7 @@ Dana Radic: Hallo, Frau Fischer? … Hier ist Dana Radic. … Na, wie geht‘s? 
 # 27_Lektion_22_2_b_und_c.mp3
 <audio controls loop src="A2.2_KB/27_Lektion_22_2_b_und_c.mp3"></audio>
 
-`````
+`````de
 Sprecher: Carsharing hat sich im letzten Jahrzehnt in Deutschland sehr positiv entwickelt. … Wer nicht mehr als 5000 km pro Jahr mit dem Auto fährt, kann viel Geld sparen. … Vor allem in größeren Städten entscheiden sich deshalb immer mehr Menschen gegen ein eigenes Auto … und nutzen lieber die Angebote von weit über einhundert professionellen Carsharing-Organisationen. … Wir haben einige Leute befragt, warum sie sich für Carsharing und gegen ein eigenes Auto entschieden haben. Wie zum Beispiel Carola Böck aus Frankfurt:
 Carola Böck: Ich buche drei- bis viermal im Monat ein Auto. … Zum Beispiel, wenn ich einen Großeinkauf mache, … oder wenn ich meine Freundin besuche. … Sie ist vor ein paar Jahren an den Stadtrand gezogen. … Seit sie dort wohnt, fahre ich immer mit dem Auto zu ihr. … Mit dem Bus kommt man da nämlich nur ganz schlecht hin. … Und wenn man den Bus mal verpasst, muss man sehr lange warten, bis der nächste kommt.
 Sprecher: Weitere gute Gründe für Carsharing hören wir von Ingo Friedrich. Der Ingenieur ist Single und arbeitet in einem Großunternehmen:
@@ -1266,28 +1266,28 @@ Sprecher: Ob es wirklich so kommt, wissen wir noch nicht. … Aber die Entwicklu
 # 29_Lektion_23_5_a_und_b.mp3
 <audio controls loop src="A2.2_KB/29_Lektion_23_5_a_und_b.mp3"></audio>
 
-`````
+`````de
 Auszubildende: Ich bin gar nicht zufrieden mit meiner Ausbildung. Immer muss ich kopieren und Kaffee kochen. Das ist langweilig und das ärgert mich. Ich habe wirklich genug. Am liebsten würde ich eine neue Ausbildung anfangen.
 `````
 
 # 30_Lektion_23_5_a_und_b.mp3
 <audio controls loop src="A2.2_KB/30_Lektion_23_5_a_und_b.mp3"></audio>
 
-`````
+`````de
 Frau Mitte 30: Ich bin Architektin von Beruf. Damit bin ich super zufrieden. Meine Arbeit ist interessant und das Betriebsklima in unserer Firma ist prima. So macht arbeiten Spaß.
 `````
 
 # 31_Lektion_23_5_a_und_b.mp3
 <audio controls loop src="A2.2_KB/31_Lektion_23_5_a_und_b.mp3"></audio>
 
-`````
+`````de
 Frau Mitte 20: Eigentlich bin ich Ingenieurin, aber zurzeit arbeite ich als Verkäuferin. Der Job ist nicht toll, aber okay. Ich kann hier Teilzeit arbeiten und mich um meine kleine Tochter kümmern.
 `````
 
 # 32_Lektion_24_1.mp3
 <audio controls loop src="A2.2_KB/32_Lektion_24_1.mp3"></audio>
 
-`````
+`````de
 Mutter: Ich bin ganz schön aufgeregt.
 Freundin: Ich auch. Sechs Monate ist echt eine lange Zeit...
 Vater: Schnell, haltet die Schilder hoch!
