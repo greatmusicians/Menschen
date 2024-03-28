@@ -135,9 +135,10 @@ Andi: Ja-a! Also tschüs! … Ich komme! Hier Werner! Hier!
 Freizeit-Mannschaft  业余球队
 `````
 
+# Menschen A1.1
 <audio controls loop src="歌德课程复习A1.1/Lektion 7, 8 1.mp3"></audio>
 
-`````
+`````de
 Paulina: Hallo, ich heiße Paulina. Ich höre gern Musik und ich mache selbst gern Musik. Ich spiele Cello. Mein Lieblingskomponist ist Johann Sebastian Bach. Aber auch Jazz finde ich toll. … Naja, ich liebe Musik.
 `````
 
@@ -145,9 +146,10 @@ Paulina: Hallo, ich heiße Paulina. Ich höre gern Musik und ich mache selbst ge
 Jazz [dʒεs]
 `````
 
+# Menschen A1.1
 <audio controls loop src="歌德课程复习A1.1/Lektion 7, 8 2.mp3"></audio>
 
-`````
+`````de
 Justus： Hi! Ich bin Justus. Ich liebe die Natur. Ich mache sehr gern Ausflüge. Oft gehe ich spazieren oder fahre Rad. Und natürlich mache ich auch gern mal eine Pause … So wie jetzt!
 `````
 
@@ -246,20 +248,25 @@ Mann: Hallo? Verena? … So, jetzt bin ich zu Hause. … Was ich heute noch mach
 `````
 
 # Menschen A1.1 Arbeitsbuch, Seite 81, Lektion 10
-## Durchsage 1
 <audio controls loop src="歌德课程复习A1.1/01%20Lektion%2010%2C%20Hoeren%2C%201%20und%202.mp3"></audio>
 
+`````de
 Guten Morgen meine Damen und Herren, der Flug Nummer 243 nach London-Gatwick ist nun zum Einsteigen bereit. Und noch eine Information für die Passagiere von Flug Nummer 134 nach Manchester: Ihr Abflug verspätet sich um 50 Minuten. Wir bitten Sie um Verständnis.
+`````
 
-## Durchsage 2
+# Menschen A1.1 Arbeitsbuch, Seite 81, Lektion 10
 <audio controls loop src="歌德课程复习A1.1/01%20Lektion%2010%2C%20Hoeren%2C%201%20und%202%201.mp3"></audio>
 
+`````de
 Achtung! Eine wichtige Durchsage. Wegen Bauarbeiten fährt der Bus Nr. 58 am Montag, den 15.6. nur bis zur Haltestelle „Ostbahnhof“. Bitte steigen Sie am Ostbahnhof zur Weiterfahrt in die U 5 um.
+`````
 
-## Durchsage 3
+# Menschen A1.1 Arbeitsbuch, Seite 81, Lektion 10
 <audio controls loop src="歌德课程复习A1.1/01%20Lektion%2010%2C%20Hoeren%2C%201%20und%202%202.mp3"></audio>
 
+`````de
 Eine wichtige Durchsage für alle Reisenden nach Hamburg: Der Intercity Express 245 von Basel nach Hamburg, Abfahrt 13.27 Uhr, über Köln, Düsseldorf, Essen fährt heute ausnahmsweise von Gleis 11 ab. Ich wiederhole: der Intercity Express von Basel nach Hamburg fährt heute von Gleis 11. Der Intercity Express 756 aus Hamburg, Ankunft 13.30 Uhr, hat voraussichtlich 20 Minuten Verspätung. Ich wiederhole, der Intercity Express 756 aus Hamburg kommt heute erst um 13:50 Uhr an.
+`````
 
 # Menschen A1.1 Kursbuch, Seite 67, Lektion 12
 <audio controls loop src="歌德课程复习A1.1/Lektion 12, 4a.mp3"></audio>
@@ -285,7 +292,7 @@ Henry: Danke!
 
 <audio controls loop src="歌德课程复习A1.1/Lektion 12, 4a 1.mp3"></audio>
 
-`````
+`````de
 Interviewer: Hallo! Woher kommt ihr?
 Benito: … aus Ancona.
 Carmela: Aber wir studieren zurzeit hier in Hamburg.
@@ -636,16 +643,12 @@ Klaus Schneider: Guten Tag Frau Krüger. Klaus Schneider hier. Ich bin krank und
 <audio controls loop src="歌德课程复习A1.2/Lektion 18, Hoeren, 2.mp3"></audio>
 
 `````de
-a
 Melanie Huber: Guten Morgen Frau Gruber. Hier ist Melanie Huber. Meine Tochter ist krank. Ich kann daher leider heute nicht kommen. Wir haben heute Nachmittag einen Termin beim Arzt. Ich rufe dann morgen Vormittag noch einmal an. Vielleicht kann ich morgen Nachmittag ein paar Stunden arbeiten.
 
-b
 David: Hallo Lea, hier ist David. Ich bin jetzt noch an der Uni. Das Seminar war gut. Ich gehe dann jetzt ins Hotel und dann können wir uns sehen. Holst du mich ab? Ich warte in der Bar neben dem Hotel auf dich.
 
-c
 Anrufer: Hallo Sebastian! Ich habe schon wieder ein Problem mit meinem Computer. Die Internetverbindung funktioniert wieder und nun kann ich auch wieder E-Mails verschicken. Aber jetzt ist mein Drucker kaputt. Ich schicke dir jetzt ein Dokument per E-Mail. Kannst du es für mich drucken? Ich komme dann später vorbei und hole es ab. Das muss heute noch zur Post.
 
-d
 Ansage: Praxis Doktor Winterberg. Wir sind leider gerade nicht zu sprechen. Sie können am Montag, Dienstag, Donnerstag und Freitag am Vormittag von acht bis dreizehn Uhr in die Praxis kommen. Außerdem können Sie Montag und Dienstag sowie Donnerstag und Freitag am Nachmittag von fünfzehn bis neunzehn Uhr einen Termin vereinbaren. Wir danken für Ihren Anruf.
 `````
 
@@ -881,21 +884,24 @@ Alisa: Bis später! Tschüs!
 Anrufbeantworter: Praxis Dr. Steinmeyer. Die Praxis ist zurzeit leider geschlossen. Vom 3. August bis zum 23. August sind wir im Urlaub. In Notfällen wenden Sie sich bitte an Dr. Kleinert in der Bergstraße 12. Ab dem 24. August sind wir wieder für Sie da. Wir danken für Ihren Anruf.
 `````
 
+# Menschen A1.2 Arbeitsbuch, Seite 91, Lektion 24
 <audio controls loop src="歌德课程复习A1.2/Lektion 24, Basistraining, 5b.mp3"></audio>
 
-`````
+`````de
 Luisa: Hallo Isabella, Luisa hier. Ich schaffe es heute nicht pünktlich. Vielleicht schaffe ich es bis 15.00 Uhr bei dir zu sein. Aber um halb vier bin ich da! Ganz sicher!
 `````
 
+# Menschen A1.2 Arbeitsbuch, Seite 91, Lektion 24
 <audio controls loop src="歌德课程复习A1.2/Lektion 24, Basistraining, 5c.mp3"></audio>
 
-`````
+`````de
 Mailbox-Nachricht: Hallo Jan. Wo bist du? Ich warte nun schon zwanzig Minuten vor dem Kino auf dich. Der Film fängt gleich an. Ich warte nicht mehr lange. In 10 Minuten gehe ich ins Kino. Dein Ticket musst du dann an der Kasse abholen.
 `````
 
+# Menschen A1.2 Arbeitsbuch, Seite 91, Lektion 24
 <audio controls loop src="歌德课程复习A1.2/Lektion 24, Basistraining, 5d.mp3"></audio>
 
-`````
+`````de
 Michi: Hallo Katrin. Hier ist Michi. Ich habe am Wochenende noch nichts vor. Hast du Zeit? Ich würde am Sonntag gern in die Picasso-Ausstellung gehen. Vielleicht so um 15.00 Uhr? Hast du Lust? Dann ruf doch mal an.
 `````
 
