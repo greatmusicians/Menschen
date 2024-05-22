@@ -1,5 +1,5 @@
-# 05_Lektion_2,_Basistraining,_8a_1.mp3
-<audio controls loop src="B1.1_AB/05_Lektion_2,_Basistraining,_8a_1.mp3"></audio>
+# 05_Lektion_2_Basistraining_8a_1.mp3
+<audio controls loop src="B1.1_AB/05_Lektion_2_Basistraining_8a_1.mp3"></audio>
 
 `````de
 Moderator: Und nun kommen wir wieder zu unserer Hörerumfrage am Freitagnachmittag. Heute geht es um das Thema: Praktikanten in Deutschland. Eine neue Studie sagt, dass nur wenige Praktika in Deutschland gut bezahlt sind. Die meisten sind eher schlecht bezahlt und in vielen Betrieben bekommen die Praktikanten gar kein Geld: So verdienen 40 % von den Praktikanten nichts. Noch schlechter sieht es bei den Karrierechancen aus. Viele Praktikanten hoffen, nach dem Praktikum auch einen Job im Praktikumsbetrieb zu bekommen. Aber das bekommen nur wenige. Daher sind sogar über 60 % unzufrieden mit ihren Jobchancen. Trotzdem ist die allgemeine Zufriedenheit nicht schlecht. Denn mehr als die Hälfte der Praktikanten ist nicht unzufrieden: So geben 65 % von allen Praktikanten an, dass sie insgesamt zufrieden mit ihrem Praktikum sind. Deshalb fragen wir unsere Hörer heute: Welche Praktikumserfahrungen haben Sie? Waren Sie zufrieden oder unzufrieden? Rufen Sie uns an oder schicken Sie uns eine E-Mail.
@@ -13,8 +13,8 @@ eher 更可能；倒不如说是，更确切地说
 angeben 告知，说明，陈述
 `````
 
-# 06_Lektion_2,_Basistraining,_8b_Und_C_1.mp3
-<audio controls loop src="B1.1_AB/06_Lektion_2,_Basistraining,_8b_Und_C_1.mp3"></audio>
+# 06_Lektion_2_Basistraining_8b_Und_C_1.mp3
+<audio controls loop src="B1.1_AB/06_Lektion_2_Basistraining_8b_Und_C_1.mp3"></audio>
 
 `````de
 Moderator: Und hier ist schon unser erster Anrufer aus Thüringen. Herr Wenzel, welche Erfahrungen haben Sie gemacht?
@@ -111,8 +111,8 @@ Actual meaning: Man, you're a clown/jester(逗乐小丑).
 https://de.hinative.com/questions/20578284
 `````
 
-# 12_Lektion_4,_Hoeren,_2_1.mp3
-<audio controls loop src="B1.1_AB/12_Lektion_4,_Hoeren,_2_1.mp3"></audio>
+# 12_Lektion_4_Hoeren_2_1.mp3
+<audio controls loop src="B1.1_AB/12_Lektion_4_Hoeren_2_1.mp3"></audio>
 
 `````de
 Ansage 1
@@ -147,8 +147,8 @@ das Kündigungsschreiben 解雇函，解约书
 angeben 告知，说明，陈述
 `````
 
-# 18_Lektion_7,_Basistraining,_8_1.mp3
-<audio controls loop src="B1.1_AB/18_Lektion_7,_Basistraining,_8_1.mp3"></audio>
+# 18_Lektion_7_Basistraining_8_1.mp3
+<audio controls loop src="B1.1_AB/18_Lektion_7_Basistraining_8_1.mp3"></audio>
 
 `````de
 Verkäufer: Kann ich etwas für Sie tun?
@@ -203,8 +203,8 @@ Zusammenhang 关系、关联、相互关系、上下文
 https://de.hinative.com/questions/15945803
 `````
 
-# 21_Lektion_8,_Basistraining,_10_1.mp3
-<audio controls loop src="B1.1_AB/21_Lektion_8,_Basistraining,_10_1.mp3"></audio>
+# 21_Lektion_8_Basistraining_10_1.mp3
+<audio controls loop src="B1.1_AB/21_Lektion_8_Basistraining_10_1.mp3"></audio>
 
 `````de
 Moderator: Nach dem Abitur sind viele junge Menschen ratlos: Soll ich studieren oder soll ich lieber einen Beruf erlernen? Lohnt sich ein Studium an einer Universität? Oder hat eine Berufsausbildung mehr Vorteile? – Diese Fragen stellen sich viele. Wir haben heute Herrn Jensen von der Agentur für Arbeit zu uns ins Studio eingeladen. Herr Jensen, was raten Sie jungen Leuten, die das Abitur machen: Ist ein Studium immer das Richtige?
@@ -225,15 +225,15 @@ generell [genə`rεl] 一般适用的，普遍的，普通的
 das Einkommen 收入
 `````
 
-# 28_Lektion_11,_Hoeren,_1_1.mp3
-<audio controls loop src="B1.1_AB/28_Lektion_11,_Hoeren,_1_1.mp3"></audio>
+# 28_Lektion_11_Hoeren_1_1.mp3
+<audio controls loop src="B1.1_AB/28_Lektion_11_Hoeren_1_1.mp3"></audio>
 
 `````de
 Radiomoderatorin: Guten Tag, liebe Hörerinnen und Hörer. Herzlich willkommen zu unserer Sendung „Unterwegs“. Haben Sie sich heute schon über etwas gefreut? Wann waren Sie eigentlich zuletzt so richtig glücklich? Und was bedeutet Glück überhaupt? Unser Reporter von „Unterwegs“ hat sich auf die Suche nach dem Glück gemacht. Er hat Menschen, die er zufällig in der Stadt getroffen hat, über ihre Glücksmomente gefragt.
 `````
 
-# 29_Lektion_11,_Hoeren,_2_Und_3_1.mp3
-<audio controls loop src="B1.1_AB/29_Lektion_11,_Hoeren,_2_Und_3_1.mp3"></audio>
+# 29_Lektion_11_Hoeren_2_Und_3_1.mp3
+<audio controls loop src="B1.1_AB/29_Lektion_11_Hoeren_2_Und_3_1.mp3"></audio>
 
 `````de
 Mann 1: Ach ja. Ich habe monatelang hier in Berlin ein Zimmer in einer WG gesucht. Ich hatte mir schon mindestens 20 Zimmer angeschaut – aber ohne Erfolg. Es war wirklich hoffnungslos. Als ich eines Tages mal wieder mit der U-Bahn fuhr, fand ich auf dem Platz neben mir eine Zeitung mit Wohnungsanzeigen. Die habe ich mir angeschaut. Da lächelte mich eine sympathische junge Frau an und fragte mich, ob ich ein Zimmer suche. Sie erzählte mir, dass in ihrer WG ein Zimmer frei ist. Ich habe das Zimmer gleich besichtigt und jetzt wohne ich schon ein halbes Jahr dort. Mein Zimmer ist total schön und meine Mitbewohnerin und ich verstehen uns super.
